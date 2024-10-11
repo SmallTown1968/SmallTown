@@ -165,30 +165,14 @@ CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 香港卫视-标清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 
 翡翠台-标清,http://58.250.155.2:8180/TV00000000000000000032@HHZT
-
-adenu400不失效源,#genre#
-CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
-CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
-CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
-CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
-CCTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
-CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
-CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
-CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
-CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
-CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
-CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
-CCTV16-4k,http://eastscreen.tv/ooooo.php?id=CCTV16-4k
-湖南卫视,http://eastscreen.tv/ooooo.php?id=hnwshd
-浙江卫视,http://eastscreen.tv/ooooo.php?id=zjwshd
-东方卫视,http://eastscreen.tv/ooooo.php?id=dfwshd
-广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd
-CHC家庭电影,http://eastscreen.tv/ooooo.php?id=chcjt
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
-求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
-凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
-凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
+翡翠台1,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台2,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台3,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台4,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 江苏移动V4复活,#genre#
 CCTV1,http://223.105.252.3/PLTV/3/224/3221227634/index.m3u8
@@ -419,3 +403,27 @@ CCTV-8K,http://223.105.252.58/PLTV/3/224/3221228165/index.m3u8
 
 咪咕体育,http://223.105.252.59/PLTV/3/224/3221228193/index.m3u8
 咪咕体育,http://223.105.252.60/PLTV/3/224/3221228193/index.m3u8
+
+adenu400不失效源,#genre#
+CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
+CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
+CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
+CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
+CCTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
+CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
+CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
+CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
+CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
+CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
+CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
+CCTV16-4k,http://eastscreen.tv/ooooo.php?id=CCTV16-4k
+湖南卫视,http://eastscreen.tv/ooooo.php?id=hnwshd
+浙江卫视,http://eastscreen.tv/ooooo.php?id=zjwshd
+东方卫视,http://eastscreen.tv/ooooo.php?id=dfwshd
+广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd
+CHC家庭电影,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
+求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
+凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
+凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx

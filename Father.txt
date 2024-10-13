@@ -29,6 +29,7 @@
 五星体育,http://www.jflying0505.top:8888/udp/239.45.3.210:5140
 五星体育,http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
 五星体育,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+五星体育,http://39.134.62.81:6610/000000001000/5000000010000017540/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT577920241013100140000051&channel-id=ystenlive&Contentid=1000000004000011651
 
 睛彩竞技[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩竞技[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8

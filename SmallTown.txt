@@ -129,7 +129,7 @@ CCTV4,http://123.166.61.70:8003/hls/41/index.m3u8
 央视频道,#genre#
 CCTV1,http://175.31.21.146:4480/hls/1/index.m3u8
 CCTV5+,http://61.163.181.78:9901/tsfile/live/0016_1.m3u8
-
+CCTV13,http://115.230.251.136:9999/udp/233.50.201.246:5140
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8

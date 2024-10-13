@@ -134,6 +134,7 @@ CCTV5+,http://61.163.181.78:9901/tsfile/live/0016_1.m3u8
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
+五星体育,http://39.134.62.81:6610/000000001000/5000000010000017540/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT577920241013100140000051&channel-id=ystenlive&Contentid=1000000004000011651
 
 卫视频道,#genre#
 凤凰中文-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8

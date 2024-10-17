@@ -121,10 +121,11 @@ CGTN俄语[1024*576],http://[2409:8087:74d9:21::6]:80/270000001128/9900000085/in
 家有购物[1920*1080],http://[2409:8087:74d9:21::6]:80/270000001128/9900000081/index.m3u8
 风尚购物[1920*1080],http://[2409:8087:74d9:21::6]:80/270000001128/9900000099/index.m3u8
 
-240923源,#genre#
+新发现V4源,#genre#
 CCTV1,http://123.166.61.70:8003/hls/11/index.m3u8
 CCTV2,http://123.166.61.70:8003/hls/12/index.m3u8
 CCTV4,http://123.166.61.70:8003/hls/41/index.m3u8
+CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
 
 央视卫视 联通V4,#genre#
 CCTV1,http://bjlive.u.domybox.com:91/live/CCTV1hd-8M/live.m3u8
@@ -542,7 +543,7 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
-江苏移动V4复活,#genre#
+江苏移动 V4源,#genre#
 CCTV1,http://223.105.252.3/PLTV/3/224/3221227634/index.m3u8
 CCTV1,http://223.105.252.4/PLTV/3/224/3221227634/index.m3u8
 CCTV1,http://223.105.252.35/PLTV/3/224/3221228213/index.m3u8

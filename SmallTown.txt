@@ -164,6 +164,10 @@ CCTV2,http://123.166.61.70:8003/hls/12/index.m3u8
 CCTV4,http://123.166.61.70:8003/hls/41/index.m3u8
 CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
 
+咪咕V4源,#genre#
+CCTV1,http://rihou.cc:567/47193.php?id=cctv1
+CCTV2,http://rihou.cc:567/47193.php?id=cctv2
+
 央视卫视 联通V4,#genre#
 CCTV1,http://bjlive.u.domybox.com:91/live/CCTV1hd-8M/live.m3u8
 CCTV1,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8

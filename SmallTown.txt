@@ -162,6 +162,8 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV1,http://123.166.61.70:8003/hls/11/index.m3u8
 CCTV2,http://123.166.61.70:8003/hls/12/index.m3u8
 CCTV4,http://123.166.61.70:8003/hls/41/index.m3u8
+CCTV5,http://121.14.142.52/5gtvtbv52.live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
+CCTV8,http://121.14.142.52/5gtvtbv52.live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
 
 咪咕V4源,#genre#

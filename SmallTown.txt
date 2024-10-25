@@ -172,9 +172,45 @@ CCTV8,http://121.14.142.108/5gtvtbv52.live.bestvcdn.com.cn/live/program/live/cct
 CCTV8,http://121.14.142.170/5gtvtbv52.live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
 
-咪咕V4源,#genre#
+咪咕央视V4源,#genre#
 CCTV1,http://rihou.cc:567/47193.php?id=cctv1
 CCTV2,http://rihou.cc:567/47193.php?id=cctv2
+CCTV3,http://rihou.cc:567/47193.php?id=cctv3
+CCTV4,http://rihou.cc:567/47193.php?id=cctv4
+CCTV5,http://rihou.cc:567/47193.php?id=cctv5
+CCTV5+,http://rihou.cc:567/47193.php?id=cctv5p
+CCTV6,http://rihou.cc:567/47193.php?id=cctv6
+CCTV7,http://rihou.cc:567/47193.php?id=cctv7
+CCTV8,http://rihou.cc:567/47193.php?id=cctv8
+CCTV9,http://rihou.cc:567/47193.php?id=cctv9
+CCTV10,http://rihou.cc:567/47193.php?id=cctv10
+CCTV11,http://rihou.cc:567/47193.php?id=cctv11
+CCTV12,http://rihou.cc:567/47193.php?id=cctv12
+CCTV13,http://rihou.cc:567/47193.php?id=cctv13
+CCTV14,http://rihou.cc:567/47193.php?id=cctv14
+CCTV15,http://rihou.cc:567/47193.php?id=cctv15
+CCTV16,http://rihou.cc:567/47193.php?id=cctv16
+CCTV17,http://rihou.cc:567/47193.php?id=cctv17
+
+随机央视V4,#genre#
+CCTV1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
+CCTV2,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+CCTV3,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
+CCTV4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
+CCTV5,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
+CCTV5+,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
+CCTV6,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+CCTV7,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
+CCTV8,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
+CCTV9,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+CCTV10,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
+CCTV11,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3
+CCTV12,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
+CCTV13,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
+CCTV14,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
+CCTV15,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
+CCTV16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
 央视卫视 联通V4,#genre#
 CCTV1,http://bjlive.u.domybox.com:91/live/CCTV1hd-8M/live.m3u8

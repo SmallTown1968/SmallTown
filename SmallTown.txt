@@ -196,6 +196,7 @@ CCTV14,http://111.8.224.6:8085/tsfile/live/1046_1.m3u8
 CCTV15,http://111.8.224.6:8085/tsfile/live/1049_1.m3u8
 CCTV17,http://111.8.224.6:8085/tsfile/live/1025_1.m3u8
 CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b541532a302f8dbb98f49e5edb12fcef&wsTime=1730116587
 
 随机央视V4,#genre#
 CCTV1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3

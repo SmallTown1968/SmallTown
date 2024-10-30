@@ -312,9 +312,6 @@ CCTV17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8
 云南卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
 浙江卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 央视卫视 联通V4,#genre#
 CCTV1,http://175.31.21.146:4480/hls/1/index.m3u8
@@ -326,12 +323,16 @@ CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 五星体育,http://39.134.62.81:6610/000000001000/5000000010000017540/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT577920241013100140000051&channel-id=ystenlive&Contentid=1000000004000011651
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 卫视频道,#genre#
-凤凰中文-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
@@ -370,6 +371,9 @@ CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 凤凰资讯-超清,http://60.164.128.167:8029/udp/239.255.30.70:8231
 凤凰资讯-超清,http://27.154.214.186:8888/rtp/239.61.2.183:9086
 凤凰资讯-超清,http://175.152.113.23:4022/udp/239.93.1.4:2191
+
+凤凰中文-音频,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰资讯-音频,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
 香港卫视-标清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视-标清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0

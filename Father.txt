@@ -1,8 +1,8 @@
 个人精选,#genre#
 2024年10月30日更新
-舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-舞钢新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-舞钢新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
+舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
+舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
 平顶山新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://218.28.242.173:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
@@ -10,7 +10,7 @@
 平顶山公共频道,http://live.dxhmt.cn:9080/13781808226/fd44664050dc4e8c8b1157e869721c0e.m3u8?wsSecret=7c7b0ba0d88fae5a40aca454008be9b5&wsTime=1711012392
 平顶山城市频道,http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d
 平顶山城市频道,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8?wsSecret=124659e7a7c900597eb893cd1cb2cafa&wsTime=1711012552
-舞阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+舞阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
 沁阳综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8

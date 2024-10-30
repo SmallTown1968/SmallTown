@@ -328,16 +328,22 @@ CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 卫视频道,#genre#
+凤凰中文-高清,P2p://135.148.104.228:19806/eebaeb6eae9b4e86a8c6608857a053ce.ts
 凤凰中文-高清,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/1.m3u8
+凤凰中文-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
 凤凰中文-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 
+凤凰资讯-高清,p2p://142.54.189.229:3456/64df4dbc000cf286058dd1b77e200c8c.ts
+凤凰资讯-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯-高清,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/1.m3u8
 凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
 凤凰资讯-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 
+凤凰香港-高清,P2p://135.148.104.228:19806/890b0cd728f14edcb4548d5e1aec35d3.ts
+凤凰香港-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 凤凰香港-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8

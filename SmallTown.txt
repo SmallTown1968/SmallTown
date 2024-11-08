@@ -159,6 +159,27 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
 
 新发现V4源,#genre#
+CCTV1,P2p://135.148.104.228:19806/62b58f87395c464da422a467e2a06197.ts
+CCTV2,P2p://135.148.104.228:19806/66c9a8ea000bbdae53ff742c16d15c6f.ts
+CCTV3,P2p://135.148.104.228:19806/18cccb23f2d64b53a4557a73d47d44d9.ts
+CCTV4,P2p://135.148.104.228:19806/b76db7e51c6c481e812ff0a137cdbea4.ts
+CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts
+CCTV5+,P2p://135.148.104.228:19806/e8c4b97ef9e3445ebb80d1a19059466e.ts
+CCTV6,P2p://135.148.104.228:19806/f85996dcd43c487c890ef1f7ce6b0d9a.ts
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
+CCTV7,P2p://135.148.104.228:19806/4d92ac2596734ffeabb263c5ea6c26f0.ts
+CCTV8,P2p://135.148.104.228:19806/7a984165c7134fdba34bdff353b244b3.ts
+CCTV9,P2p://135.148.104.228:19806/aabfe2b90ef94502995962423289efa2.ts
+CCTV10,P2p://135.148.104.228:19806/143e5f3a16194bc0a638697632005e69.ts
+CCTV11,P2p://135.148.104.228:19806/56da32afe6014171aa04ca3b935c4401.ts
+CCTV12,P2p://135.148.104.228:19806/d45e72ecf16945ac965b9d429c6dae4a.ts
+CCTV13,P2p://135.148.104.228:19806/aab8d098768a457bb2ca4360c09a79f7.ts
+CCTV14,P2p://135.148.104.228:19806/5c7319728fe747d298836ca685be5ae5.ts
+CCTV15,P2p://135.148.104.228:19806/7e9868749080472c8e75bbec62dc630f.ts
+CCTV16,P2p://135.148.104.228:19806/3bb4c4f6ec8d45db81ede1415820dba0.ts
+CCTV17,P2p://135.148.104.228:19806/d155cd0903944373a0c13e8164532313.ts
+
 CCTV1,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=bestlive&Contentid=1000000005000265001&livemode=1&stbId=no
 CCTV2,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=no
 CCTV3,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=no
@@ -196,6 +217,8 @@ CCTV14,http://111.8.224.6:8085/tsfile/live/1046_1.m3u8
 CCTV15,http://111.8.224.6:8085/tsfile/live/1049_1.m3u8
 CCTV17,http://111.8.224.6:8085/tsfile/live/1025_1.m3u8
 CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
+重温经典,http://mtw.so/5NPX0U
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 河南卫视,http://kxrj.site:35455/itv/5000000011000031119.m3u8?cdn=bestzb
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b541532a302f8dbb98f49e5edb12fcef&wsTime=1730116587
 五星体育,http://kxrj.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
@@ -253,8 +276,6 @@ CCTV17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8
 CCTV1,http://175.31.21.146:4480/hls/1/index.m3u8
 CCTV5+,http://61.163.181.78:9901/tsfile/live/0016_1.m3u8
 CCTV13,http://115.230.251.136:9999/udp/233.50.201.246:5140
-重温经典,http://mtw.so/5NPX0U
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8

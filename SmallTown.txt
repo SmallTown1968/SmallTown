@@ -161,8 +161,8 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 新发现V4源,#genre#
 CCTV1,http://vod.hnqczh.cn:808/hls/9/index.m3u8
 CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts
-CCTV6,http://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+CCTV6,http://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV8,P2p://135.148.104.228:19806/7a984165c7134fdba34bdff353b244b3.ts
 CCTV9,P2p://135.148.104.228:19806/aabfe2b90ef94502995962423289efa2.ts

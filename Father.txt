@@ -63,6 +63,7 @@
 凤凰香港,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://14.155.141.153:9001/bynumber/4
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文-音频,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯-音频,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8

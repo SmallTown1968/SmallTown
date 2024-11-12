@@ -15,11 +15,14 @@
 河南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8
 河南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000027
 河南卫视,http://[2408:8719:5300::4d]/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0d524198964a546b059b932e7bdcafde&wsTime=1731258378&wsSession=6a38863235fa32020c9f5311-173125303188242&wsIPSercert=32da59e352d6c77d28f74abb442c466e&wsiphost=local&wsBindIP=1
+河南卫视,http://219.156.50.144:9999/rtp/225.1.4.98:1127
 河南卫视4K,http://123.53.237.220:808/hls/31/index.m3u8
+河南卫视4K,http://219.156.50.144:9999/rtp/225.1.4.254:1300
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,http://live3.hnntv.cn/srs/tv/ssws.m3u8?_upt=85c25b891724677006
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+中国天气,http://112.45.192.49:9999/rtp/239.10.0.177:5140
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv

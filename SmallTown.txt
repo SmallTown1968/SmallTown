@@ -1,6 +1,6 @@
 IPV6测试,#genre#
 本人的Gitte码云：https://gitee.com/xxy002/zhiboyuan/blob/master/zby.txt
-会持续更新！！
+会持续更新！！2024.11.12
 CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017
 CCTV2,http://[2409:8087:74d9:21::6]/270000001128/9900000502/index.m3u8
 CCTV3,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000000

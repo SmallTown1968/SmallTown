@@ -94,6 +94,7 @@ NewTV中国功夫,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-12335
 睛彩青少,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000120/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000264
 
 新发现V4源,#genre#
+CCTV1,http://zmjwy168.duckdns.org:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV1,http://vod.hnqczh.cn:808/hls/9/index.m3u8
 CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
@@ -110,6 +111,8 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-13.ctv
+珠海航展,http://159.75.85.63:35455/douyin/302453514547
+珠海航展,http://159.75.85.63:35455/douyin/302453514547
 
 卫视频道,#genre#
 凤凰中文-高清,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8

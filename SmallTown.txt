@@ -196,6 +196,7 @@ CCTV16,http://175.20.5.82:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authi
 CCTV16,http://175.20.7.14:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV16,http://175.20.234.63:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV16,http://113.236.19.201:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV16,http://116.11.157.54:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 
 CCTV17,http://175.20.7.14:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://175.20.7.50:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -206,6 +207,7 @@ CGTN,http://60.4.9.52:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=
 CGTN,http://60.4.9.162:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://60.4.9.176:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 
+三沙卫视,http://175.7.188.115:85/tsfile/live/23034_1.m3u8?key=txiptv&playlive=0&authid=0
 三沙卫视,http://175.7.188.115:9901/tsfile/live/23034_1.m3u8?key=txiptv&playlive=0&authid=0
 三沙卫视,http://116.11.141.37:18181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0$标清
 

@@ -211,15 +211,15 @@ CGTN,http://60.4.9.176:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid
 CCTV1,http://cm-wshls.homecdn.com/live/61b94.m3u8
 CCTV1,http://vod.hnqczh.cn:808/hls/9/index.m3u8
 CCTV4,http://1.197.251.130:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts
+CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts$P2p
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,http://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
-CCTV8,P2p://135.148.104.228:19806/7a984165c7134fdba34bdff353b244b3.ts
-CCTV9,P2p://135.148.104.228:19806/aabfe2b90ef94502995962423289efa2.ts
+CCTV8,P2p://135.148.104.228:19806/7a984165c7134fdba34bdff353b244b3.ts$P2p
+CCTV9,P2p://135.148.104.228:19806/aabfe2b90ef94502995962423289efa2.ts$P2p
 CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
-CCTV14,P2p://135.148.104.228:19806/5c7319728fe747d298836ca685be5ae5.ts
-CCTV15,P2p://135.148.104.228:19806/7e9868749080472c8e75bbec62dc630f.ts
+CCTV14,P2p://135.148.104.228:19806/5c7319728fe747d298836ca685be5ae5.ts$P2p
+CCTV15,P2p://135.148.104.228:19806/7e9868749080472c8e75bbec62dc630f.ts$P2p
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?delay=1
 河南卫视
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
@@ -232,7 +232,7 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰中文-高清,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文-高清,http://cdn3.1678520.xyz/live/?id=fhzw
-凤凰中文-高清,P2p://135.148.104.228:19806/eebaeb6eae9b4e86a8c6608857a053ce.ts
+凤凰中文-高清,P2p://135.148.104.228:19806/eebaeb6eae9b4e86a8c6608857a053ce.ts$P2p
 凤凰中文-高清,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/1.m3u8
 凤凰中文-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
@@ -243,7 +243,7 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰资讯-高清,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯-高清,http://cdn5.1678520.xyz/live/?id=fhzx
-凤凰资讯-高清,p2p://142.54.189.229:3456/64df4dbc000cf286058dd1b77e200c8c.ts
+凤凰资讯-高清,p2p://142.54.189.229:3456/64df4dbc000cf286058dd1b77e200c8c.ts$P2p
 凤凰资讯-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯-高清,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/1.m3u8
 凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
@@ -251,7 +251,7 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 
 凤凰香港-高清,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港-高清,P2p://135.148.104.228:19806/890b0cd728f14edcb4548d5e1aec35d3.ts
+凤凰香港-高清,P2p://135.148.104.228:19806/890b0cd728f14edcb4548d5e1aec35d3.ts$P2p
 凤凰香港-高清,http://14.155.141.153:9001/bynumber/4
 凤凰香港-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv

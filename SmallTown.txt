@@ -119,9 +119,6 @@ NewTV中国功夫,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-12335
 睛彩青少,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000120/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000264
 
 新发现V4源,#genre#
-河南卫视,http://106.46.37.121:808/hls/16/index.m3u8
-CCTV4,http://1.197.251.130:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-
 CCTV1,http://60.4.9.52:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://60.4.9.162:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://60.4.9.176:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -215,8 +212,9 @@ CCTV1,http://cm-wshls.homecdn.com/live/61b94.m3u8
 CCTV1,http://175.7.188.113:85/tsfile/live/23001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://zmjwy168.duckdns.org:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV1,http://vod.hnqczh.cn:808/hls/9/index.m3u8
+CCTV4,http://1.197.251.130:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,http://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV8,P2p://135.148.104.228:19806/7a984165c7134fdba34bdff353b244b3.ts
@@ -224,7 +222,8 @@ CCTV9,P2p://135.148.104.228:19806/aabfe2b90ef94502995962423289efa2.ts
 CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
 CCTV14,P2p://135.148.104.228:19806/5c7319728fe747d298836ca685be5ae5.ts
 CCTV15,P2p://135.148.104.228:19806/7e9868749080472c8e75bbec62dc630f.ts
-CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0
+CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?delay=1
+河南卫视,http://106.46.37.121:808/hls/16/index.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 重温经典,http://mtw.so/5NPX0U
@@ -264,6 +263,7 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift
 
 凤凰中文-标清,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc48.m3u8
 凤凰中文-标清,http://58.250.155.2:8180/TV00000000000000000031@HHZT
+凤凰资讯-标清,http://lx.haoyuhuojia.com:4022/udp/233.50.200.192:5140
 凤凰资讯-标清,http://58.144.154.93/qctv.fengshows.cn/live/0701pin48.m3u8
 凤凰资讯-标清,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰香港-标清,http://58.144.154.93/qctv.fengshows.cn/live/0701phk48.m3u8

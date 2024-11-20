@@ -119,7 +119,7 @@ NewTV中国功夫,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-12335
 睛彩青少,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000120/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000264
 
 新发现V4源,#genre#
-CCTV1,http://60.4.9.52:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://223.13.1.109:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://60.4.9.162:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://60.4.9.176:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 

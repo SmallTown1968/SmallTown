@@ -119,7 +119,29 @@ NewTV中国功夫,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-12335
 睛彩青少,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000120/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000264
 
 新发现V4源,#genre#
-CCTV1,http://223.13.1.109:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://223.13.1.109:9901/tsfile/live/1019_1.m3u8
+CCTV2,http://223.13.1.109:9901/tsfile/live/1000_1.m3u8
+CCTV4,http://223.13.1.109:9901/tsfile/live/1002_1.m3u8
+CCTV7,http://223.13.1.109:9901/tsfile/live/1021_1.m3u8
+CCTV9,http://223.13.1.109:9901/tsfile/live/1023_1.m3u8
+CCTV10,http://223.13.1.109:9901/tsfile/live/1024_1.m3u8
+CCTV12,http://223.13.1.109:9901/tsfile/live/1026_1.m3u8
+CCTV14,http://223.13.1.109:9901/tsfile/live/1028_1.m3u8
+北京卫视,http://223.13.1.109:9901/tsfile/live/1004_1.m3u8
+东方卫视,http://223.13.1.109:9901/tsfile/live/1010_1.m3u8
+天津卫视,http://223.13.1.109:9901/tsfile/live/1014_1.m3u8
+湖南卫视,http://223.13.1.109:9901/tsfile/live/1005_1.m3u8
+江苏卫视,http://223.13.1.109:9901/tsfile/live/1006_1.m3u8
+浙江卫视,http://223.13.1.109:9901/tsfile/live/1007_1.m3u8
+安徽卫视,http://223.13.1.109:9901/tsfile/live/1011_1.m3u8
+山东卫视,http://223.13.1.109:9901/tsfile/live/1008_1.m3u8
+湖北卫视,http://223.13.1.109:9901/tsfile/live/1013_1.m3u8
+广东卫视,http://223.13.1.109:9901/tsfile/live/1015_1.m3u8
+深圳卫视,http://223.13.1.109:9901/tsfile/live/1012_1.m3u8
+辽宁卫视,http://223.13.1.109:9901/tsfile/live/1009_1.m3u8
+黑龙江卫视,http://223.13.1.109:9901/tsfile/live/1016_1.m3u8
+金鹰纪实,http://223.13.1.109:9901/tsfile/live/1018_1.m3u8
+
 CCTV1,http://115.149.139.141:10000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://175.20.234.63:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 

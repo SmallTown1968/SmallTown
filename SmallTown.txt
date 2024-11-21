@@ -208,7 +208,6 @@ CGTN,http://60.4.9.176:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid
 三沙卫视,http://175.7.188.115:9901/tsfile/live/23034_1.m3u8?key=txiptv&playlive=0&authid=0
 三沙卫视,http://116.11.141.37:18181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0$标清
 
-CCTV1,http://cm-wshls.homecdn.com/live/61b94.m3u8
 CCTV1,http://vod.hnqczh.cn:808/hls/9/index.m3u8
 CCTV4,http://1.197.251.130:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts$P2p

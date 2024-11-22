@@ -160,7 +160,7 @@ CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
 CCTV14,P2p://135.148.104.228:19806/5c7319728fe747d298836ca685be5ae5.ts$P2p
 CCTV15,P2p://135.148.104.228:19806/7e9868749080472c8e75bbec62dc630f.ts$P2p
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?delay=1
-河南卫视,http://58.48.37.158:1111/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://60.6.111.194:808/hls/50/index.m3u8
 河南卫视,http://101.66.198.213:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202

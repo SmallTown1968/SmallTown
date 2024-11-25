@@ -1,4 +1,7 @@
 常更新V4源,#genre#
+CCTV1,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8
+CCTV1,http://110.52.244.53:9003/hls/1/index.m3u8
+
 CCTV1,http://115.149.139.141:10000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://115.149.139.141:10000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://115.149.139.141:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0

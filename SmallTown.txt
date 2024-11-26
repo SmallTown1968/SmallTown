@@ -1,3 +1,14 @@
+待验证V4源,#genre#
+北京卫视,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
+CCTV4,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
+CCTV7,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
+CCTV10,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
+CCTV12,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8
+CCTV14,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8
+CCTV15,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
+CCTV17,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
+湖南卫视,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
+
 新移动V4源,#genre#
 CCTV1,http://39.134.134.47/000000000001/PLTV/88888888/224/3221248112/index.m3u8?HlsProfileId=
 CCTV2,http://39.134.134.47/000000000001/PLTV/88888888/224/3221235743/index.m3u8?HlsProfileId=

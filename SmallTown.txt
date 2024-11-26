@@ -108,7 +108,6 @@ CCTV2,http://110.52.244.53:9003/hls/2/index.m3u8
 CCTV3,http://110.52.244.53:9003/hls/3/index.m3u8
 CCTV4,http://110.52.244.53:9003/hls/4/index.m3u8
 CCTV5,http://110.52.244.53:9003/hls/5/index.m3u8
-CCTV5,http://110.52.244.53:9003/hls/30/index.m3u8
 CCTV5+,http://110.52.244.53:9003/hls/6/index.m3u8
 CCTV6,http://110.52.244.53:9003/hls/7/index.m3u8
 CCTV7,http://110.52.244.53:9003/hls/8/index.m3u8
@@ -176,11 +175,7 @@ CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts$P2p
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,http://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
-CCTV8,P2p://135.148.104.228:19806/7a984165c7134fdba34bdff353b244b3.ts$P2p
-CCTV9,P2p://135.148.104.228:19806/aabfe2b90ef94502995962423289efa2.ts$P2p
 东方卫视,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
-CCTV14,P2p://135.148.104.228:19806/5c7319728fe747d298836ca685be5ae5.ts$P2p
-CCTV15,P2p://135.148.104.228:19806/7e9868749080472c8e75bbec62dc630f.ts$P2p
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?delay=1
 
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0

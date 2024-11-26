@@ -119,7 +119,7 @@ CCTV12,http://110.52.244.53:9003/hls/13/index.m3u8
 CCTV13,http://110.52.244.53:9003/hls/14/index.m3u8
 CCTV14,http://110.52.244.53:9003/hls/15/index.m3u8
 CCTV15,http://110.52.244.53:9003/hls/16/index.m3u8
-CCTV16,
+CCTV16,http://175.20.6.121:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://110.52.244.53:9003/hls/18/index.m3u8
 北京卫视,http://110.52.244.53:9003/hls/32/index.m3u8
 湖南卫视,http://110.52.244.53:9003/hls/19/index.m3u8

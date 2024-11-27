@@ -303,7 +303,6 @@ CCTV1,http://101.66.198.213:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&a
 CCTV1,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8
 CCTV5,http://121.19.134.98:808/hls/5/index.m3u8
 
-CCTV15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$超清
 CCTV16,http://175.20.7.14:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://175.20.7.190:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
 
@@ -311,7 +310,7 @@ CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts$P2p
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,http://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
-东方卫视,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
+CCTV13,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?delay=1
 
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0

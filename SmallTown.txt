@@ -330,6 +330,7 @@ CCTV17,http://123.54.168.2:808/hls/125/index.m3u8
 河南乡村频道,http://123.54.168.2:808/hls/24/index.m3u8
 河南电视剧频道,http://123.54.168.2:808/hls/20/index.m3u8
 
+河南卫视,http://123.6.53.34/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d518d87dd7d70badba6f3e89df493555&wsTime=1732869509&wsSession=0d50c3ffd3a60451e1cb968b-173285510962382&wsIPSercert=c8769f739c2dcd0004b927fed3378cea&wsiphost=local&wsBindIP=1
 河南卫视,http://101.66.198.213:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8
 CCTV5,http://121.19.134.98:808/hls/5/index.m3u8
@@ -353,9 +354,11 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 中国天气,http://119.6.178.22:8001/udp/239.10.0.177:5140
 中国天气,http://112.45.192.49:9999/rtp/239.10.0.177:5140
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+三沙卫视(标清),http://host.gaoxincloud.cn:4000/udp/239.111.205.52:5140
 
 卫视频道,#genre#
 凤凰中文-高清,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰中文-高清,http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
 凤凰中文-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -367,6 +370,7 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰中文-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 凤凰资讯-高清,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯-高清,http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
 凤凰资讯-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -376,6 +380,7 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰资讯-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 
 凤凰香港-高清,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港-高清,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 凤凰香港-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -383,6 +388,9 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰香港-高清,http://14.155.141.153:9001/bynumber/4
 凤凰香港-高清,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
+凤凰中文-标清,http://kxrj.site:1333/86/fh.php?id=fhzw
+凤凰资讯-标清,http://kxrj.site:1333/86/fh.php?id=fhzx
+凤凰香港-标清,http://kxrj.site:1333/86/fh.php?id=fhhk
 凤凰中文-标清,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc48.m3u8
 凤凰资讯-标清,http://lx.haoyuhuojia.com:4022/udp/233.50.200.192:5140
 凤凰香港-标清,http://58.144.154.93/qctv.fengshows.cn/live/0701phk48.m3u8

@@ -20,6 +20,8 @@
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=c9a96bd01732780355
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+中国天气,http://110.157.220.158:8088/udp/238.125.0.81:5140
+中国天气,http://119.6.178.22:8001/udp/239.10.0.177:5140
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国天气,http://112.45.192.49:9999/rtp/239.10.0.177:5140
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8

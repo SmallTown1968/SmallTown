@@ -298,7 +298,7 @@ CCTV13,http://171.13.113.87:808/hls/13/index.m3u8
 CCTV14,http://171.13.113.87:808/hls/14/index.m3u8
 CCTV15,http://171.13.113.87:808/hls/15/index.m3u8
 CCTV17,http://171.13.113.87:808/hls/17/index.m3u8
-CGTN,http://171.13.113.87:808/hls/16/index.m3u8
+CGTN(标清),http://171.13.113.87:808/hls/16/index.m3u8
 北京卫视,http://171.13.113.87:808/hls/64/index.m3u8
 东方卫视,http://171.13.113.87:808/hls/62/index.m3u8
 天津卫视,http://171.13.113.87:808/hls/78/index.m3u8
@@ -333,7 +333,7 @@ CGTN,http://171.13.113.87:808/hls/16/index.m3u8
 山西卫视(标清),http://171.13.113.87:808/hls/86/index.m3u8
 宁夏卫视(标清),http://171.13.113.87:808/hls/82/index.m3u8
 内蒙古卫视(标清),http://171.13.113.87:808/hls/84/index.m3u8
-河南国际频道,http://171.13.113.87:808/hls/40/index.m3u8
+河南国际频道(标清),http://171.13.113.87:808/hls/40/index.m3u8
 河南都市频道,http://171.13.113.87:808/hls/32/index.m3u8
 河南公共频道,http://171.13.113.87:808/hls/38/index.m3u8
 河南民生频道,http://171.13.113.87:808/hls/33/index.m3u8

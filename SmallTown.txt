@@ -386,11 +386,16 @@ CGTN(标清),http://171.13.113.87:808/hls/16/index.m3u8
 河南乡村频道,http://171.13.113.87:808/hls/39/index.m3u8
 河南电视剧频道,http://171.13.113.87:808/hls/35/index.m3u8
 
+CCTV1,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8
+CCTV6,http://42.48.50.232:9002/tsfile/live/0006_1.m3u8
+CCTV13,http://42.48.50.232:9002/tsfile/live/0013_1.m3u8
+CGTN,http://42.48.50.232:9002/tsfile/live/1001_1.m3u8
+湖南卫视,http://42.48.50.232:9002/tsfile/live/1000_1.m3u8
+浙江卫视,http://42.48.50.232:9002/tsfile/live/0124_2.m3u8
+
 河南卫视,http://123.6.53.34/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d518d87dd7d70badba6f3e89df493555&wsTime=1732869509&wsSession=0d50c3ffd3a60451e1cb968b-173285510962382&wsIPSercert=c8769f739c2dcd0004b927fed3378cea&wsiphost=local&wsBindIP=1
 河南卫视,http://101.66.198.213:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8
 CCTV5,http://121.19.134.98:808/hls/5/index.m3u8
-
 CCTV16,http://175.20.7.14:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://175.20.7.190:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
 

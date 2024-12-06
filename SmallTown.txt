@@ -203,9 +203,6 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-13.ctv
-中国天气,http://110.157.220.158:8088/udp/238.125.0.81:5140
-中国天气,http://119.6.178.22:8001/udp/239.10.0.177:5140
-中国天气,http://112.45.192.49:9999/rtp/239.10.0.177:5140
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 三沙卫视(标清),http://host.gaoxincloud.cn:4000/udp/239.111.205.52:5140
 

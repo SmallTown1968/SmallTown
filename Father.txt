@@ -20,13 +20,8 @@
 河南卫视,http://123.6.53.34/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d518d87dd7d70badba6f3e89df493555&wsTime=1732869509&wsSession=0d50c3ffd3a60451e1cb968b-173285510962382&wsIPSercert=c8769f739c2dcd0004b927fed3378cea&wsiphost=local&wsBindIP=1
 三沙卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=c9a96bd01732780355
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,http://host.gaoxincloud.cn:4000/udp/239.111.205.52:5140
-中国天气,http://110.157.220.158:8088/udp/238.125.0.81:5140
-中国天气,http://119.6.178.22:8001/udp/239.10.0.177:5140
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国天气,http://112.45.192.49:9999/rtp/239.10.0.177:5140
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8

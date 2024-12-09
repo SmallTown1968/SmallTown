@@ -287,6 +287,9 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+纬来精采HD,http://61.221.215.25:8800/hls/48/index.m3u8
+
 IPV6测试,#genre#
 本人的Gitte码云：https://gitee.com/xxy002/zhiboyuan/blob/master/zby.txt
 会持续更新！！2024.11.18

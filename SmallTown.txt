@@ -952,3 +952,7 @@ XXX102,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_JILIN-CQ/G_JILIN-CQ.m3u8
 XXX104,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_TIANJIN-HD-265-8M/G_TIANJIN-HD-265-8M.m3u8
 XXX105,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_SHANDONG-HD-265-8M/G_SHANDONG-HD-265-8M.m3u8
 XXX106,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/SXWS/SXWS.m3u8
+
+测试,#genre#
+测试01,https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+测试02,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3

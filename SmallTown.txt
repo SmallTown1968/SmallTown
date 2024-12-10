@@ -1,3 +1,7 @@
+测试山东移动V6源,#genre#
+CCTV3 HEVC,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000371/index.m3u8?IASHttpSessionId=
+CCTV3,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId=
+
 常更新V4源,#genre#
 CCTV1,http://175.20.7.190:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://175.20.7.190:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0

@@ -459,6 +459,8 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 北京纪实科教8K,http://125.74.6.30/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K,http://125.74.6.45/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K,http://125.74.6.62/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+平顶山新闻综合,http://hd1.91kds.cn/live1/hatv.m3u8?id=hapds1&app=com.kaixinhd.player&version=1.3.8&mac=fu:ck:92:92:ff&nwtime=1734487989&sign=f54168e7cde9140dfb048e83655684a7&ev=20240918
+平顶山新闻综合,http://hd1.91kds.cn/live1/hatv.m3u8?id=hapds1&app=com.kaixinhd.player&version=1.3.8&mac=fu:ck:92:92:ff&nwtime=1734488239&sign=88ef00d8024cf07f7ad5a0c54f1b5da1&ev=20240918
 
 卫视频道,#genre#
 凤凰中文-高清,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20

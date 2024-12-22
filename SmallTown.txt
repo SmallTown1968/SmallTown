@@ -253,6 +253,14 @@ CCTV17,http://175.20.6.153:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&auth
 陕西卫视(标清),http://175.20.6.153:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视(标清),http://175.20.6.153:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视(标清),http://175.20.6.153:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林都市,http://175.20.6.153:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林生活,http://175.20.6.153:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林乡村,http://175.20.6.153:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林公共新闻,http://175.20.6.153:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林综艺文化,http://175.20.6.153:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林东北戏曲,http://175.20.6.153:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
+舒兰市江城新闻,http://175.20.6.153:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+舒兰市综合频道,http://175.20.6.153:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
 
 CCTV1,http://115.149.139.141:10000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://115.149.139.141:10000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0

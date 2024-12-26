@@ -70,6 +70,7 @@ CETV4(标清),http://110.42.45.20:810/IPTV.php?id=60
 咪咕体育03,http://110.42.45.20:810/IPTV.php?id=69
 咪咕体育04,http://110.42.45.20:810/IPTV.php?id=70
 广东珠江(高清),http://110.42.45.20:810/IPTV.php?id=72
+来源,http://110.42.45.20:810/IPTV.php?id=86
 
 CCTV1,http://ali.hlspull.yximgs.com/live/00g4pyly_CCTV1.flv
 CCTV2,http://ali.hlspull.yximgs.com/live/00g4pyly_CCTV2.flv
@@ -142,6 +143,7 @@ CETV4(标清),http://ali.hlspull.yximgs.com/live/00g4pyly_cetv4.flv
 咪咕体育03,http://ali.hlspull.yximgs.com/live/00g4pyly_mgty3.flv
 咪咕体育04,http://ali.hlspull.yximgs.com/live/00g4pyly_mgty4.flv
 广东珠江(高清),http://ali.hlspull.yximgs.com/live/00g4pyly_gdzj.flv
+来源,http://ali.hlspull.yximgs.com/live/00g4pyly_twn.flv
 
 241220 V4测试频道,#genre#
 CCTV-1,http://ced8ee.tv.netsite.cc/proxy/1387573383/1387573383.m3u8

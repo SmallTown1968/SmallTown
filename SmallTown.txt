@@ -457,6 +457,7 @@ CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servi
 
 河南卫视,http://123.6.53.34/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d518d87dd7d70badba6f3e89df493555&wsTime=1732869509&wsSession=0d50c3ffd3a60451e1cb968b-173285510962382&wsIPSercert=c8769f739c2dcd0004b927fed3378cea&wsiphost=local&wsBindIP=1
 CCTV1,http://116.162.91.48/yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229858/index.m3u8
+CCTV1,http://116.162.91.48/yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229863/index.m3u8
 CCTV5,P2p://135.148.104.228:19806/c680ec780ff54c4eb1e51253b666f530.ts$P2p
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,http://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8

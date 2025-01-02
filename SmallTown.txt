@@ -305,6 +305,10 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰资讯-高清,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港-高清,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
+凤凰中文-高清,http://ali.hlspull.yximgs.com/live/e85ae002c9ae52e93c3c7f85e143b5cb.flv
+凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/8d92016e9a791ff8f0d9f1a48e75a7c8.flv
+凤凰香港-高清,http://ali.hlspull.yximgs.com/live/820c9a3c59d8784e65008c4b35312ffa.flv
+
 凤凰中文-高清,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20
 凤凰中文-高清,http://dns.yiandrive.com:16813/phenix/fhzw
 凤凰中文-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -341,10 +345,9 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰香港-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 
-
-凤凰中文-标清,http://kxrj.site:1333/86/fh.php?id=fhzw
-凤凰资讯-标清,http://kxrj.site:1333/86/fh.php?id=fhzx
-凤凰香港-标清,http://kxrj.site:1333/86/fh.php?id=fhhk
+凤凰中文-标清,http://kxrj.site:1258/69986/fh.php?id=fhzw
+凤凰资讯-标清,http://kxrj.site:1258/69986/fh.php?id=fhzx
+凤凰香港-标清,http://kxrj.site:1258/69986/fh.php?id=fhhk
 凤凰中文-标清,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc48.m3u8
 凤凰资讯-标清,http://lx.haoyuhuojia.com:4022/udp/233.50.200.192:5140
 凤凰香港-标清,http://58.144.154.93/qctv.fengshows.cn/live/0701phk48.m3u8

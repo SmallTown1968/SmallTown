@@ -13,6 +13,9 @@
 平顶山城市频道,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8?wsSecret=124659e7a7c900597eb893cd1cb2cafa&wsTime=1711012552
 舞阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
 沁阳综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d32d3f71de0f3c007ede6f0afcb787b&wsTime=1736572202
+河南卫视,http://[2408:8720:800:25::19]/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d32d3f71de0f3c007ede6f0afcb787b&wsTime=1736572202&wsSession=9552a45a7683272c22a26188-173656818181122&wsIPSercert=a38aa1a7d359c5bd5cd03c246f5b8caa&wsiphost=local&wsBindIP=1
+河南卫视,https://2408x8720x800x25x0x0x0x1a-tvcdnstream3hndtcom.wslivehls.com/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=47464b80e51314b306bfff88209911b5&wsTime=1736582116&wsSession=eba5ecf85087f3f69d93bf29-173656789237335&wsIPSercert=a38aa1a7d359c5bd5cd03c246f5b8caa&wsiphost=local&wsBindIP=1
 河南卫视,http://123.10.78.125:808/hls/17/index.m3u8
 河南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000358/index.m3u8?IASHttpSessionId=
 河南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8

@@ -741,7 +741,7 @@ CCTV14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?servi
 CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 
-河南卫视,http://123.10.78.125:808/hls/17/index.m3u8
+河南卫视,http://123.6.53.61/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=46c8180a9373aa4ab3ebfdc2572987a3&wsTime=1736837118&wsSession=a75530b369db3ec714aa8519-173682293140784&wsIPSercert=c8769f739c2dcd0004b927fed3378cea&wsiphost=local&wsBindIP=1
 河南卫视,http://123.6.53.34/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d518d87dd7d70badba6f3e89df493555&wsTime=1732869509&wsSession=0d50c3ffd3a60451e1cb968b-173285510962382&wsIPSercert=c8769f739c2dcd0004b927fed3378cea&wsiphost=local&wsBindIP=1
 CCTV1,http://116.162.91.48/yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229858/index.m3u8
 CCTV1,http://116.162.91.48/yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229863/index.m3u8

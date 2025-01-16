@@ -3,7 +3,6 @@
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
-平顶山新闻综合,http://hd1.91kds.cn:80/live1/hatv.m3u8?id=hapds1&app=com.kaixinhd.player&version=1.3.6&mac=aa:91:91:91:ff&nwtime=1731465649&sign=368cac51cef57b4ef0bf0a2869cd8772&ev=20240715
 平顶山新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://218.28.242.173:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580

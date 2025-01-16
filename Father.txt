@@ -34,6 +34,7 @@
 北京纪实科教8K,http://125.74.6.30/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K,http://125.74.6.45/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K,http://125.74.6.62/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281

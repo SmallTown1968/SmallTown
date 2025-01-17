@@ -595,6 +595,7 @@ CCTV17,http://175.20.9.187:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&auth
 重庆卫视,http://175.20.9.187:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://175.20.9.187:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://175.20.9.187:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://175.22.72.24:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://175.20.9.187:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://175.20.9.187:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://175.20.9.187:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0

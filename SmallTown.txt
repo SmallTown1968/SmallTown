@@ -771,6 +771,15 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 平顶山新闻综合,http://hd1.91kds.cn/live1/hatv.m3u8?id=hapds1&app=com.kaixinhd.player&version=1.3.8&mac=fu:ck:92:92:ff&nwtime=1734488239&sign=88ef00d8024cf07f7ad5a0c54f1b5da1&ev=20240918
 
 卫视频道,#genre#
+凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=1184119acd25278c38e43806a54d1a14
+凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=76cd01362eb3b3dbd879d1e8706f48ef
+凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=546acb323c81e6e29681eb03f692f74b
+凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=0aa93253eec99476f5516cf89a1c77d6
+凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=99d158ed1aef57cc61b5b284ca8ce452
+凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=74f1d774e1cd8fddee8295a71ddee300
+凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=2&id=fhzw&key=74f1d774e1cd8fddee8295a71ddee300
+凤凰中文-星火,http://ali.hlspull.yximgs.com/live/c1b821ba669d3c9f5221bb878e3f82e0.flv
+
 凤凰中文-高清,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港-高清,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv

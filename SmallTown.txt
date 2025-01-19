@@ -242,7 +242,7 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 1905电影网(国外),http://xxw.me0.cn/1905dy.php?id=1905b
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-13.ctv
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-三沙卫视(高清),http://livecdn.hnntv.cn:80/live/ssws20241214.m3u8?_upt=177f583b1735801214
+三沙卫视(高清),https://livessws.hnntv.cn/live/ssws20250114.m3u8?_upt=1df960521737302952
 三沙卫视(标清),http://host.gaoxincloud.cn:4000/udp/239.111.205.52:5140
 星空卫视,http://183.222.206.14:8096/udp/239.93.0.156:2193
 星空卫视,http://183.222.206.14:8096/udp/239.93.1.10:2193

@@ -46,6 +46,13 @@
 精品纪录,http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
+凤凰中文,http://ali.hlspull.yximgs.com/live/f43fc6e27a95839fb28715d39fffa163.flv
+凤凰中文,http://ali.hlspull.yximgs.com/live/h6pgk41r_hdskwiksjhdksw.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/b7d0ea35570b4ea22748599d255f0ef0.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/h6pgk41r_tsekuwklquhsec.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/32e75d0e28151701eb041e34c6ed7449.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/h6pgk41r_jlsi3hsllsjybwj.flv
+
 凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv

@@ -1431,6 +1431,7 @@ CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 CCTV-1[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-1[超清],http://39.134.65.106/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-1[高清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 CCTV-2[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
@@ -1502,13 +1503,13 @@ CETV-4[标清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/ind
 黑莓动画[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 动作电影[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 古装剧场[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-?明星大片5664号[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+*明星大片[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 金牌综艺[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 惊悚悬疑[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 军事评论[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 爱情喜剧[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 精品大剧[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-?海外剧场5671号[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+*海外剧场[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 精品纪录[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 精品体育[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 哒啵赛事[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
@@ -1526,8 +1527,8 @@ CETV-4[标清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/ind
 东北热剧[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 黑莓电影[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-咪咕体育6124号[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕体育6147号[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+睛彩竞技[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+睛彩篮球[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 黑龙江文体[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江农业科教[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 北京卫视[标清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
@@ -1593,7 +1594,6 @@ CETV-4[标清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/ind
 全民健身[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 深圳卫视[标清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
 四川卫视[标清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
-CCTV-1[高清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 延边卫视[标清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
 甘肃卫视[标清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8

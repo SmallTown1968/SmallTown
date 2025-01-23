@@ -301,14 +301,16 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=99d158ed1aef57cc61b5b284ca8ce452
 凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=74f1d774e1cd8fddee8295a71ddee300
 凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=2&id=fhzw&key=74f1d774e1cd8fddee8295a71ddee300
-凤凰中文-星火,http://ali.hlspull.yximgs.com/live/c1b821ba669d3c9f5221bb878e3f82e0.flv
 凤凰中文-星火,http://ali.hlspull.yximgs.com/live/z7c659gw_hdskwiksjhdksw.flv
+凤凰中文-星火,http://ali.hlspull.yximgs.com/live/4a2132520e3a2caf57ac2fd56987e811.flv
 
 凤凰资讯-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzx&key=7d86705860f4248e24b5261406efe628
 凤凰资讯-星火,http://ali.hlspull.yximgs.com/live/z7c659gw_tsekuwklquhsec.flv
+凤凰资讯-星火,http://ali.hlspull.yximgs.com/live/90938f91c9ab4630877b580ff30f2ee7.flv
 
 凤凰香港-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhhk&key=cc8cb7254cc59111b9d7e37773d79fb6
 凤凰香港-星火,http://ali.hlspull.yximgs.com/live/z7c659gw_jlsi3hsllsjybwj.flv
+凤凰香港-星火,http://ali.hlspull.yximgs.com/live/cb7eb820b9c35146a26071d705d80940.flv
 
 凤凰中文-高清,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv

@@ -331,6 +331,10 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰香港-星火,http://ali.hlspull.yximgs.com/live/uxpf7osr_jlsi3hsllsjybwj.flv
 凤凰香港-星火,http://ali.hlspull.yximgs.com/live/1949fb3a78e7f36b6e1684b7f6b47652.flv
 
+凤凰中文-高清,http://61.163.58.154:1321/ms/IPTV.php?id=123
+凤凰资讯-高清,http://61.163.58.154:1321/ms/IPTV.php?id=124
+凤凰香港-高清,http://61.163.58.154:1321/ms/IPTV.php?id=125
+
 凤凰中文-高清,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港-高清,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv

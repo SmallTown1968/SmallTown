@@ -31,7 +31,6 @@ CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17农业农村,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-17农业农村,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 
-
 常更新V4源,#genre#
 CCTV1,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
 CCTV2,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
@@ -107,8 +106,6 @@ CGTN西班牙语,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CGTN-ESPANOL/G_CGT
 康巴卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_KANGBA/G_KANGBA.m3u8
 安多卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ANDUO/G_ANDUO.m3u8
 大湾区卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_NANFANG/G_NANFANG.m3u8
-
-
 
 CCTV1,http://183.255.10.188:6610/200000001898/460000089800010011/1.m3u8?IASHttpSessionId=OTT
 CCTV1,http://183.255.10.190:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
@@ -607,32 +604,6 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 平顶山新闻综合,http://hd1.91kds.cn/live1/hatv.m3u8?id=hapds1&app=com.kaixinhd.player&version=1.3.8&mac=fu:ck:92:92:ff&nwtime=1734488239&sign=88ef00d8024cf07f7ad5a0c54f1b5da1&ev=20240918
 
 卫视频道,#genre#
-凤凰中文-野火,http://iptv.diyp.site/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90DIYP%E3%80%91.php?key=gat6&id=12
-凤凰资讯-野火,http://iptv.diyp.site/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90DIYP%E3%80%91.php?key=gat6&id=13
-凤凰香港-野火,http://iptv.diyp.site/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90DIYP%E3%80%91.php?key=gat6&id=14
-
-凤凰中文-野火,http://iptv.diyp.site/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90DIYP%E3%80%91.php?key=gat2&id=1
-凤凰资讯-野火,http://iptv.diyp.site/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90DIYP%E3%80%91.php?key=gat2&id=2
-凤凰香港-野火,http://iptv.diyp.site/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90DIYP%E3%80%91.php?key=gat2&id=3
-
-凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=1184119acd25278c38e43806a54d1a14
-凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=76cd01362eb3b3dbd879d1e8706f48ef
-凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=546acb323c81e6e29681eb03f692f74b
-凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=0aa93253eec99476f5516cf89a1c77d6
-凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=99d158ed1aef57cc61b5b284ca8ce452
-凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzw&key=74f1d774e1cd8fddee8295a71ddee300
-凤凰中文-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=2&id=fhzw&key=74f1d774e1cd8fddee8295a71ddee300
-凤凰中文-星火,http://ali.hlspull.yximgs.com/live/uxpf7osr_hdskwiksjhdksw.flv
-凤凰中文-星火,http://ali.hlspull.yximgs.com/live/792371a66ed0d1d07012f7c2d7c72b19.flv
-
-凤凰资讯-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhzx&key=7d86705860f4248e24b5261406efe628
-凤凰资讯-星火,http://ali.hlspull.yximgs.com/live/uxpf7osr_tsekuwklquhsec.flv
-凤凰资讯-星火,http://ali.hlspull.yximgs.com/live/c153774a138f84c86e10ee82a0f25e55.flv
-
-凤凰香港-星火,http://110.185.171.226:96/xhgat/fhzb.php?type=1&id=fhhk&key=cc8cb7254cc59111b9d7e37773d79fb6
-凤凰香港-星火,http://ali.hlspull.yximgs.com/live/uxpf7osr_jlsi3hsllsjybwj.flv
-凤凰香港-星火,http://ali.hlspull.yximgs.com/live/1949fb3a78e7f36b6e1684b7f6b47652.flv
-
 凤凰中文-高清,http://61.163.58.154:1321/ms/IPTV.php?id=123
 凤凰资讯-高清,http://61.163.58.154:1321/ms/IPTV.php?id=124
 凤凰香港-高清,http://61.163.58.154:1321/ms/IPTV.php?id=125

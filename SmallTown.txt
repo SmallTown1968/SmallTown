@@ -1,5 +1,4 @@
 黑龙江移动V4,#genre#
-001,https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 CCTV1综合,http://tv.2cf.x10.mx/2hl/3221226514/index.m3u8?ace
 CCTV1综合,http://tv.2cf.x10.mx/2hl/3221226559/index.m3u8?ace
 CCTV1综合,http://tv.2cf.x10.mx/2hl/3221226016/index.m3u8?ace
@@ -912,6 +911,11 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 平顶山新闻综合,http://hd1.91kds.cn/live1/hatv.m3u8?id=hapds1&app=com.kaixinhd.player&version=1.3.8&mac=fu:ck:92:92:ff&nwtime=1734488239&sign=88ef00d8024cf07f7ad5a0c54f1b5da1&ev=20240918
 
 卫视频道,#genre#
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-21.m3u8
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-12.ctv
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk

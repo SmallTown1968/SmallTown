@@ -1,4 +1,5 @@
 黑龙江移动V4,#genre#
+001,https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 CCTV1综合,http://tv.2cf.x10.mx/2hl/3221226514/index.m3u8?ace
 CCTV1综合,http://tv.2cf.x10.mx/2hl/3221226559/index.m3u8?ace
 CCTV1综合,http://tv.2cf.x10.mx/2hl/3221226016/index.m3u8?ace

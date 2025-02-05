@@ -34,6 +34,7 @@
 亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612418.flv
 亚洲卫视,rtmp://pull-hsbj.vzan.com/v/slowlive_821481626725612418
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8

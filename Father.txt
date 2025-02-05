@@ -30,7 +30,9 @@
 三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
+亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612418/live.m3u8
+亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612418.flv
+亚洲卫视,rtmp://pull-hsbj.vzan.com/v/slowlive_821481626725612418
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv

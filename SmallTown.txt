@@ -1416,6 +1416,10 @@ CETV1,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2022823801/timeshift.m3u8?dela
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-12.ctv
 
+凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?key=fh7&id=123
+凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=fh7&id=124
+凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?key=fh7&id=125
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk

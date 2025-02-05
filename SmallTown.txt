@@ -1,4 +1,4 @@
-河南江移动V4,#genre#
+河南移动V4,#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8
@@ -63,6 +63,7 @@ CCTV14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8

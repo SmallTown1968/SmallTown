@@ -12,6 +12,7 @@
 平顶山城市频道,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8?wsSecret=124659e7a7c900597eb893cd1cb2cafa&wsTime=1711012552
 舞阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
 沁阳综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 河南卫视,http://39.134.65.249/PLTV/88888888/224/3221225988/1.m3u8
 河南卫视,http://183.255.10.123:6610/200000001898/460000089800010071/1.m3u8?IASHttpSessionId=OTT
 河南卫视,http://183.255.10.124:6610/200000001898/460000089800010071/1.m3u8?IASHttpSessionId=OTT

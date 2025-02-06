@@ -1,3 +1,6 @@
+北方广电V4,#genre#
+北京卫视,http://m.176178.xyz/php/bfgd.php?id=bjws&mm.m3u8
+
 河南移动V4,#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8

@@ -1093,6 +1093,13 @@ CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servi
 平顶山新闻综合,http://hd1.91kds.cn/live1/hatv.m3u8?id=hapds1&app=com.kaixinhd.player&version=1.3.8&mac=fu:ck:92:92:ff&nwtime=1734488239&sign=88ef00d8024cf07f7ad5a0c54f1b5da1&ev=20240918
 
 卫视频道,#genre#
+凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?key=f352&id=123
+凤凰中文,http://ali.hlspull.yximgs.com/live/137b75882c0dddb3605436878b154d01.flv
+凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=f352&id=124
+凤凰资讯,http://ali.hlspull.yximgs.com/live/47e2d48c8c8f541ca797e4d2149a25ac.flv
+凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?key=f352&id=125
+凤凰香港,http://ali.hlspull.yximgs.com/live/b56e208e63cf9c75ba52e66dab4abf59.flv
+
 凤凰中文,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzw$fhx
 凤凰资讯,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
 凤凰香港,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhhk$fhx

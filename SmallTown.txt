@@ -1,4 +1,6 @@
 北方广电V4,#genre#
+111,http://qctv.fengshows.cn/live/0701pin72.flv
+112,http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=d984692ab3c25667eb1f4c3f417cd20e&txTime=67a633d4
 凤凰资讯,http://extraott.com/live/6772191932/1654508883/62829.m3u8
 凤凰香港,http://extraott.com/live/6772191932/1654508883/473557.m3u8
 凤凰美洲,http://extraott.com/live/6772191932/1654508883/473556.m3u8

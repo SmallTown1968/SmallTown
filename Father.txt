@@ -56,6 +56,8 @@
 凤凰资讯,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
 凤凰香港,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhhk$fhx
 
+凤凰资讯,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
+
 凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8
 凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
 凤凰香港,http://quan2018.mycloudnas.com:51888/play/a013/index.m3u8

@@ -1181,6 +1181,7 @@ CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servi
 凤凰资讯-高清,http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+凤凰资讯-高清,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
 
 凤凰香港-高清,http://dns.yiandrive.com:16813/phenix/fhhk
 凤凰香港-高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk

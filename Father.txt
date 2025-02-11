@@ -57,9 +57,6 @@
 
 凤凰资讯,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
 
-凤凰中文,http://115.149.139.141:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-凤凰资讯,http://115.149.139.141:10000/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=0
-
 凤凰中文-音频,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯-音频,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 

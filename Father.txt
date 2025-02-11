@@ -9,8 +9,8 @@
 平顶山新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://218.28.242.173:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
-平顶山公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226593/index.m3u8
 平顶山公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226399/index.m3u8
+平顶山公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226593/index.m3u8
 平顶山公共频道,http://live.muzhifm.com/shuazhibo/room2983_pc.m3u8?auth_key=1785035772-0-0-e8ae97c4402a8d3cf8ba7d8c7441f515
 平顶山公共频道,http://live.dxhmt.cn:9080/13781808226/fd44664050dc4e8c8b1157e869721c0e.m3u8?wsSecret=7c7b0ba0d88fae5a40aca454008be9b5&wsTime=1711012392
 平顶山城市频道,http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d

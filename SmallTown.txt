@@ -1230,6 +1230,7 @@ CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servi
 香港卫视-标清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视-标清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 
+星空卫视,http://61.163.58.154:1321/ms/IPTV.php?key=g2&id=217
 星空卫视,http://61.163.58.154:1321/ms/IPTV.php?key=f352&id=217
 星空卫视,http://ali.hlspull.yximgs.com/live/ffbe4aa7833318d1b270d1eb155c9025.flv
 

@@ -594,6 +594,7 @@ CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17农业农村,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 
 常更新V4源,#genre#
+CCTV1,https://php.666230.xyz/proxy/p8.php?id=CCTV1HD
 CCTV1,http://122.137.76.166:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://122.137.76.166:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://122.137.76.166:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0

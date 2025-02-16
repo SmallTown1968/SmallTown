@@ -57,6 +57,14 @@
 
 凤凰资讯,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
 
+凤凰中文,http://116.11.156.182:8811/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com
+凤凰资讯,http://116.11.156.182:8811/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
+凤凰香港,http://116.11.156.182:8811/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com
+
+凤凰中文,http://116.11.156.245:8811/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com
+凤凰资讯,http://116.11.156.245:8811/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
+凤凰香港,http://116.11.156.245:8811/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com
+
 凤凰中文-音频,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯-音频,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 

@@ -6,7 +6,13 @@
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 
-1,https://bxtv.587788.xyz/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?key=h77&id=123
+凤凰中文,http://ali.hlspull.yximgs.com/live/346fdfec2def1d77f855f0e21d28bf1c.flv
+凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=h77&id=124
+凤凰资讯,http://ali.hlspull.yximgs.com/live/f8bb925bd7deb6525bfa1c753bb81dfb.flv
+凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?key=h77&id=125
+凤凰香港,http://ali.hlspull.yximgs.com/live/f84367451d2869e97ecfdb8c3303835b.flv
+
 凤凰中文,http://116.11.156.182:8811/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com
 凤凰资讯,http://116.11.156.182:8811/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
 凤凰香港,http://116.11.156.182:8811/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com
@@ -14,6 +20,10 @@
 凤凰中文,http://116.11.156.245:8811/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com
 凤凰资讯,http://116.11.156.245:8811/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
 凤凰香港,http://116.11.156.245:8811/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com
+
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
+凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx
+凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 
 凤凰中文,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzw$fhx
 凤凰资讯,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
@@ -170,9 +180,8 @@
 香港卫视-标清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视-标清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 
-星空卫视,http://61.163.58.154:1321/ms/IPTV.php?key=g2&id=217
-星空卫视,http://61.163.58.154:1321/ms/IPTV.php?key=f352&id=217
-星空卫视,http://ali.hlspull.yximgs.com/live/ffbe4aa7833318d1b270d1eb155c9025.flv
+星空卫视,http://61.163.58.154:1321/ms/IPTV.php?key=h77&id=217
+星空卫视,http://ali.hlspull.yximgs.com/live/6102c524b0cd8e046517f77e317c3ada.flv
 
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4

@@ -1,4 +1,5 @@
 卫视频道,#genre#
+1,https://bxtv.587788.xyz/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 凤凰中文,http://116.11.156.182:8811/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com
 凤凰资讯,http://116.11.156.182:8811/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
 凤凰香港,http://116.11.156.182:8811/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com

@@ -162,6 +162,10 @@
 凤凰香港-高清,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港-高清,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 
+凤凰中文-标清,http://ttkx.cc:1380/%E5%85%AC/fh.php?id=fhzw
+凤凰资讯-标清,http://ttkx.cc:1380/%E5%85%AC/fh.php?id=fhzx
+凤凰香港-标清,http://ttkx.cc:1380/%E5%85%AC/fh.php?id=fhhk
+
 凤凰中文-标清,http://kxrj.site:1258/69986/fh.php?id=fhzw
 凤凰资讯-标清,http://kxrj.site:1258/69986/fh.php?id=fhzx
 凤凰香港-标清,http://kxrj.site:1258/69986/fh.php?id=fhhk

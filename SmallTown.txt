@@ -202,7 +202,7 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精采HD,http://61.221.215.25:8800/hls/48/index.m3u8
 
-广西玉林电信,#genre#
+*广西玉林电信,#genre#
 CCTV1,http://116.11.156.245:8811/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
 CCTV2,http://116.11.156.245:8811/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
 CCTV3,http://116.11.156.245:8811/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
@@ -316,6 +316,10 @@ CCTV17,http://116.11.156.245:8811/tsfile/live/1041_1.m3u8?key=txiptv&url=tvzb.co
 广西新闻 高清,http://116.11.156.245:8811/tsfile/live/1018_1.m3u8?key=txiptv&url=tvzb.com
 广西都市 高清,http://116.11.156.245:8811/tsfile/live/1028_1.m3u8?key=txiptv&url=tvzb.com
 广西卫视 高清,http://116.11.156.245:8811/tsfile/live/1025_1.m3u8?key=txiptv&url=tvzb.com
+
+随机升级V4,#genre#
+河南卫视,http://123.52.110.202:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://222.223.84.135:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 
 北方广电V4,#genre#
 111,http://qctv.fengshows.cn/live/0701pin72.flv

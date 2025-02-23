@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年1月22日更新
+2025年2月23日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -31,15 +31,11 @@
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?_=1738761957201
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-五星体育,http://b.mtw.so/6pCqfD
+五星体育,http://218.1.238.140:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
-睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+睛彩竞技,http://39.134.65.251/PLTV/88888888/224/3221225897/1.m3u8
 睛彩篮球,http://39.134.65.249/PLTV/88888888/224/3221225895/1.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 超级体育,http://39.134.65.249/PLTV/88888888/224/3221225635/1.m3u8
@@ -65,6 +61,11 @@
 
 凤凰中文-音频,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯-音频,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?_=1738761957201
 
 CCTV1,http://39.134.65.207/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.207/PLTV/88888888/224/3221226119/1.m3u8

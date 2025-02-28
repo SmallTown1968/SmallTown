@@ -59,18 +59,7 @@
 凤凰资讯,https://ali.hlspull.yximgs.com:443/live/aiyun_fh1.flv
 凤凰香港,https://ali.hlspull.yximgs.com:443/live/aiyun_fh3.flv
 
-凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?key=g2&id=123
-凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=g2&id=124
-凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?key=g2&id=125
-
 凤凰资讯,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
-
-凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?key=f352&id=123
-凤凰中文,http://ali.hlspull.yximgs.com/live/137b75882c0dddb3605436878b154d01.flv
-凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=f352&id=124
-凤凰资讯,http://ali.hlspull.yximgs.com/live/47e2d48c8c8f541ca797e4d2149a25ac.flv
-凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?key=f352&id=125
-凤凰香港,http://ali.hlspull.yximgs.com/live/b56e208e63cf9c75ba52e66dab4abf59.flv
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/b9ce7da3795a5a482b9ef809de6bf12f.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/64fea48ab83a98422c4783621e2c5a89.flv
@@ -89,10 +78,6 @@
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-12.ctv
 
-凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?key=fh7&id=123
-凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=fh7&id=124
-凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?key=fh7&id=125
-
 凤凰中文,http://ttkx.cc:778/ctm165/fh.php?id=fhzw
 凤凰资讯,http://ttkx.cc:778/ctm165/fh.php?id=fhzx
 凤凰香港,http://ttkx.cc:778/ctm165/fh.php?id=fhhk
@@ -104,26 +89,6 @@
 凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8
 凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
 凤凰香港,http://quan2018.mycloudnas.com:51888/play/a013/index.m3u8
-
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-
-凤凰中文-高清,http://61.163.58.154:1321/ms/IPTV.php?id=123
-凤凰资讯-高清,http://61.163.58.154:1321/ms/IPTV.php?id=124
-凤凰香港-高清,http://61.163.58.154:1321/ms/IPTV.php?id=125
-
-凤凰中文-高清,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-凤凰资讯-高清,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-凤凰香港-高清,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
-
-凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-
-凤凰中文-高清,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰资讯-高清,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-凤凰香港-高清,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-凤凰香港-高清,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 
 凤凰中文-高清,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯-高清,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv

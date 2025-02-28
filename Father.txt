@@ -37,11 +37,11 @@
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
 睛彩竞技,http://39.134.65.251/PLTV/88888888/224/3221225897/1.m3u8
 睛彩篮球,http://39.134.65.249/PLTV/88888888/224/3221225895/1.m3u8
-睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 超级体育,http://39.134.65.249/PLTV/88888888/224/3221225635/1.m3u8
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级体育,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 咪咕体育,http://39.134.65.249/PLTV/88888888/224/3221226031/1.m3u8
-精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品纪录,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
 凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv

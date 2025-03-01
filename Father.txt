@@ -47,6 +47,8 @@
 凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=jrdan&id=124
 凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?key=jrdan&id=125
 
+凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=20067
+
 凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv

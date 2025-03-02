@@ -3,6 +3,8 @@
 凤凰香港,http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk
 凤凰资讯,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx
 
+凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=20067
+
 凤凰资讯,http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
 凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 凤凰美洲,http://extraott.com:80/live/6772191932/1654508883/473556.m3u8

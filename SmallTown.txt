@@ -1,7 +1,11 @@
 卫视频道,#genre#
-凤凰中文,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzw
-凤凰香港,http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk
-凤凰资讯,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx
+凤凰资讯[1920x1080],http://221.130.100.201:8099/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+凤凰中文[1920x1080],http://221.130.100.201:8099/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+凤凰香港[1920x1080],http://221.130.100.201:8099/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
+
+凤凰中文,http://ttkx.cc:1380/653%E5%93%88%E5%93%88/fh.php?id=fhzw
+凤凰香港,http://ttkx.cc:1380/653%E5%93%88%E5%93%88/fh.php?id=fhhk
+凤凰资讯,http://ttkx.cc:1380/653%E5%93%88%E5%93%88/fh.php?id=fhzx
 
 凤凰中文,http://222.210.153.38:8888/udp/239.93.1.9:2192
 凤凰中文,http://222.210.153.38:8888/udp/239.93.0.162:2192

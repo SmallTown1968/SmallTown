@@ -1,4 +1,7 @@
 卫视频道,#genre#
+凤凰中文高清,http://39.134.182.168/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+凤凰资讯高清,http://39.134.182.168/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
+
 凤凰资讯[1920x1080],http://221.130.100.201:8099/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰中文[1920x1080],http://221.130.100.201:8099/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰香港[1920x1080],http://221.130.100.201:8099/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8

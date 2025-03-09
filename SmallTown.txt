@@ -31,6 +31,9 @@
 凤凰香港,http://ttkx.cc:1380/653%E5%93%88%E5%93%88/fh.php?id=fhhk
 凤凰资讯,http://ttkx.cc:1380/653%E5%93%88%E5%93%88/fh.php?id=fhzx
 
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+
 凤凰中文,http://max.freevar.com/fhws.php?id=2
 凤凰资讯,http://max.freevar.com/fhws.php?id=1
 凤凰香港,http://max.freevar.com/fhws.php?id=3
@@ -121,9 +124,6 @@
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
-凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-21.m3u8

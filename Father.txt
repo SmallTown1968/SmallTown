@@ -33,6 +33,8 @@
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+五星体育,http://193.134.211.158:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
+五星体育,http://3501776.xyz:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://218.1.238.140:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://45.205.27.14:50001/5000000010000017540/bestzb/index.m3u8
 五星体育,http://45.205.27.14:50001/2000000002000000007/hnbblive/index.m3u8

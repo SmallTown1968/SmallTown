@@ -225,6 +225,25 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精采HD,http://61.221.215.25:8800/hls/48/index.m3u8
 
+250319V4,#genre#
+CCTV1,http://tv.nezha.su:35455/gaoma/cctv1.m3u8
+CCTV2,http://tv.nezha.su:35455/gaoma/cctv2.m3u8
+CCTV3,http://tv.nezha.su:35455/gaoma/cctv3.m3u8
+CCTV4,http://tv.nezha.su:35455/gaoma/cctv4.m3u8
+CCTV5,http://tv.nezha.su:35455/gaoma/cctv5.m3u8
+CCTV6,http://tv.nezha.su:35455/gaoma/cctv6.m3u8
+CCTV7,http://tv.nezha.su:35455/gaoma/cctv7.m3u8
+CCTV8,http://tv.nezha.su:35455/gaoma/cctv8.m3u8
+CCTV9,http://tv.nezha.su:35455/gaoma/cctv9.m3u8
+CCTV10,http://tv.nezha.su:35455/gaoma/cctv10.m3u8
+CCTV11,http://tv.nezha.su:35455/gaoma/cctv11.m3u8
+CCTV12,http://tv.nezha.su:35455/gaoma/cctv12.m3u8
+CCTV13,http://tv.nezha.su:35455/gaoma/cctv13.m3u8
+CCTV14,http://tv.nezha.su:35455/gaoma/cctv14.m3u8
+CCTV15,http://tv.nezha.su:35455/gaoma/cctv15.m3u8
+CCTV16,http://tv.nezha.su:35455/gaoma/cctv16.m3u8
+CCTV17,http://tv.nezha.su:35455/gaoma/cctv17.m3u8
+
 北京IPV6,#genre#
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 

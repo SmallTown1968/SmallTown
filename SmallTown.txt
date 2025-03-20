@@ -1,5 +1,9 @@
-2025年3月9日更新
+2025年3月20日更新
 卫视频道,#genre#
+凤凰中文,http://61.163.58.168:2005/play/forward/1/MytvPhoenixChinese?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMjMuNy44MC4xNTUiLCJ0dmlkIjoiNjU1MDA2NzMiLCJlY29ub21pemUiOiLmsrPljZciLCJleHAiOjE3NDI0NzM5NTIsIm5iZiI6MTc0MjQ1NTk1MiwiaWF0IjoxNzQyNDU1OTUyfQ.mshK2n2cemC2k0udeSWbWAR7dLo4ENAF21i8VzWyF-w
+凤凰资讯,http://61.163.58.168:2005/play/forward/1/MytvPhoenixInfo?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMjMuNy44MC4xNTUiLCJ0dmlkIjoiNjU1MDA2NzMiLCJlY29ub21pemUiOiLmsrPljZciLCJleHAiOjE3NDI0NzM5NTIsIm5iZiI6MTc0MjQ1NTk1MiwiaWF0IjoxNzQyNDU1OTUyfQ.mshK2n2cemC2k0udeSWbWAR7dLo4ENAF21i8VzWyF-w
+凤凰香港,http://61.163.58.168:2005/play/forward/1/MytvPhoenixHK?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMjMuNy44MC4xNTUiLCJ0dmlkIjoiNjU1MDA2NzMiLCJlY29ub21pemUiOiLmsrPljZciLCJleHAiOjE3NDI0NzM5NTIsIm5iZiI6MTc0MjQ1NTk1MiwiaWF0IjoxNzQyNDU1OTUyfQ.mshK2n2cemC2k0udeSWbWAR7dLo4ENAF21i8VzWyF-w
+
 凤凰资讯js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzx
 凤凰卫视js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
 凤凰香港js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhhk

@@ -3053,7 +3053,8 @@ CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 
 测试,#genre#
 测试01,https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-测试02,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+测试02,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+测试03,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 
 240122移动央卫超清V6,#genre#
 CCTV-1[超清],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8

@@ -1,5 +1,9 @@
 2025年3月9日更新
 卫视频道,#genre#
+凤凰资讯js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzx
+凤凰卫视js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
+凤凰香港js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhhk
+
 凤凰中文高清,http://39.134.182.168/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 凤凰资讯高清,http://39.134.182.168/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 

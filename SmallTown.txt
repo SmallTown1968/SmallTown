@@ -88,8 +88,8 @@ CCTV怀旧剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/
 云南卫视,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/yn.js?id=ynws
 
 凤凰资讯,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzx
-凤凰卫视,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
-深圳边,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhhk
+凤凰中文,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
+凤凰香港,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhhk
 新疆维语综合,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/xjtv.js?id=xjwyzh
 新疆哈语综合,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/xjtv.js?id=xjhyzh
 新疆综艺,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/xjtv.js?id=xjzy
@@ -163,7 +163,7 @@ CCTV16,http://119.123.178.255:8086/hls/17/index.m3u8
 凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 
 凤凰资讯js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzx
-凤凰卫视js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
+凤凰中文js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
 凤凰香港js,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhhk
 
 凤凰中文高清,http://39.134.182.168/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8

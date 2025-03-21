@@ -2,7 +2,10 @@
 酷9专用,#genre#
 CCTV1,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001800
+CCTV3,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv3/
 CCTV4,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001814
+CCTV4欧洲,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
+CCTV4美洲,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
 CCTV5,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001818
 CCTV5+,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001817
 CCTV6,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600108442
@@ -19,7 +22,6 @@ CCTV16,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9j
 CCTV17,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001810
 CCTV1,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv2/
-CCTV3,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv3/
 CCTV4,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv4/
 CCTV5,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv5/
 CCTV5+,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv5plus/
@@ -35,16 +37,16 @@ CCTV14,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9j
 CCTV15,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv15/
 CCTV16,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv16/
 CCTV17,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv17/
-CCTV4欧洲,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
-CCTV4美洲,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
 CCTV4K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CGTN记录,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
 CCTV风云剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099658
-CCTV第一剧场,https://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
-
 CCTV怀旧剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099620
+
+凤凰资讯,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzx
+凤凰中文,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
+凤凰香港,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhhk
 
 北京卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.brtn.cn/btv/btvsy_index
 北京卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002309
@@ -64,7 +66,7 @@ CCTV怀旧剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/
 深圳卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002481
 四川卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002516
 河南卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002525
-福建东南卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002484
+东南卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002484
 贵州卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002490
 江西卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002503
 辽宁卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002505
@@ -74,22 +76,21 @@ CCTV怀旧剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/
 天津卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600152137
 吉林卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190405
 陕西卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190400
+陕西卫视,http://stream.snrtv.com/sxbc-star-clmrI6.m3u8
 甘肃卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190408
 宁夏卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190737
 宁夏卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.nxtv.com.cn/live/wsh/
 内蒙古卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190401
 内蒙古卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.nmtv.cn/liveTv
 云南卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190402
+云南卫视,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/yn.js?id=ynws
+云南卫视,https://A/ku9/js/yn.js?id=ynws
 山西卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600152138
 新疆卫视,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/xjtv.js?id=xjws
-云南卫视,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/yn.js?id=ynws
 
-凤凰资讯,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzx
-凤凰中文,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
-凤凰香港,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhhk
 新疆维语综合,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/xjtv.js?id=xjwyzh
 新疆哈语综合,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/xjtv.js?id=xjhyzh
 新疆综艺,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/xjtv.js?id=xjzy
@@ -113,12 +114,12 @@ CCTV怀旧剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/
 云南娱乐,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/yn.js?id=ynyl
 云南澜湄,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/yn.js?id=yngj
 云南少儿,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/yn.js?id=ynse
-云南卫视,https://A/ku9/js/yn.js?id=ynws
 云南都市,https://A/ku9/js/yn.js?id=ynds
 云南娱乐,https://A/ku9/js/yn.js?id=ynyl
 云南澜湄,https://A/ku9/js/yn.js?id=yngj
 云南少儿,https://A/ku9/js/yn.js?id=ynse
-贵州公共频道,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.gzstv.com/tv/ch02
+贵州1,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.gzstv.com/tv/ch01
+贵州2,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.gzstv.com/tv/ch02
 贵州3,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.gzstv.com/tv/ch03
 贵州4,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.gzstv.com/tv/ch04
 贵州5,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.gzstv.com/tv/ch05
@@ -155,7 +156,6 @@ CCTV16,http://119.123.178.255:8086/hls/17/index.m3u8
 西藏卫视,http://119.123.178.225:8086/hls/152/index.m3u8
 新疆卫视,http://119.123.178.225:8086/hls/153/index.m3u8
 东南卫视,http://119.123.178.255:8086/hls/161/index.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-clmrI6.m3u8
 
 卫视频道,#genre#
 凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw

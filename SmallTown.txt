@@ -42,6 +42,8 @@ CCTV8K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9j
 CGTN记录,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
 CCTV风云剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,https://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
+CCTV第一剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
+
 CCTV怀旧剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099620
 
 北京卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.brtn.cn/btv/btvsy_index

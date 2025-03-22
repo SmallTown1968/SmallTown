@@ -95,7 +95,7 @@ CCTV怀旧剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/
 山东卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002513
 天津卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600152137
 吉林卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190405
-陕西卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/%E9%95%BF%E6%B1%9F%E4%BA%91.js?id=http://m.snrtv.com/snrtv_tv/index.html
+陕西卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/%E9%95%BF%E6%B1%9F%E4%BA%91.js?id=http://m.snrtv.com/snrtv_tv/index.html#star$官网
 陕西卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190400
 陕西卫视,http://stream.snrtv.com/sxbc-star-clmrI6.m3u8
 甘肃卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190408

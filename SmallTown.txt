@@ -109,6 +109,7 @@ CCTV怀旧剧场,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/
 山西卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190403
+西藏卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.js?id=https://nettvpro.xyz/m/channel.php?aid=277
 新疆卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600152138
 新疆卫视,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/xjtv.js?id=xjws
 

@@ -57,7 +57,10 @@
 凤凰资讯,http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=MEAE2353137123531371&ct=19234&tsum=0627df820681c10cef07745ec4493f51
 凤凰资讯,http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 
-凤凰香港,http://198.16.100.186:8278/hkphoenix_twn/playlist.m3u8?tid=mc42afe745533&ct=11595589&tsum=4391cf3898350ad7b35606cb10d424a0
+凤凰香港,http://198.16.100.186:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
+凤凰香港,http://198.16.100.186:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港,http://198.16.100.186:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰香港,http://198.16.100.186:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6d574b0937df2f808418d8e32115e975
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b

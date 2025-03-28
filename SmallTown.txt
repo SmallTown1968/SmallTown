@@ -2975,9 +2975,8 @@ CCTV16,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9j
 CCTV17,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctv17/
 
 北京卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002309
-北京卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.brtn.cn/btv/btvsy_index
-北京卫视4K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.btime.com/btv/btvsy_index
 北京卫视4K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.brtn.cn/btv/btvsy_index
+北京卫视4K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.btime.com/btv/btvsy_index
 江苏卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002521
 江苏卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://live.jstv.com/
 东方卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002483

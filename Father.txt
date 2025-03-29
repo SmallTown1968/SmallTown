@@ -26,6 +26,7 @@
 河南卫视,http://39.134.65.249/PLTV/88888888/224/3221225988/1.m3u8
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+三沙卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 三沙卫视,https://livessws.hnntv.cn/live/ssws_hnntv01.m3u8?_upt=e4f55d741742550595
 三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8

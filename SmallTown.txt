@@ -7,9 +7,17 @@
 翡翠台,http://47.76.146.40:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 無線新聞台,http://47.76.146.40:2095/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 
+鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+
 鳳凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+
+凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
+凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
+凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx

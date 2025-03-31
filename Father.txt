@@ -31,8 +31,8 @@
 三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 五星体育,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://live.kankanews.com/huikan?id=10

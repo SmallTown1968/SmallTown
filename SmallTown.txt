@@ -1,8 +1,16 @@
 2025年3月30日更新
 卫视频道,#genre#
+鳳凰中文,http://43.161.237.56:2095/stream/bxtv/null-2/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
+鳳凰資訊,http://43.161.237.56:2095/stream/bxtv/null-3/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
+鳳凰香港,http://43.161.237.56:2095/stream/bxtv/null-4/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
+
+
 鳳凰中文,http://47.76.146.40:2095/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 鳳凰資訊,http://47.76.146.40:2095/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 鳳凰香港,http://47.76.146.40:2095/stream/bxtv/null-4/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+
+翡翠台,http://43.161.237.56:2095/stream/bxtv/null/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
+無線新聞台,http://43.161.237.56:2095/stream/bxtv/null-1/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
 
 翡翠台,http://47.76.146.40:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 無線新聞台,http://47.76.146.40:2095/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb

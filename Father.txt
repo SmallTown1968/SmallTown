@@ -35,7 +35,6 @@
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-五星体育,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://live.kankanews.com/huikan?id=10
 五星体育,http://108.181.21.27:27347/livehttpplay?channel_id=20060
 五星体育,http://193.134.211.158:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 五星体育,http://3501776.xyz:35455/itv/5000000010000017540.m3u8?cdn=bestzb
@@ -43,6 +42,7 @@
 五星体育,http://45.205.27.14:50001/5000000010000017540/bestzb/index.m3u8
 五星体育,http://45.205.27.14:50001/2000000002000000007/hnbblive/index.m3u8
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
+五星体育,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://live.kankanews.com/huikan?id=10
 睛彩竞技,http://39.134.65.251/PLTV/88888888/224/3221225897/1.m3u8
 睛彩篮球,http://39.134.65.249/PLTV/88888888/224/3221225895/1.m3u8
 睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8

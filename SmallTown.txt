@@ -1,6 +1,6 @@
 2025年3月30日更新
 酷9专用源,#genre#
-凤凰中文A,http://raw.githack.com/SmallTown1968/SmallTown/refs/heads/main/fengh.js?id=fhzw
+凤凰中文A,http://raw.githack.com/k-web/ku9/js/SmallTown1968/SmallTown/refs/heads/main/fengh.js?id=fhzw
 凤凰资讯A,http://raw.githack.com/SmallTown1968/SmallTown/refs/heads/main/fengh.js?id=fhzx
 凤凰香港A,http://raw.githack.com/SmallTown1968/SmallTown/refs/heads/main/fengh.js?id=fhhk
 

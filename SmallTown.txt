@@ -1,6 +1,8 @@
 2025年3月30日更新
 酷9专用源,#genre#
 凤凰中文OK,https://ghproxy.net/https://raw.githubusercontent.com/SmallTown1968/SmallTown/refs/heads/main/k-web/ku9/js/fengh.js?id=fhzw
+凤凰资讯OK2,https://raw.kkgithub.com/SmallTown1968/SmallTown/refs/heads/main/k-web/ku9/js/fengh.js?id=fhzx
+
 凤凰资讯OK,https://ghproxy.net/https://raw.githubusercontent.com/SmallTown1968/SmallTown/refs/heads/main/k-web/ku9/js/fengh.js?id=fhzx
 凤凰香港OK,https://ghproxy.net/https://raw.githubusercontent.com/SmallTown1968/SmallTown/refs/heads/main/k-web/ku9/js/fengh.js?id=fhhk
 

@@ -190,7 +190,7 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 江苏卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://live.jstv.com/
 东方卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002483
 浙江卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002520
-浙江卫视,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.js?id=https://www.cztv.com/liveTV
+浙江卫视2,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.cztv.com/liveTV
 湖南卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002475
 湖北卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002508
 广东卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002485

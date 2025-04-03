@@ -213,19 +213,19 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 天津卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600152137
 吉林卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190405
 陕西卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190400
-陕西卫视2,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=http://m.snrtv.com/snrtv_tv/index.html
+陕西卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=http://m.snrtv.com/snrtv_tv/index.html
 甘肃卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190408
 宁夏卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190737
 宁夏卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.nxtv.com.cn/live/wsh/
 内蒙古卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190401
 内蒙古卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.nmtv.cn/liveTv
 云南卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190402
-云南卫视2,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yn.js?id=ynws
+云南卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yn.js?id=ynws
 山西卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600152138
-新疆卫视2,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjws
+新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjws
 
 新疆维语综合,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjwyzh
 新疆哈语综合,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjhyzh

@@ -3,7 +3,6 @@
 凤凰中文,http://A/ku9/js/fengh.js?id=fhzw
 凤凰资讯,http://A/ku9/js/fengh.js?id=fhzx
 凤凰香港,http://A/ku9/js/fengh.js?id=fhhk
-
 CCTV-1,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV-2,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/
 CCTV-3,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv3/
@@ -89,51 +88,6 @@ CCTV怀旧剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6
 宁夏卫视,http://A/ku9/js/ku9js.js?id=https://www.nxtv.com.cn/live/wsh/
 广西卫视,http://A/ku9/js/ku9js.js?id=https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 
-新疆维语综合,http://A/ku9/js/xjtv.js?id=xjwyzh
-新疆哈语综合,http://A/ku9/js/xjtv.js?id=xjhyzh
-新疆综艺,http://A/ku9/js/xjtv.js?id=xjzy
-新疆维语影视,http://A/ku9/js/xjtv.js?id=xjwyys
-新疆经济生活,http://A/ku9/js/xjtv.js?id=xjjjsh
-新疆哈语综艺,http://A/ku9/js/xjtv.js?id=xjhyzy
-新疆维语经济生活,http://A/ku9/js/xjtv.js?id=xjwyjjsh
-新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
-新疆信息服务,http://A/ku9/js/xjtv.js?id=xjxxfw
-新疆少儿频道,http://A/ku9/js/xjtv.js?id=xjse
-西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
-杭州生活,http://A/ku9/js/hztv.js?id=hzsh
-杭州影视,http://A/ku9/js/hztv.js?id=hzys
-青少体育,http://A/ku9/js/hztv.js?id=hzqsty
-杭州导视,http://A/ku9/js/hztv.js?id=hzds
-富阳新闻综合,http://A/ku9/js/hztv.js?id=fyxwzh
-南昌综合,http://A/ku9/js/jxtv.js?id=nczh
-南昌文旅,http://A/ku9/js/jxtv.js?id=ncds
-南昌资讯,http://A/ku9/js/jxtv.js?id=nczx
-云南都市,http://A/ku9/js/yn.js?id=ynds
-云南娱乐,http://A/ku9/js/yn.js?id=ynyl
-云南澜湄,http://A/ku9/js/yn.js?id=yngj
-云南少儿,http://A/ku9/js/yn.js?id=ynse
-云南卫视,http://A/ku9/js/yn.js?id=ynws
-云南都市,http://A/ku9/js/yn.js?id=ynds
-云南娱乐,http://A/ku9/js/yn.js?id=ynyl
-云南澜湄,http://A/ku9/js/yn.js?id=yngj
-云南少儿,http://A/ku9/js/yn.js?id=ynse
-贵州1,http://A/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch01
-贵州2,http://A/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch02
-贵州3,http://A/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch03
-贵州4,http://A/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch04
-贵州5,http://A/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch05
-贵州6,http://A/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch06
-福建新闻,http://A/ku9/js/ku9js.js?id=https://live.fjtv.net/xwpd/
-福建公共,http://A/ku9/js/ku9js.js?id=https://live.fjtv.net/ggpd/
-福建旅游,http://A/ku9/js/ku9js.js?id=https://live.fjtv.net/dspd/
-湖南电影,http://A/ku9/js/ku9js.js?id=https://live.mgtv.com/?channelId=221
-湖南电视剧,http://A/ku9/js/ku9js.js?id=https://live.mgtv.com/?channelId=484
-海南文旅,http://A/ku9/js/ku9js.js?id=https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home
-宁夏共公,http://A/ku9/js/ku9js.js?id=https://www.nxtv.com.cn/live/gg/
-成都影视,http://A/ku9/js/ku9js.js?id=https://cando.cditv.cn/show-192-45-1.html
-青岛1,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/index.shtml
-青岛3,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-
 酷9网络js源,#genre#
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/fengh.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/fengh.js?id=fhzx
@@ -164,7 +118,6 @@ CGTN记录,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9j
 CCTV风云剧场,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099620
-
 CCTV1,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/
 CCTV4,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv4/
@@ -226,46 +179,6 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 西藏卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600152138
 新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjws
-
-新疆维语综合,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjwyzh
-新疆哈语综合,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjhyzh
-新疆综艺,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjzy
-新疆维语影视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjwyys
-新疆经济生活,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjjjsh
-新疆哈语综艺,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjhyzy
-新疆维语经济生活,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjwyjjsh
-新疆体育健康,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjtyjk
-新疆信息服务,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjxxfw
-新疆少儿频道,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjse
-西湖明珠,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/hztv.js?id=hzmz
-杭州生活,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/hztv.js?id=hzsh
-杭州影视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/hztv.js?id=hzys
-青少体育,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/hztv.js?id=hzqsty
-杭州导视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/hztv.js?id=hzds
-富阳新闻综合,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/hztv.js?id=fyxwzh
-南昌综合,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/jxtv.js?id=nczh
-南昌文旅,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/jxtv.js?id=ncds
-南昌资讯,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/jxtv.js?id=nczx
-云南都市,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yn.js?id=ynds
-云南娱乐,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yn.js?id=ynyl
-云南澜湄,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yn.js?id=yngj
-云南少儿,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yn.js?id=ynse
-贵州1,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch01
-贵州2,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch02
-贵州3,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch03
-贵州4,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch04
-贵州5,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch05
-贵州6,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.gzstv.com/tv/ch06
-福建新闻,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://live.fjtv.net/xwpd/
-福建公共,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://live.fjtv.net/ggpd/
-福建旅游,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://live.fjtv.net/dspd/
-湖南电影,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://live.mgtv.com/?channelId=221
-湖南电视剧,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://live.mgtv.com/?channelId=484
-海南文旅,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home
-宁夏共公,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.nxtv.com.cn/live/gg/
-成都影视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://cando.cditv.cn/show-192-45-1.html
-青岛1,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/index.shtml
-青岛3,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
 
 卫视频道,#genre#
 鳳凰中文,http://43.161.237.56:2095/stream/bxtv/null-2/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
@@ -355,104 +268,6 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精采HD,http://61.221.215.25:8800/hls/48/index.m3u8
-
-250327V4,#genre#
-CCTV1综合,http://39.164.174.139:5000/nl.m3u8?id=CCTV-1HD
-CCTV2财经,http://39.164.174.139:5000/nl.m3u8?id=CCTV-2HD
-CCTV3综艺,http://39.164.174.139:5000/nl.m3u8?id=CCTV-3
-CCTV4中文国际,http://39.164.174.139:5000/nl.m3u8?id=CCTV-4HD
-CCTV5体育,http://39.164.174.139:5000/nl.m3u8?id=CCTV-5HD
-CCTV5+体育赛事,http://39.164.174.139:5000/nl.m3u8?id=CCTV-5PHD
-CCTV6电影,http://39.164.174.139:5000/nl.m3u8?id=CCTV-6HD
-CCTV7国防军事,http://39.164.174.139:5000/nl.m3u8?id=CCTV-7HD
-CCTV8电视剧,http://39.164.174.139:5000/nl.m3u8?id=CCTV-8
-CCTV9纪录,http://39.164.174.139:5000/nl.m3u8?id=CCTV-9HD
-CCTV10科教,http://39.164.174.139:5000/nl.m3u8?id=CCTV-10HD
-CCTV11戏曲,http://39.164.174.139:5000/nl.m3u8?id=CCTV-11
-CCTV12科教,http://39.164.174.139:5000/nl.m3u8?id=CCTV-12HD
-CCTV13新闻,http://39.164.174.139:5000/nl.m3u8?id=CCTV-13
-CCTV14少儿,http://39.164.174.139:5000/nl.m3u8?id=CCTV-14
-CCTV15音乐,http://39.164.174.139:5000/nl.m3u8?id=CCTV-15
-CCTV17农业农村,http://39.164.174.139:5000/nl.m3u8?id=CCTV-17HD
-书画,http://39.164.174.139:5000/nl.m3u8?id=SH
-重温经典,http://39.164.174.139:5000/nl.m3u8?id=CWJD
-中国天气,http://39.164.174.139:5000/nl.m3u8?id=CHN-TQ
-CETV1中教1台,http://39.164.174.139:5000/nl.m3u8?id=CETV-1HD
-CHC动作电影,http://39.164.174.139:5000/nl.m3u8?id=CHCDZDYHD
-CHC家庭影院,http://39.164.174.139:5000/nl.m3u8?id=CHCJTYYHD
-CHC影迷电影,http://39.164.174.139:5000/nl.m3u8?id=CHCYMDYHD
-北京卫视,http://39.164.174.139:5000/nl.m3u8?id=BJWSHD
-东方卫视,http://39.164.174.139:5000/nl.m3u8?id=DFWSHD
-天津卫视,http://39.164.174.139:5000/nl.m3u8?id=TJWSHD
-重庆卫视,http://39.164.174.139:5000/nl.m3u8?id=CQWS
-黑龙江卫视,http://39.164.174.139:5000/nl.m3u8?id=HLJWSHD
-吉林卫视,http://39.164.174.139:5000/nl.m3u8?id=JLWSHD
-辽宁卫视,http://39.164.174.139:5000/nl.m3u8?id=LNWSHD
-内蒙古卫视,http://39.164.174.139:5000/nl.m3u8?id=NMGWS
-宁夏卫视,http://39.164.174.139:5000/nl.m3u8?id=NXWS
-甘肃卫视,http://39.164.174.139:5000/nl.m3u8?id=GSWS
-青海卫视,http://39.164.174.139:5000/nl.m3u8?id=QHWS
-陕西卫视,http://39.164.174.139:5000/nl.m3u8?id=SXWS
-河北卫视,http://39.164.174.139:5000/nl.m3u8?id=HEBWSHD
-山西卫视,http://39.164.174.139:5000/nl.m3u8?id=SAXWS
-山东卫视,http://39.164.174.139:5000/nl.m3u8?id=SDWSHD
-安徽卫视,http://39.164.174.139:5000/nl.m3u8?id=AHWSHD
-河南卫视,http://39.164.174.139:5000/nl.m3u8?id=HENWSHD
-湖北卫视,http://39.164.174.139:5000/nl.m3u8?id=HBWSHD
-湖南卫视,http://39.164.174.139:5000/nl.m3u8?id=HNWSHD
-江西卫视,http://39.164.174.139:5000/nl.m3u8?id=JXWSHD
-江苏卫视,http://39.164.174.139:5000/nl.m3u8?id=JSWSHD
-浙江卫视,http://39.164.174.139:5000/nl.m3u8?id=ZJWSHD
-东南卫视,http://39.164.174.139:5000/nl.m3u8?id=DNWS
-广东卫视,http://39.164.174.139:5000/nl.m3u8?id=GDWSHD
-深圳卫视,http://39.164.174.139:5000/nl.m3u8?id=SZWSHD
-广西卫视,http://39.164.174.139:5000/nl.m3u8?id=GXWS
-云南卫视,http://39.164.174.139:5000/nl.m3u8?id=YNWS
-四川卫视,http://39.164.174.139:5000/nl.m3u8?id=SCWSHD
-新疆卫视,http://39.164.174.139:5000/nl.m3u8?id=XJWS
-兵团卫视,http://39.164.174.139:5000/nl.m3u8?id=BTWS
-西藏卫视,http://39.164.174.139:5000/nl.m3u8?id=XZWS
-北京纪实科教,http://39.164.174.139:5000/nl.m3u8?id=BJJSHD
-卡酷少儿,http://39.164.174.139:5000/nl.m3u8?id=KKDH
-四海钓鱼,http://39.164.174.139:5000/nl.m3u8?id=SHDY
-百姓生活,http://39.164.174.139:5000/nl.m3u8?id=BXSHHD
-东方财经,http://39.164.174.139:5000/nl.m3u8?id=DFCJHD
-动漫秀场,http://39.164.174.139:5000/nl.m3u8?id=DMJCHD
-劲爆体育,http://39.164.174.139:5000/nl.m3u8?id=JBTYHD
-都市剧场,http://39.164.174.139:5000/nl.m3u8?id=DSJCHD
-法治天地,http://39.164.174.139:5000/nl.m3u8?id=FZTDHD
-魅力足球,http://39.164.174.139:5000/nl.m3u8?id=MLZQHD
-乐游,http://39.164.174.139:5000/nl.m3u8?id=LYHD
-游戏风云,http://39.164.174.139:5000/nl.m3u8?id=YXFYHD
-生活时尚,http://39.164.174.139:5000/nl.m3u8?id=SHSSHD
-新动漫,http://39.164.174.139:5000/nl.m3u8?id=XDM
-茶频道,http://39.164.174.139:5000/nl.m3u8?id=CPDHD
-快乐垂钓,http://39.164.174.139:5000/nl.m3u8?id=KLCDHD
-金鹰卡通,http://39.164.174.139:5000/nl.m3u8?id=JYKT
-嘉佳卡通,http://39.164.174.139:5000/nl.m3u8?id=JJKT
-山东教育,http://39.164.174.139:5000/nl.m3u8?id=SDJY
-河南都市,http://39.164.174.139:5000/nl.m3u8?id=HENDSHD
-河南电视剧,http://39.164.174.139:5000/nl.m3u8?id=HENDSJHD
-河南公共,http://39.164.174.139:5000/nl.m3u8?id=HENGGHD
-河南新闻,http://39.164.174.139:5000/nl.m3u8?id=HNTV-XW
-河南民生,http://39.164.174.139:5000/nl.m3u8?id=HNTV3-MS
-河南法治,http://39.164.174.139:5000/nl.m3u8?id=HNTV4-FZ
-河南戏曲,http://39.164.174.139:5000/nl.m3u8?id=LYPDHD
-国学频道,http://39.164.174.139:5000/nl.m3u8?id=GXPD
-我爱导视,http://39.164.174.139:5000/nl.m3u8?id=WADSHD
-河南有线-导视,http://39.164.174.139:5000/nl.m3u8?id=HENYX-DSHD
-周口新闻综合,http://39.164.174.139:5000/nl.m3u8?id=ZKZH
-郸城有线,http://39.164.174.139:5000/nl.m3u8?id=DCYX
-淮阳新闻综合,http://39.164.174.139:5000/nl.m3u8?id=HYZH
-项城综合,http://39.164.174.139:5000/nl.m3u8?id=XCZH
-西华综合,http://39.164.174.139:5000/nl.m3u8?id=XHZH
-扶沟综合,http://39.164.174.139:5000/nl.m3u8?id=FGZH
-太康综合,http://39.164.174.139:5000/nl.m3u8?id=TKZH
-鹿邑综合,http://39.164.174.139:5000/nl.m3u8?id=LYZH
-商水综合,http://39.164.174.139:5000/nl.m3u8?id=SSZH
-沈丘综合,http://39.164.174.139:5000/nl.m3u8?id=SQZH
-凤凰中文,http://39.164.174.139:5000/nl.m3u8?id=FHZWHD
-凤凰资讯,http://39.164.174.139:5000/nl.m3u8?id=FHZXHD
 
 北京IPV6,#genre#
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -614,127 +429,6 @@ CCTV17农业农村,http://202.168.187.208:9089/tsfile/live/1004_1.m3u8?key=txipt
 嘉佳卡通,http://202.168.187.208:9089/tsfile/live/1024_1.m3u8?key=txiptv&url=tvzb.com
 岭南戏曲,http://202.168.187.208:9089/tsfile/live/1025_1.m3u8?key=txiptv&url=tvzb.com
 
-*广西玉林电信,#genre#
-CCTV1,http://116.11.156.245:8811/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
-CCTV2,http://116.11.156.245:8811/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
-CCTV3,http://116.11.156.245:8811/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
-CCTV4,http://116.11.156.245:8811/tsfile/live/0004_1.m3u8?key=txiptv&url=tvzb.com
-CCTV5,http://116.11.156.245:8811/tsfile/live/0005_1.m3u8?key=txiptv&url=tvzb.com
-CCTV5+,http://116.11.156.245:8811/tsfile/live/1020_1.m3u8?key=txiptv&url=tvzb.com
-CCTV6,http://116.11.156.245:8811/tsfile/live/faacts/0006_1.m3u8?key=txiptv&url=tvzb.com
-CCTV7,http://116.11.156.245:8811/tsfile/live/0007_1.m3u8?key=txiptv&url=tvzb.com
-CCTV8,http://116.11.156.245:8811/tsfile/live/faacts/0008_1.m3u8?key=txiptv&url=tvzb.com
-CCTV9,http://116.11.156.245:8811/tsfile/live/0009_1.m3u8?key=txiptv&url=tvzb.com
-CCTV10,http://116.11.156.245:8811/tsfile/live/0010_1.m3u8?key=txiptv&url=tvzb.com
-CCTV11,http://116.11.156.245:8811/tsfile/live/0011_1.m3u8?key=txiptv&url=tvzb.com
-CCTV12,http://116.11.156.245:8811/tsfile/live/0012_1.m3u8?key=txiptv&url=tvzb.com
-CCTV13,http://116.11.156.245:8811/tsfile/live/1052_1.m3u8?key=txiptv&url=tvzb.com
-CCTV14,http://116.11.156.245:8811/tsfile/live/0014_1.m3u8?key=txiptv&url=tvzb.com
-CCTV15,http://116.11.156.245:8811/tsfile/live/0015_1.m3u8?key=txiptv&url=tvzb.com
-CCTV16,http://116.11.156.245:8811/tsfile/live/1014_1.m3u8?key=txiptv&url=tvzb.com
-CCTV17,http://116.11.156.245:8811/tsfile/live/1041_1.m3u8?key=txiptv&url=tvzb.com
-中国教育一套 高清,http://116.11.156.245:8811/tsfile/live/1059_1.m3u8?key=txiptv&url=tvzb.com
-中国气象,http://116.11.156.245:8811/tsfile/live/1060_1.m3u8?key=txiptv&url=tvzb.com
-
-凤凰中文,http://116.11.156.245:8811/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com
-凤凰资讯,http://116.11.156.245:8811/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
-凤凰香港,http://116.11.156.245:8811/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com
-湖南卫视 高清,http://116.11.156.245:8811/tsfile/live/1049_1.m3u8?key=txiptv&url=tvzb.com
-深圳卫视 高清,http://116.11.156.245:8811/tsfile/live/1027_1.m3u8?key=txiptv&url=tvzb.com
-江苏卫视 高清,http://116.11.156.245:8811/tsfile/live/1026_1.m3u8?key=txiptv&url=tvzb.com
-北京卫视 高清,http://116.11.156.245:8811/tsfile/live/1022_1.m3u8?key=txiptv&url=tvzb.com
-东方卫视 高清,http://116.11.156.245:8811/tsfile/live/1021_1.m3u8?key=txiptv&url=tvzb.com
-广东卫视 高清,http://116.11.156.245:8811/tsfile/live/1019_1.m3u8?key=txiptv&url=tvzb.com
-浙江卫视 高清,http://116.11.156.245:8811/tsfile/live/1050_1.m3u8?key=txiptv&url=tvzb.com
-湖北卫视 高清,http://116.11.156.245:8811/tsfile/live/1043_1.m3u8?key=txiptv&url=tvzb.com
-河北卫视 高清,http://116.11.156.245:8811/tsfile/live/1045_1.m3u8?key=txiptv&url=tvzb.com
-天津卫视 高清,http://116.11.156.245:8811/tsfile/live/1044_1.m3u8?key=txiptv&url=tvzb.com
-黑龙江卫视 高清,http://116.11.156.245:8811/tsfile/live/1040_1.m3u8?key=txiptv&url=tvzb.com
-山东卫视 高清,http://116.11.156.245:8811/tsfile/live/0131_1.m3u8?key=txiptv&url=tvzb.com
-江西卫视 高清,http://116.11.156.245:8811/tsfile/live/0138_1.m3u8?key=txiptv&url=tvzb.com
-安徽卫视 高清,http://116.11.156.245:8811/tsfile/live/0130_1.m3u8?key=txiptv&url=tvzb.com
-辽宁卫视 高清,http://116.11.156.245:8811/tsfile/live/0121_1.m3u8?key=txiptv&url=tvzb.com
-甘肃卫视 高清,http://116.11.156.245:8811/tsfile/live/1032_1.m3u8?key=txiptv&url=tvzb.com
-贵州卫视 高清,http://116.11.156.245:8811/tsfile/live/1058_1.m3u8?key=txiptv&url=tvzb.com
-东南卫视 高清,http://116.11.156.245:8811/tsfile/live/1029_1.m3u8?key=txiptv&url=tvzb.com
-吉林卫视 高清,http://116.11.156.245:8811/tsfile/live/1024_1.m3u8?key=txiptv&url=tvzb.com
-广西卫视编码,http://116.11.156.245:8811/tsfile/live/0113_1.m3u8?key=txiptv&url=tvzb.com
-宁夏卫视,http://116.11.156.245:8811/tsfile/live/1081_1.m3u8?key=txiptv&url=tvzb.com
-新疆卫视,http://116.11.156.245:8811/tsfile/live/0110_1.m3u8?key=txiptv&url=tvzb.com
-延边卫视,http://116.11.156.245:8811/tsfile/live/1087_1.m3u8?key=txiptv&url=tvzb.com
-吉林卫视,http://116.11.156.245:8811/tsfile/live/0116_1.m3u8?key=txiptv&url=tvzb.com
-内蒙古卫视,http://116.11.156.245:8811/tsfile/live/0109_1.m3u8?key=txiptv&url=tvzb.com
-青海卫视,http://116.11.156.245:8811/tsfile/live/0140_1.m3u8?key=txiptv&url=tvzb.com
-陕西卫视,http://116.11.156.245:8811/tsfile/live/0136_1.m3u8?key=txiptv&url=tvzb.com
-重庆卫视,http://116.11.156.245:8811/tsfile/live/0142_1.m3u8?key=txiptv&url=tvzb.com
-甘肃卫视,http://116.11.156.245:8811/tsfile/live/0141_1.m3u8?key=txiptv&url=tvzb.com
-四川卫视,http://116.11.156.245:8811/tsfile/live/0123_1.m3u8?key=txiptv&url=tvzb.com
-山西卫视,http://116.11.156.245:8811/tsfile/live/0118_1.m3u8?key=txiptv&url=tvzb.com
-兵团卫视,http://116.11.156.245:8811/tsfile/live/0115_1.m3u8?key=txiptv&url=tvzb.com
-大湾区卫视,http://116.11.156.245:8811/tsfile/live/1084_1.m3u8?key=txiptv&url=tvzb.com
-旅游卫视,http://116.11.156.245:8811/tsfile/live/0114_1.m3u8?key=txiptv&url=tvzb.com
-
-爱上4K电影,http://116.11.156.245:8811/tsfile/live/1013_1.m3u8?key=txiptv&url=tvzb.com
-家庭影院 高清,http://116.11.156.245:8811/tsfile/live/1015_1.m3u8?key=txiptv&url=tvzb.com
-动作电影 高清,http://116.11.156.245:8811/tsfile/live/1016_1.m3u8?key=txiptv&url=tvzb.com
-高清电影,http://116.11.156.245:8811/tsfile/live/1017_1.m3u8?key=txiptv&url=tvzb.com
-金鹰纪实 高清,http://116.11.156.245:8811/tsfile/live/1047_1.m3u8?key=txiptv&url=tvzb.com
-高清新视觉,http://116.11.156.245:8811/tsfile/live/1064_1.m3u8?key=txiptv&url=tvzb.com
-天映经典 高清,http://116.11.156.245:8811/tsfile/live/1063_1.m3u8?key=txiptv&url=tvzb.com
-音乐荟萃,http://116.11.156.245:8811/tsfile/live/1065_1.m3u8?key=txiptv&url=tvzb.com
-中国音乐,http://116.11.156.245:8811/tsfile/live/1007_1.m3u8?key=txiptv&url=tvzb.com
-经典电影,http://116.11.156.245:8811/tsfile/live/1012_1.m3u8?key=txiptv&url=tvzb.com
-热播剧场,http://116.11.156.245:8811/tsfile/live/1037_1.m3u8?key=txiptv&url=tvzb.com
-中国电影,http://116.11.156.245:8811/tsfile/live/1069_1.m3u8?key=txiptv&url=tvzb.com
-广州台,http://116.11.156.245:8811/tsfile/live/1070_1.m3u8?key=txiptv&url=tvzb.com
-广东影视,http://116.11.156.245:8811/tsfile/live/1071_1.m3u8?key=txiptv&url=tvzb.com
-广东公共,http://116.11.156.245:8811/tsfile/live/1072_1.m3u8?key=txiptv&url=tvzb.com
-广东新闻,http://116.11.156.245:8811/tsfile/live/1073_1.m3u8?key=txiptv&url=tvzb.com
-广东体育,http://116.11.156.245:8811/tsfile/live/1074_1.m3u8?key=txiptv&url=tvzb.com
-优漫卡通,http://116.11.156.245:8811/tsfile/live/1120_1.m3u8?key=txiptv&url=tvzb.com
-动漫秀场,http://116.11.156.245:8811/tsfile/live/1055_1.m3u8?key=txiptv&url=tvzb.com
-野外,http://116.11.156.245:8811/tsfile/live/1086_1.m3u8?key=txiptv&url=tvzb.com
-新疆少儿,http://116.11.156.245:8811/tsfile/live/1033_1.m3u8?key=txiptv&url=tvzb.com
-嘉佳卡通,http://116.11.156.245:8811/tsfile/live/1085_1.m3u8?key=txiptv&url=tvzb.com
-炫动卡通,http://116.11.156.245:8811/tsfile/live/1080_1.m3u8?key=txiptv&url=tvzb.com
-金鹰卡通,http://116.11.156.245:8811/tsfile/live/1079_1.m3u8?key=txiptv&url=tvzb.com
-山东教育,http://116.11.156.245:8811/tsfile/live/1078_1.m3u8?key=txiptv&url=tvzb.com
-卡酷少儿,http://116.11.156.245:8811/tsfile/live/1077_1.m3u8?key=txiptv&url=tvzb.com
-本港台,http://116.11.156.245:8811/tsfile/live/1068_1.m3u8?key=txiptv&url=tvzb.com
-广西移动,http://116.11.156.245:8811/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
-家庭影院,http://116.11.156.245:8811/tsfile/live/1076_1.m3u8?key=txiptv&url=tvzb.com
-游戏风云,http://116.11.156.245:8811/tsfile/live/1010_1.m3u8?key=txiptv&url=tvzb.com
-少儿动画,http://116.11.156.245:8811/tsfile/live/1011_1.m3u8?key=txiptv&url=tvzb.com
-广西国际,http://116.11.156.245:8811/tsfile/live/1023_1.m3u8?key=txiptv&url=tvzb.com
-南宁公共 高清,http://116.11.156.245:8811/tsfile/live/1125_1.m3u8?key=txiptv&url=tvzb.com
-南宁影视 高清,http://116.11.156.245:8811/tsfile/live/1126_1.m3u8?key=txiptv&url=tvzb.com
-南宁生活 高清,http://116.11.156.245:8811/tsfile/live/1127_1.m3u8?key=txiptv&url=tvzb.com
-央视新闻回放,http://116.11.156.245:8811/tsfile/live/1046_1.m3u8?key=txiptv&url=tvzb.com
-广西新闻回放,http://116.11.156.245:8811/tsfile/live/1048_1.m3u8?key=txiptv&url=tvzb.com
-广东科教,http://116.11.156.245:8811/tsfile/live/1135_1.m3u8?key=txiptv&url=tvzb.com
-广东少儿,http://116.11.156.245:8811/tsfile/live/1136_1.m3u8?key=txiptv&url=tvzb.com
-岭南戏曲,http://116.11.156.245:8811/tsfile/live/1137_1.m3u8?key=txiptv&url=tvzb.com
-重温经典 高清,http://116.11.156.245:8811/tsfile/live/1034_1.m3u8?key=txiptv&url=tvzb.com
-有线电视娱乐高清,http://116.11.156.245:8811/tsfile/live/1031_1.m3u8?key=txiptv&url=tvzb.com
-珠江台,http://116.11.156.245:8811/tsfile/live/1138_1.m3u8?key=txiptv&url=tvzb.com
-珠江台标清,http://116.11.156.245:8811/tsfile/live/1003_1.m3u8?key=txiptv&url=tvzb.com
-牛戏剧场,http://116.11.156.245:8811/tsfile/live/1002_1.m3u8?key=txiptv&url=tvzb.com
-玉林综合 高清,http://116.11.156.245:8811/tsfile/live/1061_1.m3u8?key=txiptv&url=tvzb.com
-北流台,http://116.11.156.245:8811/tsfile/live/1066_1.m3u8?key=txiptv&url=tvzb.com
-容县台 高清,http://116.11.156.245:8811/tsfile/live/1030_1.m3u8?key=txiptv&url=tvzb.com
-玉林公共 高清,http://116.11.156.245:8811/tsfile/live/1062_1.m3u8?key=txiptv&url=tvzb.com
-广西综艺 高清,http://116.11.156.245:8811/tsfile/live/1000_1.m3u8?key=txiptv&url=tvzb.com
-广西影视 高清,http://116.11.156.245:8811/tsfile/live/1004_1.m3u8?key=txiptv&url=tvzb.com
-广西新闻 高清,http://116.11.156.245:8811/tsfile/live/1018_1.m3u8?key=txiptv&url=tvzb.com
-广西都市 高清,http://116.11.156.245:8811/tsfile/live/1028_1.m3u8?key=txiptv&url=tvzb.com
-广西卫视 高清,http://116.11.156.245:8811/tsfile/live/1025_1.m3u8?key=txiptv&url=tvzb.com
-
-北方广电V4,#genre#
-凤凰资讯,http://extraott.com/live/6772191932/1654508883/62829.m3u8
-凤凰香港,http://extraott.com/live/6772191932/1654508883/473557.m3u8
-凤凰美洲,http://extraott.com/live/6772191932/1654508883/473556.m3u8
-北京卫视,http://m.176178.xyz/php/bfgd.php?id=bjws&mm.m3u8
-
 常更新V4源,#genre#
 CCTV1香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV1,http://115.149.139.141:10000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -784,7 +478,7 @@ CCTV15,http://115.149.139.141:10000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=
 三沙卫视(标清),http://host.gaoxincloud.cn:4000/udp/239.111.205.52:5140
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
-adenu400不失效源,#genre#
+不失效源(adenu400),#genre#
 CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
 CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
 CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
@@ -808,80 +502,7 @@ CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
 凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
 
-酷9专用,#genre#
-
-CCTV1,http://119.123.178.255:8086/hls/2/index.m3u8
-CCTV2,http://119.123.178.255:8086/hls/3/index.m3u8
-CCTV3,http://119.123.178.255:8086/hls/4/index.m3u8
-CCTV4,http://119.123.178.255:8086/hls/5/index.m3u8
-CCTV5,http://119.123.178.255:8086/hls/6/index.m3u8
-CCTV6,http://119.123.178.255:8086/hls/7/index.m3u8
-CCTV7,http://119.123.178.255:8086/hls/8/index.m3u8
-CCTV8,http://119.123.178.255:8086/hls/9/index.m3u8
-CCTV9,http://119.123.178.255:8086/hls/10/index.m3u8
-CCTV10,http://119.123.178.255:8086/hls/11/index.m3u8
-CCTV11,http://119.123.178.255:8086/hls/12/index.m3u8
-CCTV12,http://119.123.178.255:8086/hls/13/index.m3u8
-CCTV13,http://119.123.178.255:8086/hls/14/index.m3u8
-CCTV14,http://119.123.178.255:8086/hls/15/index.m3u8
-CCTV15,http://119.123.178.255:8086/hls/16/index.m3u8
-CCTV16,http://119.123.178.255:8086/hls/17/index.m3u8
-天津卫视,http://119.123.178.225:8086/hls/140/index.m3u8
-吉林卫视,http://119.123.178.225:8086/hls/150/index.m3u8
-西藏卫视,http://119.123.178.225:8086/hls/152/index.m3u8
-新疆卫视,http://119.123.178.225:8086/hls/153/index.m3u8
-东南卫视,http://119.123.178.255:8086/hls/161/index.m3u8
-
-CCTV1,http://1.itv.nctv.top:8883/gaoma/cctv1.m3u8
-CCTV1,http://36.105.100.208:35455/gaoma/cctv1.m3u8
-CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8
-
-CCTV1,http://123.160.235.202:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
-CCTV2,http://123.160.235.202:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
-CCTV3,http://123.160.235.202:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
-CCTV4,http://123.160.235.202:9901/tsfile/live/0004_1.m3u8?key=txiptv&url=tvzb.com
-CCTV5,http://123.160.235.202:9901/tsfile/live/0005_1.m3u8?key=txiptv&url=tvzb.com
-CCTV6,http://123.160.235.202:9901/tsfile/live/0006_1.m3u8?key=txiptv&url=tvzb.com
-CCTV7,http://123.160.235.202:9901/tsfile/live/0007_1.m3u8?key=txiptv&url=tvzb.com
-CCTV8,http://123.160.235.202:9901/tsfile/live/0008_1.m3u8?key=txiptv&url=tvzb.com
-CCTV9,http://123.160.235.202:9901/tsfile/live/0009_1.m3u8?key=txiptv&url=tvzb.com
-CCTV10,http://123.160.235.202:9901/tsfile/live/0010_1.m3u8?key=txiptv&url=tvzb.com
-CCTV11,http://123.160.235.202:9901/tsfile/live/0011_1.m3u8?key=txiptv&url=tvzb.com
-CCTV12,http://123.160.235.202:9901/tsfile/live/0012_1.m3u8?key=txiptv&url=tvzb.com
-CCTV13,http://123.160.235.202:9901/tsfile/live/0013_1.m3u8?key=txiptv&url=tvzb.com
-CCTV14,http://123.160.235.202:9901/tsfile/live/0014_1.m3u8?key=txiptv&url=tvzb.com
-CCTV15,http://123.160.235.202:9901/tsfile/live/0015_1.m3u8?key=txiptv&url=tvzb.com
-河南卫视,http://123.160.235.202:9901/tsfile/live/0139_1.m3u8?key=txiptv&url=tvzb.com
-北京卫视,http://123.160.235.202:9901/tsfile/live/0122_1.m3u8?key=txiptv&url=tvzb.com
-山东卫视,http://123.160.235.202:9901/tsfile/live/0131_1.m3u8?key=txiptv&url=tvzb.com
-广东卫视,http://123.160.235.202:9901/tsfile/live/0125_1.m3u8?key=txiptv&url=tvzb.com
-辽宁卫视,http://123.160.235.202:9901/tsfile/live/0121_1.m3u8?key=txiptv&url=tvzb.com
-江西卫视,http://123.160.235.202:9901/tsfile/live/0138_1.m3u8?key=txiptv&url=tvzb.com
-深圳卫视,http://123.160.235.202:9901/tsfile/live/0126_1.m3u8?key=txiptv&url=tvzb.com
-广西卫视,http://123.160.235.202:9901/tsfile/live/0113_1.m3u8?key=txiptv&url=tvzb.com
-天津卫视,http://123.160.235.202:9901/tsfile/live/0135_1.m3u8?key=txiptv&url=tvzb.com
-云南卫视,http://123.160.235.202:9901/tsfile/live/0119_1.m3u8?key=txiptv&url=tvzb.com
-东南卫视,http://123.160.235.202:9901/tsfile/live/0137_1.m3u8?key=txiptv&url=tvzb.com
-山西卫视,http://123.160.235.202:9901/tsfile/live/0118_1.m3u8?key=txiptv&url=tvzb.com
-青海卫视,http://123.160.235.202:9901/tsfile/live/0140_1.m3u8?key=txiptv&url=tvzb.com
-新疆卫视,http://123.160.235.202:9901/tsfile/live/0110_1.m3u8?key=txiptv&url=tvzb.com
-都市频道,http://123.160.235.202:9901/tsfile/live/1000_1.m3u8?key=txiptv&url=tvzb.com
-民生频道,http://123.160.235.202:9901/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
-法制频道,http://123.160.235.202:9901/tsfile/live/1002_1.m3u8?key=txiptv&url=tvzb.com
-新闻频道,http://123.160.235.202:9901/tsfile/live/1003_1.m3u8?key=txiptv&url=tvzb.com
-公共频道,http://123.160.235.202:9901/tsfile/live/1004_1.m3u8?key=txiptv&url=tvzb.com
-移动戏曲,http://123.160.235.202:9901/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com
-梨园频道,http://123.160.235.202:9901/tsfile/live/1006_1.m3u8?key=txiptv&url=tvzb.com
-湖南卫视,http://123.160.235.202:9901/tsfile/live/0128_1.m3u8?key=txiptv&url=tvzb.com
-浙江卫视,http://123.160.235.202:9901/tsfile/live/0124_1.m3u8?key=txiptv&url=tvzb.com
-东方卫视,http://123.160.235.202:9901/tsfile/live/0107_1.m3u8?key=txiptv&url=tvzb.com
-重庆卫视,http://123.160.235.202:9901/tsfile/live/0142_1.m3u8?key=txiptv&url=tvzb.com
-
 测试,#genre#
 测试01,https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 测试02,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 测试03,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-
-IPV6测试,#genre#
-本人的Gitte码云：https://gitee.com/xxy002/zhiboyuan/blob/master/zby.txt  https://gitee.com/xxy002/zhiboyuan/blob/master/dsy
-会持续更新！！2024.11.18

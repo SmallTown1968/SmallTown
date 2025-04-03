@@ -11,6 +11,7 @@
 凤凰资讯,http://A/ku9/js/fengh.js?id=fhzx
 凤凰香港,http://A/ku9/js/fengh.js?id=fhhk
 
+CCTV1-OK,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV-1,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV-2,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/
 CCTV-3,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv3/

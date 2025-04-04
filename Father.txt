@@ -28,11 +28,9 @@
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=64b145ce1743254847
-三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 五星体育,http://108.181.21.27:27347/livehttpplay?channel_id=20060

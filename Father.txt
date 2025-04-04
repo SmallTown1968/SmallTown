@@ -204,6 +204,11 @@ CCTV14,http://39.135.135.76/wh7f454c46tw3573409920_2045311397/ottrrs.hl.chinamob
 CCTV15,http://39.134.65.87/wh7f454c46tw3678048063_1995458946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV17,http://39.135.135.88/wh7f454c46tw3757071990_771002896/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
+CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
+CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
+CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 CCTV4K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/

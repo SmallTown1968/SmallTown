@@ -143,7 +143,7 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 江苏卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://live.jstv.com/
 东方卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002483
 浙江卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002520
-浙江卫视2,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.cztv.com/liveTV
+浙江卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.cztv.com/liveTV
 湖南卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002475
 湖北卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002508
 广东卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002485
@@ -181,20 +181,9 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjws
 
 卫视频道,#genre#
-鳳凰中文,http://43.161.237.56:2095/stream/bxtv/null-2/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
-鳳凰資訊,http://43.161.237.56:2095/stream/bxtv/null-3/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
-鳳凰香港,http://43.161.237.56:2095/stream/bxtv/null-4/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
-
-翡翠台,http://43.161.237.56:2095/stream/bxtv/null/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
-無線新聞台,http://43.161.237.56:2095/stream/bxtv/null-1/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
-
 鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-
-鳳凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -216,13 +205,9 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
 
-凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
-
-凤凰中文,http://ttkx.cc:1658/%E5%85%AC%E5%BC%80%E6%BA%90454/fh.php?id=fhzw
-凤凰资讯,http://ttkx.cc:1658/%E5%85%AC%E5%BC%80%E6%BA%90454/fh.php?id=fhzx
-凤凰香港,http://ttkx.cc:1658/%E5%85%AC%E5%BC%80%E6%BA%90454/fh.php?id=fhhk
+凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.m3u8
 
 凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
 凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx

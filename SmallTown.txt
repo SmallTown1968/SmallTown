@@ -1,6 +1,5 @@
 2025年4月3日更新
 酷9本地js源,#genre#
-SY,http://z.b.bkpcp.top/m.php?id=cctv4o
 凤凰中文,http://A/ku9/js/fengh.js?id=fhzw
 凤凰资讯,http://A/ku9/js/fengh.js?id=fhzx
 凤凰香港,http://A/ku9/js/fengh.js?id=fhhk
@@ -185,6 +184,14 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
 
 凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -448,6 +455,11 @@ CCTV15,http://115.149.139.141:10000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=
 深圳卫视,http://115.149.139.141:10000/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://115.149.139.141:10000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 
+北京卫视,http://live.nctv.top/KLJHDS/bjtv.php?id=bjws
+北京卫视4K,http://live.nctv.top/KLJHDS/bjtv.php?id=bj4k
+北京纪实科教,http://live.nctv.top/KLJHDS/bjtv.php?id=bjxw
+五星体育,http://live4play.uk/livehttpplay?channel_id=20060
+五星体育,http://108.181.21.27:27347/livehttpplay?channel_id=20060
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 1905电影网(国内),http://php.jdshipin.com:8880/1905.php?id=1905dy

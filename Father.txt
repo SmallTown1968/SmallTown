@@ -49,6 +49,10 @@
 咪咕体育,http://39.134.65.249/PLTV/88888888/224/3221226031/1.m3u8
 精品纪录,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
+凤凰中文,http://ali.hlspull.yximgs.com/live/2abb7675f10f6f4f4fd4424149f4e3cf.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/466ac89851b6331d1d57e42f3f95919b.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/0e30231f4061e919d622eecfa8234d6a.flv
+
 凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8

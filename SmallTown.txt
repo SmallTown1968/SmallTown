@@ -457,7 +457,8 @@ CCTV15,http://115.149.139.141:10000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=
 
 北京卫视,http://live.nctv.top/KLJHDS/bjtv.php?id=bjws
 北京卫视4K,http://live.nctv.top/KLJHDS/bjtv.php?id=bj4k
-北京纪实科教,http://live.nctv.top/KLJHDS/bjtv.php?id=bjxw
+北京纪新闻,http://live.nctv.top/KLJHDS/bjtv.php?id=bjxw
+北京纪实科教,http://live.nctv.top/KLJHDS/bjtv.php?id=jskj
 五星体育,http://live4play.uk/livehttpplay?channel_id=20060
 五星体育,http://108.181.21.27:27347/livehttpplay?channel_id=20060
 重温经典,http://mtw.so/5NPX0U

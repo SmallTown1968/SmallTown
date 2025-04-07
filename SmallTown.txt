@@ -438,7 +438,6 @@ CCTV17农业农村,http://202.168.187.208:9089/tsfile/live/1004_1.m3u8?key=txipt
 
 常更新V4源,#genre#
 CCTV1香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-CCTV1gaoma,http://b.zgjok.com:35455/gaoma/cctv1.m3u8
 
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2

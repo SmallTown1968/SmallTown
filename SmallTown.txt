@@ -457,7 +457,7 @@ CCTV15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 CCTV16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 
-鳳凰中文,http://itv.iptv1688.top:2016/itv.php?id=鳳凰中文
+三沙卫视,http://itv.iptv1688.top:2016/itv.php?id=三沙卫视
 鳳凰資訊,http://itv.iptv1688.top:2016/itv.php?id=鳳凰資訊
 鳳凰香港,http://itv.iptv1688.top:2016/itv.php?id=鳳凰香港
 

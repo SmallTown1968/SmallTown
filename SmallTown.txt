@@ -460,6 +460,7 @@ CCTV17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
 CHC影迷电影,http://107.174.52.32/itv.php?id=CHC影迷电影
 CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
+北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
 湖南卫视,http://itv.iptv1688.top:2016/itv.php?id=湖南卫视
 浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
 江苏卫视,http://itv.iptv1688.top:2016/itv.php?id=江苏卫视
@@ -493,7 +494,7 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 延边卫视,http://itv.iptv1688.top:2016/itv.php?id=延边卫视
 兵团卫视,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
 山东教育,http://itv.iptv1688.top:2016/itv.php?id=山东教育
-北京科教纪实,http://itv.iptv1688.top:2016/itv.php?id=北京科教纪实
+北京纪实科教,http://itv.iptv1688.top:2016/itv.php?id=北京科教纪实
 北京卡酷少儿,http://itv.iptv1688.top:2016/itv.php?id=北京卡酷少儿
 CETV1,http://itv.iptv1688.top:2016/itv.php?id=CETV1
 CETV2,http://itv.iptv1688.top:2016/itv.php?id=CETV2
@@ -516,7 +517,6 @@ CETV4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
 东北热剧,http://itv.iptv1688.top:2016/itv.php?id=东北热剧
 欢乐剧场,http://itv.iptv1688.top:2016/itv.php?id=欢乐剧场
 黑莓电影,http://itv.iptv1688.top:2016/itv.php?id=黑莓电影
-北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
 超级体育,http://itv.iptv1688.top:2016/itv.php?id=超级体育
 古装剧场,http://itv.iptv1688.top:2016/itv.php?id=古装剧场
 爱情喜剧,http://itv.iptv1688.top:2016/itv.php?id=爱情喜剧
@@ -558,10 +558,6 @@ CCTV15,http://115.149.139.141:10000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=
 深圳卫视,http://115.149.139.141:10000/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://115.149.139.141:10000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 
-北京卫视,http://live.nctv.top/KLJHDS/bjtv.php?id=bjws
-北京卫视4K,http://live.nctv.top/KLJHDS/bjtv.php?id=bj4k
-北京新闻,http://live.nctv.top/KLJHDS/bjtv.php?id=bjxw
-北京纪实科教,http://live.nctv.top/KLJHDS/bjtv.php?id=jskj
 五星体育,https://ali.hlspull.yximgs.com/live/diyp_wuxing.flv
 五星体育,http://live4play.uk/livehttpplay?channel_id=20060
 五星体育,http://108.181.21.27:27347/livehttpplay?channel_id=20060
@@ -571,7 +567,6 @@ CCTV15,http://115.149.139.141:10000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=
 1905电影网(国内),http://183.61.168.1/hlslive.ks-cdn.m1905.com/live/LIVENCOI8M4RGOOJ9/index.m3u8
 1905电影网(国外),http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905电影网(国外),http://183.61.168.1/hlslive.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 三沙卫视(高清),https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=7622d6b81743746552
 

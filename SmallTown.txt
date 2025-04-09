@@ -2148,3 +2148,6 @@ CGTN西班牙语,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/j
 优购物,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yditv.js?cid=ystenlive&key=1000000006000269004$4M FHD
 优购物,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yditv.js?cid=ystenlive&key=1000000006000269005$4M FHD
 中视购物,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000056$4M FHD
+
+加密_123456,#genre#
+10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8

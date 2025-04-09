@@ -507,6 +507,7 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 CETV1,http://itv.iptv1688.top:2016/itv.php?id=CETV1
 CETV2,http://itv.iptv1688.top:2016/itv.php?id=CETV2
 CETV4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
+？金鹰纪实,http://itv.iptv1688.top:2016/itv.php?id=金鹰纪实
 金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
 哈哈炫动,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
 优漫卡通,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通

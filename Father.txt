@@ -49,9 +49,9 @@
 咪咕体育,http://39.134.65.249/PLTV/88888888/224/3221226031/1.m3u8
 精品纪录,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/2abb7675f10f6f4f4fd4424149f4e3cf.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/466ac89851b6331d1d57e42f3f95919b.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/0e30231f4061e919d622eecfa8234d6a.flv
+凤凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -96,6 +96,25 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?_=1738761957201
+
+CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
+CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
+CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
+CCTV4,http://itv.iptv1688.top:2016/itv.php?id=CCTV4
+CCTV5,http://itv.iptv1688.top:2016/itv.php?id=CCTV5
+CCTV5+,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
+CCTV6,http://itv.iptv1688.top:2016/itv.php?id=CCTV6
+CCTV7,http://itv.iptv1688.top:2016/itv.php?id=CCTV7
+CCTV8,http://itv.iptv1688.top:2016/itv.php?id=CCTV8
+CCTV9,http://itv.iptv1688.top:2016/itv.php?id=CCTV9
+CCTV10,http://itv.iptv1688.top:2016/itv.php?id=CCTV10
+CCTV11,http://itv.iptv1688.top:2016/itv.php?id=CCTV11
+CCTV12,http://itv.iptv1688.top:2016/itv.php?id=CCTV12
+CCTV13,http://itv.iptv1688.top:2016/itv.php?id=CCTV13
+CCTV14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
+CCTV15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
+CCTV16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
+CCTV17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8

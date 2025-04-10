@@ -1,4 +1,4 @@
-2025年4月3日更新
+2025年4月10日更新
 酷9本地js源,#genre#
 凤凰中文,http://A/ku9/js/fengh.js?id=fhzw
 凤凰资讯,http://A/ku9/js/fengh.js?id=fhzx
@@ -42,11 +42,17 @@ CCTV-16,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600098637
 CCTV-17,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001810
 CCTV-4K,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV-8K,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
+
+CGTN,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600014550
+CGTN法语,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084704
+CGTN俄语,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084758
+CGTN阿语,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084782
+CGTN西语,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084744
 CGTN记录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
+
 CCTV风云剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099620
-
 北京卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002483
@@ -118,7 +124,14 @@ CCTV16,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001810
 CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
+
+CGTN,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600014550
+CGTN法语,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084704
+CGTN俄语,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084758
+CGTN阿语,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084782
+CGTN西语,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084744
 CGTN记录,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
+
 CCTV风云剧场,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099620
@@ -183,6 +196,9 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 西藏卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600152138
 新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjws
+
+兵团卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600193252
+中国教育-1,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600171827
 
 卫视频道,#genre#
 鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8

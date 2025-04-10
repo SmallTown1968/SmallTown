@@ -90,7 +90,6 @@ CGTN记录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 兵团卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600193252
 新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
 云南卫视,http://A/ku9/js/yn.js?id=ynws
-北京卫视,http://A/ku9/js/ku9js.js?id=https://www.brtn.cn/btv/btvsy_index
 江苏卫视,http://A/ku9/js/ku9js.js?id=https://live.jstv.com/
 内蒙古卫视,http://A/ku9/js/ku9js.js?id=https://www.nmtv.cn/liveTv
 海南卫视,http://A/ku9/js/ku9js.js?id=https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home

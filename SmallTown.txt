@@ -84,10 +84,10 @@ CCTV怀旧剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6
 山西卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190403
-新疆卫视,http://A/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600152138
+新疆卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600152138
 
-兵团卫视,http://A/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600193252
-中国教育-1,http://A/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600171827
+兵团卫视,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600193252
+中国教育-1,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600171827
 
 新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
 云南卫视,http://A/ku9/js/yn.js?id=ynws
@@ -194,11 +194,11 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js
 山西卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600190403
-新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600152138
+新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600152138
 新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/xjtv.js?id=xjws
 
-兵团卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600193252
-中国教育-1,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://www.yangshipin.cn/tv/home?pid=600171827
+兵团卫视,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600193252
+中国教育-1,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600171827
 
 卫视频道,#genre#
 鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8

@@ -1,4 +1,8 @@
 失效频道,#genre#
+凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
+
 凤凰中文,http://202.62.56.28:8080/nl.m3u8?id=1041
 凤凰资讯,http://202.62.56.28:8080/nl.m3u8?id=1042
 凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=30016

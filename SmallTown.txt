@@ -1,4 +1,4 @@
-2025年4月13日更新
+2025年4月16日更新
 酷9本地快直播js源,#genre#
 CCTV1综合,http://A/ku9/js/kzbtv.js?id=484
 CCTV2财经,http://A/ku9/js/kzbtv.js?id=485
@@ -99,7 +99,7 @@ CCTV17农业农村,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-w
 兵团卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/kzbtv.js?id=530
 海南卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/kzbtv.js?id=506
 
-酷9本地js源,#genre#
+酷9本地网页直播js源,#genre#
 凤凰中文,http://A/ku9/js/fengh.js?id=fhzw
 凤凰资讯,http://A/ku9/js/fengh.js?id=fhzx
 凤凰香港,http://A/ku9/js/fengh.js?id=fhhk
@@ -196,7 +196,7 @@ CGTN记录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 宁夏卫视,http://A/ku9/js/ku9js.js?id=https://www.nxtv.com.cn/live/wsh/
 广西卫视,http://A/ku9/js/ku9js.js?id=https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 
-B酷9网络js源,#genre#
+酷9网络网页直播js源,#genre#
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fengh.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fengh.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fengh.js?id=fhhk

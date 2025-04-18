@@ -1,4 +1,4 @@
-2025年4月16日更新
+2025年4月18日更新
 酷9本地快直播js源,#genre#
 CCTV1综合,http://A/ku9/js/kzbtv.js?id=484
 CCTV2财经,http://A/ku9/js/kzbtv.js?id=485
@@ -585,7 +585,6 @@ CHC家庭影院,https://cn_all_iptv.myukj.cn/086/340000/00000/00B/22:4288
 Drama,https://cn_all_iptv.myukj.cn/086/330000/00086/000/36208/index.m3u8
 Movie,https://cn_all_iptv.myukj.cn/086/330000/00086/000/36157/index.m3u8
 
-睛彩体育,#genre#
 睛彩竞技,https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=26
 睛彩篮球,https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=27
 睛彩羽毛球,https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=28

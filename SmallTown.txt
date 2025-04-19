@@ -666,6 +666,27 @@ CCTV17农业农村,http://202.168.187.208:9089/tsfile/live/1004_1.m3u8?key=txipt
 
 常更新V4源,#genre#
 CCTV1香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+陕西西安电信
+CCTV1,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV2,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+CCTV3,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+CCTV4,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+CCTV5,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+CCTV5+http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+CCTV6,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+CCTV7,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+CCTV8,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV9,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV10,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+CCTV11,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+CCTV12,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+CCTV13,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+CCTV14,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
+CCTV15,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+CCTV16,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+CCTV17,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+CCTV4K,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3

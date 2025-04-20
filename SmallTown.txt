@@ -1,4 +1,4 @@
-2025年4月18日更新
+2025年4月20日更新
 酷9本地快直播js源,#genre#
 CCTV1综合,http://A/ku9/js/kzbtv.js?id=484
 CCTV2财经,http://A/ku9/js/kzbtv.js?id=485
@@ -403,9 +403,9 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 自选专题,#genre#
 中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
 世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
-纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
 金牌调解,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
 第三调解室,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
 金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d

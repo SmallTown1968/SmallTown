@@ -395,6 +395,14 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精采HD,http://61.221.215.25:8800/hls/48/index.m3u8
 
+自选专题,#genre#
+中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
+第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
+
 IPTV信源长期UA,#genre#
 长期UA:2724c07262457522
 2025年4月18日

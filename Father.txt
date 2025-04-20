@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年4月13日更新
+2025年4月20日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -50,6 +50,12 @@
 咪咕体育,http://39.134.65.249/PLTV/88888888/224/3221226031/1.m3u8
 精品纪录,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
+中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -65,6 +71,9 @@
 凤凰中文,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzw
 凤凰资讯,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhzx
 凤凰香港,https://d.kstore.dev/download/k-web/ku9/js/10694/tv/%E9%85%B79/ku9js/fhzx.js?id=fhhk
+
+凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&url=tvzb.com
+凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&url=tvzb.com
 
 凤凰中文(音频),http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯(音频),http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8

@@ -376,6 +376,8 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=20067
 凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=30016
 
+凤凰中文,http://ali.hlspull.yximgs.com/live/guanggao123.flv
+
 凤凰中文(音频),http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯(音频),http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 

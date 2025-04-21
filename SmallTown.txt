@@ -1,6 +1,7 @@
 央视频道,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV2,https://livealiop-finance.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?wsSecret=59565237dbdc61c3bd6902ee28f8e213&wsTime=1745226671
 CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8

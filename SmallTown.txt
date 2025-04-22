@@ -328,6 +328,9 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&url=tvzb.com
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&url=tvzb.com
 
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
+
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -621,6 +624,9 @@ CHC动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
 CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
 CHC影迷电影,http://107.174.52.32/itv.php?id=CHC影迷电影
 CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
+CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
+CHC影迷电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
+CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 
 北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
 湖南卫视,http://itv.iptv1688.top:2016/itv.php?id=湖南卫视

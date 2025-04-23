@@ -41,7 +41,7 @@
 五星体育,http://45.205.27.14:50001/5000000010000017540/bestzb/index.m3u8
 五星体育,http://45.205.27.14:50001/2000000002000000007/hnbblive/index.m3u8
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
-五星体育,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://live.kankanews.com/huikan?id=10
+五星体育,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://live.kankanews.com/huikan?id=10
 睛彩竞技,http://39.134.65.251/PLTV/88888888/224/3221225897/1.m3u8
 睛彩篮球,http://39.134.65.249/PLTV/88888888/224/3221225895/1.m3u8
 睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -191,8 +191,3 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
-
-CCTV4K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
-CCTV8K,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
-CCTV4欧洲,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
-CCTV4美洲,https://d.kstore.dev/k-web/ku9/js/download/10694/tv/%E9%85%B79/ku9js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/

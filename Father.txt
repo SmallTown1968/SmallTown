@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年4月20日更新
+2025年4月26日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -55,6 +55,10 @@
 纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+
+凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
+凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
+凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhhk
 
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx

@@ -1,5 +1,5 @@
 2025年4月27日更新
-酷9 web直播,#genre#
+酷9网页直播,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://tv.cctv.com/live/cctv3/

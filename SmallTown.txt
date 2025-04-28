@@ -1,11 +1,16 @@
 2025年4月27日更新
-酷9_web直播js源,#genre#
+酷9 web直播,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://tv.cctv.com/live/cctv3/
 CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
 CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
+
+北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
+北京卫视4K,webview://https://www.brtn.cn/btv/btvsy_index
+北京卫视4K,webview://https://www.btime.com/btv/btvsy_index
+五星体育,webview://https://live.kankanews.com/huikan?id=10
 
 酷9网络快直播js源,#genre#
 CCTV1综合,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/kzbtv.js?id=484

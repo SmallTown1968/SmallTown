@@ -22,10 +22,10 @@ CCTV16,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
 CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
-中国教育-1,webview://https://yangshipin.cn/tv/home?pid=600171827
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827
 CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
 CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
 CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
@@ -90,14 +90,13 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
-云南卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/yn.js?id=ynws
 山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
-新疆卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/xjtv.js?id=xjws
 兵团卫视,webview://https://yangshipin.cn/tv/home?pid=600193252
 五星体育,webview://https://live.kankanews.com/huikan?id=10
+三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 
 酷9网络快直播js源,#genre#
 CCTV1综合,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/kzbtv.js?id=484

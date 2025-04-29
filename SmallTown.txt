@@ -62,6 +62,7 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
 湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
 广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
+广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
@@ -69,6 +70,7 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home
 重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
 深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
+深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
 河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
 东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484

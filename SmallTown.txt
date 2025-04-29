@@ -95,8 +95,8 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
 兵团卫视,webview://https://yangshipin.cn/tv/home?pid=600193252
-五星体育,webview://https://live.kankanews.com/huikan?id=10
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
+五星体育,webview://https://live.kankanews.com/huikan?id=10
 
 酷9网络快直播js源,#genre#
 CCTV1综合,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/kzbtv.js?id=484

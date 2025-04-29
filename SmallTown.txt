@@ -1,7 +1,5 @@
-2025年4月27日更新
+2025年4月29日更新
 酷9网页直播,#genre#
-江苏卫视,#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn#https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
-
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://tv.cctv.com/live/cctv3/

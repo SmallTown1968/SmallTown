@@ -1,6 +1,5 @@
 2025年4月29日更新
 酷9网页直播,#genre#
-jsws,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://tv.cctv.com/live/cctv3/
@@ -738,6 +737,8 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 杂项
+江苏卫视:设置—列表配置—headers，第一个框为名称，随便填，第二个输入框输入{"referer":"https://api.chinaaudiovisual.cn"}，实测正常播放，书写格式有疑问可以先看下说明。酷9不支持m3u列表的#EXTVLCOPT字段读取
+江苏卫视,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
 CCTV1香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 五星体育,http://live4play.uk/livehttpplay?channel_id=20060
 五星体育,http://108.181.21.27:27347/livehttpplay?channel_id=20060

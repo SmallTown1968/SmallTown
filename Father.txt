@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年4月27日更新
+2025年5月2日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -56,13 +56,9 @@
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 
-凤凰中文,http://61.163.58.168:2005/play/forward/5?tvid=MytvPhoenixChinese&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiNDMuMTYzLjgzLjU1IiwidHZpZCI6IjY1ODg2MTc5IiwiZWNvbm9taXplIjoiMCIsImV4cCI6MTc0NTg3MzA5NCwibmJmIjoxNzQ1ODU1MDk0LCJpYXQiOjE3NDU4NTUwOTR9.PeoMptnlQl2EYbfFLVdQtUqur5UFzuU2LW4hGS5uv68
-凤凰资讯,http://61.163.58.168:2005/play/forward/5?tvid=MytvPhoenixInfo&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiNDMuMTYzLjgzLjU1IiwidHZpZCI6IjY1ODg2MTc5IiwiZWNvbm9taXplIjoiMCIsImV4cCI6MTc0NTg3MzA5NCwibmJmIjoxNzQ1ODU1MDk0LCJpYXQiOjE3NDU4NTUwOTR9.PeoMptnlQl2EYbfFLVdQtUqur5UFzuU2LW4hGS5uv68
-凤凰香港,http://61.163.58.168:2005/play/forward/5?tvid=MytvPhoenixHK&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiNDMuMTYzLjgzLjU1IiwidHZpZCI6IjY1ODg2MTc5IiwiZWNvbm9taXplIjoiMCIsImV4cCI6MTc0NTg3MzA5NCwibmJmIjoxNzQ1ODU1MDk0LCJpYXQiOjE3NDU4NTUwOTR9.PeoMptnlQl2EYbfFLVdQtUqur5UFzuU2LW4hGS5uv68
-
-凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
-凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
-凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhhk
+凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
+凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
+凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
 
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx

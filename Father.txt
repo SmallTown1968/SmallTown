@@ -56,13 +56,13 @@
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 
-凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
-凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
-凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
-
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk
+
+凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
+凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
+凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5bmz6aG25bGx5biCIiwiaXAiOiIxMTUuNTkuMTYyLjIyIiwidHZpZCI6IjI2NTg0NzE4IiwiZWNvbm9taXplIjoi5rKz5Y2XIiwiZXhwIjoxNzQ2MTI0MzQ4LCJuYmYiOjE3NDYxMDYzNDgsImlhdCI6MTc0NjEwNjM0OH0.yBAQ_s3zznsU_3IrffKLi7gBAkerR3TgxHzu9LkNkvI
 
 凤凰中文,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
@@ -71,15 +71,6 @@
 凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8
-
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&url=tvzb.com
-凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&url=tvzb.com
-
-凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
-凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
-
-凤凰香港,http://198.16.100.186:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
-凤凰香港,http://108.181.20.197/livehttpplay?channel_id=30016
 
 凤凰中文(音频),http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯(音频),http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8

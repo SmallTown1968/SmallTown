@@ -256,9 +256,9 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
-凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=bba59b2a3577ba75816e805896bd226d
-凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=bba59b2a3577ba75816e805896bd226d
-凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=bba59b2a3577ba75816e805896bd226d
+凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=ac4b146ff92dfc91efbf9d68cc64621a
+凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=ac4b146ff92dfc91efbf9d68cc64621a
+凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=ac4b146ff92dfc91efbf9d68cc64621a
 
 
 凤凰中文,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhzw&key=27595ad138831a7603bff54329c17b15

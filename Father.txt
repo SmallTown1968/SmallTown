@@ -1,11 +1,13 @@
 个人精选,#genre#
-2025年5月2日更新
+2025年5月7日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
 舞钢市新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226527/index.m3u8
 平顶山新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 平顶山新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226401/index.m3u8
+平顶山新闻综合,http://110.40.33.162:99/zb/henan.php?id=pds1
+平顶山新闻综合,http://nctv.top/IDOEPpiryt/hntv.php?id=pds1
 平顶山新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://218.28.242.173:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
@@ -174,6 +176,9 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
+北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
 
 CCTV1,http://39.135.133.132/wh7f454c46tw1195068332_748818188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://39.135.133.177/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8

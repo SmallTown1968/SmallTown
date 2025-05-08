@@ -20,6 +20,7 @@
 平顶山城市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
 平顶山城市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226388/index.m3u8
 舞阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+沁阳综合,https://gitee.com/yewengood/zhibo/raw/master/k-web/ku9/js/kzbtv.js?id=484
 沁阳综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8

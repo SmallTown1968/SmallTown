@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年5月7日更新
+2025年5月8日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -27,7 +27,9 @@
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227239/index.m3u8
 河南卫视,http://39.134.65.249/PLTV/88888888/224/3221225988/1.m3u8
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
-三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=64b145ce1743254847
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
+三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=dc4622b31746676518
+三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=fce53fde1746676646
 纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
 纪实科教,http://itv.iptv1688.top:2016/itv.php?id=北京科教纪实
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8

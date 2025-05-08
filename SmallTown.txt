@@ -256,9 +256,13 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
-凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=ac4b146ff92dfc91efbf9d68cc64621a
-凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=ac4b146ff92dfc91efbf9d68cc64621a
-凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=ac4b146ff92dfc91efbf9d68cc64621a
+凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=458b4757ea7f89347bf5280e82f44741
+凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=458b4757ea7f89347bf5280e82f44741
+凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=458b4757ea7f89347bf5280e82f44741
+
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv

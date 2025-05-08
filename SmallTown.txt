@@ -1,5 +1,6 @@
 2025年5月7日更新
 酷9网页直播,#genre#
+xxx,http://goo.bkpcp.top/mg/cctv1
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://tv.cctv.com/live/cctv3/

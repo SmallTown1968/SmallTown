@@ -1,7 +1,5 @@
 2025年5月8日更新
 酷9网页直播,#genre#
-yyy,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/webview_jscode.js?webview://https://yangshipin.cn/tv/home?pid=600001859
-xxx,http://goo.bkpcp.top/mg/cctv1
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://tv.cctv.com/live/cctv3/

@@ -1,4 +1,4 @@
-2025年5月8日更新
+2025年5月10日更新
 酷9网页直播,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
@@ -259,6 +259,10 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=458b4757ea7f89347bf5280e82f44741
 凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=458b4757ea7f89347bf5280e82f44741
 凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=458b4757ea7f89347bf5280e82f44741
+
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8

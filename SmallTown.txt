@@ -370,31 +370,31 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv#1
 凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8#2
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8#3
 凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 
-凤凰中文,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhzw&key=27595ad138831a7603bff54329c17b15
+凤凰中文,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhzw&key=27595ad138831a7603bff54329c17b15#4
 凤凰资讯,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhzx&key=ae0fae9bbeb7686f53436e93095d7597
 凤凰香港,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhhk&key=c0bda36219ee6719fd0e4fa6d95ed24e
 
-凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2
+凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2#5
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1
 凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3
 
-凤凰中文,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#6
 凤凰资讯,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8
 
-凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#7
 凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8
 

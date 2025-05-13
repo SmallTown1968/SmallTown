@@ -382,7 +382,7 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 
-凤凰中文,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhzw&key=27595ad138831a7603bff54329c17b15#4
+凤凰中文,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhzw&key=27595ad138831a7603bff54329c17b15$4
 凤凰资讯,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhzx&key=ae0fae9bbeb7686f53436e93095d7597
 凤凰香港,http://47.108.195.225:96/yhplay/gat.php?type=3&id=fhhk&key=c0bda36219ee6719fd0e4fa6d95ed24e
 
@@ -408,52 +408,52 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
-凤凰中文,http://156.229.163.158:2095/stream/iptv/null/master.m3u8
+凤凰中文,http://156.229.163.158:2095/stream/iptv/null/master.m3u8$11
 凤凰资讯,http://156.229.163.158:2095/stream/iptv/null-1/master.m3u8
 凤凰香港,http://156.229.163.158:2095/stream/iptv/null-2/master.m3u8
 
-凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$12
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 
 凤凰资讯,http://cdn6.132.us.kg/live/fhzx/stream.m3u8
 凤凰香港,http://cdn6.132.us.kg/live/fhhk/stream.m3u8
 
-凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8$13
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰香港,https://cdn3.163189.xyz/live/fhhk/stream.m3u8
 
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065$14
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
 
-凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw$15
 凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx
 凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$16
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$17
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$18
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw2
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw2$19
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 
-凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
-凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b$20
+凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068$21
+凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c$22
+凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83$23
 
 凤凰资讯,http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
 凤凰资讯,http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
@@ -465,20 +465,20 @@ CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 凤凰香港,http://198.16.100.186:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://198.16.100.186:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 
-凤凰中文,http://108.181.20.197/livehttpplay?channel_id=30014
+凤凰中文,http://108.181.20.197/livehttpplay?channel_id=30014$24
 凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=30015
 凤凰香港,http://108.181.20.197/livehttpplay?channel_id=30016
 
-凤凰中文,http://108.181.20.197/livehttpplay?channel_id=20065
+凤凰中文,http://108.181.20.197/livehttpplay?channel_id=20065$25
 凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=20066
 凤凰香港,http://108.181.20.197/livehttpplay?channel_id=20067
 
 凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=20067
 凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=30016
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/guanggao123.flv
+凤凰中文,http://ali.hlspull.yximgs.com/live/guanggao123.flv$26
 
-凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=458b4757ea7f89347bf5280e82f44741
+凤凰中文,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixChinese&token=458b4757ea7f89347bf5280e82f44741$27
 凤凰资讯,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixInfo&token=458b4757ea7f89347bf5280e82f44741
 凤凰香港,http://61.163.58.168:2060/play/forward/1?tvid=MytvPhoenixHK&token=458b4757ea7f89347bf5280e82f44741
 

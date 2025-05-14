@@ -9,6 +9,7 @@
 平顶山新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226401/index.m3u8
 平顶山新闻综合,http://110.40.33.162:99/zb/henan.php?id=pds1
 平顶山新闻综合,http://nctv.top/IDOEPpiryt/hntv.php?id=pds1
+平顶山新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=pds1
 平顶山新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山新闻综合,http://218.28.242.173:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226399/index.m3u8

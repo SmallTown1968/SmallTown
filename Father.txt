@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年5月14日更新
+2025年5月15日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -34,7 +34,7 @@
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 北京纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
 北京纪实科教,http://itv.iptv1688.top:2016/itv.php?id=北京科教纪实
-上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+上海纪实人文,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典,http://mtw.so/5NPX0U
@@ -206,24 +206,23 @@ CCTV13,http://39.135.135.59/wh7f454c46tw2865102463_-1959664190/ottrrs.hl.chinamo
 CCTV14,http://39.135.135.76/wh7f454c46tw3573409920_2045311397/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV15,http://39.134.65.87/wh7f454c46tw3678048063_1995458946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV17,http://39.135.135.88/wh7f454c46tw3757071990_771002896/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV16,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV3,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV14,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV16,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816

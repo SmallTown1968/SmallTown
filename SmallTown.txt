@@ -527,7 +527,6 @@ CGTN西语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/j
 CGTN记录,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
 电影频道,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=cctv6
 1905电影网,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=1905a
-1905电影网2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=1905b
 
 CCTV1,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/

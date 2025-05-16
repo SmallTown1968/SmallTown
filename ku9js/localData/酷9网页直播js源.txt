@@ -134,6 +134,8 @@ CGTN俄语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/j
 CGTN阿语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084782
 CGTN西语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084744
 CGTN记录,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
+1905电影网(国内频道),https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=1905a
+1905电影网(电影频道),https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=cctv6
 
 CCTV1,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/

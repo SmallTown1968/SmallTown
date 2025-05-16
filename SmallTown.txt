@@ -1,4 +1,4 @@
-2025年5月15日更新
+2025年5月16日更新
 范明明IPV6,#genre#
 CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
@@ -527,6 +527,7 @@ CGTN西语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/j
 CGTN记录,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
 电影频道,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=cctv6
 1905电影网,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=1905a
+1905电影网2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=1905b
 
 CCTV1,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/

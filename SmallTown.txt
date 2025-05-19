@@ -1,5 +1,6 @@
 2025年5月16日更新
 范明明IPV6,#genre#
+cctv2,http://www.dsk.cc/cctv/cctv2.html
 凤凰中文,http://156.253.12.5:932/pj/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 凤凰卫视,http://156.253.12.5:932/pj/main.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86
 凤凰资讯,http://156.253.12.5:932/pj/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF

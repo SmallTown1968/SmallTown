@@ -1,4 +1,12 @@
 2025年5月19日更新
+5月19日更新,#genre#
+凤凰中文,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+凤凰卫视,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86
+凤凰资讯,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
+凤凰资讯高清,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85
+凤凰香港,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
+凤凰香港台,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
+
 酷9网页央卫,#genre#
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx

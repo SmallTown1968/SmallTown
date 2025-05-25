@@ -62,10 +62,6 @@
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 
-凤凰中文,http://154.40.47.19:668/gy/gy_a8b8/老懒骗子爆光平台bg.hzyhjg.cc发布.php?id=凤凰中文台
-凤凰资讯,http://154.40.47.19:668/gy/gy_a8b8/老懒骗子爆光平台bg.hzyhjg.cc发布.php?id=凤凰资讯台
-凤凰香港,http://154.40.47.19:668/gy/gy_a8b8/老懒骗子爆光平台bg.hzyhjg.cc发布.php?id=凤凰香港台
-
 凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1
 凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3

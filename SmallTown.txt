@@ -115,22 +115,6 @@
 989,http://8.138.7.223/tv/ptbtv.php?id=989
 996,http://8.138.7.223/tv/ptbtv.php?id=996
 
-5月20日更新,#genre#
-凤凰中文(超清),http://180.137.20.56:8181/tsfile/live/1083_1.m3u8
-凤凰资讯(超清),http://180.137.20.56:8181/tsfile/live/1082_1.m3u8
-凤凰香港(超清),http://180.137.20.56:8181/tsfile/live/1084_1.m3u8
-
-凤凰资讯(超清),http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85
-
-凤凰中文(标清),http://cp.catvbj.top:5003/live2018.m3u8
-凤凰资讯(标清),http://cp.catvbj.top:5003/live1032.m3u8
-凤凰香港(标清),http://cp.catvbj.top:5003/live1033.m3u8
-
-凤凰中文(标清),http://171.38.41.254:8181/tsfile/live/1014_1.m3u8
-凤凰资讯(标清),http://171.38.41.254:8181/tsfile/live/1015_1.m3u8
-
-凤凰中文(标清),http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
-
 酷9网页央卫,#genre#
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
@@ -279,6 +263,12 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 凤凰中文,http://156.229.163.158:2095/stream/iptv/null/master.m3u8$11
 凤凰资讯,http://156.229.163.158:2095/stream/iptv/null-1/master.m3u8
 凤凰香港,http://156.229.163.158:2095/stream/iptv/null-2/master.m3u8
+
+凤凰资讯(超清),http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85
+
+凤凰中文(标清),http://cp.catvbj.top:5003/live2018.m3u8
+凤凰资讯(标清),http://cp.catvbj.top:5003/live1032.m3u8
+凤凰香港(标清),http://cp.catvbj.top:5003/live1033.m3u8
 
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$12
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8

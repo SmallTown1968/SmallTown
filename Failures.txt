@@ -1,4 +1,11 @@
 凤凰TV失效频道,#genre#
+凤凰中文(超清),http://180.137.20.56:8181/tsfile/live/1083_1.m3u8
+凤凰资讯(超清),http://180.137.20.56:8181/tsfile/live/1082_1.m3u8
+凤凰香港(超清),http://180.137.20.56:8181/tsfile/live/1084_1.m3u8
+凤凰中文(标清),http://171.38.41.254:8181/tsfile/live/1014_1.m3u8
+凤凰资讯(标清),http://171.38.41.254:8181/tsfile/live/1015_1.m3u8
+凤凰中文(标清),http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
+
 CCTV1,http://61.163.58.168:2060/play/forward/2?tvid=1&token=bba59b2a3577ba75816e805896bd226d
 CCTV2,http://61.163.58.168:2060/play/forward/2?tvid=1&token=bba59b2a3577ba75816e805896bd226d
 CCTV3,http://61.163.58.168:2060/play/forward/2?tvid=3&token=bba59b2a3577ba75816e805896bd226d

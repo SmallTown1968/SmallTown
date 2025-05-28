@@ -873,15 +873,21 @@ CCTV1香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream
 1905电影网(国外),http://183.61.168.1/hlslive.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 
 专题轮播,#genre#
-中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
-世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
-纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
-传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
-经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
-金牌调解,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
-第三调解室,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
-金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
-第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
+中国通史,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+金牌调解,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
+第三调解室,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
+
+中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+纪实档案,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+传奇故事,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
+第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
 
 不失效源(adenu400),#genre#
 CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD

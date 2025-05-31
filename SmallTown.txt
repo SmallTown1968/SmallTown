@@ -251,6 +251,9 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 常新央卫V4,#genre#
+CCTV2,http://8.138.7.223/tv/cctv2.php
+山西卫视,http://171.118.98.85:9003/hls/19/index.m3u8
+
 莆田线路
 莆田CCTV1,webview://http://www.dsk.cc/fjtv/ptxl.html?id=cctv1
 

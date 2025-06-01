@@ -111,9 +111,17 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 五星体育,webview://https://live.kankanews.com/huikan?id=10
 
 卫视频道V4,#genre#
-凤凰中文,http://ali.hlspull.yximgs.com/live/d72554d7928a968aade0e45aed7d041f.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/76b743770cb596414e7282a16ac13b92.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/83cb67a2f65ead32a897c54f1db81d95.flv
+凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2
+凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1
+凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3
+
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv$1
 凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv

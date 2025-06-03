@@ -1,7 +1,7 @@
 2025年6月2日更新
 TAO电视探探live,#genre#
 itv(未试验凤凰)
-ccccc,http://qwttv.iptv1688.top:2015/api/luotuo/epg?id=CCTV1
+ccccc,http://qwttv.iptv1688.top:2015/itv.php?id=CCTV1
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3

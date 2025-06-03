@@ -1,7 +1,6 @@
 2025年6月2日更新
 TAO电视探探live,#genre#
 itv(未试验凤凰)
-ddddd,http://qwttv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV1,http://qwttv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
@@ -418,7 +417,7 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香祖国同胞
+凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻

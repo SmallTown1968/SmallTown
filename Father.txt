@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年5月26日更新
+2025年6月4日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -33,21 +33,11 @@
 三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=fce53fde1746676646
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 北京纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
-北京纪实科教,http://itv.iptv1688.top:2016/itv.php?id=北京科教纪实
 上海纪实人文,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-五星体育,http://live4play.uk/livehttpplay?channel_id=20060
-五星体育,http://108.181.21.27:27347/livehttpplay?channel_id=20060
-五星体育,http://193.134.211.158:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
-五星体育,http://3501776.xyz:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-五星体育,http://218.1.238.140:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-五星体育,http://45.205.27.14:50001/5000000010000017540/bestzb/index.m3u8
-五星体育,http://45.205.27.14:50001/2000000002000000007/hnbblive/index.m3u8
-五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
-五星体育,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://live.kankanews.com/huikan?id=10
 睛彩竞技,http://39.134.65.251/PLTV/88888888/224/3221225897/1.m3u8
 睛彩篮球,http://39.134.65.249/PLTV/88888888/224/3221225895/1.m3u8
 睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -56,11 +46,17 @@
 咪咕体育,http://39.134.65.249/PLTV/88888888/224/3221226031/1.m3u8
 精品纪录,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
-中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
-世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
-纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
-传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
-经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+纪实档案,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+传奇故事,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+
+中国通史,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 
 凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1

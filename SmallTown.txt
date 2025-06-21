@@ -944,6 +944,25 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 五星体育,webview://https://live.kankanews.com/huikan?id=10
 
+河南党建web
+CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
+CCTV6,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
+CCTV7,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV9,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
+CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+北京卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+浙江卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
+河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
+河南都市,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=13
+河南民生,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
+河南梨园,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
+远程党员教育,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=0
+
 专题轮播,#genre#
 中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
 世界历史,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d

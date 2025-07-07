@@ -95,6 +95,10 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 卫视频道V4,#genre#
+凤凰中文,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8$01
+凤凰资讯,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8$01
+凤凰香港,https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8$01
+
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8$EXO硬解
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8$EXO硬解
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8$EXO硬解

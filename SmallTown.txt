@@ -1,4 +1,4 @@
-2025年6月5日更新
+2025年7月7日更新
 TAO电视探探live,#genre#
 itv(未试验凤凰)
 CCTV1,http://qwttv.iptv1688.top:2016/itv.php?id=CCTV1
@@ -98,6 +98,10 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰中文,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8$01
 凤凰资讯,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8$01
 凤凰香港,https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8$01
+
+凤凰中文,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhzw&key=809050750c5bdd7831e38ec57fb1ee70$02
+凤凰资讯,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhzx&key=76457982484a5f478f6ba243196f394c$02
+凤凰香港,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhhk&key=bb8fa6f37536b6c5088d217b34e0e520$02
 
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8$EXO硬解
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8$EXO硬解

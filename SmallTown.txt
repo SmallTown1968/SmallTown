@@ -1,4 +1,4 @@
-2025年7月7日更新
+2025年7月11日更新
 TAO电视探探live,#genre#
 itv(未试验凤凰)
 CCTV1,http://qwttv.iptv1688.top:2016/itv.php?id=CCTV1
@@ -222,6 +222,7 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=30016
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/guanggao123.flv$26
+凤凰香港,http://feng163.com:8001/bysid/85.m3u8
 
 凤凰中文(音频),http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯(音频),http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
@@ -249,8 +250,6 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 常新央卫V4,#genre#
-CCTV1,http://tp88.cn/IPTV/fujian/pttv.php?id=cctv1
-
 河南省洛阳市移动
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
@@ -320,7 +319,7 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 郑州妇女儿童,http://qwt.zhibotv.top:2016/全网通.php?id=郑州妇女儿童
 郑州都市生活,http://qwt.zhibotv.top:2016/全网通.php?id=郑州都市生活
 
-山东省德州市电信
+XXX山东省德州市电信
 CCTV1,http://182.32.159.109:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://182.32.159.109:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://182.32.159.109:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -384,7 +383,7 @@ CCTV17,http://182.32.159.109:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&au
 烟台新闻综合,http://182.32.159.109:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 军号线路
-CCTV1,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 
 广东省广州市阿里云
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27

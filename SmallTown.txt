@@ -249,6 +249,8 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 常新央卫V4,#genre#
+CCTV1,http://tp88.cn/IPTV/fujian/pttv.php?id=cctv1
+
 河南省洛阳市移动
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2

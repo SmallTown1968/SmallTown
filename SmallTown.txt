@@ -269,6 +269,18 @@ CCTV14,http://cqcb.live.iptv.darwinchow.com/cctv14HD
 CCTV15,http://cqcb.live.iptv.darwinchow.com/cctv15HD
 CCTV16,http://cqcb.live.iptv.darwinchow.com/cctv16HD
 CCTV17,http://cqcb.live.iptv.darwinchow.com/cctv17HD
+湖南卫视,http://cqcb.live.iptv.darwinchow.com/hunanHD
+浙江卫视,http://cqcb.live.iptv.darwinchow.com/zhejiangHD
+江苏卫视,http://cqcb.live.iptv.darwinchow.com/jiangsuHD
+东方卫视,http://cqcb.live.iptv.darwinchow.com/shanghaiHD
+北京卫视,http://cqcb.live.iptv.darwinchow.com/beijingHD
+广东卫视,http://cqcb.live.iptv.darwinchow.com/guangdongHD
+深圳卫视,http://cqcb.live.iptv.darwinchow.com/shenzhenHD
+天津卫视,http://cqcb.live.iptv.darwinchow.com/tianjinHD
+黑龙江卫视,http://cqcb.live.iptv.darwinchow.com/heilongjiangHD
+山东卫视,http://cqcb.live.iptv.darwinchow.com/shandongHD
+安徽卫视,http://cqcb.live.iptv.darwinchow.com/anhuiSD
+东南卫视,http://cqcb.live.iptv.darwinchow.com/dongnanHD
 
 河南省洛阳市移动
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1

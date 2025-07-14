@@ -251,6 +251,25 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 常新央卫V4,#genre#
+星火电视
+CCTV1,http://cqcb.live.iptv.darwinchow.com/cctv1HD
+CCTV2,http://cqcb.live.iptv.darwinchow.com/cctv2HD
+CCTV3,http://cqcb.live.iptv.darwinchow.com/cctv3HD
+CCTV4,http://cqcb.live.iptv.darwinchow.com/cctv4HD
+CCTV5,http://cqcb.live.iptv.darwinchow.com/cctv5HD
+CCTV6,http://cqcb.live.iptv.darwinchow.com/cctv6HD
+CCTV7,http://cqcb.live.iptv.darwinchow.com/cctv7HD
+CCTV8,http://cqcb.live.iptv.darwinchow.com/cctv8HD
+CCTV9,http://cqcb.live.iptv.darwinchow.com/cctv9HD
+CCTV10,http://cqcb.live.iptv.darwinchow.com/cctv10HD
+CCTV11,http://cqcb.live.iptv.darwinchow.com/cctv11HD
+CCTV12,http://cqcb.live.iptv.darwinchow.com/cctv12HD
+CCTV13,http://cqcb.live.iptv.darwinchow.com/cctv13HD
+CCTV14,http://cqcb.live.iptv.darwinchow.com/cctv14HD
+CCTV15,http://cqcb.live.iptv.darwinchow.com/cctv15HD
+CCTV16,http://cqcb.live.iptv.darwinchow.com/cctv16HD
+CCTV17,http://cqcb.live.iptv.darwinchow.com/cctv17HD
+
 河南省洛阳市移动
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2

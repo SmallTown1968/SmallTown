@@ -99,25 +99,29 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 
-凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+
+凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$10
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+
+凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-
-凤凰中文,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8$01
-凤凰资讯,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8$01
-凤凰香港,https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8$01
+凤凰中文,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8$xxx
+凤凰资讯,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8$xxx
+凤凰香港,https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8$xxx
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
@@ -144,13 +148,9 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 
-凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2
-凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1
-凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3
-
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$10
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2$xxx
+凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$xxx
+凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$xxx
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv$1
 凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv

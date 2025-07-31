@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年7月30日更新
+2025年7月31日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -77,23 +77,6 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,https://al-pull.hkatv.vip/live/hkstv3.m3u8?auth_key=1750080146-0-0-d8cec6186ce51278494dea59a146589a
 
-CCTV1,http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8$黑龙江移动
-CCTV2,http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8$黑龙江移动
-CCTV3,http://39.134.64.87:6610/PLTV/88888888/224/3221226021/index.m3u8$黑龙江移动
-CCTV4,http://39.134.64.87:6610/PLTV/88888888/224/3221226428/index.m3u8$黑龙江移动
-CCTV5,http://39.134.64.87:6610/PLTV/88888888/224/3221226019/index.m3u8$黑龙江移动
-CCTV5+,http://39.134.64.87:6610/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动
-CCTV6,http://39.134.64.87:6610/PLTV/88888888/224/3221226010/index.m3u8$黑龙江移动
-CCTV7,http://39.134.64.87:6610/PLTV/88888888/224/3221225733/index.m3u8$黑龙江移动
-CCTV8,http://39.134.64.87:6610/PLTV/88888888/224/3221226008/index.m3u8$黑龙江移动
-CCTV9,http://39.134.64.87:6610/PLTV/88888888/224/3221225734/index.m3u8$黑龙江移动
-CCTV10,http://39.134.64.87:6610/PLTV/88888888/224/3221225730/index.m3u8$黑龙江移动
-CCTV12,http://39.134.64.87:6610/PLTV/88888888/224/3221225731/index.m3u8$黑龙江移动
-CCTV13,http://39.134.64.87:6610/PLTV/88888888/224/3221226537/index.m3u8$黑龙江移动
-CCTV14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8$黑龙江移动
-CCTV16,http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8$黑龙江移动
-CCTV17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8$黑龙江移动
-
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8
@@ -158,6 +141,8 @@ CCTV14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
+CCTV16,http://www.dsk.cc/p/fsyd.php?id=cctv16
+CCTV16,http://www.dsk.cc/php/sxgd.php?id=cctv16&m.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8

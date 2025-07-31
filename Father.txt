@@ -143,6 +143,7 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 CCTV16,http://www.dsk.cc/p/fsyd.php?id=cctv16
 CCTV16,http://www.dsk.cc/php/sxgd.php?id=cctv16&m.m3u8
+CCTV16,http://115.190.105.236:5566/live/cctv16?token=OK
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8

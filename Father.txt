@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年7月31日更新
+2025年8月1日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -58,9 +58,9 @@
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 
-凤凰中文,http://bx.757888.xyz/mytv/?id=null-4
-凤凰资讯,http://bx.757888.xyz/mytv/?id=null-5
-凤凰香港,http://bx.757888.xyz/mytv/?id=null-6
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
@@ -142,7 +142,8 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 CCTV16,http://www.dsk.cc/p/fsyd.php?id=cctv16
-CCTV16,http://www.dsk.cc/php/sxgd.php?id=cctv16&m.m3u8
+CCTV16,http://www.dsk.cc/p/sxgd.html?id=cctv16
+CCTV16,http://www.dsk.cc/p/szlt.html?id=cctv16
 CCTV16,http://115.190.105.236:5566/live/cctv16?token=OK
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8

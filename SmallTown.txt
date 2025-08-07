@@ -95,9 +95,9 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 卫视频道V4,#genre#
-凤凰中文,webview://https://m.345iptv.com/?act=play&token=e086d26b9ced0e8ce90e5bbd207a6478&tid=gt&id=1
-凤凰资讯,webview://https://m.345iptv.com/?act=play&token=d81bb2fc0a912aeafa7db58e4f0e97cc&tid=gt&id=2
-凤凰香港,webview://https://m.345iptv.com/?act=play&token=1f4bed377532f4b21d042fa0f0e077da&tid=gt&id=3
+凤凰中文,webview://http://m.345iptv.com/?act=play&token=e086d26b9ced0e8ce90e5bbd207a6478&tid=gt&id=1
+凤凰资讯,webview://http://m.345iptv.com/?act=play&token=d81bb2fc0a912aeafa7db58e4f0e97cc&tid=gt&id=2
+凤凰香港,webview://http://m.345iptv.com/?act=play&token=1f4bed377532f4b21d042fa0f0e077da&tid=gt&id=3
 
 凤凰中文,http://8.138.7.223/tv/fh.php?id=1$看电视代理
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2$看电视代理
@@ -1547,6 +1547,7 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

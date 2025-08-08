@@ -686,6 +686,22 @@ CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv
 金鹰卡通,https://live.sxrtv.com/iptv/jykt.flv
 
 星火电视
+CCTV1,http://m.061899.xyz:80/mg/cctv1
+CCTV2,http://m.061899.xyz:80/mg/cctv2
+CCTV3,http://m.061899.xyz:80/mg/cctv3
+CCTV4,http://m.061899.xyz:80/mg/cctv4
+CCTV5,http://m.061899.xyz:80/mg/cctv5
+CCTV5+,http://m.061899.xyz:80/mg/cctv5p
+CCTV6,http://m.061899.xyz:80/mg/cctv6
+CCTV7,http://m.061899.xyz:80/mg/cctv7
+
+
+
+
+
+CCTV16,http://m.061899.xyz:80/mg/cctv16
+
+
 CCTV1,http://cqcb.live.iptv.darwinchow.com/cctv1HD
 CCTV2,http://cqcb.live.iptv.darwinchow.com/cctv2hd
 CCTV3,http://cqcb.live.iptv.darwinchow.com/cctv3HD
@@ -1554,6 +1570,7 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

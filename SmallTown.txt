@@ -701,6 +701,8 @@ CCTV7,http://m.061899.xyz:80/mg/cctv7
 
 CCTV16,http://m.061899.xyz:80/mg/cctv16
 
+咪咕线路
+CCTV1,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=569db5d89361217315b4946595030835&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20250808121607&Channel_ID=0116_2600035000-99000-201600010001107&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=101.132.153.183&SecurityKey=20250808121607&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.7.3-RELEASE&userid=1404324149&jmhm=569db5d89361217315b4946595030835&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=7decb2b80eb9d3c82cd07712c77677d1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7df0426d8c1364c20fd3a3e94af033e4
 
 CCTV1,http://cqcb.live.iptv.darwinchow.com/cctv1HD
 CCTV2,http://cqcb.live.iptv.darwinchow.com/cctv2hd
@@ -1570,6 +1572,7 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

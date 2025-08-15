@@ -1,4 +1,4 @@
-2025年8月13日更新
+2025年8月15日更新
 酒店源,#genre#
 CCTV-1 综合,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
 CCTV-2 财经,http://117.114.153.18:8182/hls/TV00000000000000000140@HHZT.m3u8
@@ -347,6 +347,10 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 卫视频道V4,#genre#
+凤凰中文,https://hyf000.eu.org/80947108/FHZW
+凤凰资讯,https://hyf000.eu.org/80947108/FHZX
+凤凰香港,https://hyf000.eu.org/80947108/FHXG
+
 凤凰中文,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhzw&key=63960e3620e010ff622c8d23d6045a6e
 凤凰资讯,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhzx&key=732f1eb88a635ac8ee50f37fefcc3d86
 凤凰香港,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhhk&key=5f12d40593db89dd32fb2afa9db747c2
@@ -1820,6 +1824,7 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

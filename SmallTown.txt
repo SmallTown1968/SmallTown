@@ -1,6 +1,7 @@
 2025年8月16日更新
-百视通,#genre#
+BesTV,#genre#,DE=1#SC=1#HEADERS=null#JS=null#PB=null#HOST=null#PBO=0#IJKAD=-1#TSO=0
 ﻿CCTV-1 综合,http://ts-gitv-hb-yh.189smarthome.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV1,http://ts-gitv-hb-yh.189smarthome.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV-2 财经,http://ts-gitv-hb-yh.189smarthome.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV-3 综艺,http://ts-gitv-hb-yh.189smarthome.com/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV-4 中文国际,http://ts-gitv-hb-yh.189smarthome.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
@@ -1979,6 +1980,7 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

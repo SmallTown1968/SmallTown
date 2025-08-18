@@ -155,6 +155,10 @@ CCTV16,http://tv.netlive.ggff.net/cctv16
 CCTV16,http://www.dsk.cc/p/jllt.html?id=cctv16
 CCTV16,http://www.dsk.cc/p/zqyd.html?id=cctv16
 CCTV16,http://115.190.105.236:5566/live/cctv16?token=OK
+CCTV16,webview://https://tv.cctv.com/live/cctv16/
+CCTV16,webview://https://yangshipin.cn/tv/home?pid=600098637
+CCTV16,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv16/
+CCTV16,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600098637
 
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
@@ -248,6 +252,7 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 
 
 

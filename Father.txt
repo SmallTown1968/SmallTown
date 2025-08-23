@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年8月19日更新
+2025年8月23日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -148,6 +148,9 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 
+CCTV16,http://36.32.99.146:5003/cctv16.m3u8
+CCTV16,http://www.dsk.cc/p/cqyx.html?id=cctv16_4k
+CCTV16,webview://http://www.dsk.cc/p/cqyx.html?id=cctv16_4k
 CCTV16,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226120/index.m3u8
 CCTV16,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
 CCTV16,http://139.209.36.245:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -253,6 +256,7 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 
 
 

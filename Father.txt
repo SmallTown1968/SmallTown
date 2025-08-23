@@ -148,9 +148,9 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 
+CCTV16,http://120.198.234.199:8088/000000001001/1.m3u8?cmcc_cid=PLTV/651/224/3221227840&HlsProfileId=
+CCTV16,http://39.137.75.232/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive
 CCTV16,http://36.32.99.146:5003/cctv16.m3u8
-CCTV16,http://www.dsk.cc/p/cqyx.html?id=cctv16_4k
-CCTV16,webview://http://www.dsk.cc/p/cqyx.html?id=cctv16_4k
 CCTV16,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226120/index.m3u8
 CCTV16,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
 CCTV16,http://139.209.36.245:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -256,6 +256,7 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 
 
 

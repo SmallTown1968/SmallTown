@@ -1,4 +1,4 @@
-2025年8月19日更新
+2025年8月23日更新
 上海移动代理,#genre#
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8?
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8?
@@ -1068,6 +1068,10 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 卫视频道V4,#genre#
+凤凰中文,http://58.152.53.196:13960/stream/iptv/null-1/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
+凤凰资讯,http://58.152.53.196:13960/stream/iptv/null/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
+凤凰香港,http://58.152.53.196:13630/stream/iptv/null-2/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
+
 凤凰中文,https://hyf000.eu.org/80947108/FHZW
 凤凰资讯,https://hyf000.eu.org/80947108/FHZX
 凤凰香港,https://hyf000.eu.org/80947108/FHXG
@@ -2545,6 +2549,7 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

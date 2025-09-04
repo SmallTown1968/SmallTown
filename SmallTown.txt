@@ -1,4 +1,4 @@
-2025年8月29日更新
+2025年9月4日更新
 海南移动,#genre#
 CCTV1,http://39.134.136.196:6410/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$8M%20FHD
 CCTV1,http://39.134.136.196:6410/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3$4M%20FHD
@@ -1555,6 +1555,10 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 卫视频道V4,#genre#
+凤凰中文,http://8.138.7.223/tv/fh.php?id=1
+凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
+凤凰香港,http://8.138.7.223/tv/fh.php?id=3
+
 凤凰中文,http://58.152.53.196:13960/stream/iptv/null-1/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
 凤凰资讯,http://58.152.53.196:13960/stream/iptv/null/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
 凤凰香港,http://58.152.53.196:13630/stream/iptv/null-2/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
@@ -3261,6 +3265,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

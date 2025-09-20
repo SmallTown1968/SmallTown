@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年9月18日更新
+2025年9月20日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -57,6 +57,10 @@
 纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+
+凤凰中文,http://stream-ali1.csslcloud.net/live/026d91ca1dd7f81449ccb2712546480b.flv
+凤凰资讯,http://stream-ali1.csslcloud.net/live/18b864131bc87e0956abe0ad9f3e4bd5.flv
+凤凰香港,http://stream-ali1.csslcloud.net/live/7b8d97f28d71e0114972a01505eb9704.flv
 
 凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -148,6 +152,7 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 
+CCTV16,http://live.tinktek.net/live/1016_1.m3u8?key0=125413154168&sign=ZTQyMmQyNjAzZGViODQ1YjZmMmNiNjBmZjUwMjAyYTIxMjU0MTMxNTQxNjg=%0A
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
 CCTV16,http://sh.lnott.top:880/dx201.m3u8
 CCTV16,http://iptv.4666888.xyz/iptv.php?id=20016
@@ -262,6 +267,7 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 
 
 

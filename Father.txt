@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年9月20日更新
+2025年9月25日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -36,6 +36,7 @@
 上海纪实人文,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 睛彩竞技,http://39.134.65.251/PLTV/88888888/224/3221225897/1.m3u8
@@ -57,6 +58,15 @@
 纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 凤凰中文,http://stream-ali1.csslcloud.net/live/026d91ca1dd7f81449ccb2712546480b.flv
 凤凰资讯,http://stream-ali1.csslcloud.net/live/18b864131bc87e0956abe0ad9f3e4bd5.flv
@@ -267,6 +277,7 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 
 
 

@@ -1,4 +1,4 @@
-2025年9月14日更新
+2025年9月25日更新
 中央-河南移动,#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
@@ -1954,6 +1954,15 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 卫视频道V4,#genre#
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
 凤凰中文,http://mg.hmysapp.cn:177/hkpd/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.php?id=301
 凤凰资讯,http://mg.hmysapp.cn:177/hkpd/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.php?id=301
 凤凰香港,http://mg.hmysapp.cn:177/hkpd/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.php?id=301
@@ -2017,10 +2026,6 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
@@ -3672,6 +3677,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

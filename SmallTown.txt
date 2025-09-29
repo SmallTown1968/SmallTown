@@ -1,4 +1,10 @@
-2025年9月26日更新
+2025年9月29日更新
+电信,#genre#
+资讯高清,http://222.84.193.5:8811/tsfile/live/1001_1.m3u8
+卫视高清,http://222.84.193.5:8811/tsfile/live/1009_1.m3u8
+香港高清,http://222.84.193.5:8811/tsfile/live/1005_1.m3u8
+天映经典高清,http://222.84.193.5:8811/tsfile/live/1063_1.m3u8
+
 中央-河南移动,#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
@@ -3682,6 +3688,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

@@ -1,5 +1,6 @@
 2025年10月1日更新
 
+mytv订阅源
 默认订阅源iptv-api：
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 
@@ -3734,6 +3735,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

@@ -128,9 +128,9 @@ CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
-CCTV5体育,http://tv.netlive.ggff.net/cctv5
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8?
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8?
+CCTV5,http://tv.netlive.ggff.net/cctv5
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
@@ -173,8 +173,8 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 
-CCTV16,http://tv.netlive.ggff.net/cctv16
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
+CCTV16,http://tv.netlive.ggff.net/cctv16
 CCTV16,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://live.tinktek.net/live/1016_1.m3u8?key0=125413154168&sign=ZTQyMmQyNjAzZGViODQ1YjZmMmNiNjBmZjUwMjAyYTIxMjU0MTMxNTQxNjg=%0A
 CCTV16,http://sh.lnott.top:880/dx201.m3u8
@@ -290,6 +290,7 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 
 
 

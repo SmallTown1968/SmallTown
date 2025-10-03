@@ -4,9 +4,9 @@
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
 舞钢市新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226527/index.m3u8
-平顶山新闻综合,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
 平顶山新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 平顶山新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226401/index.m3u8
+平顶山新闻综合,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
 平顶山新闻综合,http://110.40.33.162:99/zb/henan.php?id=pds1
 平顶山新闻综合,http://nctv.top/IDOEPpiryt/hntv.php?id=pds1
 平顶山新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=pds1
@@ -16,10 +16,10 @@
 平顶山公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226593/index.m3u8
 平顶山公共频道,http://live.muzhifm.com/shuazhibo/room2983_pc.m3u8?auth_key=1785035772-0-0-e8ae97c4402a8d3cf8ba7d8c7441f515
 平顶山公共频道,http://live.dxhmt.cn:9080/13781808226/fd44664050dc4e8c8b1157e869721c0e.m3u8?wsSecret=7c7b0ba0d88fae5a40aca454008be9b5&wsTime=1711012392
-平顶山城市频道,http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d
-平顶山城市频道,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8?wsSecret=124659e7a7c900597eb893cd1cb2cafa&wsTime=1711012552
 平顶山城市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
 平顶山城市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226388/index.m3u8
+平顶山城市频道,http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d
+平顶山城市频道,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8?wsSecret=124659e7a7c900597eb893cd1cb2cafa&wsTime=1711012552
 舞阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
 沁阳综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
@@ -33,16 +33,16 @@
 三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=fce53fde1746676646
 中国天气,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/zgqx.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-北京纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
-上海纪实人文,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
+求索记录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CWJD.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-睛彩竞技,http://39.134.65.251/PLTV/88888888/224/3221225897/1.m3u8
-睛彩篮球,http://39.134.65.249/PLTV/88888888/224/3221225895/1.m3u8
+睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8?
+睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8?
 睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 超级体育,http://39.134.65.249/PLTV/88888888/224/3221225635/1.m3u8
 超级体育,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -127,10 +127,14 @@ CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
+CCTV5体育,http://tv.netlive.ggff.net/cctv5
+CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8?
+CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8?
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8
+CCTV5+,http://tv.netlive.ggff.net/cctv5p
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8
@@ -168,9 +172,10 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 
+CCTV16,http://tv.netlive.ggff.net/cctv16
+CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
 CCTV16,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://live.tinktek.net/live/1016_1.m3u8?key0=125413154168&sign=ZTQyMmQyNjAzZGViODQ1YjZmMmNiNjBmZjUwMjAyYTIxMjU0MTMxNTQxNjg=%0A
-CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
 CCTV16,http://sh.lnott.top:880/dx201.m3u8
 CCTV16,http://iptv.4666888.xyz/iptv.php?id=20016
 CCTV16,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010142/1.m3u8?
@@ -284,29 +289,6 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

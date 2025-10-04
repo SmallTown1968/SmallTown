@@ -1,7 +1,28 @@
 2025年10月3日更新
 蜀小果源,#genre#
 央视
-CSCS,http://m.061899.xyz/mg/cctv1
+1,http://m.061899.xyz/mg/cctv1
+2,http://m.061899.xyz/mg/cctv2
+3,http://m.061899.xyz/mg/cctv3
+4,http://m.061899.xyz/mg/cctv4
+5,http://m.061899.xyz/mg/cctv5
+5+,http://m.061899.xyz/mg/cctv5p
+6,http://m.061899.xyz/mg/cctv6
+7,http://m.061899.xyz/mg/cctv7
+8,http://m.061899.xyz/mg/cctv8
+9,http://m.061899.xyz/mg/cctv9
+10,http://m.061899.xyz/mg/cctv10
+11,http://m.061899.xyz/mg/cctv11
+12,http://m.061899.xyz/mg/cctv12
+13,http://m.061899.xyz/mg/cctv13
+14,http://m.061899.xyz/mg/cctv14
+15,http://m.061899.xyz/mg/cctv15
+16,http://m.061899.xyz/mg/cctv16
+17,http://m.061899.xyz/mg/cctv17
+
+
+
+
 CCTV1综合,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265.m3u8
 CCTV2财经,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265.m3u8
 CCTV3综艺,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CCTV-3H265.m3u8
@@ -4077,6 +4098,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

@@ -1,6 +1,7 @@
-2025年10月3日更新
+2025年10月5日更新
 蜀小果源,#genre#
 央视
+01,http://t.061899.xyz/tl/tl.php?id=cctv1
 1,http://go.061899.xyz/mg/cctv1
 2,http://m.061899.xyz/mg/cctv2
 3,http://go.061899.xyz/mg/cctv3
@@ -4098,6 +4099,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

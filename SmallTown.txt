@@ -1,5 +1,5 @@
 2025年10月7日更新
-中国视听4K,#genre#
+ku9中国视听4K,#genre#
 北京卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=btv4k
 上海卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sh4k
 江苏卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=js4k
@@ -4143,5 +4143,6 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 

@@ -12,6 +12,7 @@ ku9中国视听4K,#genre#
 
 蜀小果源,#genre#
 央视
+jsyd,http://ott.mobaibox.com/PLTV/4/224/3221228732/index.m3u8
 01,http://t.061899.xyz/tl/tl.php?id=cctv1
 1,http://go.061899.xyz/mg/cctv1
 2,http://m.061899.xyz/mg/cctv2
@@ -3625,6 +3626,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

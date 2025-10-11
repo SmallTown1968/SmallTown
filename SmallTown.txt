@@ -1953,9 +1953,17 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 
+凤凰中文,http://bxtv.3a.ink/mytv/mytvts1.333.php?id=null-4
+凤凰资讯,http://bxtv.3a.ink/mytv/mytvts1.333.php?id=null-5
+凤凰香港,http://bxtv.3a.ink/mytv/mytvts1.333.php?id=null-6
+
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
@@ -3674,3 +3682,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

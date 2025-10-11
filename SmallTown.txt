@@ -56,7 +56,6 @@ ku9中国视听4K,#genre#
 
 蜀小果源,#genre#
 央视
-jsyd,http://ott.mobaibox.com/PLTV/4/224/3221228732/index.m3u8
 01,http://t.061899.xyz/tl/tl.php?id=cctv1
 1,http://go.061899.xyz/mg/cctv1
 2,http://m.061899.xyz/mg/cctv2
@@ -1958,10 +1957,6 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -3679,11 +3674,3 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
-
-
-
-
-
-
-
-

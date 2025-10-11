@@ -1,9 +1,9 @@
 个人精选,#genre#
-2025年10月3日更新
-舞钢市新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
+2025年10月11日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
+舞钢市新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
 舞钢市新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226527/index.m3u8
 平顶山新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 平顶山新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226401/index.m3u8
@@ -62,30 +62,17 @@
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰中文,http://bxtv.3a.ink/mytv/mytvts1.333.php?id=null-4
+凤凰资讯,http://bxtv.3a.ink/mytv/mytvts1.333.php?id=null-5
+凤凰香港,http://bxtv.3a.ink/mytv/mytvts1.333.php?id=null-6
 
-凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
@@ -290,9 +277,3 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
-
-
-
-
-
-

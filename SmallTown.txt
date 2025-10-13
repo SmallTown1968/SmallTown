@@ -1,4 +1,4 @@
-2025年10月12日更新
+2025年10月13日更新
 https://tstv.us.kg/sub?token=iptvindex.com
 泛播,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1 
@@ -1424,6 +1424,10 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 卫视频道V4,#genre#
+凤凰中文,webview://http://m.345iptv.com/?act=play&token=e086d26b9ced0e8ce90e5bbd207a6478&tid=gt&id=1
+凤凰资讯,webview://http://m.345iptv.com/?act=play&token=d81bb2fc0a912aeafa7db58e4f0e97cc&tid=gt&id=2
+凤凰香港,webview://http://m.345iptv.com/?act=play&token=1f4bed377532f4b21d042fa0f0e077da&tid=gt&id=3
+
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
@@ -1473,14 +1477,6 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰中文,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhzw&key=63960e3620e010ff622c8d23d6045a6e
 凤凰资讯,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhzx&key=732f1eb88a635ac8ee50f37fefcc3d86
 凤凰香港,http://47.108.195.225:96/yhplay/gat.php?type=2&id=fhhk&key=5f12d40593db89dd32fb2afa9db747c2
-
-凤凰中文,webview://http://m.345iptv.com/?act=play&token=e086d26b9ced0e8ce90e5bbd207a6478&tid=gt&id=1
-凤凰资讯,webview://http://m.345iptv.com/?act=play&token=d81bb2fc0a912aeafa7db58e4f0e97cc&tid=gt&id=2
-凤凰香港,webview://http://m.345iptv.com/?act=play&token=1f4bed377532f4b21d042fa0f0e077da&tid=gt&id=3
-
-凤凰中文,http://8.138.7.223/tv/fh.php?id=1$看电视代理
-凤凰资讯,http://8.138.7.223/tv/fh.php?id=2$看电视代理
-凤凰香港,http://8.138.7.223/tv/fh.php?id=2$看电视代理
 
 凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -3162,3 +3158,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

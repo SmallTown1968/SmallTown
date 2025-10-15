@@ -19,9 +19,9 @@ CCTV15音乐,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9
 CCTV17农业农村,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=673168256
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=608807419
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=608807416
-CGTN外语纪录,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609006487
-CGTN阿拉伯语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609154345
-CGTN西班牙语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609006450
+CGTN纪录,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609006487
+CGTN阿语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609154345
+CGTN西语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609006450
 CGTN法语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609006476
 CGTN俄语,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609006446
 老故事,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=884121956
@@ -81,7 +81,7 @@ CHC影迷电影,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/
 高清大片,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=629943678
 南方影视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=614961829
 血色山河·抗日战争影像志,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=713600957
-熊猫频道01高清,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609158151
+熊猫频道0,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609158151
 熊猫频道1,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=608933610
 熊猫频道2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=608933640
 熊猫频道3,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=608934619
@@ -145,7 +145,7 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 海南卫视,http://go.bkpcp.top/mg/hinws
 陕西卫视,http://go.bkpcp.top/mg/sxws 
 兵团卫视,http://go.bkpcp.top/mg/btws 
-黑龙江视,http://go.bkpcp.top/mg/hljws 
+黑龙江卫视,http://go.bkpcp.top/mg/hljws 
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 北京IPTV4K超高清,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
 淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
@@ -3270,6 +3270,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

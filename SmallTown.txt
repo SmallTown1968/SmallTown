@@ -132,10 +132,10 @@ CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17 
 北京卫视,http://go.bkpcp.top/mg/bjws
-东方卫视,http://go.bkpcp.top/mg/dfws
-浙江卫视,http://go.bkpcp.top/mg/zjws 
+东方卫视4K,http://go.bkpcp.top/mg/dfws
+浙江卫视4K,http://go.bkpcp.top/mg/zjws 
 江苏卫视,http://go.bkpcp.top/mg/jsws 
-湖南卫视,http://go.bkpcp.top/mg/hunws 
+湖南卫视4K,http://go.bkpcp.top/mg/hunws 
 广东卫视,http://go.bkpcp.top/mg/gdws 
 深圳卫视4k,http://go.bkpcp.top/mg/szws 
 山东卫视,http://go.bkpcp.top/mg/sdws
@@ -155,28 +155,6 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 CHC动作电影,http://124.93.18.238:9002//hls/76/index.m3u8
 CHC家庭影院,http://124.93.18.238:9002//hls/78/index.m3u8
 CHC影迷电影,http://124.93.18.238:9002//hls/77/index.m3u8
-
-中国视听4K,#genre#
-北京卫视4K,https://www.shqsy.com/st.php?id=btv4k&token=shenxian
-东方卫视4K,https://www.shqsy.com/st.php?id=sh4k&token=shenxian
-江苏卫视4K,https://www.shqsy.com/st.php?id=js4k&token=shenxian
-浙江卫视4K,https://www.shqsy.com/st.php?id=zj4k&token=shenxian
-山东卫视4K,https://www.shqsy.com/st.php?id=sd4k&token=shenxian
-湖南卫视4K,https://www.shqsy.com/st.php?id=hn4k&token=shenxian
-广东卫视4K,https://www.shqsy.com/st.php?id=gd4k&token=shenxian
-四川卫视4K,https://www.shqsy.com/st.php?id=sc4k&token=shenxian
-深圳卫视4K,https://www.shqsy.com/st.php?id=sz4k&token=shenxian
-
-ku9中国视听4K,#genre#
-北京卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=btv4k
-东方卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sh4k
-江苏卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=js4k
-浙江卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=zj4k
-山东卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sd4k
-湖南卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=hn4k
-广东卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=gd4k
-四川卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sc4k
-深圳卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sz4k
 
 咪咕源,#genre#
 01,http://t.061899.xyz/tl/tl.php?id=cctv1
@@ -198,6 +176,28 @@ ku9中国视听4K,#genre#
 15,http://go.061899.xyz/mg/cctv15
 16,http://m.061899.xyz/mg/cctv16
 17,http://go.061899.xyz/mg/cctv17
+
+中国视听4K,#genre#
+北京卫视4K,https://www.shqsy.com/st.php?id=btv4k&token=shenxian
+东方卫视4K,https://www.shqsy.com/st.php?id=sh4k&token=shenxian
+江苏卫视4K,https://www.shqsy.com/st.php?id=js4k&token=shenxian
+浙江卫视4K,https://www.shqsy.com/st.php?id=zj4k&token=shenxian
+山东卫视4K,https://www.shqsy.com/st.php?id=sd4k&token=shenxian
+湖南卫视4K,https://www.shqsy.com/st.php?id=hn4k&token=shenxian
+广东卫视4K,https://www.shqsy.com/st.php?id=gd4k&token=shenxian
+四川卫视4K,https://www.shqsy.com/st.php?id=sc4k&token=shenxian
+深圳卫视4K,https://www.shqsy.com/st.php?id=sz4k&token=shenxian
+
+中国视听4K酷9PY,#genre#
+北京卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=btv4k
+东方卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sh4k
+江苏卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=js4k
+浙江卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=zj4k
+山东卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sd4k
+湖南卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=hn4k
+广东卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=gd4k
+四川卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sc4k
+深圳卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sz4k
 
 mytv订阅源
 默认订阅源iptv-api：
@@ -3270,6 +3270,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

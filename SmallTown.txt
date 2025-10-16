@@ -1,5 +1,5 @@
 2025年10月16日更新
-央视新闻官网JS,#genre#
+央视新闻APP_JS,#genre#
 CCTV1,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv1
 CCTV2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv2
 CCTV4,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv4
@@ -3420,4 +3420,5 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 

@@ -1,4 +1,16 @@
 2025年10月16日更新
+央视新闻官网JS,#genre#
+CCTV1,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv1
+CCTV2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv2
+CCTV4,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv4
+CCTV7,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv7
+CCTV9,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv9
+CCTV10,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv10
+CCTV12,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv12
+CCTV13,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv13
+CCTV17,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv17
+CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv4k
+
 北方广电JS,#genre#
 CCTV-1高清,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/bfgd.js?id=488
 CCTV-2高清,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/bfgd.js?id=061
@@ -3408,3 +3420,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

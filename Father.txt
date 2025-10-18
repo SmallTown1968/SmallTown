@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年10月13日更新
+2025年10月18日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -40,6 +40,7 @@
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,https://cdn6.101.qzz.io/163189/cwjd
+重温经典,http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8?
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8?
 睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -275,6 +276,7 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 
 
 

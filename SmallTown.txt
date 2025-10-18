@@ -327,6 +327,21 @@ CHC影迷电影,http://124.93.18.238:9002//hls/77/index.m3u8
 16,http://m.061899.xyz/mg/cctv16
 17,http://go.061899.xyz/mg/cctv17
 
+中国视听移动4K,#genre#
+CCTV4K,http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
+CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
+CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228805/index.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/4/224/3221228805/index.m3u8
+北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
+东方卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228956/index.m3u8
+江苏卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228861/index.m3u8
+浙江卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
+山东卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228880/index.m3u8
+湖南卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228883/index.m3u8
+广东卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
+四川卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
+深圳卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
+
 中国视听4K,#genre#
 北京卫视4K,https://www.shqsy.com/st.php?id=btv4k&token=shenxian
 东方卫视4K,https://www.shqsy.com/st.php?id=sh4k&token=shenxian
@@ -3093,3 +3108,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

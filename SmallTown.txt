@@ -1,6 +1,12 @@
-2025年10月18日更新
-网络更新源,#genre#
-IPTVindex,https://iptvindex.com/tv.txt
+2025年10月21日更新
+海南频道JS,#genre#
+海南卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=hnws
+三沙卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=ssws
+海南新闻频道,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=xwpd
+海南文旅频道,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=wlpd
+海南自贸频道,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=jjpd
+海南公共频道,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=ggpd
+海南少儿频道,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=sepd
 
 央视新闻APP-JS,#genre#
 CCTV1,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/cctvapp.js?id=cctv1
@@ -3111,5 +3117,6 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 

@@ -1,4 +1,4 @@
-2025年10月21日更新
+2025年10月22日更新
 海南频道JS,#genre#
 海南卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=hnws
 三沙卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=ssws
@@ -1710,9 +1710,13 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
 卫视频道V4,#genre#
-凤凰中文,webview://http://m.345iptv.com/?act=play&token=e086d26b9ced0e8ce90e5bbd207a6478&tid=gt&id=1
-凤凰资讯,webview://http://m.345iptv.com/?act=play&token=d81bb2fc0a912aeafa7db58e4f0e97cc&tid=gt&id=2
-凤凰香港,webview://http://m.345iptv.com/?act=play&token=1f4bed377532f4b21d042fa0f0e077da&tid=gt&id=3
+凤凰中文,https://011.judy.edu.kg/stream/tvb/null-4/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰资讯,https://011.judy.edu.kg/stream/tvb/null-3/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰香港,https://011.judy.edu.kg/stream/tvb/null-2/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+凤凰中文,webview://https://m.345iptv.com/?act=play&token=d3d442638e8f61cc5a3ee542711fdb7c&tid=gt&id=1
+凤凰资讯,webview://https://m.345iptv.com/?act=play&token=ce3e0c7693a5faa1c4ecb3e99ace8582&tid=gt&id=2
+凤凰香港,webview://https://m.345iptv.com/?act=play&token=d10c24de9be69a090a50b919f77c6916&tid=gt&id=3
 
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
@@ -3117,6 +3121,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

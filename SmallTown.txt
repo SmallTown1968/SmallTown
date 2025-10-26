@@ -499,7 +499,7 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/index.m3u8
-山东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
+山东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
 兵团卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227402/index.m3u8
 兵团卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
 东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226423/index.m3u8
@@ -540,7 +540,7 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 四川卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226429/index.m3u8
 四川卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
-四川卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
+四川卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
 天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
 天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227209/index.m3u8
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227218/index.m3u8
@@ -2742,3 +2742,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

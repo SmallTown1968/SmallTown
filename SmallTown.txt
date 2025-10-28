@@ -1148,7 +1148,7 @@ CCTV15,http://39.164.218.8:9901/tsfile/live/0015_1.m3u8
 郑州商都,http://39.164.218.8:9901/tsfile/live/1049_1.m3u8
 郑州文旅,http://39.164.218.8:9901/tsfile/live/1050_1.m3u8
 CCTV14[768*576],http://39.164.218.8:9901/tsfile/live/0014_1.m3u8
-CETV1   [768*576],http://39.164.218.8:9901/tsfile/live/1000_1.m3u8
+CETV-1[768*576],http://39.164.218.8:9901/tsfile/live/1000_1.m3u8
 内蒙卫视[768*576],http://39.164.218.8:9901/tsfile/live/0109_1.m3u8
 新疆卫视[768*576],http://39.164.218.8:9901/tsfile/live/0110_1.m3u8
 西藏卫视[768*576],http://39.164.218.8:9901/tsfile/live/0111_1.m3u8
@@ -2742,4 +2742,5 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 

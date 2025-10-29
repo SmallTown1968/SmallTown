@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年10月28日更新
+2025年10月29日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -29,6 +29,7 @@
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227239/index.m3u8
 河南卫视,http://39.134.65.249/PLTV/88888888/224/3221225988/1.m3u8
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
+三沙卫视,https://srs.ssws.tv:443/video/SSTV/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=dc4622b31746676518
 三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=fce53fde1746676646
@@ -272,6 +273,7 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+
 
 
 

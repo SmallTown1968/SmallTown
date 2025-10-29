@@ -1,4 +1,7 @@
-2025年10月28日更新
+2025年10月29日更新
+冰茶TV,#genre#
+冰茶TV,https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
+
 海南频道JS,#genre#
 海南卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=hnws
 三沙卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=ssws
@@ -2747,4 +2750,5 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 

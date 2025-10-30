@@ -1,6 +1,6 @@
-2025年10月29日更新
-冰茶TV,#genre#
-冰茶TV,https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
+2025年10月30日更新
+冰茶TV
+https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
 
 海南频道JS,#genre#
 海南卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=hnws
@@ -1573,6 +1573,26 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 常新央卫V4,#genre#
+星火电视
+CCTV1,http://m.061899.xyz:80/mg/cctv1
+CCTV2,http://m.061899.xyz:80/mg/cctv2
+CCTV3,http://m.061899.xyz:80/mg/cctv3
+CCTV4,http://m.061899.xyz:80/mg/cctv4
+CCTV5,http://m.061899.xyz:80/mg/cctv5
+CCTV5+,http://m.061899.xyz:80/mg/cctv5p
+CCTV6,http://m.061899.xyz:80/mg/cctv6
+CCTV7,http://m.061899.xyz:80/mg/cctv7
+CCTV8,http://m.061899.xyz:80/mg/cctv8
+CCTV9,http://m.061899.xyz:80/mg/cctv9
+CCTV10,http://m.061899.xyz:80/mg/cctv10
+CCTV11,http://m.061899.xyz:80/mg/cctv11
+CCTV12,http://m.061899.xyz:80/mg/cctv12
+CCTV13,http://m.061899.xyz:80/mg/cctv13
+CCTV14,http://m.061899.xyz:80/mg/cctv14
+CCTV15,http://m.061899.xyz:80/mg/cctv15
+CCTV16,http://m.061899.xyz:80/mg/cctv16
+CCTV17,http://m.061899.xyz:80/mg/cctv17
+
 安徽省宿州市砀山县联通
 CCTV1,http://36.32.99.215:5003/cctv1.m3u8
 CCTV2,http://36.32.99.215:5003/cctv2.m3u8
@@ -1970,18 +1990,6 @@ CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv
 卡酷少儿,https://live.sxrtv.com/iptv/kkse.flv
 优漫卡通,https://live.sxrtv.com/iptv/ymkt.flv
 金鹰卡通,https://live.sxrtv.com/iptv/jykt.flv
-
-星火电视
-CCTV1,http://m.061899.xyz:80/mg/cctv1
-CCTV2,http://m.061899.xyz:80/mg/cctv2
-CCTV3,http://m.061899.xyz:80/mg/cctv3
-CCTV4,http://m.061899.xyz:80/mg/cctv4
-CCTV5,http://m.061899.xyz:80/mg/cctv5
-CCTV5+,http://m.061899.xyz:80/mg/cctv5p
-CCTV6,http://m.061899.xyz:80/mg/cctv6
-CCTV7,http://m.061899.xyz:80/mg/cctv7
-
-CCTV16,http://m.061899.xyz:80/mg/cctv16
 
 军号线路
 CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
@@ -2750,3 +2758,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

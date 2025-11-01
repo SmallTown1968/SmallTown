@@ -1,6 +1,40 @@
-2025年10月30日更新
+2025年11月2日更新
 冰茶TV
 https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
+
+https://tstv.us.kg/sub?token=iptvindex.com
+
+mytv订阅源
+默认订阅源iptv-api：
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+
+WebView订阅源：
+https://gitee.com/mytv-android/iptv-api/raw/master/output/webview.m3u
+
+http://bxtv.3a.ink/live.m3u
+http://bxtv.3a.ink/live.txt
+
+湖北襄阳联通,#genre#
+CCTV-1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
+CCTV-2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
+CCTV-3,http://58.19.180.108:9981/stream/channelid/188040143?profile=pass
+CCTV-4,http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass
+CCTV-5,http://58.19.180.108:9981/stream/channelid/908622330?profile=pass
+CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
+CCTV-6，http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
+CCTV-7，http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
+CCTV-8，http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
+CCTV-9，http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
+CCTV-10，http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
+CCTV-11，http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
+CCTV-12，http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
+CCTV-13，http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
+CCTV-14，http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
+CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
+CHC影迷电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
+CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 
 海南频道JS,#genre#
 海南卫视,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/hnws.js?id=hnws
@@ -273,7 +307,6 @@ CETV2,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/mig
 CETV4,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=923287339
 山东教育,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/miguhd.js?id=609154353
 
-https://tstv.us.kg/sub?token=iptvindex.com
 泛播,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1 
 CCTV2,http://go.bkpcp.top/mg/cctv2 
@@ -375,16 +408,6 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/4/224/3221228805/inde
 广东卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=gd4k
 四川卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sc4k
 深圳卫视4K,https://gitee.com/smalltown240730/240730/raw/master/ku9py/k-web/ku9/py/ku9-zgst.py?id=sz4k
-
-mytv订阅源
-默认订阅源iptv-api：
-https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
-
-WebView订阅源：
-https://gitee.com/mytv-android/iptv-api/raw/master/output/webview.m3u
-
-http://bxtv.3a.ink/live.m3u
-http://bxtv.3a.ink/live.txt
 
 长效源,#genre#
 翡翠台,http://r.jdshipin.com/qClQf

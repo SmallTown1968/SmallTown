@@ -1017,6 +1017,8 @@ CGTN SD,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010095/1.m3
 超级电视剧,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010065/1.m3u8?
 
 上海移动代理,#genre#
+CSCS,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225740/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3
+
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8?
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8?
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8?
@@ -2781,3 +2783,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

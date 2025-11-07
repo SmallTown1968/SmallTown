@@ -1,7 +1,8 @@
-2025年11月2日更新
-冰茶TV
+2025年11月7日更新
+冰茶TV订阅源
 https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
 
+常更新源
 https://tstv.us.kg/sub?token=iptvindex.com
 
 mytv订阅源
@@ -2783,4 +2784,5 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 

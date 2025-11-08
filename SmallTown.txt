@@ -16,7 +16,7 @@ https://gitee.com/mytv-android/iptv-api/raw/master/output/webview.m3u
 http://bxtv.3a.ink/live.m3u
 http://bxtv.3a.ink/live.txt
 
-湖北百视通,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
+湖北移动百视通,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
 CCTV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229665/1.m3u8
 CCTV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221229968/1.m3u8
 CCTV1,http://111.48.34.138/000000001000PLTV/88888888/224/3221230440/1.m3u8
@@ -3003,6 +3003,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

@@ -24,15 +24,15 @@ CCTV-3,http://58.19.180.108:9981/stream/channelid/188040143?profile=pass
 CCTV-4,http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass
 CCTV-5,http://58.19.180.108:9981/stream/channelid/908622330?profile=pass
 CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
-CCTV-6，http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
-CCTV-7，http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
-CCTV-8，http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
-CCTV-9，http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
-CCTV-10，http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
-CCTV-11，http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
-CCTV-12，http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
-CCTV-13，http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
-CCTV-14，http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
+CCTV-6,http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
+CCTV-7,http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
+CCTV-8,http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
+CCTV-9,http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
+CCTV-10,http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
+CCTV-11,http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
+CCTV-12,http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
+CCTV-13,http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
+CCTV-14,http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
 CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 CHC影迷电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
@@ -2134,5 +2134,6 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 

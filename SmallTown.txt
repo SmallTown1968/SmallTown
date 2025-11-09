@@ -1873,6 +1873,7 @@ CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 金牌调解,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
 第三调解室,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
+吉林纪录片轮播,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/index.m3u8
 
 不失效源(adenu400),#genre#
 CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
@@ -2133,4 +2134,5 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 

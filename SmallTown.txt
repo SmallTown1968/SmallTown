@@ -982,7 +982,23 @@ CCTV17,http://m.061899.xyz:80/mg/cctv17
 兵团卫视,http://m.061899.xyz:80/mg/btws 
 黑龙江卫视,http://m.061899.xyz:80/mg/hljws 
 
-
+安徽卫视,http://m.061899.xyz:80/mg/ahws
+天津卫视,http://m.061899.xyz:80/mg/tjws
+辽宁卫视,http://m.061899.xyz:80/mg/lnws
+河北卫视,http://m.061899.xyz:80/mg/hbws
+重庆卫视,http://m.061899.xyz:80/mg/cqws
+贵州卫视,http://m.061899.xyz:80/mg/gzws
+吉林卫视,http://m.061899.xyz:80/mg/jlws
+四川卫视,http://m.061899.xyz:80/mg/scws
+广西卫视,http://m.061899.xyz:80/mg/gxws
+山西卫视,http://m.061899.xyz:80/mg/sxiws
+云南卫视,http://m.061899.xyz:80/mg/ynws
+甘肃卫视,http://m.061899.xyz:80/mg/gsws
+宁夏卫视,http://m.061899.xyz:80/mg/nxws
+青海卫视,http://m.061899.xyz:80/mg/qhws
+新疆卫视,http://m.061899.xyz:80/mg/xjws
+西藏卫视,http://m.061899.xyz:80/mg/xzws
+内蒙古卫视,http://m.061899.xyz:80/mg/nmgws
 
 
 
@@ -2156,6 +2172,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

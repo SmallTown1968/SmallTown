@@ -981,7 +981,6 @@ CCTV17,http://m.061899.xyz:80/mg/cctv17
 陕西卫视,http://m.061899.xyz:80/mg/sxws 
 兵团卫视,http://m.061899.xyz:80/mg/btws 
 黑龙江卫视,http://m.061899.xyz:80/mg/hljws 
-
 安徽卫视,http://m.061899.xyz:80/mg/ahws
 天津卫视,http://m.061899.xyz:80/mg/tjws
 辽宁卫视,http://m.061899.xyz:80/mg/lnws
@@ -1000,6 +999,14 @@ CCTV17,http://m.061899.xyz:80/mg/cctv17
 西藏卫视,http://m.061899.xyz:80/mg/xzws
 内蒙古卫视,http://m.061899.xyz:80/mg/nmgws
 
+CCTV-1,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
+CCTV-2,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/CCTV-2-HD/CCTV-2-HD.m3u8
+CCTV-3,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/CCTV-3-HD/CCTV-3-HD.m3u8
+CCTV-16,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
+河南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/HENAN/HENAN.m3u8
+河南卫视--,http://live3.aesq.top:96/yhplay/yhch4.php?type=3&id=hnws&key=40a9d5272b46ffdf95f530c30e13757b
+湖南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/HNWS-HD/HNWS-HD.m3u8
+北京卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
 
 
 常新央卫V4,#genre#
@@ -2172,6 +2179,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

@@ -966,14 +966,14 @@ CCTV15,http://m.061899.xyz:80/mg/cctv15
 CCTV16,http://m.061899.xyz:80/mg/cctv16
 CCTV17,http://m.061899.xyz:80/mg/cctv17
 
-北京卫视,http://m.061899.xyz:80/mg/bjws
+北京卫视4K,http://m.061899.xyz:80/mg/bjws
 东方卫视4K,http://m.061899.xyz:80/mg/dfws
 浙江卫视4K,http://m.061899.xyz:80/mg/zjws 
 江苏卫视,http://m.061899.xyz:80/mg/jsws 
 湖南卫视4K,http://m.061899.xyz:80/mg/hunws 
 广东卫视,http://m.061899.xyz:80/mg/gdws 
 深圳卫视4k,http://m.061899.xyz:80/mg/szws 
-山东卫视,http://m.061899.xyz:80/mg/sdws
+山东卫视4K,http://m.061899.xyz:80/mg/sdws
 河南卫视,http://m.061899.xyz:80/mg/hnws
 江西卫视,http://m.061899.xyz:80/mg/jxws 
 湖北卫视,http://m.061899.xyz:80/mg/hubws 
@@ -1017,14 +1017,46 @@ CCTV-14,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-14-H
 CCTV-15,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
 CCTV-16,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
 CCTV-17,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
-河南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/HENAN/HENAN.m3u8
-河南卫视--,http://live3.aesq.top:96/yhplay/yhch4.php?type=3&id=hnws&key=40a9d5272b46ffdf95f530c30e13757b
-湖南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/HNWS-HD/HNWS-HD.m3u8
-北京卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
 
+北京卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
+河南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/HENAN/HENAN.m3u8
+湖南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/HNWS-HD/HNWS-HD.m3u8
+浙江卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
+江苏卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
+东方卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/DFWS-HD/DFWS-HD.m3u8
+广东卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/GDWS-HD/GDWS-HD.m3u8
+深圳卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/SZWS-HD/SZWS-HD.m3u8
+天津卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/TJWS/TJWS.m3u8
+黑龙江卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/HLJWS-HD/HLJWS-HD.m3u8
+山东卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
+安徽卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8
+东南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/DNWS/DNWS.m3u8
+湖北卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUBEI/G_HUBEI.m3u8
+河北卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_HEBEI/G_HEBEI.m3u8
+辽宁卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/LNWS/LNWS.m3u8
+四川卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/SCWS/SCWS.m3u8
+重庆卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CHONGQING/G_CHONGQING.m3u8
+云南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_YUNNAN/G_YUNNAN.m3u8
+贵州卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
+江西卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/JXWS/JXWS.m3u8
+海南卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/LYWS/LYWS.m3u8
+吉林卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_JILIN/G_JILIN.m3u8
+广西卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/GXWS/GXWS.m3u8
+陕西卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANXI/G_SHANXI.m3u8
+山西卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/SXWS/SXWS.m3u8
+青海卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_QINGHAI/G_QINGHAI.m3u8
+宁夏卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
+甘肃卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_GANSU/G_GANSU.m3u8
+新疆卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
+内蒙古卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
+西藏卫视-,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_XIZANG/G_XIZANG.m3u8
+三沙卫视-,http://103.96.72.37:18671/tv/hainan.php?id=ssws
+延边卫视-,http://103.96.72.37:18671/tv/jst.php?id=ybws
+兵团卫视-,http://8.138.7.223/tv/btws.m3u8
+农林卫视-,http://103.96.72.37:18671/tv/SX.php?id=1126
+1905电影网-,http://103.96.72.37:18671/tv/1905.php
 
 常新央卫V4,#genre#
-
 安徽省宿州市砀山县联通
 CCTV1,http://36.32.99.215:5003/cctv1.m3u8
 CCTV2,http://36.32.99.215:5003/cctv2.m3u8
@@ -2193,6 +2225,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

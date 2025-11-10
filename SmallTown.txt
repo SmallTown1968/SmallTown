@@ -1,4 +1,4 @@
-2025年11月9日更新
+2025年11月10日更新
 冰茶TV订阅源
 https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
 
@@ -969,11 +969,11 @@ CCTV17,http://m.061899.xyz:80/mg/cctv17
 北京卫视4K,http://m.061899.xyz:80/mg/bjws
 东方卫视4K,http://m.061899.xyz:80/mg/dfws
 浙江卫视4K,http://m.061899.xyz:80/mg/zjws 
-江苏卫视,http://m.061899.xyz:80/mg/jsws 
-湖南卫视4K,http://m.061899.xyz:80/mg/hunws 
-广东卫视,http://m.061899.xyz:80/mg/gdws 
-深圳卫视4k,http://m.061899.xyz:80/mg/szws 
 山东卫视4K,http://m.061899.xyz:80/mg/sdws
+湖南卫视4K,http://m.061899.xyz:80/mg/hunws
+江苏卫视,http://m.061899.xyz:80/mg/jsws 
+广东卫视,http://m.061899.xyz:80/mg/gdws 
+深圳卫视,http://m.061899.xyz:80/mg/szws 
 河南卫视,http://m.061899.xyz:80/mg/hnws
 江西卫视,http://m.061899.xyz:80/mg/jxws 
 湖北卫视,http://m.061899.xyz:80/mg/hubws 
@@ -2225,6 +2225,7 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 
 

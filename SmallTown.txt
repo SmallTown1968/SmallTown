@@ -1,4 +1,4 @@
-2025年11月10日更新
+2025年11月12日更新
 冰茶TV订阅源
 https://show.188766.xyz/
 https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
@@ -776,27 +776,6 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 CHC动作电影,http://124.93.18.238:9002//hls/76/index.m3u8
 CHC家庭影院,http://124.93.18.238:9002//hls/78/index.m3u8
 CHC影迷电影,http://124.93.18.238:9002//hls/77/index.m3u8
-
-咪咕源,#genre#
-01,http://t.061899.xyz/tl/tl.php?id=cctv1
-1,http://go.061899.xyz/mg/cctv1
-2,http://m.061899.xyz/mg/cctv2
-3,http://go.061899.xyz/mg/cctv3
-4,http://go.061899.xyz/mg/cctv4
-5,http://go.061899.xyz/mg/cctv5
-5+,http://go.061899.xyz/mg/cctv5p
-6,http://go.061899.xyz/mg/cctv6
-7,http://m.061899.xyz/mg/cctv7
-8,http://go.061899.xyz/mg/cctv8
-9,http://go.061899.xyz/mg/cctv9
-10,http://go.061899.xyz/mg/cctv10
-11,http://go.061899.xyz/mg/cctv11
-12,http://go.061899.xyz/mg/cctv12
-13,http://m.061899.xyz/mg/cctv13
-14,http://go.061899.xyz/mg/cctv14
-15,http://go.061899.xyz/mg/cctv15
-16,http://m.061899.xyz/mg/cctv16
-17,http://go.061899.xyz/mg/cctv17
 
 中国视听移动4K,#genre#
 CCTV4K,http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
@@ -2500,9 +2479,3 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
-
-
-
-
-
-

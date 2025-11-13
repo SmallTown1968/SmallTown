@@ -441,12 +441,12 @@ CCTV17农业农村,http://tv.netlive.ggff.net/cctv17
 CETV1教育,http://tv.netlive.ggff.net/cetv1
 CETV2教育,http://tv.netlive.ggff.net/cetv2
 CETV4教育,http://tv.netlive.ggff.net/cetv4
-CGTN英语,http://tv.netlive.ggff.net/cgtn英语
-CGTN纪录,http://tv.netlive.ggff.net/cgtn纪录
-CGTN俄语,http://tv.netlive.ggff.net/cgtn俄语
-CGTN法语,http://tv.netlive.ggff.net/cgtn法语
-CGTN西语,http://tv.netlive.ggff.net/cgtn西语
-CGTN阿语,http://tv.netlive.ggff.net/cgtn阿语
+CGTN英语,http://tv.netlive.ggff.net/cgtn
+CGTN纪录,http://tv.netlive.ggff.net/cgtn
+CGTN俄语,http://tv.netlive.ggff.net/cgtn
+CGTN法语,http://tv.netlive.ggff.net/cgtn
+CGTN西语,http://tv.netlive.ggff.net/cgtn
+CGTN阿语,http://tv.netlive.ggff.net/cgtn
 
 江苏卫视,http://tv.netlive.ggff.net/jsws
 广东卫视,http://tv.netlive.ggff.net/gdws
@@ -2540,3 +2540,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

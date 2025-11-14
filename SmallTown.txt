@@ -10,6 +10,12 @@ https://bc.188766.xyz/?ip=
 常更新源
 https://tstv.us.kg/sub?token=iptvindex.com
 
+公众号：榴芒电视
+http://106.53.99.30/2025.txt
+资源库：https://flowus.cn/kdsb
+榴芒电视V6,#genre#
+榴芒电视,https://gitee.com/kdsb/lm/raw/master/ad.mp4
+
 mytv订阅源
 https://github.com/Guovin/iptv-api
 https://gitee.com/mytv-android/iptv-api
@@ -1229,11 +1235,6 @@ HOY TV,http://r.jdshipin.com/sFw4S
 海峡卫视,http://r.jdshipin.com/WtYt3
 咪咕视频4K,http://r.jdshipin.com/ln4xk
 咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
-
-公众号：榴芒电视
-资源库：https://flowus.cn/kdsb
-榴芒电视V6,#genre#
-榴芒电视,https://gitee.com/kdsb/lm/raw/master/ad.mp4
 
 上海移动代理,#genre#
 CSCS,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225740/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3

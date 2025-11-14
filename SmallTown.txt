@@ -21,7 +21,6 @@ https://tstv.us.kg/sub?token=iptvindex.com
 公众号：榴芒电视
 http://106.53.99.30/2025.txt
 资源库：https://flowus.cn/kdsb
-榴芒电视V6,#genre#
 榴芒电视,https://gitee.com/kdsb/lm/raw/master/ad.mp4
 
 mytv订阅源
@@ -2883,5 +2882,6 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 
 

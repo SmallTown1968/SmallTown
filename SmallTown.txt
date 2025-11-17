@@ -78,19 +78,19 @@ CETV4,http://8.138.7.223/tv/cetv4.m3u8
 
 北京卫视4K,http://8.138.7.223/tv/bjws.m3u8
 东方卫视4K,http://8.138.7.223/tv/dfws.m3u8
-浙江卫视4K,http://8.138.7.223/tv/zjws .m3u8
+浙江卫视4K,http://8.138.7.223/tv/zjws.m3u8
 山东卫视4K,http://8.138.7.223/tv/sdws.m3u8
 湖南卫视4K,http://8.138.7.223/tv/hunws.m3u8
-江苏卫视4K,http://8.138.7.223/tv/jsws .m3u8
-广东卫视,http://8.138.7.223/tv/gdws .m3u8
-深圳卫视,http://8.138.7.223/tv/szws .m3u8
+江苏卫视4K,http://8.138.7.223/tv/jsws.m3u8
+广东卫视,http://8.138.7.223/tv/gdws.m3u8
+深圳卫视,http://8.138.7.223/tv/szws.m3u8
 河南卫视,http://8.138.7.223/tv/hnws.m3u8
-江西卫视,http://8.138.7.223/tv/jxws .m3u8
-湖北卫视,http://8.138.7.223/tv/hubws .m3u8
+江西卫视,http://8.138.7.223/tv/jxws.m3u8
+湖北卫视,http://8.138.7.223/tv/hubws.m3u8
 海南卫视,http://8.138.7.223/tv/hinws.m3u8
-陕西卫视,http://8.138.7.223/tv/sxws .m3u8
-兵团卫视,http://8.138.7.223/tv/btws .m3u8
-黑龙江卫视,http://8.138.7.223/tv/hljws .m3u8
+陕西卫视,http://8.138.7.223/tv/sxws.m3u8
+兵团卫视,http://8.138.7.223/tv/btws.m3u8
+黑龙江卫视,http://8.138.7.223/tv/hljws.m3u8
 安徽卫视,http://8.138.7.223/tv/ahws.m3u8
 天津卫视,http://8.138.7.223/tv/tjws.m3u8
 辽宁卫视,http://8.138.7.223/tv/lnws.m3u8
@@ -127,7 +127,7 @@ CHC影迷电影,http://8.138.7.223/tv/ymdy.m3u8
 凤凰资讯,http://8.138.7.223/tv/fhzx.m3u8
 凤凰香港,http://8.138.7.223/tv/fhhk.m3u8
 Now新闻台,http://8.138.7.223/tv/now.m3u8
-TVB Plus,http://8.138.7.223/tv/tvb.m3u8
+TVBPlus,http://8.138.7.223/tv/tvb.m3u8
 澳视澳门,http://8.138.7.223/tv/aomen.m3u8
 翡翠台,http://8.138.7.223/tv/翡翠台.m3u8
 
@@ -2965,3 +2965,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

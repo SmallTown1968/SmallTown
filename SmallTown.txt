@@ -41,6 +41,90 @@ TVOD,#genre#
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
+TVOD-2,#genre#
+CCTV1,http://8.138.7.223/tv/cctv1.php
+CCTV2,http://8.138.7.223/tv/cctv2.php
+CCTV3,http://8.138.7.223/tv/cctv3.php
+CCTV4,http://8.138.7.223/tv/cctv4.php
+CCTV4美洲,http://8.138.7.223/tv/cctv4m.php
+CCTV4欧洲,http://8.138.7.223/tv/cctv4o.php
+CCTV5,http://8.138.7.223/tv/cctv5.php
+CCTV5+,http://8.138.7.223/tv/cctv5p.php
+CCTV6,http://8.138.7.223/tv/cctv6.php
+CCTV7,http://8.138.7.223/tv/cctv7.php
+CCTV8,http://8.138.7.223/tv/cctv8.php
+CCTV9,http://8.138.7.223/tv/cctv9.php
+CCTV10,http://8.138.7.223/tv/cctv10.php
+CCTV11,http://8.138.7.223/tv/cctv11.php
+CCTV12,http://8.138.7.223/tv/cctv12.php
+CCTV13,http://8.138.7.223/tv/cctv13.php
+CCTV14,http://8.138.7.223/tv/cctv14.php
+CCTV15,http://8.138.7.223/tv/cctv15.php
+CCTV16,http://8.138.7.223/tv/cctv16.php
+CCTV17,http://8.138.7.223/tv/cctv17.php
+CETV1,http://8.138.7.223/tv/cetv1.php
+CETV2,http://8.138.7.223/tv/cetv2.php
+CETV4,http://8.138.7.223/tv/cetv4.php
+重温经典,http://8.138.7.223/tv/cwjd.php
+劲爆体育,http://8.138.7.223/tv/jbty.php
+咪咕体育,http://8.138.7.223/tv/mgty.php
+新纪实LIVE24,http://8.138.7.223/tv/xjs.php
+
+北京卫视4K,http://8.138.7.223/tv/bjws.php
+东方卫视4K,http://8.138.7.223/tv/dfws.php
+浙江卫视4K,http://8.138.7.223/tv/zjws .php
+山东卫视4K,http://8.138.7.223/tv/sdws.php
+湖南卫视4K,http://8.138.7.223/tv/hunws.php
+江苏卫视4K,http://8.138.7.223/tv/jsws .php
+广东卫视,http://8.138.7.223/tv/gdws .php
+深圳卫视,http://8.138.7.223/tv/szws .php
+河南卫视,http://8.138.7.223/tv/hnws.php
+江西卫视,http://8.138.7.223/tv/jxws .php
+湖北卫视,http://8.138.7.223/tv/hubws .php
+海南卫视,http://8.138.7.223/tv/hinws.php
+陕西卫视,http://8.138.7.223/tv/sxws .php
+兵团卫视,http://8.138.7.223/tv/btws .php
+黑龙江卫视,http://8.138.7.223/tv/hljws .php
+安徽卫视,http://8.138.7.223/tv/ahws.php
+天津卫视,http://8.138.7.223/tv/tjws.php
+辽宁卫视,http://8.138.7.223/tv/lnws.php
+河北卫视,http://8.138.7.223/tv/hbws.php
+重庆卫视,http://8.138.7.223/tv/cqws.php
+贵州卫视,http://8.138.7.223/tv/gzws.php
+吉林卫视,http://8.138.7.223/tv/jlws.php
+四川卫视,http://8.138.7.223/tv/scws.php
+广西卫视,http://8.138.7.223/tv/gxws.php
+山西卫视,http://8.138.7.223/tv/sxiws.php
+云南卫视,http://8.138.7.223/tv/ynws.php
+甘肃卫视,http://8.138.7.223/tv/gsws.php
+宁夏卫视,http://8.138.7.223/tv/nxws.php
+青海卫视,http://8.138.7.223/tv/qhws.php
+新疆卫视,http://8.138.7.223/tv/xjws.php
+西藏卫视,http://8.138.7.223/tv/xzws.php
+内蒙古卫视,http://8.138.7.223/tv/nmgws.php
+
+东南卫视,http://8.138.7.223/tv/dnws.php
+大湾区卫视,http://8.138.7.223/tv/dwqws.php
+CHC家庭影院,http://8.138.7.223/tv/jtyy.php
+CHC动作电影,http://8.138.7.223/tv/dzyy.php
+CHC影迷电影,http://8.138.7.223/tv/ymdy.php
+嘉佳卡通,http://8.138.7.223/tv/jjkt.php
+卡酷少儿,http://8.138.7.223/tv/kkse.php
+广东少儿,http://8.138.7.223/tv/gdse.php
+金鹰卡通,http://8.138.7.223/tv/jykt.php
+南方影视,http://8.138.7.223/tv/nfys.php
+财富天下,http://8.138.7.223/tv/cftx.php
+经典动画,http://8.138.7.223/tv/dhjh.php
+广东影视,http://8.138.7.223/tv/gdys.php
+
+凤凰中文,http://8.138.7.223/tv/fhzw.php
+凤凰资讯,http://8.138.7.223/tv/fhzx.php
+凤凰香港,http://8.138.7.223/tv/fhhk.php
+Now新闻台,http://8.138.7.223/tv/now.php
+TVB Plus,http://8.138.7.223/tv/tvb.php
+澳视澳门,http://8.138.7.223/tv/aomen.php
+翡翠台,http://8.138.7.223/tv/翡翠台.php
+
 蜀小果,#genre#
 https://jinb.ct.ws/upload/2/%E5%9B%9B%E5%B7%9D%E8%9C%80%E5%B0%8F%E6%9E%9C.txt?i=1
 CCTV1,http://iptv.666230.xyz/iptv/sxg.php/CCTV-1H265_4000
@@ -2888,8 +2972,3 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
-
-
-
-
-

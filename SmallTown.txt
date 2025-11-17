@@ -45,18 +45,91 @@ TVOD-2,#genre#
 CCTV1,http://8.138.7.223/tv/cctv1.php
 CCTV2,http://8.138.7.223/tv/cctv2.php
 重温经典,http://8.138.7.223/tv/cwjd.php
-重温经典,http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
-重温经典,http://113.247.237.108:9901/tsfile/live/1031_1.m3u8?key=txiptv
-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-重温经典,http://mtw.so/5NPX0U
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
-兵团卫视,http://8.138.7.223/tv/btws.m3u8
-云南卫视,http://8.138.7.223/tv/yntv.m3u8
+
+TVOD-3,#genre#
+CCTV1,http://8.138.7.223/tv/cctv1.m3u8
+CCTV2,http://8.138.7.223/tv/cctv2.m3u8
+CCTV3,http://8.138.7.223/tv/cctv3.m3u8
+CCTV4,http://8.138.7.223/tv/cctv4.m3u8
+CCTV4美洲,http://8.138.7.223/tv/cctv4m.m3u8
+CCTV4欧洲,http://8.138.7.223/tv/cctv4o.m3u8
+CCTV5,http://8.138.7.223/tv/cctv5.m3u8
+CCTV5+,http://8.138.7.223/tv/cctv5p.m3u8
+CCTV6,http://8.138.7.223/tv/cctv6.m3u8
+CCTV7,http://8.138.7.223/tv/cctv7.m3u8
+CCTV8,http://8.138.7.223/tv/cctv8.m3u8
+CCTV9,http://8.138.7.223/tv/cctv9.m3u8
+CCTV10,http://8.138.7.223/tv/cctv10.m3u8
+CCTV11,http://8.138.7.223/tv/cctv11.m3u8
+CCTV12,http://8.138.7.223/tv/cctv12.m3u8
+CCTV13,http://8.138.7.223/tv/cctv13.m3u8
+CCTV14,http://8.138.7.223/tv/cctv14.m3u8
+CCTV15,http://8.138.7.223/tv/cctv15.m3u8
+CCTV16,http://8.138.7.223/tv/cctv16.m3u8
+CCTV17,http://8.138.7.223/tv/cctv17.m3u8
+CETV1,http://8.138.7.223/tv/cetv1.m3u8
+CETV2,http://8.138.7.223/tv/cetv2.m3u8
+CETV4,http://8.138.7.223/tv/cetv4.m3u8
+重温经典,http://8.138.7.223/tv/cwjd.m3u8
+劲爆体育,http://8.138.7.223/tv/jbty.m3u8
+咪咕体育,http://8.138.7.223/tv/mgty.m3u8
+新纪实LIVE24,http://8.138.7.223/tv/xjs.m3u8
+
+北京卫视4K,http://8.138.7.223/tv/bjws.m3u8
+东方卫视4K,http://8.138.7.223/tv/dfws.m3u8
+浙江卫视4K,http://8.138.7.223/tv/zjws .m3u8
+山东卫视4K,http://8.138.7.223/tv/sdws.m3u8
+湖南卫视4K,http://8.138.7.223/tv/hunws.m3u8
+江苏卫视4K,http://8.138.7.223/tv/jsws .m3u8
+广东卫视,http://8.138.7.223/tv/gdws .m3u8
+深圳卫视,http://8.138.7.223/tv/szws .m3u8
+河南卫视,http://8.138.7.223/tv/hnws.m3u8
+江西卫视,http://8.138.7.223/tv/jxws .m3u8
+湖北卫视,http://8.138.7.223/tv/hubws .m3u8
+海南卫视,http://8.138.7.223/tv/hinws.m3u8
+陕西卫视,http://8.138.7.223/tv/sxws .m3u8
+兵团卫视,http://8.138.7.223/tv/btws .m3u8
+黑龙江卫视,http://8.138.7.223/tv/hljws .m3u8
+安徽卫视,http://8.138.7.223/tv/ahws.m3u8
+天津卫视,http://8.138.7.223/tv/tjws.m3u8
+辽宁卫视,http://8.138.7.223/tv/lnws.m3u8
+河北卫视,http://8.138.7.223/tv/hbws.m3u8
+重庆卫视,http://8.138.7.223/tv/cqws.m3u8
+贵州卫视,http://8.138.7.223/tv/gzws.m3u8
+吉林卫视,http://8.138.7.223/tv/jlws.m3u8
+四川卫视,http://8.138.7.223/tv/scws.m3u8
+广西卫视,http://8.138.7.223/tv/gxws.m3u8
+山西卫视,http://8.138.7.223/tv/sxiws.m3u8
+云南卫视,http://8.138.7.223/tv/ynws.m3u8
+甘肃卫视,http://8.138.7.223/tv/gsws.m3u8
+宁夏卫视,http://8.138.7.223/tv/nxws.m3u8
+青海卫视,http://8.138.7.223/tv/qhws.m3u8
+新疆卫视,http://8.138.7.223/tv/xjws.m3u8
+西藏卫视,http://8.138.7.223/tv/xzws.m3u8
 内蒙古卫视,http://8.138.7.223/tv/nmgws.m3u8
-河北卫视,http://8.138.7.223/tv/hebtv.m3u8
+
+东南卫视,http://8.138.7.223/tv/dnws.m3u8
+大湾区卫视,http://8.138.7.223/tv/dwqws.m3u8
+CHC家庭影院,http://8.138.7.223/tv/jtyy.m3u8
+CHC动作电影,http://8.138.7.223/tv/dzyy.m3u8
+CHC影迷电影,http://8.138.7.223/tv/ymdy.m3u8
+嘉佳卡通,http://8.138.7.223/tv/jjkt.m3u8
+卡酷少儿,http://8.138.7.223/tv/kkse.m3u8
+广东少儿,http://8.138.7.223/tv/gdse.m3u8
+金鹰卡通,http://8.138.7.223/tv/jykt.m3u8
+南方影视,http://8.138.7.223/tv/nfys.m3u8
+财富天下,http://8.138.7.223/tv/cftx.m3u8
+经典动画,http://8.138.7.223/tv/dhjh.m3u8
+广东影视,http://8.138.7.223/tv/gdys.m3u8
+
+凤凰中文,http://8.138.7.223/tv/fhzw.m3u8
+凤凰资讯,http://8.138.7.223/tv/fhzx.m3u8
+凤凰香港,http://8.138.7.223/tv/fhhk.m3u8
+Now新闻台,http://8.138.7.223/tv/now.m3u8
+TVB Plus,http://8.138.7.223/tv/tvb.m3u8
+澳视澳门,http://8.138.7.223/tv/aomen.m3u8
+翡翠台,http://8.138.7.223/tv/翡翠台.m3u8
 
 蜀小果,#genre#
 https://jinb.ct.ws/upload/2/%E5%9B%9B%E5%B7%9D%E8%9C%80%E5%B0%8F%E6%9E%9C.txt?i=1
@@ -2892,4 +2965,3 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
-

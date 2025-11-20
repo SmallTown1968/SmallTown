@@ -119,9 +119,12 @@ CCTV2,http://8.138.7.223/tv/cctv2.php
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 
 TVOD-3,#genre#
-凤凰中文,http://8.138.7.223/tv/fh.php?id=1
-凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
-凤凰香港,http://8.138.7.223/tv/fh.php?id=3
+凤凰资讯,http://cdn6.132.us.kg/live/fhzx/stream.m3u8
+凤凰香港,http://cdn6.132.us.kg/live/fhhk/stream.m3u8
+
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+
 
 蜀小果,#genre#
 https://jinb.ct.ws/upload/2/%E5%9B%9B%E5%B7%9D%E8%9C%80%E5%B0%8F%E6%9E%9C.txt?i=1
@@ -1543,8 +1546,6 @@ CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-
-
 凤凰中文,http://58.152.53.196:13960/stream/iptv/null-1/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
 凤凰资讯,http://58.152.53.196:13960/stream/iptv/null/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
 凤凰香港,http://58.152.53.196:13630/stream/iptv/null-2/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
@@ -1648,11 +1649,6 @@ CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 
-凤凰资讯,http://cdn6.132.us.kg/live/fhzx/stream.m3u8
-凤凰香港,http://cdn6.132.us.kg/live/fhhk/stream.m3u8
-
-凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065$14
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
@@ -2889,3 +2885,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

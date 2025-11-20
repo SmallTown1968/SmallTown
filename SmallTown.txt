@@ -119,11 +119,6 @@ CCTV2,http://8.138.7.223/tv/cctv2.php
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 
 TVOD-3,#genre#
-凤凰资讯,http://cdn6.132.us.kg/live/fhzx/stream.m3u8
-凤凰香港,http://cdn6.132.us.kg/live/fhhk/stream.m3u8
-
-凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 
 
 蜀小果,#genre#
@@ -2885,4 +2880,3 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
-

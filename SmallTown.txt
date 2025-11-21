@@ -1,17 +1,22 @@
 2025年11月21日更新
-试一试,#genre#
-1,http://8.138.7.223/tv/cctv1.php
-2,http://8.138.7.223/tv/cctv2.php
-3,http://8.138.7.223/tv/cctv3.php
-4,http://8.138.7.223/tv/cctv4.php
-5,http://8.138.7.223/tv/cctv5.php
-5+,http://8.138.7.223/tv/cctv5p.php
+TVOD,#genre#
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+TVOD-2,#genre#
+CCTV1,http://8.138.7.223/tv/cctv1.php
+CCTV2,http://8.138.7.223/tv/cctv2.php
+重温经典,http://8.138.7.223/tv/cwjd.php
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 
 IPTVindex订阅源
 https://iptvindex.com/tv.txt
 
 冰茶TV订阅源
 https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
+https://bc.188766.xyz/?url=https://live.iill.top&mishitong=true
 https://show.188766.xyz/
 https://bc.188766.xyz/?ip=
 
@@ -106,20 +111,7 @@ CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%
 广东卫视4K,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K
 四川卫视4K,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K
 
-TVOD,#genre#
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
-TVOD-2,#genre#
-CCTV1,http://8.138.7.223/tv/cctv1.php
-CCTV2,http://8.138.7.223/tv/cctv2.php
-重温经典,http://8.138.7.223/tv/cwjd.php
-浙江卫视,http://8.138.7.223/tv/zjws.m3u8
-
 TVOD-3,#genre#
-
 
 蜀小果,#genre#
 https://jinb.ct.ws/upload/2/%E5%9B%9B%E5%B7%9D%E8%9C%80%E5%B0%8F%E6%9E%9C.txt?i=1

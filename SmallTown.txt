@@ -1,4 +1,4 @@
-2025年11月20日更新
+2025年11月21日更新
 试一试,#genre#
 1,http://8.138.7.223/tv/cctv1.php
 2,http://8.138.7.223/tv/cctv2.php
@@ -1499,51 +1499,55 @@ CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 内蒙古卫视,http://tv.netlive.ggff.net/nmgws
 
 卫视频道V4,#genre#
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰中文,https://cdn6.101.qzz.io:443/163189/fhzw $001
+凤凰资讯,https://cdn6.101.qzz.io:443/163189/fhzx $001
+凤凰香港,https://cdn6.101.qzz.io:443/163189/fhhk $001
 
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw $002
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx $002
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk $002
 
-凤凰中文,http://t.061899.xyz/tl/fhx.php?id=fhzw
-凤凰资讯,http://t.061899.xyz/tl/fhx.php?id=fhzx
-凤凰香港,http://t.061899.xyz/tl/fhx.php?id=fhhk
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw $003
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx $003
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk $003
 
-凤凰中文,https://011.judy.edu.kg/stream/tvb/null-4/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-凤凰资讯,https://011.judy.edu.kg/stream/tvb/null-3/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-凤凰香港,https://011.judy.edu.kg/stream/tvb/null-2/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰中文,http://t.061899.xyz/tl/fhx.php?id=fhzw $004
+凤凰资讯,http://t.061899.xyz/tl/fhx.php?id=fhzx $004
+凤凰香港,http://t.061899.xyz/tl/fhx.php?id=fhhk $004
 
-凤凰中文,webview://https://m.345iptv.com/?act=play&token=d3d442638e8f61cc5a3ee542711fdb7c&tid=gt&id=1
-凤凰资讯,webview://https://m.345iptv.com/?act=play&token=ce3e0c7693a5faa1c4ecb3e99ace8582&tid=gt&id=2
-凤凰香港,webview://https://m.345iptv.com/?act=play&token=d10c24de9be69a090a50b919f77c6916&tid=gt&id=3
+凤凰中文,https://011.judy.edu.kg/stream/tvb/null-4/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc $005
+凤凰资讯,https://011.judy.edu.kg/stream/tvb/null-3/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc $005
+凤凰香港,https://011.judy.edu.kg/stream/tvb/null-2/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc $005
 
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰中文,webview://https://m.345iptv.com/?act=play&token=d3d442638e8f61cc5a3ee542711fdb7c&tid=gt&id=1 $006
+凤凰资讯,webview://https://m.345iptv.com/?act=play&token=ce3e0c7693a5faa1c4ecb3e99ace8582&tid=gt&id=2 $006
+凤凰香港,webview://https://m.345iptv.com/?act=play&token=d10c24de9be69a090a50b919f77c6916&tid=gt&id=3 $006
 
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+凤凰中文,http://r.jdshipin.com/cCCzW $007
+凤凰资讯,http://r.jdshipin.com/0Rp07 $007
+凤凰香港,http://r.jdshipin.com/yDoTN $007
+凤凰香港Xhttp://r.jdshipin.com/NfC0f
 
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw $008
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx $008
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk $008
 
-凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd $009
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd $009
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn $009
+
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw $010
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx $010
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk $010
+
+凤凰中文,http://58.152.53.196:13960/stream/iptv/null-1/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93 $011
+凤凰资讯,http://58.152.53.196:13960/stream/iptv/null/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93 $011
+凤凰香港,http://58.152.53.196:13630/stream/iptv/null-2/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93 $011
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
-凤凰中文,http://58.152.53.196:13960/stream/iptv/null-1/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
-凤凰资讯,http://58.152.53.196:13960/stream/iptv/null/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
-凤凰香港,http://58.152.53.196:13630/stream/iptv/null-2/master.m3u8?u=admin&p=37323cd435069f5943f2809dd6162ca1082cb20b4d50d25bcd3861a42a399c93
 
 凤凰中文,https://hyf000.eu.org/80947108/FHZW
 凤凰资讯,https://hyf000.eu.org/80947108/FHZX

@@ -1,4 +1,4 @@
-2025年11月24日更新
+2025年11月25日更新
 老白IPTV
 https://laobaitv.net/
 
@@ -1850,6 +1850,11 @@ CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 凤凰资讯(音频),http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,rtmp://webcast.hkstv.tv/livestream/mutfysrq
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?_=1738761957201
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8

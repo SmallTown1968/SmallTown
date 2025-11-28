@@ -37,11 +37,6 @@ http://bxtv.3a.ink/live.txt
 iptv.catvod.com
 https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://iptv.catvod.com/tv.m3u
 
-IPV6,#genre#
-凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8$IPV6
-凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8$IPV6
-凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$IPV6
-
 咪咕1,#genre#
 CCTV1综合,https://tv.t8t.shop/hls/cctv1.m3u8
 CCTV2财经,https://tv.t8t.shop/hls/cctv2.m3u8
@@ -2478,4 +2473,3 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
-

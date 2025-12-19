@@ -552,6 +552,10 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 
+凤凰中文,https://mgev.188766.xyz/?migutoken=f8bed3400b10693bde1b8b2fc2af183c&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=f7260cf91c369825ef85a9cd68254b7b&id=hk_fhzx&type=dy
+凤凰香港,https://mgev.188766.xyz/?migutoken=89bbd7bbda63e731cbf4205a9cec38cb&id=hk_fhhk&type=dy
+
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk

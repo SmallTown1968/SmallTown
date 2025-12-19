@@ -52,6 +52,10 @@
 咪咕体育,http://39.134.65.249/PLTV/88888888/224/3221226031/1.m3u8
 精品纪录,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
+凤凰中文,http://hls-pull-wicketpw.speedws.com/live/tpDBWXTxdhzoUu1gnH20ubQyeRGHXkgd39g6Lls4gDyvqoOh0v.flv
+凤凰资讯,http://hls-pull-wicketpw.speedws.com/live/Nls4gDvRnnPQMW75ChBYcdDHoXNhDGasZ9toR0LypVUNSceNpy.flv
+凤凰香港,http://hls-pull-wicketpw.speedws.com/live/dVyl2y8FNl6KDX7hesuxPOQwZUFY48H0jWLIRls4gDgUTYwb5D.flv
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -63,10 +67,6 @@
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-
-凤凰中文,http://hls-pull-wicketpw.speedws.com/live/tpDBWXTxdhzoUu1gnH20ubQyeRGHXkgd39g6Lls4gDyvqoOh0v.flv
-凤凰资讯,http://hls-pull-wicketpw.speedws.com/live/Nls4gDvRnnPQMW75ChBYcdDHoXNhDGasZ9toR0LypVUNSceNpy.flv
-凤凰香港,http://hls-pull-wicketpw.speedws.com/live/dVyl2y8FNl6KDX7hesuxPOQwZUFY48H0jWLIRls4gDgUTYwb5D.flv
 
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx

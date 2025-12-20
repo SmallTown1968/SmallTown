@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025年12月20日,https://
+2025年12月21日,https://
 
 央视频道,#genre#
 CCTV1,http://111.9.163.109:55555/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -594,30 +594,42 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 黑龙江卫视,http://218.104.239.114:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
 香港频道,#genre#
+来源：https://live.catvod.com/tv.m3u
+凤凰中文,https://live.catvod.com/iptv.php?id=phzw01&token=90954d2f72055b8512854771ef6df0aae3fa209f5c97a8ea66a2bbd0b1a51413%3A1766650385%3AMTIzLjcuODAuMTU1
+凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01&token=5a8239bdbc3ebd1574e2a4cc63ac4fc9e574c986ddb7228b62f112e2cd4ade7c%3A1766650385%3AMTIzLjcuODAuMTU1
+凤凰香港,https://live.catvod.com/iptv.php?id=fhhk01&token=ad3a1e7fac9511fe9853bf40f877412c35fc85b46e811a239d386c320e2eb1bb%3A1766650385%3AMTIzLjcuODAuMTU1
+
+来源：
 凤凰中文,http://hls-pull-wicketpw.speedws.com/live/tpDBWXTxdhzoUu1gnH20ubQyeRGHXkgd39g6Lls4gDyvqoOh0v.flv
 凤凰资讯,http://hls-pull-wicketpw.speedws.com/live/Nls4gDvRnnPQMW75ChBYcdDHoXNhDGasZ9toR0LypVUNSceNpy.flv
 凤凰香港,http://hls-pull-wicketpw.speedws.com/live/dVyl2y8FNl6KDX7hesuxPOQwZUFY48H0jWLIRls4gDgUTYwb5D.flv
 
+来源：
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
+来源：
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 
+来源：
 凤凰中文,https://mgev.188766.xyz/?migutoken=f8bed3400b10693bde1b8b2fc2af183c&id=hk_fhzw&type=dy
 凤凰资讯,https://mgev.188766.xyz/?migutoken=f7260cf91c369825ef85a9cd68254b7b&id=hk_fhzx&type=dy
 凤凰香港,https://mgev.188766.xyz/?migutoken=89bbd7bbda63e731cbf4205a9cec38cb&id=hk_fhhk&type=dy
 
+来源：
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 
+来源：
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhhk
 
+来源：
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk

@@ -1,4 +1,4 @@
-2025年12月20日更新
+2025年12月25日更新
 老白IPTV
 https://laobaitv.net/
 
@@ -34,7 +34,8 @@ https://gitee.com/mytv-android/iptv-api/raw/master/output/webview.m3u
 http://bxtv.3a.ink/live.m3u
 http://bxtv.3a.ink/live.txt
 
-iptv.catvod.com
+iptv.catvod.com订阅源
+https://live.catvod.com/tv.m3u
 https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://iptv.catvod.com/tv.m3u
 
 20251220,#genre#

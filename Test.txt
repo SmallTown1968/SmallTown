@@ -1,6 +1,7 @@
 更新时间,#genre#
 2025年12月29日,https://
 来源：https://iptv.catvod.com/tv.m3u
+央卫频道,#genre#
 CCTV1,http://5.175.183.63:8080/ysp?cnlid=2024078201&livepid=600001859&defn=fhd
 CCTV2,http://5.175.183.63:8080/ysp?cnlid=2024075401&livepid=600001800&defn=fhd
 CCTV3,http://5.175.183.63:8080/ysp?cnlid=2024068501&livepid=600001801&defn=fhd

@@ -31,6 +31,21 @@ CCTV17,http://5.175.183.63:8080/ysp?cnlid=2027249401&livepid=600001810&defn=fhd
 黑龙江卫视,http://5.175.183.63:8080/ysp?cnlid=2024061003&livepid=600002498&defn=fhd
 海南卫视,http://5.175.183.63:8080/ysp?cnlid=2024055603&livepid=600002506&defn=fhd
 重庆卫视,http://5.175.183.63:8080/ysp?cnlid=2024061103&livepid=600002531&defn=fhd
+深圳卫视,http://5.175.183.63:8080/ysp?cnlid=2024061303&livepid=600002481&defn=fhd
+四川卫视,http://5.175.183.63:8080/ysp?cnlid=2024061403&livepid=600002516&defn=fhd
+河南卫视,http://5.175.183.63:8080/ysp?cnlid=2024059703&livepid=600002525&defn=fhd
+东南卫视,http://5.175.183.63:8080/ysp?cnlid=2024061503&livepid=600002484&defn=fhd
+贵州卫视,http://5.175.183.63:8080/ysp?cnlid=2024061603&livepid=600002490&defn=fhd
+
+
+
+
+
+
+
+
+CETV1,http://5.175.183.63:8080/ysp?cnlid=2022823801&livepid=600171827&defn=fhd
+
 
 央视频道1,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1
@@ -651,15 +666,20 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 
-来源：冰茶TV订阅源https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
-凤凰中文,https://mgev.188766.xyz/?migutoken=eeb9c96770f27df8caaad0bab11e8558&id=hk_fhzw&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=d2a275de75be6fb600bd31d180aaf939&id=hk_fhzx&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=900d2168e80f08f31c2119ee910d81f5&id=hk_fhhk&type=dy
+来源：冰茶TV订阅源https://show.188766.xyz/
+凤凰中文,https://mgev.188766.xyz/?migutoken=8668aeddbb3f5bef4cd279b12be09727&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=f99b44d97eb859cc317c0c1c05dab265&id=hk_fhzx&type=dy
+凤凰香港,https://mgev.188766.xyz/?migutoken=eed64bed6957ac24ce2e4bb95be202a7&id=hk_fhhk&type=dy
 
 来源：
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+
+来源：720P 凤凰秀
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码
 
 来源：720P js源
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
@@ -670,10 +690,5 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk
-
-来源：凤凰秀 480P
-凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码
-凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码
-凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8

@@ -80,7 +80,14 @@
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk
 
+
+香港卫视,rtmp://webcast.hkstv.tv/livestream/mutfysrq
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?_=1738761957201
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+
+
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -275,3 +282,4 @@ CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+

@@ -1,12 +1,13 @@
 更新时间,#genre#
 2025年12月29日,https://
-来源：https://iptv.catvod.com/tv.m3u
 央卫频道,#genre#
+来源：https://iptv.catvod.com/tv.m3u
 CCTV1,http://5.175.183.63:8080/ysp?cnlid=2024078201&livepid=600001859&defn=fhd
 CCTV2,http://5.175.183.63:8080/ysp?cnlid=2024075401&livepid=600001800&defn=fhd
 CCTV3,http://5.175.183.63:8080/ysp?cnlid=2024068501&livepid=600001801&defn=fhd
 CCTV4,http://5.175.183.63:8080/ysp?cnlid=2024078301&livepid=600001814&defn=fhd
-
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV6,http://5.175.183.63:8080/ysp?cnlid=2013693901&livepid=600108442&defn=fhd
 CCTV7,http://5.175.183.63:8080/ysp?cnlid=2024072001&livepid=600004092&defn=fhd
 CCTV8,http://5.175.183.63:8080/ysp?cnlid=2024078501&livepid=600001803&defn=fhd
@@ -17,7 +18,7 @@ CCTV12,http://5.175.183.63:8080/ysp?cnlid=2027248801&livepid=600001807&defn=fhd
 CCTV13,http://5.175.183.63:8080/ysp?cnlid=2024079001&livepid=600001811&defn=fhd
 CCTV14,http://5.175.183.63:8080/ysp?cnlid=2027248901&livepid=600001809&defn=fhd
 CCTV15,http://5.175.183.63:8080/ysp?cnlid=2027249001&livepid=600001815&defn=fhd
-
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17,http://5.175.183.63:8080/ysp?cnlid=2027249401&livepid=600001810&defn=fhd
 CETV1,http://5.175.183.63:8080/ysp?cnlid=2022823801&livepid=600171827&defn=fhd
 

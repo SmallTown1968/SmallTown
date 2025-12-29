@@ -19,6 +19,7 @@ CCTV14,http://5.175.183.63:8080/ysp?cnlid=2027248901&livepid=600001809&defn=fhd
 CCTV15,http://5.175.183.63:8080/ysp?cnlid=2027249001&livepid=600001815&defn=fhd
 
 CCTV17,http://5.175.183.63:8080/ysp?cnlid=2027249401&livepid=600001810&defn=fhd
+CETV1,http://5.175.183.63:8080/ysp?cnlid=2022823801&livepid=600171827&defn=fhd
 
 北京卫视,http://5.175.183.63:8080/ysp?cnlid=2024052703&livepid=600002309&defn=fhd
 东方卫视,http://5.175.183.63:8080/ysp?cnlid=2024054503&livepid=600002483&defn=fhd
@@ -36,16 +37,24 @@ CCTV17,http://5.175.183.63:8080/ysp?cnlid=2027249401&livepid=600001810&defn=fhd
 河南卫视,http://5.175.183.63:8080/ysp?cnlid=2024059703&livepid=600002525&defn=fhd
 东南卫视,http://5.175.183.63:8080/ysp?cnlid=2024061503&livepid=600002484&defn=fhd
 贵州卫视,http://5.175.183.63:8080/ysp?cnlid=2024061603&livepid=600002490&defn=fhd
-
-
-
-
-
-
-
-
-CETV1,http://5.175.183.63:8080/ysp?cnlid=2022823801&livepid=600171827&defn=fhd
-
+江西卫视,http://5.175.183.63:8080/ysp?cnlid=2024061703&livepid=600002503&defn=fhd
+辽宁卫视,http://5.175.183.63:8080/ysp?cnlid=2024171303&livepid=600002505&defn=fhd
+安徽卫视,http://5.175.183.63:8080/ysp?cnlid=2024171403&livepid=600002532&defn=fhd
+河北卫视,http://5.175.183.63:8080/ysp?cnlid=2024171503&livepid=600002493&defn=fhd
+山东卫视,http://5.175.183.63:8080/ysp?cnlid=2024171603&livepid=600002513&defn=fhd
+天津卫视,http://5.175.183.63:8080/ysp?cnlid=2019927003&livepid=600152137&defn=fhd
+陕西卫视,http://5.175.183.63:8080/ysp?cnlid=2025561103&livepid=600190400&defn=fhd
+内蒙古卫视,http://5.175.183.63:8080/ysp?cnlid=2025561203&livepid=600190401&defn=fhd
+甘肃卫视,http://5.175.183.63:8080/ysp?cnlid=2025561703&livepid=600190408&defn=fhd
+宁夏卫视,http://5.175.183.63:8080/ysp?cnlid=2025608503&livepid=600190737&defn=fhd
+山西卫视,http://5.175.183.63:8080/ysp?cnlid=2025560803&livepid=600190407&defn=fhd
+云南卫视,http://5.175.183.63:8080/ysp?cnlid=2025561303&livepid=600190402&defn=fhd
+吉林卫视,http://5.175.183.63:8080/ysp?cnlid=2025561503&livepid=600190405&defn=fhd
+青海卫视,http://5.175.183.63:8080/ysp?cnlid=2025559103&livepid=600190406&defn=fhd
+西藏卫视,http://5.175.183.63:8080/ysp?cnlid=2025558003&livepid=600190403&defn=fhd
+新疆卫视,http://5.175.183.63:8080/ysp?cnlid=2019927403&livepid=600152138&defn=fhd
+兵团卫视,http://5.175.183.63:8080/ysp?cnlid=2025990501&livepid=600193252&defn=fhd
+国学频道,http://5.175.183.63:8080/ysp?cnlid=2029360403&livepid=600213139&defn=fhd
 
 央视频道1,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1

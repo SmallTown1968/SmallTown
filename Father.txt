@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年12月29日更新
+2025年12月31日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -33,6 +33,7 @@
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=dc4622b31746676518
 三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=fce53fde1746676646
+中国天气,http://hls.netlive.ggff.net/hls/zgtq.m3u8
 中国天气,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/zgqx.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8

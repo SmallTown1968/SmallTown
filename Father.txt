@@ -1,5 +1,5 @@
 个人精选,#genre#
-2025年12月31日更新
+2026年1月3日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -41,8 +41,8 @@
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,https://cdn6.101.qzz.io/163189/cwjd
 重温经典,http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8?
@@ -77,9 +77,9 @@
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk
 
-凤凰中文,http://hls-pull-wicketpw.speedws.com/live/tpDBWXTxdhzoUu1gnH20ubQyeRGHXkgd39g6Lls4gDyvqoOh0v.flv
-凤凰资讯,http://hls-pull-wicketpw.speedws.com/live/Nls4gDvRnnPQMW75ChBYcdDHoXNhDGasZ9toR0LypVUNSceNpy.flv
-凤凰香港,http://hls-pull-wicketpw.speedws.com/live/dVyl2y8FNl6KDX7hesuxPOQwZUFY48H0jWLIRls4gDgUTYwb5D.flv
+凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzw
+凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzx
+凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhhk
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?_=1738761957201

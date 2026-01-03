@@ -2233,6 +2233,10 @@ CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码
+
 凤凰中文,https://hyf000.eu.org/80947108/FHZW
 凤凰资讯,https://hyf000.eu.org/80947108/FHZX
 凤凰香港,https://hyf000.eu.org/80947108/FHXG
@@ -2610,15 +2614,15 @@ CCTV17,http://218.104.239.114:9901/tsfile/live/0019_2.m3u8?key=txiptv&url=tvzb.c
 1905电影网(国外),http://183.61.168.1/hlslive.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 
 酷9网页央卫,#genre#
-凤凰中文x,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzw
-凤凰资讯x,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzx
-凤凰香港x,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhhk
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhhk
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk
+凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzw
+凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzx
+凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhhk
 1905电影网(国内频道),https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=1905a
 1905电影网(电影频道),https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/1905.js?id=cctv6
 

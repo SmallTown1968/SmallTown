@@ -38,7 +38,7 @@ iptv.catvod.com订阅源
 https://live.catvod.com/tv.m3u
 https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://iptv.catvod.com/tv.m3u
 
-20251220,#genre#
+20260106,#genre#
 凤凰中文,http://www.lgb.ip-ddns.com/php/bxtv.php?channel=fhzw
 凤凰中文,http://11.usa6.345888.xyz.cdn.cloudflare.net/0425smt.php?id=phoenixtv_hd
 

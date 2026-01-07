@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年1月3日,https://
+2026年1月7日,https://
 央卫频道1,#genre#
 来源：https://iptv.catvod.com/tv.m3u
 CCTV1,http://5.175.183.63:8080/ysp?cnlid=2024078201&livepid=600001859&defn=fhd
@@ -140,6 +140,7 @@ TVB Plus,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tvb
 澳视澳门,http://cdn6.bkpcp.top/tl/tuiliu.php?id=aomen
 翡翠台,http://cdn6.bkpcp.top/tl/tuiliu.php?id=翡翠台
 
+央卫频道3,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -222,7 +223,50 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 澳视澳门,http://go.bkpcp.top/mg/aomen
 翡翠台,http://go.bkpcp.top/mg/翡翠台
 
-央视频道1,#genre#
+央卫频道4,#genre#
+CCTV-1,http://59.174.116.246:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://59.174.116.246:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://59.174.116.246:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://59.174.116.246:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://59.174.116.246:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://59.174.116.246:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://59.174.116.246:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://59.174.116.246:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://59.174.116.246:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://59.174.116.246:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://59.174.116.246:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://59.174.116.246:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://59.174.116.246:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://59.174.116.246:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://59.174.116.246:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://59.174.116.246:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://59.174.116.246:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://59.174.116.246:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://59.174.116.246:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://59.174.116.246:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://59.174.116.246:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北综合,http://59.174.116.246:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北公共,http://59.174.116.246:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://59.174.116.246:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://59.174.116.246:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://59.174.116.246:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://59.174.116.246:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://59.174.116.246:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://59.174.116.246:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://59.174.116.246:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://59.174.116.246:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://59.174.116.246:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://59.174.116.246:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://59.174.116.246:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://59.174.116.246:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://59.174.116.246:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://59.174.116.246:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://59.174.116.246:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://59.174.116.246:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://59.174.116.246:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://59.174.116.246:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+
+央卫频道5,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1
 CCTV2,https://iptv.catvod.com/live.php?id=CCTV2
 CCTV3,https://iptv.catvod.com/live.php?id=CCTV3
@@ -243,8 +287,6 @@ CCTV15,https://iptv.catvod.com/live.php?id=CCTV15
 CCTV16,https://iptv.catvod.com/live.php?id=CCTV16
 CCTV16-4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV17
-
-卫视频道1,#genre#
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5
@@ -277,7 +319,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97
 
-央视频道2,#genre#
+央视频道,#genre#
 CCTV1,http://111.9.163.109:55555/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://111.9.163.109:55555/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://111.9.163.109:55555/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -534,7 +576,7 @@ CCTV台球,http://139.214.176.20:9901/tsfile/live/1035_1.m3u8?key=txiptv&playliv
 CCTV台球,http://139.214.176.88:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道2,#genre#
+卫视频道,#genre#
 东方卫视,http://222.223.84.201:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://139.214.176.20:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://171.38.107.34:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0

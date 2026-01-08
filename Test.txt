@@ -990,6 +990,10 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 黑龙江卫视,http://218.104.239.114:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
 香港频道,#genre#
+凤凰中文,http://143.14.105.196:20003/live/fhzw/stream.m3u8
+凤凰资讯,http://143.14.105.196:20003/live/fhzx/stream.m3u8
+凤凰香港,http://143.14.105.196:20003/live/fhhk/stream.m3u8
+
 来源：https://live.catvod.com/tv.m3u
 凤凰中文,https://live.catvod.com/iptv.php?id=phzw01
 凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01

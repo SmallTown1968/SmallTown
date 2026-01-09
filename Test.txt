@@ -735,6 +735,12 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 东南卫视,http://8.134.184.162:8314/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://8.134.184.162:8314/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://8.134.184.162:8314/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://8.134.184.162:8314/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://8.134.184.162:8314/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+
 
 
 东方卫视,http://222.223.84.201:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -787,7 +793,7 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 吉林卫视,http://222.223.84.201:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://171.38.107.34:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://171.38.107.33:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://8.134.184.162:8314/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+
 四川卫视,http://139.214.176.88:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://139.214.176.20:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://171.38.107.34:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0

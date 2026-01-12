@@ -1079,6 +1079,10 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 黑龙江卫视,http://218.104.239.114:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
 香港频道,#genre#
+凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+
 凤凰中文,https://mgev.188766.xyz/?migutoken=35920ffa885804f1cf58afd8fefd3667&id=hk_fhzw&type=dy
 凤凰资讯,https://mgev.188766.xyz/?migutoken=c62ea9edeecf8767fe57e9f9dfa82e87&id=hk_fhzx&type=dy
 凤凰香港,https://mgev.188766.xyz/?migutoken=0b61cef4ab2c8c5e440c217551687732&id=hk_fhhk&type=dy

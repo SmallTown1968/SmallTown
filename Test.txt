@@ -1069,6 +1069,10 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 
+凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+
 来源：冰茶TV订阅源https://show.188766.xyz/
 
 来源：720P 凤凰秀

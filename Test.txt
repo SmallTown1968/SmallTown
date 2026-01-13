@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年1月12日,https://
+2026年1月13日,https://
 央卫频道01,#genre#
 来源：https://iptv.catvod.com/tv.m3u
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1
@@ -1025,6 +1025,15 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 黑龙江卫视,http://218.104.239.114:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
 香港频道,#genre#
+来源：
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+
+凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
+凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz:443/163189/fhhk
+
 凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
@@ -1032,10 +1041,6 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 凤凰中文,https://mgev.188766.xyz/?migutoken=35920ffa885804f1cf58afd8fefd3667&id=hk_fhzw&type=dy
 凤凰资讯,https://mgev.188766.xyz/?migutoken=c62ea9edeecf8767fe57e9f9dfa82e87&id=hk_fhzx&type=dy
 凤凰香港,https://mgev.188766.xyz/?migutoken=0b61cef4ab2c8c5e440c217551687732&id=hk_fhhk&type=dy
-
-凤凰中文,http://143.14.105.196:20003/live/fhzw/stream.m3u8
-凤凰资讯,http://143.14.105.196:20003/live/fhzx/stream.m3u8
-凤凰香港,http://143.14.105.196:20003/live/fhhk/stream.m3u8
 
 来源：https://live.catvod.com/tv.m3u
 凤凰中文,https://live.catvod.com/iptv.php?id=phzw01
@@ -1061,15 +1066,6 @@ CCTV文化精品,http://139.214.176.20:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 
 来源：冰茶TV订阅源https://show.188766.xyz/
-
-来源：
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-
-凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
-凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx
-凤凰香港,https://cdn6.163189.xyz:443/163189/fhhk
 
 来源：720P 凤凰秀
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码

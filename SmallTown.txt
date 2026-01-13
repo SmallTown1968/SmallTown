@@ -1,4 +1,4 @@
-2026年1月6日更新
+2026年1月13日更新
 老白IPTV
 https://laobaitv.net/
 
@@ -74,6 +74,14 @@ https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://iptv.catvod.com/tv.m
 凤凰中文频玛,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯频玛,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰香港频玛,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+
+凤凰中文频玛,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixtv_hd
+凤凰资讯频玛,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixinfo_hd
+凤凰香港频玛,https://smt.1678520.xyz/smt3.2.3.php?id=hkphoenix_twn
+
+凤凰中文频玛,http://rihou.cc:555/tv/[SX]凤凰中文
+凤凰资讯频玛,http://rihou.cc:555/tv/[SX]凤凰资讯
+凤凰香港频玛,http://rihou.cc:555/tv/[SX]凤凰香港
 
 Catvod,#genre#
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1

@@ -418,7 +418,7 @@ CGTN英语,http://111.162.207.111:8686/rtp/225.1.1.27:5002
 CGTN纪录,http://111.162.207.111:8686/rtp/225.1.1.55:5002
 
 央卫频道07,#genre#
-来源：https://show.188766.xyz/,生成通用订阅链接https://bc.188766.xyz/?ip=,下载，改名m3u，转txt
+来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 CCTV1,https://migu.188766.xyz/?migutoken=ccdf3d3b124280cc19793e4ac0ae447e&id=CCTV1&type=yy
 CCTV2,https://migu.188766.xyz/?migutoken=b7d7b6347997f6bd94d976ec03579798&id=CCTV2&type=yy
 CCTV3,https://migu.188766.xyz/?migutoken=82a79f3be2838d013d644a1bc5de4f86&id=CCTV3&type=yy

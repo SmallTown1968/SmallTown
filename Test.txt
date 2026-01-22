@@ -2,6 +2,7 @@
 2026年1月20日,https://
 央卫频道00,#genre#
 来源：星火直播1.0.51
+1,http://cftvsg.chenfengtv.com/api/diyp.php?ch=CCTV-1HD&date=2026-01-22
 平顶山新闻,http://cftvsg.chenfengtv.com/api/diyp.php?ch=%E5%B9%B3%E9%A1%B6%E5%B1%B1%E6%96%B0%E9%97%BB
 CCTV1,http://146.56.248.47:1655/ysp?cnlid=2024078201&livepid=600001859&defn=fhd
 CCTV2,http://146.56.248.47:1655/ysp?cnlid=2024075401&livepid=600001800&defn=fhd

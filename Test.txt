@@ -580,25 +580,10 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 
-凤凰中文,https://mgev.188766.xyz/?migutoken=35920ffa885804f1cf58afd8fefd3667&id=hk_fhzw&type=dy
-凤凰中文,https://mgev.188766.xyz/?migutoken=2fdf92d3bfb6700dcee63a3ba0bb80cf&id=hk_fhzw&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=c62ea9edeecf8767fe57e9f9dfa82e87&id=hk_fhzx&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=188558f663b131e04974bfdb4cedc033&id=hk_fhzx&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=0b61cef4ab2c8c5e440c217551687732&id=hk_fhhk&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=a78c55ba03149409afb46f2f1b881c0f&id=hk_fhhk&type=dy
-
 来源：https://live.catvod.com/tv.m3u
-凤凰中文,https://live.catvod.com/iptv.php?id=phzw01
-凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01
-凤凰香港,https://live.catvod.com/iptv.php?id=fhhk01
-
-凤凰中文,https://live.catvod.com/iptv.php?id=phzw01&token=90954d2f72055b8512854771ef6df0aae3fa209f5c97a8ea66a2bbd0b1a51413%3A1766650385%3AMTIzLjcuODAuMTU1
-凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01&token=5a8239bdbc3ebd1574e2a4cc63ac4fc9e574c986ddb7228b62f112e2cd4ade7c%3A1766650385%3AMTIzLjcuODAuMTU1
-凤凰香港,https://live.catvod.com/iptv.php?id=fhhk01&token=ad3a1e7fac9511fe9853bf40f877412c35fc85b46e811a239d386c320e2eb1bb%3A1766650385%3AMTIzLjcuODAuMTU1
-
-凤凰中文,https://live.catvod.com/iptv.php?id=phzw01&token=1663563cb1bf14cc2d3b664a44a5fdbecb68b26ac862505251cc4586f54cc4b3%3A1766653658%3AMTIzLjcuODAuMTU1
-凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01&token=f6dac5dff44c7880641cf3f01aed6f5a1cd20e9bb0128fb426e2dbc21050b5b5%3A1766653658%3AMTIzLjcuODAuMTU1
-凤凰香港,https://live.catvod.com/iptv.php?id=fhhk01&token=49246286deff58dfa745b5ee55f1c0ae7b7d939a18bc7c4a306b6f638465f1bb%3A1766653658%3AMTIzLjcuODAuMTU1
+凤凰中文,https://live.catvod.com/live.php?id=phzw01&token=1769073932.30b1ab1235151501bd571b91ab8f9f57401358b931d858f71b6764cf4d93960a
+凤凰资讯,https://live.catvod.com/live.php?id=phzx01&token=1769073932.8f47b8c2d62f05d970a85f04a7ea2a4bcf2a310ee2b69e1fe18aec06a95c40b1
+凤凰香港,https://live.catvod.com/live.php?id=fhhk01&token=1769073932.babf3ebae8ef601ba395b4d1c89cba1842dc1958a11afde88dba37d14216f218
 
 来源：
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw

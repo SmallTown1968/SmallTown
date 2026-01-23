@@ -1,8 +1,5 @@
 更新时间,#genre#
-2026年1月22日,https://
-测试,#genre#
-F1,http://hls-pull-usmanriaz.speedws.com/live/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.flv
-
+2026年1月23日,https://
 央卫频道,#genre#
 来源：壹米电视
 CCTV1,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
@@ -449,6 +446,7 @@ CGTN英语,http://111.162.207.138:8686/rtp/225.1.1.27:5002
 CGTN纪录,http://111.162.207.138:8686/rtp/225.1.1.55:5002
 
 央卫频道05,#genre#
+来源：环边直播
 CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
@@ -459,7 +457,7 @@ CCTV6,http://23.237.228.134/live5/CCTV6.m3u8
 CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
 CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
-CCTV10,http://23.237.228.134/live3/CCTV10.m3u8
+CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV11,http://23.237.228.134/live3/CCTV11.m3u8
 CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV13,http://23.237.228.134/live3/CCTV13.m3u8
@@ -575,6 +573,10 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+
+凤凰中文,http://free.cnlive.club/channel/n496e6eec.m3u8
+凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
+凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8
 
 来源：冰茶TV订阅源https://show.188766.xyz/
 

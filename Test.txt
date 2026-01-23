@@ -1,5 +1,8 @@
 更新时间,#genre#
 2026年1月22日,https://
+测试,#genre#
+F1,http://hls-pull-usmanriaz.speedws.com/live/鍑ゅ嚢鍗涓枃鍙?flv
+
 央卫频道,#genre#
 来源：壹米电视
 CCTV1,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8

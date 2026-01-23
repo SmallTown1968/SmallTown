@@ -1,7 +1,7 @@
 更新时间,#genre#
 2026年1月22日,https://
 测试,#genre#
-F1,http://hls-pull-usmanriaz.speedws.com/live/鍑ゅ嚢鍗涓枃鍙?flv
+F1,http://hls-pull-usmanriaz.speedws.com/live/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.flv
 
 央卫频道,#genre#
 来源：壹米电视

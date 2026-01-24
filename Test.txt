@@ -500,14 +500,32 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 央视频道01,#genre#
+CCTV1,http://61.163.181.78:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://61.163.181.78:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://61.163.181.78:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://61.163.181.78:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://61.163.181.78:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://113.15.109.216:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://61.163.181.78:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://61.163.181.78:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://61.163.181.78:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://61.163.181.78:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://61.163.181.78:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://61.163.181.78:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://61.163.181.78:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://61.163.181.78:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://61.163.181.78:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://61.163.181.78:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://61.163.181.78:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://61.163.181.78:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://61.163.181.78:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://61.163.181.78:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://61.163.181.78:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://61.163.181.78:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://61.163.181.78:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV13,http://58.245.255.38:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://218.104.239.114:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道01,#genre#
 东方卫视,http://218.104.239.114:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0

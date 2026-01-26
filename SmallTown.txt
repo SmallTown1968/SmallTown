@@ -1,4 +1,4 @@
-2026年1月24日更新
+2026年1月26日更新
 老白IPTV
 https://laobaitv.net/
 
@@ -29,6 +29,8 @@ https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 
 WebView订阅源
 https://gitee.com/mytv-android/iptv-api/raw/master/output/webview.m3u
+https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
+https://ghfast.top/https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 
 长效源
 http://bxtv.3a.ink/live.m3u

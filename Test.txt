@@ -597,21 +597,21 @@ CCTV15,http://61.163.181.78:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&aut
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhhk
 
-来源：https://live.catvod.com/tv.m3u 无效
-凤凰中文,https://live.catvod.com/live.php?id=phzw01&token=1769073932.30b1ab1235151501bd571b91ab8f9f57401358b931d858f71b6764cf4d93960a
-凤凰资讯,https://live.catvod.com/live.php?id=phzx01&token=1769073932.8f47b8c2d62f05d970a85f04a7ea2a4bcf2a310ee2b69e1fe18aec06a95c40b1
-凤凰香港,https://live.catvod.com/live.php?id=fhhk01&token=1769073932.babf3ebae8ef601ba395b4d1c89cba1842dc1958a11afde88dba37d14216f218
+凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
 
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 
-凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+来源：https://live.catvod.com/tv.m3u 无效
+凤凰中文,https://live.catvod.com/live.php?id=phzw01&token=1769073932.30b1ab1235151501bd571b91ab8f9f57401358b931d858f71b6764cf4d93960a
+凤凰资讯,https://live.catvod.com/live.php?id=phzx01&token=1769073932.8f47b8c2d62f05d970a85f04a7ea2a4bcf2a310ee2b69e1fe18aec06a95c40b1
+凤凰香港,https://live.catvod.com/live.php?id=fhhk01&token=1769073932.babf3ebae8ef601ba395b4d1c89cba1842dc1958a11afde88dba37d14216f218

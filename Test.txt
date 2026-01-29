@@ -3,8 +3,7 @@
 央卫网页,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
-CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
-CCTV4,webview://https://www.yangshipin.cn/tv/home?pid=600001814
+CCTV3,webview://https://yangshipin.cn/tv/home?pid=600001801
 CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
 CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/
 CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/

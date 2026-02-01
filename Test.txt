@@ -625,6 +625,11 @@ CCTV15,http://61.163.181.78:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&aut
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 
 来源：https://live.catvod.com/tv.m3u 无效
+凤凰中文,https://live.catvod.com/live.php?id=phoenixtv_hd
+凤凰资讯,https://live.catvod.com/live.php?id=phoenixinfo_hd
+凤凰香港,https://live.catvod.com/live.php?id=hkphoenix_twn
+
+
 凤凰中文,https://live.catvod.com/live.php?id=phzw01&token=1769073932.30b1ab1235151501bd571b91ab8f9f57401358b931d858f71b6764cf4d93960a
 凤凰资讯,https://live.catvod.com/live.php?id=phzx01&token=1769073932.8f47b8c2d62f05d970a85f04a7ea2a4bcf2a310ee2b69e1fe18aec06a95c40b1
 凤凰香港,https://live.catvod.com/live.php?id=fhhk01&token=1769073932.babf3ebae8ef601ba395b4d1c89cba1842dc1958a11afde88dba37d14216f218

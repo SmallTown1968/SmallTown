@@ -241,10 +241,10 @@ CETV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cetv4
 咪咕体育,http://cdn6.bkpcp.top/tl/tuiliu.php?id=mgty
 看东方,http://cdn6.bkpcp.top/tl/tuiliu.php?id=xjs
 
-北京卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
 东方卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
 浙江卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws 
-山东卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
+山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
 湖南卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
 江苏卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws 
 广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws 

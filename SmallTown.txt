@@ -1,4 +1,4 @@
-2026年1月26日更新
+2026年2月8日更新
 老白IPTV
 https://laobaitv.net/
 
@@ -43,6 +43,8 @@ https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://iptv.catvod.com/tv.m
 20260106,#genre#
 凤凰中文,http://www.lgb.ip-ddns.com/php/bxtv.php?channel=fhzw
 凤凰中文,http://11.usa6.345888.xyz.cdn.cloudflare.net/0425smt.php?id=phoenixtv_hd
+凤凰资讯,http://11.usa6.345888.xyz.cdn.cloudflare.net/0425smt.php?id=phoenixinfo_hd
+凤凰香港,http://11.usa6.345888.xyz.cdn.cloudflare.net/0425smt.php?id=hkphoenix_twn
 
 凤凰中文,https://mgev.188766.xyz/?migutoken=f8bed3400b10693bde1b8b2fc2af183c&id=hk_fhzw&type=dy
 凤凰资讯,https://mgev.188766.xyz/?migutoken=f7260cf91c369825ef85a9cd68254b7b&id=hk_fhzx&type=dy
@@ -1789,3 +1791,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

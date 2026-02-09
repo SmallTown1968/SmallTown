@@ -9,10 +9,10 @@ IPTVindex订阅源
 https://iptvindex.com/tv.txt
 
 冰茶TV订阅源
+https://bc.188766.xyz/?ip=
 https://fy.188766.xyz/?ip=&lunbo=false&huikan=1
 https://bc.188766.xyz/?url=https://live.iill.top&mishitong=true
 https://show.188766.xyz/
-https://bc.188766.xyz/?ip=
 
 常更新源
 https://tstv.us.kg/sub?token=iptvindex.com
@@ -1790,3 +1790,4 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+

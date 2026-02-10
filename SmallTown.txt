@@ -1,4 +1,7 @@
-2026年2月8日更新
+2026年2月10日更新
+壹米TV
+https://gitee.com/yimi321/tv
+
 老白IPTV
 https://laobaitv.net/
 
@@ -1790,4 +1793,5 @@ AsiaFM 亚洲音乐台,http://asiafm.vip:8000/fm965
 
 加密_123456,#genre#
 10000,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+
 

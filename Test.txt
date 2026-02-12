@@ -613,6 +613,11 @@ CCTV15,http://61.163.181.78:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&aut
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 凤凰卫视,#genre#
+来源：环边直播
+凤凰中文Uktv,http://rihou.cc:555/tv/[Uk]凤凰中文
+凤凰资讯Uktv,http://rihou.cc:555/tv/[Uk]凤凰资讯
+凤凰香港Uktv,http://rihou.cc:555/tv/[Uk]凤凰香港
+
 来源：
 凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx

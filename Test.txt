@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年2月16日,https://
+2026年2月18日,https://
 央卫网页,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
@@ -611,6 +611,10 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 
 凤凰卫视,#genre#
 来源：环边直播
+凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]鍑ゅ嚢涓枃
+凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]鍑ゅ嚢璧勮
+凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]鍑ゅ嚢棣欐腐
+
 凤凰中文Uktv,http://rihou.cc:555/tv/[Uk]凤凰中文
 凤凰资讯Uktv,http://rihou.cc:555/tv/[Uk]凤凰资讯
 凤凰香港Uktv,http://rihou.cc:555/tv/[Uk]凤凰香港

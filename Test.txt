@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年2月18日,https://
+2026年2月22日,https://
 央卫网页,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
@@ -274,54 +274,6 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 
 央卫频道4,#genre#
 来源：环边直播
-CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
-CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV4,http://23.237.228.134/live5/CCTV4.m3u8
-CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV5+,http://23.237.228.134/live5/CCTV5p.m3u8
-CCTV6,http://23.237.228.134/live5/CCTV6.m3u8
-CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
-CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
-CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
-CCTV11,http://23.237.228.134/live3/CCTV11.m3u8
-CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV13,http://23.237.228.134/live3/CCTV13.m3u8
-CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
-CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
-CCTV16,http://23.237.228.134/live3/CCTV16.m3u8
-CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
-CGTN,http://23.237.228.134/live3/CGTN.m3u8
-北京卫视,http://23.237.228.134/live3/beijing.m3u8
-东方卫视,http://23.237.228.134/live3/dongfang.m3u8
-天津卫视,http://23.237.228.134/live8/tianjing.m3u8
-重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
-吉林卫视,http://23.237.228.134/live8/jilin.m3u8
-辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
-内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
-甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
-青海卫视,http://23.237.228.134/live8/qinghai.m3u8
-陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
-河北卫视,http://23.237.228.134/live8/hebei.m3u8
-山西卫视,http://23.237.228.134/live8/shanxi.m3u8
-山东卫视,http://23.237.228.134/live8/shandong.m3u8
-安徽卫视,http://23.237.228.134/live8/anhui.m3u8
-河南卫视,http://23.237.228.134/live6/henan.m3u8
-湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
-江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-东南卫视,http://23.237.228.134/live6/dongnan.m3u8
-广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
-云南卫视,http://23.237.228.134/live8/yunnan.m3u8
-贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
-四川卫视,http://23.237.228.134/live6/sichuan.m3u8
-海南卫视,http://23.237.228.134/live6/hainan.m3u8
 
 央卫频道5,#genre#
 
@@ -529,18 +481,9 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 凤凰卫视,#genre#
-来源：环边直播
-凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]鍑ゅ嚢涓枃
-凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]鍑ゅ嚢璧勮
-凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]鍑ゅ嚢棣欐腐
-
 凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
-
-凤凰中文Uktv,http://rihou.cc:555/tv/[Uk]凤凰中文
-凤凰资讯Uktv,http://rihou.cc:555/tv/[Uk]凤凰资讯
-凤凰香港Uktv,http://rihou.cc:555/tv/[Uk]凤凰香港
 
 来源：
 凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw

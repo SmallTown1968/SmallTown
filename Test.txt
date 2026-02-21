@@ -481,6 +481,10 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 凤凰卫视,#genre#
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+
 凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港

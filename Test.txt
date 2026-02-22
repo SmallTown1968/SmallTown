@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年2月22日,https://
+2026年2月223日,https://
 央卫网页,#genre#,JS=https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js
 CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800

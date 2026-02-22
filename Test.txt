@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年2月23日,https://
+2026年2月22日,https://
 央卫网页,#genre#
 CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/k-web/ku9js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816

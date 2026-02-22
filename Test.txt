@@ -1,10 +1,12 @@
 更新时间,#genre#
-2026年2月223日,https://
+2026年2月23日,https://
 央卫网页,#genre#,JS=https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js
 CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801
 CCTV4,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001814
+CCTV4欧洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV4美洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvamerica
 CCTV5,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001818
 CCTV5+,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001817
 CCTV6,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600108442
@@ -18,14 +20,22 @@ CCTV13,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001811
 CCTV14,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001809
 CCTV15,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001815
 CCTV16,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600098637
+CCTV16(4K),http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099502
 CCTV17,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001810
 CCTV4K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV4K,https://gitee.com/smalltown240730/240730/blob/master/ku9js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
+CETV-1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600171827
 CCTV风云剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099620
+CGTN英语,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600014550
+CGTN法语,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600084704
+CGTN俄语,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600084758
+CGTN阿语,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600084782
+CGTN西语,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600084744
+CGTN记录,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600084781
 
 北京卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002521
@@ -60,13 +70,13 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
 兵团卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
+三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
+五星体育,webview://https://live.kankanews.com/huikan?id=10
 
 CCTV1,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1
 CCTV2,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv2
 CCTV3,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv3
 CCTV4,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv4
-CCTV4欧洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV4美洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvamerica
 CCTV5,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5
 CCTV5+,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5plus
 CCTV6,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv6
@@ -82,26 +92,7 @@ CCTV15,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv15
 CCTV16,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv16
 CCTV17,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv17
 
-
-
-
-
-CETV-1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600171827
-
-CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827
-CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
-CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
-CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
-CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
-CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
-CGTN记录,webview://https://yangshipin.cn/tv/home?pid=600084781
-
-
-三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
-五星体育,webview://https://live.kankanews.com/huikan?id=10
-
 央卫频道1,#genre#
-
 
 央卫频道2,#genre#
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
@@ -273,7 +264,6 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 来源：环边直播
 
 央卫频道5,#genre#
-
 CCTV1综合,http://101.34.236.223:1110/608807420
 CCTV2财经,http://101.34.236.223:1110/631780532
 CCTV3综艺,http://101.34.236.223:1110/624878271
@@ -478,13 +468,17 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 凤凰卫视,#genre#
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
 
 凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 
 来源：
 凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw

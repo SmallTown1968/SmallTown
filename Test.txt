@@ -471,6 +471,10 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
 
+凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
+凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz:443/163189/fhhk
+
 凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
@@ -478,11 +482,6 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-
-来源：
-凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
-凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx
-凤凰香港,https://cdn6.163189.xyz:443/163189/fhhk
 
 来源：
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw

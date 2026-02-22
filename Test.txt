@@ -1,10 +1,6 @@
 更新时间,#genre#
 2026年2月22日,https://
 央卫网页,#genre#,JS=https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js
-CETV-1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600171827
-
-
-
 CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801
@@ -90,6 +86,7 @@ CCTV17,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv17
 
 
 
+CETV-1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600171827
 
 CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827
 CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550

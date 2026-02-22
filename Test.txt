@@ -1,10 +1,7 @@
 更新时间,#genre#
-2026年2月2233日,https://
+2026年2月22日,https://
 央卫网页,#genre#,JS=https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js
-
-三沙卫视,http://A/ku9/js/webview.js?id=https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
-五星体育,http://A/ku9/js/webview.js?id=https://live.kankanews.com/huikan?id=10
-
+CETV-1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600171827
 
 
 
@@ -103,52 +100,6 @@ CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
 CGTN记录,webview://https://yangshipin.cn/tv/home?pid=600084781
 
 
-
-北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
-北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
-北京卫视,webview://https://www.btime.com/btv/btvsy_index
-江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
-江苏卫视,webview://https://live.jstv.com/
-东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
-浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
-浙江卫视,webview://https://www.cztv.com/liveTV
-湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
-湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
-广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
-广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
-海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
-海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home
-重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
-深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
-深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
-四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
-河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
-东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
-贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
-江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503
-辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
-辽宁卫视,webview://https://www.xuexi.cn/xxqg.html?id=196d1fb7186845c8ab06945beb60f428
-安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
-河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
-山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
-天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
-吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
-陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
-陕西卫视,webview://http://m.snrtv.com/snrtv_tv/index.html
-甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
-宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
-宁夏卫视,webview://https://www.nxtv.com.cn/live/wsh/
-内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
-内蒙古卫视,webview://https://www.nmtv.cn/liveTv
-云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
-山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
-青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
-西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
-新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
-兵团卫视,webview://https://yangshipin.cn/tv/home?pid=600193252
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 五星体育,webview://https://live.kankanews.com/huikan?id=10
 

@@ -166,6 +166,21 @@ CHC影迷电影,http://m.061899.xyz/mg/ymdy
 经典动画,http://m.061899.xyz/mg/dhjh
 广东影视,http://m.061899.xyz/mg/gdys
 
+北京体育,http://m.061899.xyz/mg/bjty
+北京新闻,http://m.061899.xyz/mg/bjxw
+北京财经,http://m.061899.xyz/mg/bjcj
+北京文艺,http://m.061899.xyz/mg/bjwy
+北京生活,http://m.061899.xyz/mg/bjsh
+北京少儿,http://m.061899.xyz/mg/bjkk
+北京影视,http://m.061899.xyz/mg/bjys
+北京纪实,http://m.061899.xyz/mg/bjjs
+东方影视,http://m.061899.xyz/mg/shys
+东方纪实,http://m.061899.xyz/mg/xjs
+红色轮播,http://m.061899.xyz/mg/hslb
+金色剧场,http://m.061899.xyz/mg/jsjc
+乡村振兴,http://m.061899.xyz/mg/xczx
+重温经典,http://8.138.7.223/tv/cwjd.php
+
 凤凰中文,http://m.061899.xyz/mg/fhzw
 凤凰资讯,http://m.061899.xyz/mg/fhzx
 凤凰香港,http://m.061899.xyz/mg/fhhk

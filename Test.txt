@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年2月23日,https://
+2026年2月24日,https://
 央卫网页,#genre#,JS=https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js
 CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
@@ -645,6 +645,9 @@ CCTV3,http://iptv.4666888.xyz/iptv2A.php?id=9
 CCTV4,http://iptv.4666888.xyz/iptv2A.php?id=10
 CCTV13,http://iptv.4666888.xyz/iptv2A.php?id=11
 CCTV14,http://iptv.4666888.xyz/iptv2A.php?id=12
+
+CCTV13,http://tv.sohu.blog/pt/douyin.php?id=547977714661
+
 广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20

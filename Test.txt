@@ -5,8 +5,8 @@ CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801
 CCTV4,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001814
-CCTV4欧洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV4美洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvamerica
+CCTV4欧洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctveurope/
+CCTV4美洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvamerica/
 CCTV5,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001818
 CCTV5+,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001817
 CCTV6,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600108442

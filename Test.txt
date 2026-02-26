@@ -76,7 +76,7 @@ CCTV2,http://rqd.mytvh.top:10595/stream/channelid/1414188900?ticket=c4188d38983e
 CCTV3,http://rqd.mytvh.top:10595/stream/channelid/551141330?ticket=31c2a4bfe64f1c0c305b0585f06340c5a7176920&profile=pass
 CCTV4,http://rqd.mytvh.top:10595/stream/channelid/280377792?ticket=31257adcf231c60da7188f42736fd473e8454b27&profile=pass
 CCTV5,http://rqd.mytvh.top:10595/stream/channelid/1706693825?ticket=76b07bdf571019d0e50e3aa7459dd83d53d5126f&profile=pass
-CCTV+5,http://rqd.mytvh.top:10595/stream/channelid/1705070774?ticket=62afed83e0a96f5266e93dd20f79c14b330aabcc&profile=pass
+CCTV5+,http://rqd.mytvh.top:10595/stream/channelid/1705070774?ticket=62afed83e0a96f5266e93dd20f79c14b330aabcc&profile=pass
 CCTV6,http://rqd.mytvh.top:10595/stream/channelid/562977188?ticket=9b83bda34fdb8ca1999d65fbde2c37ed0b03dc34&profile=pass
 CCTV7,http://rqd.mytvh.top:10595/stream/channelid/2125179841?ticket=141168fe4889bfbc8372133a559ed65ede0bc193&profile=pass
 CCTV8,http://rqd.mytvh.top:10595/stream/channelid/1310653969?ticket=505243d3bebe6804315fcb81bd5c45295bbdd21f&profile=pass

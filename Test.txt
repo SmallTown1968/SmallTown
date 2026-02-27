@@ -275,9 +275,11 @@ IPTV5(轮播),http://123.190.202.14:9018/rtp/232.0.0.119:1234
 辽河文化生活,http://123.190.202.14:9018/rtp/232.0.0.215:1234
 
 央卫频道,#genre#
-CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1.m3u8?auth=test20251009
+CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2.m3u8?auth=test20251009
+CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3.m3u8?auth=test20251009
+CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4.m3u8?auth=test20251009
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5.m3u8?auth=test20251009
 CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
@@ -966,7 +968,7 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 
 
 CCTV16,http://123.190.202.14:9018/rtp/232.0.0.182:1234
-
+CCTV16,http://69.30.246.194/live/cctv16.m3u8
 
 
 

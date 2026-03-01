@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年2月28日,https://
+2026年3月1日,https://
 央卫网页,#genre#,JS=https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js
 CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
@@ -69,6 +69,28 @@ CGTN记录,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=60008
 兵团卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 五星体育,webview://https://live.kankanews.com/huikan?id=10
+
+百视通央卫,#genre#
+CCTV1,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8
+CCTV4,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV5,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
+CCTV5+,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV6,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv13hd8m/8000000/mnf.m3u8
+CCTV14,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv14hd8m/8000000/mnf.m3u8
+CCTV15,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV17,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+
+
 
 辽宁省盘锦市组播 辽宁联通,#genre#
 CCTV-1综合,http://123.190.202.14:9018/rtp/232.0.0.27:1234

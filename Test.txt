@@ -75,7 +75,7 @@ CCTV1,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/800000
 CCTV2,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8
 CCTV4,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
+CCTV5,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
 CCTV5+,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 CCTV6,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 CCTV7,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8

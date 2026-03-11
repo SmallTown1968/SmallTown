@@ -305,7 +305,7 @@ CCTV15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
-CCTV1,http://114.241.111.4:85/tsfile/live/1/1001_1.m3u8?key=txiptv $联通北京市大兴区酒店
+CCTV1,http://114.241.111.4:85/tsfile/live/1/1001_1.m3u8?key=txiptv $联通北京大兴区酒店
 CCTV2,http://114.241.111.4:85/tsfile/live/2/1002_1.m3u8?key=txiptv
 CCTV3,http://114.241.111.4:85/tsfile/live/3/1003_1.m3u8?key=txiptv
 CCTV4,http://114.241.111.4:85/tsfile/live/4/1004_1.m3u8?key=txiptv
@@ -350,14 +350,14 @@ CCTV15,http://114.241.111.4:85/tsfile/live/15/1015_1.m3u8?key=txiptv
 宁夏卫视,http://114.241.111.4:85/tsfile/live/52/1052_1.m3u8?key=txiptv
 西藏卫视,http://114.241.111.4:85/tsfile/live/53/1053_1.m3u8?key=txiptv
 内蒙古卫视,http://114.241.111.4:85/tsfile/live/50/1050_1.m3u8?key=txiptv
+纪实科教,http://114.241.111.4:85/tsfile/live/18/1018_1.m3u8?key=txiptv
 北京文艺,http://114.241.111.4:85/tsfile/live/17/1017_1.m3u8?key=txiptv
-北京科教,http://114.241.111.4:85/tsfile/live/18/1018_1.m3u8?key=txiptv
 北京影视,http://114.241.111.4:85/tsfile/live/19/1019_1.m3u8?key=txiptv
 北京财经,http://114.241.111.4:85/tsfile/live/20/1020_1.m3u8?key=txiptv
-北京IPTV4K超清,http://114.241.111.4:85/tsfile/live/21/1021_1.m3u8?key=txiptv
 北京生活,http://114.241.111.4:85/tsfile/live/22/1022_1.m3u8?key=txiptv
 北京新闻,http://114.241.111.4:85/tsfile/live/24/1024_1.m3u8?key=txiptv
 北京体育,http://114.241.111.4:85/tsfile/live/25/1025_1.m3u8?key=txiptv
+北京IPTV-4K,http://114.241.111.4:85/tsfile/live/21/1021_1.m3u8?key=txiptv
 
 CCTV1,http://59.175.8.220:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://59.175.8.220:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -584,29 +584,28 @@ CCTV13,http://110.178.211.194:9003/hls/14/index.m3u8
 深圳卫视,http://110.178.211.194:9003/hls/43/index.m3u8
 新疆卫视,http://110.178.211.194:9003/hls/47/index.m3u8
 
-CCTV1,http://107.150.60.122/live/cctv1.m3u8 $央视频5
-CCTV2,http://107.150.60.122/live/cctv2.m3u8
-CCTV3,http://107.150.60.122/live/cctv3.m3u8
-CCTV4,http://107.150.60.122/live/cctv4.m3u8
-CCTV5,http://107.150.60.122/live/cctv5.m3u8
+CCTV1,http://107.150.60.122/live/cctv1hd.m3u8 $央视频5
+CCTV2,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV3,http://107.150.60.122/live/cctv3hd.m3u8
+CCTV4,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV6,http://107.150.60.122/live/cctv6.m3u8
-CCTV7,http://107.150.60.122/live/cctv7.m3u8
-CCTV8,http://107.150.60.122/live/cctv8.m3u8
-CCTV9,http://107.150.60.122/live/cctv9.m3u8
-CCTV10,http://107.150.60.122/live/cctv10.m3u8
-CCTV11,http://107.150.60.122/live/cctv11.m3u8
-CCTV12,http://107.150.60.122/live/cctv12.m3u8
-CCTV13,http://107.150.60.122/live/cctv13.m3u8
-CCTV14,http://107.150.60.122/live/cctv14.m3u8
-CCTV15,http://107.150.60.122/live/cctv15.m3u8
-CCTV16,http://107.150.60.122/live/cctv16.m3u8
-CCTV17,http://107.150.60.122/live/cctv17.m3u8
+CCTV6,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV7,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV8,http://107.150.60.122/live/cctv8hd.m3u8
+CCTV9,http://107.150.60.122/live/cctv9hd.m3u8
+CCTV10,http://107.150.60.122/live/cctv10hd.m3u8
+CCTV11,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV13,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV14,http://107.150.60.122/live/cctv14hd.m3u8
+CCTV15,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
 CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
-
 河南卫视,http://107.150.60.122/live/hawshd.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8

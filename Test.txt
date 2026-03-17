@@ -72,6 +72,11 @@ CGTN西语,http://156.238.248.80:8880/play/35.m3u8
 重庆卫视,http://156.238.248.80:8880/play/69.m3u8
 陕西卫视,http://156.238.248.80:8880/play/70.m3u8
 陕西卫视,http://156.238.248.80:8880/play/71.m3u8
+青海卫视,http://156.238.248.80:8880/play/72.m3u8
+浙江卫视4K,http://156.238.248.80:8880/play/73.m3u8
+湖南卫视4K,http://156.238.248.80:8880/play/74.m3u8
+CHC动作电影,http://156.238.248.80:8880/play/75.m3u8
+CHC家庭影院,http://156.238.248.80:8880/play/76.m3u8
 
 央卫网页,#genre#,JS=https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js
 CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859

@@ -470,7 +470,7 @@ CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
 新疆卫视,http://107.150.60.122/live/xjws.m3u8
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
-X海南卫视,http://107.150.60.122/live/hinwshd.m3u8
+X海南卫视,http://107.150.60.122/live/hainwshd.m3u8
 四川卫视,http://107.150.60.122/live/scwshd.m3u8
 兵团卫视,http://107.150.60.122/live/btws.m3u8
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
@@ -507,9 +507,6 @@ X海南卫视,http://107.150.60.122/live/hinwshd.m3u8
 周润发电影,http://107.150.60.122/live/lbzrf.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
-
-CCTV1,https://test.tvbjack.de5.net/proxy/4c2041de649b8d62
-CCTV13,https://test.tvbjack.de5.net/proxy/45c773c969c03fff
 
 咪咕央卫,#genre#
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
@@ -923,14 +920,6 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 凤凰卫视,#genre#
-凤凰中文,https://test.tvbjack.de5.net/proxy/b27f23f12104eeaf
-凤凰资讯,https://test.tvbjack.de5.net/proxy/87d2cd4e4b944f78
-凤凰香港,https://test.tvbjack.de5.net/proxy/ea5f9b5f693cc12c
-
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-
 凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz:443/163189/fhhk
@@ -991,6 +980,13 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+凤凰中文,https://test.tvbjack.de5.net/proxy/b27f23f12104eeaf
+凤凰资讯,https://test.tvbjack.de5.net/proxy/87d2cd4e4b944f78
+凤凰香港,https://test.tvbjack.de5.net/proxy/ea5f9b5f693cc12c
+
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx

@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年3月18日18点06分,https://
+2026年3月19日9点58分,https://
 [三网]央卫直播,#genre#
 CCTV1,http://156.238.248.80:8880/play/1.m3u8
 CCTV1,http://156.238.248.80:8880/play/2.m3u8
@@ -1018,6 +1018,10 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 凤凰卫视,#genre#
+凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+
 凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz:443/163189/fhhk
@@ -1043,14 +1047,6 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhhk
 
-凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
-
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-
 来源：
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -1061,38 +1057,26 @@ CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 
-来源：
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-
-来源：https://live.catvod.com/tv.m3u
-凤凰中文,http://free.cnlive.club/channel/n496e6eec.m3u8
-凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
-凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8
-
 来源：冰茶TV订阅源https://show.188766.xyz/
+
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 来源：720P 凤凰秀
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码
 凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码
 
-凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
 凤凰中文,https://test.tvbjack.de5.net/proxy/b27f23f12104eeaf
 凤凰资讯,https://test.tvbjack.de5.net/proxy/87d2cd4e4b944f78
 凤凰香港,https://test.tvbjack.de5.net/proxy/ea5f9b5f693cc12c
 
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 
 来源：https://live.catvod.com/tv.m3u 无效
 凤凰中文,https://live.catvod.com/live.php?id=phoenixtv_hd
@@ -1114,19 +1098,21 @@ CCTV14,http://iptv.4666888.xyz/iptv2A.php?id=12
 
 CCTV13,http://tv.sohu.blog/pt/douyin.php?id=547977714661
 
-广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
 浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
 江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
 山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
+广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
+广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
+
 SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=66
 SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=57以后？？？
 SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=58
-
+tennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
 astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
 TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
 wwwe,http://iptv.4666888.xyz/iptv2A.php?id=5
@@ -1158,13 +1144,14 @@ TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 邵氏武侠,http://iptv.4666888.xyz/iptv2A.php?id=40
 東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 邵氏电影,http://iptv.4666888.xyz/iptv2A.php?id=39
-東森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
 爱尔达综合,http://iptv.4666888.xyz/iptv2A.php?id=49
 ROCKAction,http://iptv.4666888.xyz/iptv2A.php?id=50
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
+中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61

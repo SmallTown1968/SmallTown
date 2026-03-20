@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年3月20日11点28分,https://
+2026年3月20日17点50分,https://
 央卫网页,#genre#,JS=https://gitee.com/smalltown240730/240730/raw/master/ku9js/webview.js
 CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
@@ -170,6 +170,37 @@ CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testp
 (国)大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
 中国气象,http://38.75.136.137:98/gslb/dsdqpub/zgqxhd.m3u8?auth=testpub
+
+美国密苏里州堪萨斯城
+CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+CCTV6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+CCTV7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+CCTV9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+CCTV10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
+CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
+吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
+云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
+广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
+深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
+宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 
 CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0 $平顶山市新华区移动
 CCTV2,http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0

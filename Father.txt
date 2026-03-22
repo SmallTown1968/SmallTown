@@ -23,7 +23,6 @@
 平顶山城市频道,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8?wsSecret=124659e7a7c900597eb893cd1cb2cafa&wsTime=1711012552
 舞阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
 沁阳综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
-河南卫视,http://p2.ytelc.com/169l/henan/henan.php?id=henan
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
@@ -60,7 +59,6 @@ CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226623/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
-CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227362/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227355/index.m3u8

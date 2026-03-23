@@ -121,15 +121,13 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 CCTV16,https://60.191.56.186:8888/hls/16/index.m3u8
+CCTV16,http://tv.netlive.ggff.net/cctv16
 CCTV16,https://t.freetv.fun/live/cctv16-2.m3u8
+CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV16,http://69.30.246.194/live/cctv16.m3u8
-CCTV16,http://tv.netlive.ggff.net/cctv16
-CCTV16,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV16,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010142/1.m3u8?
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8

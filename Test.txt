@@ -836,7 +836,7 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 澳视澳门,http://go.bkpcp.top/mg/aomen
 翡翠台,http://go.bkpcp.top/mg/翡翠台
 
-4K超高清频道,#genre#
+4K超高清,#genre#
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k

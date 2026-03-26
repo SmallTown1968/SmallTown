@@ -156,7 +156,7 @@ CHC动作电影,http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&am
 澳视澳门,http://120.198.86.186:9901/tsfile/live/1039_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 凤凰中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 TVB翡翠台,http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-华数1,http://120.198.86.186:9901/tsfile/live/1119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+华数谍战剧场,http://120.198.86.186:9901/tsfile/live/1119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 欢笑剧场,http://120.198.86.186:9901/tsfile/live/1106_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 
 广东省梅州市联通
@@ -663,14 +663,15 @@ IPTV相声小品,http://pr.19760929.xyz:9688/rtp/239.77.1.84:5146
 IPTV野外,http://pr.19760929.xyz:9688/rtp/239.77.1.85:5146
 IPTV野外,http://pr.19760929.xyz:9688/rtp/239.77.0.101:5146
 IPTV法治,http://pr.19760929.xyz:9688/rtp/239.77.1.86:5146
-华数少儿动画,http://pr.19760929.xyz:9688/rtp/239.77.0.109:5146
-华数热播剧场,http://pr.19760929.xyz:9688/rtp/239.77.0.106:5146
-华数爱大剧1,http://pr.19760929.xyz:9688/rtp/239.77.0.105:5146
-华数爱大剧2,http://pr.19760929.xyz:9688/rtp/239.77.0.110:5146
+华数爱大剧,http://pr.19760929.xyz:9688/rtp/239.77.0.110:5146
 华数爱电影,http://pr.19760929.xyz:9688/rtp/239.77.0.103:5146
 华数爱电影,http://pr.19760929.xyz:9688/rtp/239.77.1.138:5146
+华数电视剧,http://pr.19760929.xyz:9688/rtp/239.77.0.105:5146
 华数电视剧,http://pr.19760929.xyz:9688/rtp/239.77.1.82:5146
 华数谍战剧场,http://pr.19760929.xyz:9688/rtp/239.77.1.83:5146
+华数经典电影,http://pr.19760929.xyz:9688/rtp/239.77.0.104:5146
+华数热播剧场,http://pr.19760929.xyz:9688/rtp/239.77.0.106:5146
+华数少儿动画,http://pr.19760929.xyz:9688/rtp/239.77.0.109:5146
 央视网CCTV3,http://pr.19760929.xyz:9688/rtp/239.77.0.107:5146
 央视网CCTV3,http://pr.19760929.xyz:9688/rtp/239.77.1.78:5146
 央视网CCTV3,http://pr.19760929.xyz:9688/rtp/239.77.0.111:5146
@@ -678,7 +679,6 @@ IPTV法治,http://pr.19760929.xyz:9688/rtp/239.77.1.86:5146
 央视网CCTV5,http://pr.19760929.xyz:9688/rtp/239.77.1.77:5146
 央视网CCTV11,http://pr.19760929.xyz:9688/rtp/239.77.0.100:5146
 央视网CCTV12,http://pr.19760929.xyz:9688/rtp/239.77.0.102:5146
-经典电影,http://pr.19760929.xyz:9688/rtp/239.77.0.104:5146
 四画面,http://pr.19760929.xyz:9688/rtp/239.77.1.107:5146
 四画面,http://pr.19760929.xyz:9688/rtp/239.77.1.107:5146
 

@@ -1,7 +1,7 @@
 更新时间,#genre#
-2026年3月26日17点15分,https://
+2026年3月26日19点25分,https://
 央卫频道,#genre#
-CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
@@ -101,8 +101,7 @@ CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testp
 
 中国气象,http://38.75.136.137:98/gslb/dsdqpub/zgqxhd.m3u8?auth=testpub
 
-广东省梅州市移动
-CCTV1,http://120.198.86.186:9901/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+CCTV1,http://120.198.86.186:9901/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0 $广东省梅州市移动
 CCTV2,http://120.198.86.186:9901/tsfile/live/1021_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV3,http://120.198.86.186:9901/tsfile/live/1022_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV4,http://120.198.86.186:9901/tsfile/live/1023_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
@@ -159,8 +158,7 @@ TVB翡翠台,http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv&amp;p
 华数谍战剧场,http://120.198.86.186:9901/tsfile/live/1119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 欢笑剧场,http://120.198.86.186:9901/tsfile/live/1106_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 
-广东省梅州市联通
-CCTV1,http://112.92.129.96:9898/hls/18/index.m3u8
+CCTV1,http://112.92.129.96:9898/hls/18/index.m3u8 $广东省梅州市联通
 CCTV2,http://112.92.129.96:9898/hls/19/index.m3u8
 CCTV3,http://112.92.129.96:9898/hls/20/index.m3u8
 CCTV4,http://112.92.129.96:9898/hls/21/index.m3u8
@@ -240,8 +238,7 @@ CHC家庭影院,http://112.92.129.96:9898/hls/118/index.m3u8
 梅州综合,http://112.92.129.96:9898/hls/105/index.m3u8
 澳视澳门,http://112.92.129.96:9898/hls/135/index.m3u8
 
-美国密苏里州堪萨斯城
-CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd $美国密苏里州堪萨斯城
 CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
@@ -651,13 +648,9 @@ CCTV央视文化精品,http://pr.19760929.xyz:9688/rtp/239.253.43.27:5146
 卡酷少儿,http://pr.19760929.xyz:9688/rtp/239.77.1.50:5146
 优漫卡通,http://pr.19760929.xyz:9688/rtp/239.77.0.222:5146
 睛彩竞技,http://pr.19760929.xyz:9688/rtp/239.77.1.20:5146
-睛彩广场舞,http://pr.19760929.xyz:9688/rtp/239.77.1.23:5146
 睛彩篮球,http://pr.19760929.xyz:9688/rtp/239.77.1.21:5146
 睛彩青少,http://pr.19760929.xyz:9688/rtp/239.77.1.22:5146
-IPTV相声小品,http://pr.19760929.xyz:9688/rtp/239.77.1.84:5146
-IPTV野外,http://pr.19760929.xyz:9688/rtp/239.77.1.85:5146
-IPTV野外,http://pr.19760929.xyz:9688/rtp/239.77.0.101:5146
-IPTV法治,http://pr.19760929.xyz:9688/rtp/239.77.1.86:5146
+睛彩广场舞,http://pr.19760929.xyz:9688/rtp/239.77.1.23:5146
 华数爱大剧,http://pr.19760929.xyz:9688/rtp/239.77.0.110:5146
 华数爱大剧,http://pr.19760929.xyz:9688/rtp/239.77.1.88:5146
 华数爱电影,http://pr.19760929.xyz:9688/rtp/239.77.0.103:5146
@@ -672,17 +665,20 @@ IPTV法治,http://pr.19760929.xyz:9688/rtp/239.77.1.86:5146
 华数热播剧场,http://pr.19760929.xyz:9688/rtp/239.77.1.90:5146
 华数少儿动画,http://pr.19760929.xyz:9688/rtp/239.77.0.109:5146
 华数少儿动画,http://pr.19760929.xyz:9688/rtp/239.77.1.91:5146
-
-央视网CCTV3,http://pr.19760929.xyz:9688/rtp/239.77.0.107:5146
-央视网CCTV3,http://pr.19760929.xyz:9688/rtp/239.77.1.78:5146
-央视网CCTV3,http://pr.19760929.xyz:9688/rtp/239.77.0.111:5146
-央视网CCTV5,http://pr.19760929.xyz:9688/rtp/239.77.0.176:5146
-央视网CCTV5,http://pr.19760929.xyz:9688/rtp/239.77.1.77:5146
-央视网CCTV11,http://pr.19760929.xyz:9688/rtp/239.77.0.100:5146
-央视网CCTV12,http://pr.19760929.xyz:9688/rtp/239.77.0.102:5146
+央视网综艺,http://pr.19760929.xyz:9688/rtp/239.77.0.107:5146
+央视网综艺,http://pr.19760929.xyz:9688/rtp/239.77.1.78:5146
+央视网综艺,http://pr.19760929.xyz:9688/rtp/239.77.0.111:5146
+央视网体育,http://pr.19760929.xyz:9688/rtp/239.77.0.176:5146
+央视网体育,http://pr.19760929.xyz:9688/rtp/239.77.1.77:5146
+央视网法治,http://pr.19760929.xyz:9688/rtp/239.77.0.102:5146
+央视网法治,http://pr.19760929.xyz:9688/rtp/239.77.1.86:5146
+央视网自然传奇,http://pr.19760929.xyz:9688/rtp/239.77.1.85:5146
+央视网自然传奇,http://pr.19760929.xyz:9688/rtp/239.77.0.101:5146
+央视网相声小品,http://pr.19760929.xyz:9688/rtp/239.77.0.100:5146
+央视网相声小品,http://pr.19760929.xyz:9688/rtp/239.77.1.84:5146
 四画面,http://pr.19760929.xyz:9688/rtp/239.77.1.107:5146
 
-CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8 $美国密苏里州堪萨斯城
 CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
@@ -708,7 +704,7 @@ CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 (国)大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8
 
-CCTV1综合,http://69.30.246.194/live/cctv1.m3u8
+CCTV1综合,http://69.30.246.194/live/cctv1.m3u8 $美国密苏里州堪萨斯城
 CCTV2财经,http://69.30.246.194/live/cctv2hd.m3u8
 CCTV3综艺,http://69.30.246.194/live/cctv3.m3u8
 CCTV4中文国际,http://69.30.246.194/live/cctv4.m3u8

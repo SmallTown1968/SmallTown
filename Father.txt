@@ -1,5 +1,5 @@
 个人精选,#genre#
-2026年3月23日更新
+2026年3月30日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -29,6 +29,8 @@
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227239/index.m3u8
 三沙卫视,https://srs.ssws.tv:443/video/SSTV/index.m3u8
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
+中国天气,http://tv.0839bbs.cn/tv2/chinatq2.php?id=chinatq
+中国天气,http://112.92.129.96:9898/hls/95/index.m3u8
 中国天气,http://hls.netlive.ggff.net/hls/zgtq.m3u8
 纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
 求索记录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
@@ -76,17 +78,17 @@ CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
-CCTV5,http://tv.netlive.ggff.net/cctv5
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8
-CCTV5+,http://tv.netlive.ggff.net/cctv5p
+CCTV5,http://tv.netlive.ggff.net/cctv5
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
+CCTV5+,http://tv.netlive.ggff.net/cctv5p
 CCTV6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8
 CCTV6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
 CCTV6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227237/index.m3u8

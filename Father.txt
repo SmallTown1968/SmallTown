@@ -28,6 +28,7 @@
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227239/index.m3u8
 三沙卫视,https://srs.ssws.tv:443/video/SSTV/index.m3u8
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 中国天气,http://tv.0839bbs.cn/tv2/chinatq2.php?id=chinatq
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8

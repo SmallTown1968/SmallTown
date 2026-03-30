@@ -943,8 +943,18 @@ CCTV17农业农村,http://69.30.246.194/live/cctv17.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 
+CCTV13新闻,https://t.freetv.fun/live/cctv13-21.m3u8
 CCTV16奥林匹克,https://60.191.56.186:8888/hls/16/index.m3u8
 CCTV16奥林匹克,https://t.freetv.fun/live/cctv16-2.m3u8
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-1.m3u8
+贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-5.m3u8
+山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-6.m3u8
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-1.m3u8
+云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
+延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
 
 组播单播,#genre#
 新加坡腾讯云央视频

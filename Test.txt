@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年3月31日9点15分,https://
+2026年3月31日16点15分,https://
 央卫频道,#genre#
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
@@ -1459,10 +1459,12 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 央卫频道B,#genre#
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
-凤凰卫视,#genre#
+港台卫视,#genre#
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx

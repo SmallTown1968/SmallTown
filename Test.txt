@@ -227,7 +227,8 @@ CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testp
 (外)大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 (国)大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
-中国气象,http://38.75.136.137:98/gslb/dsdqpub/zgqxhd.m3u8?auth=testpub
+中国天气,http://38.75.136.137:98/gslb/dsdqpub/zgqxhd.m3u8?auth=testpub
+中国天气,http://tv.0839bbs.cn/tv2/chinatq2.php?id=chinatq
 
 CCTV1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8 $移动内蒙古呼和浩特
 CCTV1,http://111.56.90.5/000000000000/6000000001000029752/1.m3u8

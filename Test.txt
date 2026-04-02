@@ -1,6 +1,5 @@
 更新时间,#genre#
-2026年4月1日19点5分,https://
-
+2026年4月2日16点5分,https://
 黑龙江哈尔滨联通,#genre#
 CCTV1高清,http://1.62.159.165:8886/rtp/229.58.190.151:5000
 CCTV1,http://1.62.159.165:8886/rtp/229.58.190.129:5000
@@ -1566,17 +1565,22 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 北京卫视4K,http://106.53.99.30/tv/bj.php?id=bjws4k
 北京卫视4K,http://139.ye23.vip/dl/btv2502.php?id=bjws4
 江苏卫视4K,http://124.116.170.138:8081/rtp/239.111.205.64:5140
 江苏卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+广东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140
 广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146&token=bc1a5ce7f260728b8fa3063d1466009e
 广东卫视4K,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
+广东卫视4K,webview://https://www.gdtv.cn/tvChannelDetail/16
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 深圳卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 深圳卫视4K,http://livepull-vidchina.sztv.com.cn/live/4KBack-*.ts
-山东卫视4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
+深圳卫视4K,webview://https://www.sztv.com.cn/dianshi.shtml?id=24725
+山东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140
 山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8 
 苏州4K,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
@@ -1584,6 +1588,7 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 苏州4K,http://tylive.kan0512.com/norecord/csztv4k_fhd.m3u8
 苏州4K,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u8
 南国都市4K,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4 
+南国都市4K,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 汶川4K,http://live.iwcmt.cn:90/live/zhxw.m3u8
 
 央卫频道A,#genre#

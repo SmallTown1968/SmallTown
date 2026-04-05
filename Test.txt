@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月4日21点35分,https://
+2026年4月5日10点35分,https://
 央卫频道,#genre#
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
@@ -20,7 +20,7 @@ CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
-CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
 CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
@@ -325,8 +325,8 @@ CCTV15,http://114.241.107.197:85/tsfile/live/15/1015_1.m3u8?key=txiptv
 北京体育休闲,http://114.241.107.197:85/tsfile/live/25/1025_1.m3u8?key=txiptv
 北京IPTV4K超清,http://114.241.107.197:85/tsfile/live/21/1021_1.m3u8?key=txiptv
 
-CCTV1,http://60.10.139.113:8801/hls/1/index.m3u8 $河北廊坊香河县联通
-CCTV1,http://60.10.139.113:8801/hls/46/index.m3u8
+CCTV1,http://60.10.139.113:8801/hls/1/index.m3u8 $联通河北廊坊香河县
+CCTV1,http://60.10.139.113:8801/hls/46/index.m3u8 $联通河北廊坊香河县
 CCTV2,http://60.10.139.113:8801/hls/2/index.m3u8
 CCTV3,http://60.10.139.113:8801/hls/3/index.m3u8
 CCTV4,http://60.10.139.113:8801/hls/4/index.m3u8
@@ -394,7 +394,7 @@ CETV早期教育,http://60.10.139.113:8801/hls/83/index.m3u8
 梨园频道,http://60.10.139.113:8801/hls/86/index.m3u8
 文物宝库,http://60.10.139.113:8801/hls/76/index.m3u8
 
-CCTV1,http://120.198.86.186:9901/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0 $广东省梅州市移动
+CCTV1,http://120.198.86.186:9901/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0 $移动广东梅州
 CCTV2,http://120.198.86.186:9901/tsfile/live/1021_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV3,http://120.198.86.186:9901/tsfile/live/1022_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV4,http://120.198.86.186:9901/tsfile/live/1023_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
@@ -450,7 +450,7 @@ TVB翡翠台,http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv&amp;p
 华数谍战剧场,http://120.198.86.186:9901/tsfile/live/1119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 欢笑剧场,http://120.198.86.186:9901/tsfile/live/1106_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 
-CCTV1,http://112.92.129.96:9898/hls/18/index.m3u8 $广东省梅州市联通
+CCTV1,http://112.92.129.96:9898/hls/18/index.m3u8 $联通广东梅州
 CCTV2,http://112.92.129.96:9898/hls/19/index.m3u8
 CCTV3,http://112.92.129.96:9898/hls/20/index.m3u8
 CCTV4,http://112.92.129.96:9898/hls/21/index.m3u8
@@ -529,7 +529,7 @@ CHC家庭影院,http://112.92.129.96:9898/hls/118/index.m3u8
 梅州综合,http://112.92.129.96:9898/hls/105/index.m3u8
 澳视澳门,http://112.92.129.96:9898/hls/135/index.m3u8
 
-CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0 $平顶山市新华区移动
+CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0 $移动平顶山新华区
 CCTV2,http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4,http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -663,8 +663,8 @@ CCTV15,http://114.241.111.4:85/tsfile/live/15/1015_1.m3u8?key=txiptv
 北京IPTV-4K,http://114.241.111.4:85/tsfile/live/21/1021_1.m3u8?key=txiptv
 
 CCTV1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8 $移动内蒙古呼和浩特
-CCTV1,http://111.56.90.5/000000000000/6000000001000029752/1.m3u8
-CCTV1,http://111.56.90.5/000000000000/5000000004000002226/1.m3u8
+CCTV1,http://111.56.90.5/000000000000/6000000001000029752/1.m3u8 $移动内蒙古呼和浩特
+CCTV1,http://111.56.90.5/000000000000/5000000004000002226/1.m3u8 $移动内蒙古呼和浩特
 CCTV2,http://111.56.90.5/000000000000/1000000001000023315/1.m3u8
 CCTV2,http://111.56.90.5/000000000000/1000000001000012442/1.m3u8
 CCTV3,http://111.56.90.5/000000000000/1000000005000265003/1.m3u8
@@ -808,9 +808,9 @@ CCTV17,http://111.56.90.5/000000000000/1000000006000268004/1.m3u8
 
 北京海淀联通http://hxq.xo.je//files/123456/222.txt
 CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.0.86:5146 $联通北京海淀
-CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.0.119:5146
-CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.1.17:5146
-CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.0.129:5146
+CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.0.119:5146 $联通北京海淀
+CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.1.17:5146 $联通北京海淀
+CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.0.129:5146 $联通北京海淀
 CCTV2,http://pr.19760929.xyz:9688/rtp/239.77.0.137:5146
 CCTV2,http://pr.19760929.xyz:9688/rtp/239.77.1.158:5146
 CCTV3,http://pr.19760929.xyz:9688/rtp/239.77.0.169:5146
@@ -1045,7 +1045,7 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 组播单播,#genre#
 类型：河南漯河组播 河南联通 | 节目数量：262
 CCTV1,http://123.10.79.223:40000/rtp/225.1.4.73:1102 $联通漯河组播
-CCTV1,http://123.10.79.223:40000/rtp/225.1.4.231:1277
+CCTV1,http://123.10.79.223:40000/rtp/225.1.4.231:1277 $联通漯河组播
 CCTV2,http://123.10.79.223:40000/rtp/225.1.4.74:1103
 CCTV3,http://123.10.79.223:40000/rtp/225.1.4.158:1194
 CCTV4,http://123.10.79.223:40000/rtp/225.1.5.30:1333
@@ -1137,7 +1137,7 @@ CHC电影,http://123.10.79.223:40000/rtp/225.1.4.207:1260
 爱上4k,http://123.10.79.223:40000/rtp/225.1.4.162:1204
 
 新加坡腾讯云央视频
-CCTV1,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
+CCTV1,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd $新加坡腾讯云
 CCTV2,http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
 CCTV3,http://43.156.8.127:5050/ysp?id=2024068501&pid=600001801&q=fhd
 CCTV4,http://43.156.8.127:5050/ysp?id=2029797103&pid=600001814&q=fhd
@@ -1191,7 +1191,7 @@ CCTV8K,http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
 青海卫视,http://43.156.8.127:5050/ysp?id=2025559103&pid=600190406&q=fhd
 
 美国加利福尼亚州洛杉矶央视频
-CCTV1,http://154.219.125.138:5050/ysp?id=2024078201&pid=600001859&q=fhd
+CCTV1,http://154.219.125.138:5050/ysp?id=2024078201&pid=600001859&q=fhd $美国加利福尼亚州洛杉矶
 CCTV2,http://154.219.125.138:5050/ysp?id=2024075401&pid=600001800&q=fhd
 CCTV3,http://154.219.125.138:5050/ysp?id=2024068501&pid=600001801&q=fhd
 CCTV4,http://154.219.125.138:5050/ysp?id=2029797101&pid=600001814&q=fhd
@@ -1251,7 +1251,7 @@ CCTV怀旧剧场,http://154.219.125.138:5050/ysp?id=2026874303&pid=600099620&q=f
 新疆卫视,http://154.219.125.138:5050/ysp?id=2019927403&pid=600152138&q=fhd
 
 周口市西华县联通
-CCTV1,http://61.163.181.78:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://61.163.181.78:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 $联通周口西华县
 CCTV2,http://61.163.181.78:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://61.163.181.78:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://61.163.181.78:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1276,7 +1276,7 @@ CCTV15,http://61.163.181.78:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&aut
 深圳卫视,http://61.163.181.78:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 
 安徽省黄山市黄山区联通
-CCTV1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0 $联通安徽黄山
 CCTV2,http://112.123.243.37:50085/tsfile/live/0002_1.m3u8
 CCTV3,http://112.123.243.37:50085/tsfile/live/0003_1.m3u8
 CCTV4,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8

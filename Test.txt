@@ -1,25 +1,25 @@
 更新时间,#genre#
-2026年4月7日16点35分,https://
+2026年4月8日16点35分,https://
 央卫频道,#genre#
-CCTV-1,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8 $蜀小果
-CCTV-2,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8 $蜀小果
-CCTV-3,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-3H265_4000.m3u8 $蜀小果
-CCTV-4,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-4H265_4000.m3u8 $蜀小果
-CCTV-5,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-5H265_4000.m3u8 $蜀小果
-CCTV-5+,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-5plusH265_4000.m3u8 $蜀小果
-CCTV-6,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-6H265_4000.m3u8 $蜀小果
-CCTV-7,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-7H265_4000.m3u8 $蜀小果
-CCTV-8,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-8H265_4000.m3u8 $蜀小果
-CCTV-9,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-9H265_4000.m3u8 $蜀小果
-CCTV-10,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-10H265_4000.m3u8 $蜀小果
-CCTV-11,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-11-H265_4000.m3u8 $蜀小果
-CCTV-12,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-12H265_4000.m3u8 $蜀小果
-CCTV-13,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-xw_4000.m3u8 $蜀小果
-CCTV-14,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-14H265_4000.m3u8 $蜀小果
-CCTV-15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-15-yyH265_4000.m3u8 $蜀小果
-CCTV-16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16_4000.m3u8 $蜀小果
-CCTV-16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8 $蜀小果
-CCTV-17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-17_4000.m3u8 $蜀小果
+CCTV1,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8 $蜀小果
+CCTV2,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8 $蜀小果
+CCTV3,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-3H265_4000.m3u8 $蜀小果
+CCTV4,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-4H265_4000.m3u8 $蜀小果
+CCTV5,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-5H265_4000.m3u8 $蜀小果
+CCTV5+,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-5plusH265_4000.m3u8 $蜀小果
+CCTV6,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-6H265_4000.m3u8 $蜀小果
+CCTV7,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-7H265_4000.m3u8 $蜀小果
+CCTV8,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-8H265_4000.m3u8 $蜀小果
+CCTV9,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-9H265_4000.m3u8 $蜀小果
+CCTV10,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-10H265_4000.m3u8 $蜀小果
+CCTV11,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-11-H265_4000.m3u8 $蜀小果
+CCTV12,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-12H265_4000.m3u8 $蜀小果
+CCTV13,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-xw_4000.m3u8 $蜀小果
+CCTV14,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-14H265_4000.m3u8 $蜀小果
+CCTV15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-15-yyH265_4000.m3u8 $蜀小果
+CCTV16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16_4000.m3u8 $蜀小果
+CCTV16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8 $蜀小果
+CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-17_4000.m3u8 $蜀小果
 北京卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/bjwsH265_4000.m3u8 $蜀小果
 东方卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/dfwsH265_4000.m3u8 $蜀小果
 天津卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/tjwsH265_4000.m3u8 $蜀小果
@@ -55,333 +55,195 @@ CCTV-17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u
 CHC影迷电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8 $蜀小果
 CHC动作电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8 $蜀小果
 CHC家庭影院,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8 $蜀小果
-CCTV-1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225934/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-2,http://gxyd.484947.xyz/PLTV/77777777/224/3221225948/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-2,http://gxyd.484947.xyz/PLTV/77777777/224/3221225657/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-3,http://gxyd.484947.xyz/PLTV/77777777/224/3221225916/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-3,http://gxyd.484947.xyz/PLTV/77777777/224/3221225713/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-4,http://gxyd.484947.xyz/PLTV/77777777/224/3221225922/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-4,http://gxyd.484947.xyz/PLTV/77777777/224/3221225761/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225801/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225925/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225660/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-5+,http://gxyd.484947.xyz/PLTV/77777777/224/3221225998/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-5+,http://gxyd.484947.xyz/PLTV/77777777/224/3221225712/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-6,http://gxyd.484947.xyz/PLTV/77777777/224/3221225936/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-6,http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-7,http://gxyd.484947.xyz/PLTV/77777777/224/3221225892/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-7,http://gxyd.484947.xyz/PLTV/77777777/224/3221225700/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-8,http://gxyd.484947.xyz/PLTV/77777777/224/3221226001/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-8,http://gxyd.484947.xyz/PLTV/77777777/224/3221225716/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-9,http://gxyd.484947.xyz/PLTV/77777777/224/3221225939/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-9,http://gxyd.484947.xyz/PLTV/77777777/224/3221225663/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-10,http://gxyd.484947.xyz/PLTV/77777777/224/3221226004/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-10,http://gxyd.484947.xyz/PLTV/77777777/224/3221225704/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-11,http://gxyd.484947.xyz/PLTV/77777777/224/3221225895/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-11,http://gxyd.484947.xyz/PLTV/77777777/224/3221225739/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-12,http://gxyd.484947.xyz/PLTV/77777777/224/3221226013/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-12,http://gxyd.484947.xyz/PLTV/77777777/224/3221225645/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-13,http://gxyd.484947.xyz/PLTV/77777777/224/3221226046/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-13,http://gxyd.484947.xyz/PLTV/77777777/224/3221225742/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225901/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225945/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-16,http://gxyd.484947.xyz/PLTV/77777777/224/3221225937/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-16,http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225910/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-CCTV-17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国国际电视台新闻频道,http://gxyd.484947.xyz/PLTV/77777777/224/3221225816/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国国际电视台纪录频道,http://gxyd.484947.xyz/PLTV/77777777/224/3221225707/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国国际电视台西班牙语频道,http://gxyd.484947.xyz/PLTV/77777777/224/3221225875/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国国际电视台法语频道,http://gxyd.484947.xyz/PLTV/77777777/224/3221225878/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国国际电视台阿拉伯语频道,http://gxyd.484947.xyz/PLTV/77777777/224/3221225822/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国国际电视台俄语频道,http://gxyd.484947.xyz/PLTV/77777777/224/3221225825/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-纯享4K,http://gxyd.484947.xyz/PLTV/77777777/224/3221225726/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-广西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226374/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-湖南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225919/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-湖南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225719/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-浙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225928/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-浙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225731/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-天津卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226022/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-天津卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225675/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-东方卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225942/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-东方卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225718/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-江苏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226025/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-江苏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225722/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-北京卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225889/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-北京卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225651/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-广东卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225913/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-广东卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-珠江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-深圳卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225951/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-深圳卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225725/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-山东卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226010/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-山东卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225672/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-湖北卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225954/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-湖北卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225721/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-安徽卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225886/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-安徽卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225701/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-东南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225904/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-江西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225957/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-四川卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225757/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-贵州卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225770/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225898/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-海南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225752/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-河北卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225773/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-河南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225806/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-辽宁卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226007/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-辽宁卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225779/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-黑龙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226019/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-黑龙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225734/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-甘肃卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225764/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-青海卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225705/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-山西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225785/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-云南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225794/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-陕西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225754/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-吉林卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225678/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-宁夏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225782/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-内蒙古卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225751/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-新疆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225788/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-西藏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225800/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-西藏卫视藏语频道,http://gxyd.484947.xyz/PLTV/77777777/224/3221225828/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-北京纪实,http://gxyd.484947.xyz/PLTV/77777777/224/3221225995/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-厦门卫视标清4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225823/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-兵团卫视标清4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225795/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-康巴卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226270/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-延边卫视标清4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221226273/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-安多卫视标清4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221226271/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-三沙卫视(标清),http://gxyd.484947.xyz/PLTV/77777777/224/3221226405/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-金鹰纪实,http://gxyd.484947.xyz/PLTV/77777777/224/3221225699/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-金鹰卡通,http://gxyd.484947.xyz/PLTV/77777777/224/3221225702/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-嘉佳卡通,http://gxyd.484947.xyz/PLTV/77777777/224/3221225797/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-卡酷少儿,http://gxyd.484947.xyz/PLTV/77777777/224/3221225730/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-优漫卡通,http://gxyd.484947.xyz/PLTV/77777777/224/3221225791/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国教育-1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225776/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国教育2套标清4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225881/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国教育4套,http://gxyd.484947.xyz/PLTV/77777777/224/3221225723/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-山东教育,http://gxyd.484947.xyz/PLTV/77777777/224/3221225708/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-高尔夫标清4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225884/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-精品萌宠,http://gxyd.484947.xyz/PLTV/77777777/224/3221225979/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-黑莓电影,http://gxyd.484947.xyz/PLTV/77777777/224/3221225740/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-黑莓动画,http://gxyd.484947.xyz/PLTV/77777777/224/3221225710/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-哒啵赛事,http://gxyd.484947.xyz/PLTV/77777777/224/3221225760/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-哒啵电竞,http://gxyd.484947.xyz/PLTV/77777777/224/3221225880/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-睛彩竞技,http://gxyd.484947.xyz/PLTV/77777777/224/3221225972/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-睛彩篮球,http://gxyd.484947.xyz/PLTV/77777777/224/3221225961/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-睛彩青少,http://gxyd.484947.xyz/PLTV/77777777/224/3221226055/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-睛彩广场舞,http://gxyd.484947.xyz/PLTV/77777777/224/3221226326/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-古装剧场,http://gxyd.484947.xyz/PLTV/77777777/224/3221225706/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-动作电影,http://gxyd.484947.xyz/PLTV/77777777/224/3221225703/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-军旅剧场,http://gxyd.484947.xyz/PLTV/77777777/224/3221225727/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-家庭剧场,http://gxyd.484947.xyz/PLTV/77777777/224/3221225743/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-惊悚悬疑,http://gxyd.484947.xyz/PLTV/77777777/224/3221225746/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-热播精选,http://gxyd.484947.xyz/PLTV/77777777/224/3221225763/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-精品综合,http://gxyd.484947.xyz/PLTV/77777777/224/3221225733/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-爱情喜剧,http://gxyd.484947.xyz/PLTV/77777777/224/3221225698/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-精品大剧,http://gxyd.484947.xyz/PLTV/77777777/224/3221225737/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-中国功夫,http://gxyd.484947.xyz/PLTV/77777777/224/3221225690/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-谍战大剧,http://gxyd.484947.xyz/PLTV/77777777/224/3221225755/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-军事评论,http://gxyd.484947.xyz/PLTV/77777777/224/3221225749/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-农业致富,http://gxyd.484947.xyz/PLTV/77777777/224/3221225687/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-烽烟剧场,http://gxyd.484947.xyz/PLTV/77777777/224/3221225681/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-怡伴健康,http://gxyd.484947.xyz/PLTV/77777777/224/3221225684/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-精品体育,http://gxyd.484947.xyz/PLTV/77777777/224/3221225724/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-潮妈辣婆,http://gxyd.484947.xyz/PLTV/77777777/224/3221225709/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
-炫舞未来,http://gxyd.484947.xyz/PLTV/77777777/224/3221225973/index.m3u8?servicetype=3&IASHttpSessionId=OTT $广西移动
 
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
-CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-CCTV6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-CCTV9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
 
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
-CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV10,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-CCTV11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-CCTV12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-CCTV14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
-CCTV15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
-CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV2,http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
-CETV3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
-CETV4,http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
+CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV10,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CETV2,http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CETV3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CETV4,http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
 
-CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
-CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-中央新影-老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
-中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+中央新影-老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+中央新影-发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
 
-北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
-湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
-江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
-浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-浙江卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
-三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
-厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
-广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
-吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
-黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
-甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-西藏卫视,http://38.75.136.137:98/gslb/dsdqpub/xzws.m3u8?auth=testpub
-新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
-内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
-兵团卫视,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
-(外)大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
-(国)大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
-
-中国天气,http://38.75.136.137:98/gslb/dsdqpub/zgqxhd.m3u8?auth=testpub
+北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+浙江卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
+安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+西藏卫视,http://38.75.136.137:98/gslb/dsdqpub/xzws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+兵团卫视,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+(外)大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+(国)大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
+中国天气,http://38.75.136.137:98/gslb/dsdqpub/zgqxhd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
 中国天气,http://tv.0839bbs.cn/tv2/chinatq2.php?id=chinatq
 
 CCTV1,http://107.150.60.122/live/cctv1hd.m3u8 $美国密苏里州堪萨斯城
-CCTV2,http://107.150.60.122/live/cctv2hd.m3u8
-CCTV3,http://107.150.60.122/live/cctv3hd.m3u8
-CCTV4,http://107.150.60.122/live/cctv4hd.m3u8
-CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV6,http://107.150.60.122/live/cctv6hd.m3u8
-CCTV7,http://107.150.60.122/live/cctv7hd.m3u8
-CCTV8,http://107.150.60.122/live/cctv8hd.m3u8
-CCTV9,http://107.150.60.122/live/cctv9hd.m3u8
-CCTV10,http://107.150.60.122/live/cctv10hd.m3u8
-CCTV11,http://107.150.60.122/live/cctv11hd.m3u8
-CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
-CCTV13,http://107.150.60.122/live/cctv13hd.m3u8
-CCTV14,http://107.150.60.122/live/cctv14hd.m3u8
-CCTV15,http://107.150.60.122/live/cctv15hd.m3u8
-CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
-CCTV17,http://107.150.60.122/live/cctv17hd.m3u8
-CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
-CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
-CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
-CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
-河南卫视,http://107.150.60.122/live/hawshd.m3u8
-北京卫视,http://107.150.60.122/live/bjwshd.m3u8
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
-东方卫视,http://107.150.60.122/live/dfwshd.m3u8
-浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
-江苏卫视,http://107.150.60.122/live/jswshd.m3u8
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
-东南卫视,http://107.150.60.122/live/dnwshd.m3u8
-贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
-江西卫视,http://107.150.60.122/live/jxwshd.m3u8
-广西卫视,http://107.150.60.122/live/gxwshd.m3u8
-湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
-辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
-安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
-河北卫视,http://107.150.60.122/live/hewshd.m3u8
-山东卫视,http://107.150.60.122/live/sdwshd.m3u8
-天津卫视,http://107.150.60.122/live/tjwshd.m3u8
-吉林卫视,http://107.150.60.122/live/jlwshd.m3u8
-陕西卫视,http://107.150.60.122/live/snwshd.m3u8
-甘肃卫视,http://107.150.60.122/live/gswshd.m3u8
-宁夏卫视,http://107.150.60.122/live/nxws.m3u8
-内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
-云南卫视,http://107.150.60.122/live/ynwshd.m3u8
-山西卫视,http://107.150.60.122/live/sxwshd.m3u8
-青海卫视,http://107.150.60.122/live/qhws.m3u8
-西藏卫视,http://107.150.60.122/live/xzws.m3u8
-新疆卫视,http://107.150.60.122/live/xjws.m3u8
-广东卫视,http://107.150.60.122/live/gdwshd.m3u8
-深圳卫视,http://107.150.60.122/live/szwshd.m3u8
-X海南卫视,http://107.150.60.122/live/hainwshd.m3u8
-四川卫视,http://107.150.60.122/live/scwshd.m3u8
-兵团卫视,http://107.150.60.122/live/btws.m3u8
-三沙卫视,http://107.150.60.122/live/ssws.m3u8
-黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
-大湾区卫视,http://107.150.60.122/live/nfws.m3u8
-卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
-中央新影发现之旅,http://107.150.60.122/live/fxzl.m3u8
-中央新影老故事,http://107.150.60.122/live/lgs.m3u8
-中国教育3,http://107.150.60.122/live/cetv3.m3u8
-广东珠江,http://107.150.60.122/live/gdzj.m3u8
-广东体育,http://107.150.60.122/live/gdty.m3u8
-广东新闻,http://107.150.60.122/live/gdxw.m3u8
-广西影视,http://107.150.60.122/live/gxys.m3u8
-广西综艺旅游,http://107.150.60.122/live/gxzy.m3u8
-广西都市,http://107.150.60.122/live/gxds.m3u8
-广西新闻,http://107.150.60.122/live/gxxw.m3u8
-广西国际,http://107.150.60.122/live/gxgj.m3u8
-湖北综合,http://107.150.60.122/live/hbzh.m3u8
-湖北经视,http://107.150.60.122/live/hbjs.m3u8
-湖北影视,http://107.150.60.122/live/hbys.m3u8
-湖北教育,http://107.150.60.122/live/hbjy.m3u8
-湖北垄上,http://107.150.60.122/live/hbls.m3u8
-湖北生活,http://107.150.60.122/live/hbty.m3u8
-湖南娱乐,http://107.150.60.122/live/hnyl.m3u8
-湖南教育,http://107.150.60.122/live/hnjy.m3u8
-吉林都市,http://107.150.60.122/live/jlds.m3u8
-吉林综艺文化,http://107.150.60.122/live/jlfz.m3u8
-吉林生活,http://107.150.60.122/live/jlsh.m3u8
-新疆汉语影视,http://107.150.60.122/live/xjtv6.m3u8
-新疆汉语体育健康,http://107.150.60.122/live/xjtv7.m3u8
-江西少儿家庭,http://107.150.60.122/live/jxtv6.m3u8
-江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8
-成龙电影,http://107.150.60.122/live/lbcl.m3u8
-周润发电影,http://107.150.60.122/live/lbzrf.m3u8
-周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
-林正英影院,http://107.150.60.122/live/lblzy.m3u8
+CCTV2,http://107.150.60.122/live/cctv2hd.m3u8 $美国密苏里州堪萨斯城
+CCTV3,http://107.150.60.122/live/cctv3hd.m3u8 $美国密苏里州堪萨斯城
+CCTV4,http://107.150.60.122/live/cctv4hd.m3u8 $美国密苏里州堪萨斯城
+CCTV5,http://107.150.60.122/live/cctv5hd.m3u8 $美国密苏里州堪萨斯城
+CCTV5+,http://107.150.60.122/live/cctv5p.m3u8 $美国密苏里州堪萨斯城
+CCTV6,http://107.150.60.122/live/cctv6hd.m3u8 $美国密苏里州堪萨斯城
+CCTV7,http://107.150.60.122/live/cctv7hd.m3u8 $美国密苏里州堪萨斯城
+CCTV8,http://107.150.60.122/live/cctv8hd.m3u8 $美国密苏里州堪萨斯城
+CCTV9,http://107.150.60.122/live/cctv9hd.m3u8 $美国密苏里州堪萨斯城
+CCTV10,http://107.150.60.122/live/cctv10hd.m3u8 $美国密苏里州堪萨斯城
+CCTV11,http://107.150.60.122/live/cctv11hd.m3u8 $美国密苏里州堪萨斯城
+CCTV12,http://107.150.60.122/live/cctv12hd.m3u8 $美国密苏里州堪萨斯城
+CCTV13,http://107.150.60.122/live/cctv13hd.m3u8 $美国密苏里州堪萨斯城
+CCTV14,http://107.150.60.122/live/cctv14hd.m3u8 $美国密苏里州堪萨斯城
+CCTV15,http://107.150.60.122/live/cctv15hd.m3u8 $美国密苏里州堪萨斯城
+CCTV16,http://107.150.60.122/live/cctv16hd.m3u8 $美国密苏里州堪萨斯城
+CCTV17,http://107.150.60.122/live/cctv17hd.m3u8 $美国密苏里州堪萨斯城
+CCTV4K,http://107.150.60.122/live/cctv4k.m3u8 $美国密苏里州堪萨斯城
+CCTV8K,http://107.150.60.122/live/cctv8k.m3u8 $美国密苏里州堪萨斯城
+CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8 $美国密苏里州堪萨斯城
+CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8 $美国密苏里州堪萨斯城
+河南卫视,http://107.150.60.122/live/hawshd.m3u8 $美国密苏里州堪萨斯城
+北京卫视,http://107.150.60.122/live/bjwshd.m3u8 $美国密苏里州堪萨斯城
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8 $美国密苏里州堪萨斯城
+东方卫视,http://107.150.60.122/live/dfwshd.m3u8 $美国密苏里州堪萨斯城
+浙江卫视,http://107.150.60.122/live/zjwshd.m3u8 $美国密苏里州堪萨斯城
+江苏卫视,http://107.150.60.122/live/jswshd.m3u8 $美国密苏里州堪萨斯城
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8 $美国密苏里州堪萨斯城
+东南卫视,http://107.150.60.122/live/dnwshd.m3u8 $美国密苏里州堪萨斯城
+贵州卫视,http://107.150.60.122/live/gzwshd.m3u8 $美国密苏里州堪萨斯城
+江西卫视,http://107.150.60.122/live/jxwshd.m3u8 $美国密苏里州堪萨斯城
+广西卫视,http://107.150.60.122/live/gxwshd.m3u8 $美国密苏里州堪萨斯城
+湖北卫视,http://107.150.60.122/live/hbwshd.m3u8 $美国密苏里州堪萨斯城
+辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8 $美国密苏里州堪萨斯城
+安徽卫视,http://107.150.60.122/live/ahwshd.m3u8 $美国密苏里州堪萨斯城
+河北卫视,http://107.150.60.122/live/hewshd.m3u8 $美国密苏里州堪萨斯城
+山东卫视,http://107.150.60.122/live/sdwshd.m3u8 $美国密苏里州堪萨斯城
+天津卫视,http://107.150.60.122/live/tjwshd.m3u8 $美国密苏里州堪萨斯城
+吉林卫视,http://107.150.60.122/live/jlwshd.m3u8 $美国密苏里州堪萨斯城
+陕西卫视,http://107.150.60.122/live/snwshd.m3u8 $美国密苏里州堪萨斯城
+甘肃卫视,http://107.150.60.122/live/gswshd.m3u8 $美国密苏里州堪萨斯城
+宁夏卫视,http://107.150.60.122/live/nxws.m3u8 $美国密苏里州堪萨斯城
+内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8 $美国密苏里州堪萨斯城
+云南卫视,http://107.150.60.122/live/ynwshd.m3u8 $美国密苏里州堪萨斯城
+山西卫视,http://107.150.60.122/live/sxwshd.m3u8 $美国密苏里州堪萨斯城
+青海卫视,http://107.150.60.122/live/qhws.m3u8 $美国密苏里州堪萨斯城
+西藏卫视,http://107.150.60.122/live/xzws.m3u8 $美国密苏里州堪萨斯城
+新疆卫视,http://107.150.60.122/live/xjws.m3u8 $美国密苏里州堪萨斯城
+广东卫视,http://107.150.60.122/live/gdwshd.m3u8 $美国密苏里州堪萨斯城
+深圳卫视,http://107.150.60.122/live/szwshd.m3u8 $美国密苏里州堪萨斯城
+X海南卫视,http://107.150.60.122/live/hainwshd.m3u8 $美国密苏里州堪萨斯城
+四川卫视,http://107.150.60.122/live/scwshd.m3u8 $美国密苏里州堪萨斯城
+兵团卫视,http://107.150.60.122/live/btws.m3u8 $美国密苏里州堪萨斯城
+三沙卫视,http://107.150.60.122/live/ssws.m3u8 $美国密苏里州堪萨斯城
+黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8 $美国密苏里州堪萨斯城
+大湾区卫视,http://107.150.60.122/live/nfws.m3u8 $美国密苏里州堪萨斯城
+卡酷少儿,http://107.150.60.122/live/btvkk.m3u8 $美国密苏里州堪萨斯城
+中央新影发现之旅,http://107.150.60.122/live/fxzl.m3u8 $美国密苏里州堪萨斯城
+中央新影老故事,http://107.150.60.122/live/lgs.m3u8 $美国密苏里州堪萨斯城
+中国教育3,http://107.150.60.122/live/cetv3.m3u8 $美国密苏里州堪萨斯城
+广东珠江,http://107.150.60.122/live/gdzj.m3u8 $美国密苏里州堪萨斯城
+广东体育,http://107.150.60.122/live/gdty.m3u8 $美国密苏里州堪萨斯城
+广东新闻,http://107.150.60.122/live/gdxw.m3u8 $美国密苏里州堪萨斯城
+广西影视,http://107.150.60.122/live/gxys.m3u8 $美国密苏里州堪萨斯城
+广西综艺旅游,http://107.150.60.122/live/gxzy.m3u8 $美国密苏里州堪萨斯城
+广西都市,http://107.150.60.122/live/gxds.m3u8 $美国密苏里州堪萨斯城
+广西新闻,http://107.150.60.122/live/gxxw.m3u8 $美国密苏里州堪萨斯城
+广西国际,http://107.150.60.122/live/gxgj.m3u8 $美国密苏里州堪萨斯城
+湖北综合,http://107.150.60.122/live/hbzh.m3u8 $美国密苏里州堪萨斯城
+湖北经视,http://107.150.60.122/live/hbjs.m3u8 $美国密苏里州堪萨斯城
+湖北影视,http://107.150.60.122/live/hbys.m3u8 $美国密苏里州堪萨斯城
+湖北教育,http://107.150.60.122/live/hbjy.m3u8 $美国密苏里州堪萨斯城
+湖北垄上,http://107.150.60.122/live/hbls.m3u8 $美国密苏里州堪萨斯城
+湖北生活,http://107.150.60.122/live/hbty.m3u8 $美国密苏里州堪萨斯城
+湖南娱乐,http://107.150.60.122/live/hnyl.m3u8 $美国密苏里州堪萨斯城
+湖南教育,http://107.150.60.122/live/hnjy.m3u8 $美国密苏里州堪萨斯城
+吉林都市,http://107.150.60.122/live/jlds.m3u8 $美国密苏里州堪萨斯城
+吉林综艺文化,http://107.150.60.122/live/jlfz.m3u8 $美国密苏里州堪萨斯城
+吉林生活,http://107.150.60.122/live/jlsh.m3u8 $美国密苏里州堪萨斯城
+新疆汉语影视,http://107.150.60.122/live/xjtv6.m3u8 $美国密苏里州堪萨斯城
+新疆汉语体育健康,http://107.150.60.122/live/xjtv7.m3u8 $美国密苏里州堪萨斯城
+江西少儿家庭,http://107.150.60.122/live/jxtv6.m3u8 $美国密苏里州堪萨斯城
+江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8 $美国密苏里州堪萨斯城
+成龙电影,http://107.150.60.122/live/lbcl.m3u8 $美国密苏里州堪萨斯城
+周润发电影,http://107.150.60.122/live/lbzrf.m3u8 $美国密苏里州堪萨斯城
+周星驰电影,http://107.150.60.122/live/lbzxc.m3u8 $美国密苏里州堪萨斯城
+林正英影院,http://107.150.60.122/live/lblzy.m3u8 $美国密苏里州堪萨斯城
 
 CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd $美国密苏里州堪萨斯城
 CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd

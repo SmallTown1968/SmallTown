@@ -2960,7 +2960,7 @@ Medium Girls,http://live.mycamtv.com/medium.m3u8
 1本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 1本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
 
-私密频道2_169169,#genre#
+其他频道2_169169,#genre#
 巨茹,http://krevonix.com/20240520/DN1ccCOX/index.m3u8
 双仁,http://t26.cdn2020.com/video/m3u8/2022/01/19/56a11163/index.m3u8
 jufe-131,http://t33.cdn2020.com/video/m3u8/2025/09/09/25fc50e8/index.m3u8

@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月8日17点30分,https://
+2026年4月9日17点30分,https://
 福建iptv,#genre#
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -1208,6 +1208,59 @@ CCTV17农业农村,http://69.30.246.194/live/cctv17.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
+
+CCTV1,http://223.95.198.3:8000/hls/1/index.m3u8 $移动浙江宁波余姚
+CCTV2,http://223.95.198.3:8000/hls/2/index.m3u8 $移动浙江宁波余姚
+CCTV3,http://223.95.198.3:8000/hls/3/index.m3u8 $移动浙江宁波余姚
+CCTV4,http://223.95.198.3:8000/hls/4/index.m3u8 $移动浙江宁波余姚
+CCTV5,http://223.95.198.3:8000/hls/5/index.m3u8 $移动浙江宁波余姚
+CCTV6,http://223.95.198.3:8000/hls/6/index.m3u8 $移动浙江宁波余姚
+CCTV7,http://223.95.198.3:8000/hls/7/index.m3u8 $移动浙江宁波余姚
+CCTV8,http://223.95.198.3:8000/hls/8/index.m3u8 $移动浙江宁波余姚
+CCTV9,http://223.95.198.3:8000/hls/9/index.m3u8 $移动浙江宁波余姚
+CCTV10,http://223.95.198.3:8000/hls/10/index.m3u8 $移动浙江宁波余姚
+CCTV11,http://223.95.198.3:8000/hls/11/index.m3u8 $移动浙江宁波余姚
+CCTV12,http://223.95.198.3:8000/hls/12/index.m3u8 $移动浙江宁波余姚
+CCTV13,http://223.95.198.3:8000/hls/13/index.m3u8 $移动浙江宁波余姚
+CCTV14,http://223.95.198.3:8000/hls/14/index.m3u8 $移动浙江宁波余姚
+CCTV15,http://223.95.198.3:8000/hls/15/index.m3u8 $移动浙江宁波余姚
+CCTV16,http://223.95.198.3:8000/hls/16/index.m3u8 $移动浙江宁波余姚
+CCTV17,http://223.95.198.3:8000/hls/17/index.m3u8 $移动浙江宁波余姚
+CCTV4K,http://223.95.198.3:8000/hls/18/index.m3u8 $移动浙江宁波余姚
+CGTN纪实,http://223.95.198.3:8000/hls/19/index.m3u8 $移动浙江宁波余姚
+凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8 $移动浙江宁波余姚
+北京卫视,http://223.95.198.3:8000/hls/21/index.m3u8 $移动浙江宁波余姚
+东方卫视,http://223.95.198.3:8000/hls/22/index.m3u8 $移动浙江宁波余姚
+深圳卫视,http://223.95.198.3:8000/hls/23/index.m3u8 $移动浙江宁波余姚
+浙江卫视,http://223.95.198.3:8000/hls/24/index.m3u8 $移动浙江宁波余姚
+湖南卫视,http://223.95.198.3:8000/hls/25/index.m3u8 $移动浙江宁波余姚
+天津卫视,http://223.95.198.3:8000/hls/26/index.m3u8 $移动浙江宁波余姚
+河北卫视,http://223.95.198.3:8000/hls/27/index.m3u8 $移动浙江宁波余姚
+江苏卫视,http://223.95.198.3:8000/hls/28/index.m3u8 $移动浙江宁波余姚
+山东卫视,http://223.95.198.3:8000/hls/29/index.m3u8 $移动浙江宁波余姚
+安徽卫视,http://223.95.198.3:8000/hls/30/index.m3u8 $移动浙江宁波余姚
+河南卫视SD,http://223.95.198.3:8000/hls/31/index.m3u8 $移动浙江宁波余姚
+湖北卫视,http://223.95.198.3:8000/hls/32/index.m3u8 $移动浙江宁波余姚
+黑龙江卫视,http://223.95.198.3:8000/hls/33/index.m3u8 $移动浙江宁波余姚
+辽宁卫视,http://223.95.198.3:8000/hls/34/index.m3u8 $移动浙江宁波余姚
+吉林卫视,http://223.95.198.3:8000/hls/35/index.m3u8 $移动浙江宁波余姚
+重庆卫视,http://223.95.198.3:8000/hls/36/index.m3u8 $移动浙江宁波余姚
+四川卫视,http://223.95.198.3:8000/hls/37/index.m3u8 $移动浙江宁波余姚
+广东卫视,http://223.95.198.3:8000/hls/38/index.m3u8 $移动浙江宁波余姚
+广西卫视,http://223.95.198.3:8000/hls/39/index.m3u8 $移动浙江宁波余姚
+江西卫视,http://223.95.198.3:8000/hls/40/index.m3u8 $移动浙江宁波余姚
+海南卫视,http://223.95.198.3:8000/hls/41/index.m3u8 $移动浙江宁波余姚
+甘肃卫视,http://223.95.198.3:8000/hls/42/index.m3u8 $移动浙江宁波余姚
+陕西卫视,http://223.95.198.3:8000/hls/43/index.m3u8 $移动浙江宁波余姚
+云南卫视,http://223.95.198.3:8000/hls/44/index.m3u8 $移动浙江宁波余姚
+云南卫视,http://223.95.198.3:8000/hls/45/index.m3u8 $移动浙江宁波余姚
+贵州卫视,http://223.95.198.3:8000/hls/46/index.m3u8 $移动浙江宁波余姚
+青海卫视,http://223.95.198.3:8000/hls/47/index.m3u8 $移动浙江宁波余姚
+NBTV-1,http://223.95.198.3:8000/hls/48/index.m3u8 $移动浙江宁波余姚
+NBTV-2,http://223.95.198.3:8000/hls/49/index.m3u8 $移动浙江宁波余姚
+浙江新闻,http://223.95.198.3:8000/hls/50/index.m3u8 $移动浙江宁波余姚
+浙江6,http://223.95.198.3:8000/hls/51/index.m3u8 $移动浙江宁波余姚
+浙江少儿,http://223.95.198.3:8000/hls/52/index.m3u8 $移动浙江宁波余姚
 
 北京市大兴区联通http://9.zubo.cc.cd/bjlt.php?id=1
 CCTV1,http://114.241.107.197:85/tsfile/live/1/1001_1.m3u8?key=txiptv $联通北京大兴区

@@ -1131,83 +1131,83 @@ X海南卫视,http://107.150.60.122/live/hainwshd.m3u8 $美国密苏里州堪萨
 林正英影院,http://107.150.60.122/live/lblzy.m3u8 $美国密苏里州堪萨斯城
 
 CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd $美国密苏里州堪萨斯城
-CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-CCTV6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
-CCTV7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
-CCTV9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-CCTV10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
-CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
-东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
-浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
-江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
-甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
-云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
-广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
-深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
-宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd $美国密苏里州堪萨斯城
+CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd $美国密苏里州堪萨斯城
+CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd $美国密苏里州堪萨斯城
+CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd $美国密苏里州堪萨斯城
+CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p $美国密苏里州堪萨斯城
+CCTV6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd $美国密苏里州堪萨斯城
+CCTV7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd $美国密苏里州堪萨斯城
+CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd $美国密苏里州堪萨斯城
+CCTV9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd $美国密苏里州堪萨斯城
+CCTV10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd $美国密苏里州堪萨斯城
+CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd $美国密苏里州堪萨斯城
+CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd $美国密苏里州堪萨斯城
+CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd $美国密苏里州堪萨斯城
+CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd $美国密苏里州堪萨斯城
+CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd $美国密苏里州堪萨斯城
+CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd $美国密苏里州堪萨斯城
+CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd $美国密苏里州堪萨斯城
+湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd $美国密苏里州堪萨斯城
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd $美国密苏里州堪萨斯城
+浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd $美国密苏里州堪萨斯城
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd $美国密苏里州堪萨斯城
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd $美国密苏里州堪萨斯城
+甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd $美国密苏里州堪萨斯城
+吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd $美国密苏里州堪萨斯城
+云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd $美国密苏里州堪萨斯城
+广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd $美国密苏里州堪萨斯城
+深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd $美国密苏里州堪萨斯城
+宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss $美国密苏里州堪萨斯城
 
-CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8 $美国密苏里州堪萨斯城
-CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
-CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
-CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV7国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV11戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
-CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
-东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
-江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
-浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
-广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
-深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
-(国)大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8 $美国密苏里州堪萨斯城
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8 $美国密苏里州堪萨斯城
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8 $美国密苏里州堪萨斯城
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8 $美国密苏里州堪萨斯城
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8 $美国密苏里州堪萨斯城
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8 $美国密苏里州堪萨斯城
+CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8 $美国密苏里州堪萨斯城
+CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8 $美国密苏里州堪萨斯城
+CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8 $美国密苏里州堪萨斯城
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8 $美国密苏里州堪萨斯城
+CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8 $美国密苏里州堪萨斯城
+CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8 $美国密苏里州堪萨斯城
+CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8 $美国密苏里州堪萨斯城
+CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8 $美国密苏里州堪萨斯城
+CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8 $美国密苏里州堪萨斯城
+CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8 $美国密苏里州堪萨斯城
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8 $美国密苏里州堪萨斯城
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8 $美国密苏里州堪萨斯城
+东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8 $美国密苏里州堪萨斯城
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8 $美国密苏里州堪萨斯城
+江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8 $美国密苏里州堪萨斯城
+浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8 $美国密苏里州堪萨斯城
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8 $美国密苏里州堪萨斯城
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8 $美国密苏里州堪萨斯城
+(国)大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8 $美国密苏里州堪萨斯城
 
-CCTV1综合,http://69.30.246.194/live/cctv1.m3u8 $美国密苏里州堪萨斯城
-CCTV2财经,http://69.30.246.194/live/cctv2hd.m3u8
-CCTV3综艺,http://69.30.246.194/live/cctv3.m3u8
-CCTV4中文国际,http://69.30.246.194/live/cctv4.m3u8
-CCTV5体育,http://69.30.246.194/live/cctv5.m3u8
-CCTV5+体育赛事,http://69.30.246.194/live/cctv5p.m3u8
-CCTV6电影,http://69.30.246.194/live/cctv6.m3u8
-CCTV7国防军事,http://69.30.246.194/live/cctv7.m3u8
-CCTV8电视剧,http://69.30.246.194/live/cctv8.m3u8
-CCTV9纪录,http://69.30.246.194/live/cctv9.m3u8
-CCTV10科教,http://69.30.246.194/live/cctv10.m3u8
-CCTV11戏曲,http://69.30.246.194/live/cctv11.m3u8
-CCTV12社会与法,http://69.30.246.194/live/cctv12.m3u8
-CCTV13新闻,http://69.30.246.194/live/cctv13.m3u8
-CCTV14少儿,http://69.30.246.194/live/cctv14.m3u8
-CCTV15音乐,http://69.30.246.194/live/cctv15.m3u8
-CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
-CCTV17农业农村,http://69.30.246.194/live/cctv17.m3u8
-东方卫视,http://69.30.246.194/live/dfws.m3u8
-江苏卫视,http://69.30.246.194/live/jsws.m3u8
-浙江卫视,http://69.30.246.194/live/zjws.m3u8
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
+CCTV1,http://69.30.246.194/live/cctv1.m3u8 $美国密苏里州堪萨斯城
+CCTV2,http://69.30.246.194/live/cctv2hd.m3u8 $美国密苏里州堪萨斯城
+CCTV3,http://69.30.246.194/live/cctv3.m3u8 $美国密苏里州堪萨斯城
+CCTV4,http://69.30.246.194/live/cctv4.m3u8 $美国密苏里州堪萨斯城
+CCTV5,http://69.30.246.194/live/cctv5.m3u8 $美国密苏里州堪萨斯城
+CCTV5+,http://69.30.246.194/live/cctv5p.m3u8 $美国密苏里州堪萨斯城
+CCTV6,http://69.30.246.194/live/cctv6.m3u8 $美国密苏里州堪萨斯城
+CCTV7,http://69.30.246.194/live/cctv7.m3u8 $美国密苏里州堪萨斯城
+CCTV8,http://69.30.246.194/live/cctv8.m3u8 $美国密苏里州堪萨斯城
+CCTV9,http://69.30.246.194/live/cctv9.m3u8 $美国密苏里州堪萨斯城
+CCTV10,http://69.30.246.194/live/cctv10.m3u8 $美国密苏里州堪萨斯城
+CCTV11,http://69.30.246.194/live/cctv11.m3u8 $美国密苏里州堪萨斯城
+CCTV12,http://69.30.246.194/live/cctv12.m3u8 $美国密苏里州堪萨斯城
+CCTV13,http://69.30.246.194/live/cctv13.m3u8 $美国密苏里州堪萨斯城
+CCTV14,http://69.30.246.194/live/cctv14.m3u8 $美国密苏里州堪萨斯城
+CCTV15,http://69.30.246.194/live/cctv15.m3u8 $美国密苏里州堪萨斯城
+CCTV16,http://69.30.246.194/live/cctv16.m3u8 $美国密苏里州堪萨斯城
+CCTV17,http://69.30.246.194/live/cctv17.m3u8 $美国密苏里州堪萨斯城
+东方卫视,http://69.30.246.194/live/dfws.m3u8 $美国密苏里州堪萨斯城
+江苏卫视,http://69.30.246.194/live/jsws.m3u8 $美国密苏里州堪萨斯城
+浙江卫视,http://69.30.246.194/live/zjws.m3u8 $美国密苏里州堪萨斯城
+湖南卫视,http://69.30.246.194/live/hnws.m3u8 $美国密苏里州堪萨斯城
 
 CCTV1,http://223.95.198.3:8000/hls/1/index.m3u8 $移动浙江宁波余姚
 CCTV2,http://223.95.198.3:8000/hls/2/index.m3u8 $移动浙江宁波余姚

@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月10日11点10分,https://
+2026年4月10日18点15分,https://
 福建IPTV,#genre#
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -1881,7 +1881,6 @@ CETV4,http://123.10.79.172:40000/rtp/225.1.4.171:1710 $联通漯河组播
 天津卫视,http://123.10.79.172:40000/rtp/225.1.4.86:1115 $联通漯河组播
 重庆卫视,http://123.10.79.172:40000/rtp/225.1.4.157:1308 $联通漯河组播
 河南卫视,http://123.10.79.172:40000/rtp/225.1.4.98:1127 $联通漯河组播
-河南卫视,http://123.10.79.172:40000/rtp/225.1.4.236:1282 $联通漯河组播
 河南卫视,http://123.10.79.172:40000/rtp/225.1.4.236:1282 $联通漯河组播
 江苏卫视,http://123.10.79.172:40000/rtp/225.1.4.83:1112 $联通漯河组播
 浙江卫视,http://123.10.79.172:40000/rtp/225.1.4.84:1113 $联通漯河组播

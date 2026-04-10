@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月10日11点30分,https://
+2026年4月10日11点10分,https://
 福建iptv,#genre#
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -2446,10 +2446,6 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz:443/163189/fhhk
 
-凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -2457,6 +2453,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+
+凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 
 凤凰中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -2504,15 +2504,6 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-
-来源：https://live.catvod.com/tv.m3u 无效
-凤凰中文,https://live.catvod.com/live.php?id=phoenixtv_hd
-凤凰资讯,https://live.catvod.com/live.php?id=phoenixinfo_hd
-凤凰香港,https://live.catvod.com/live.php?id=hkphoenix_twn
-
-凤凰中文,https://live.catvod.com/live.php?id=phzw01&token=1769073932.30b1ab1235151501bd571b91ab8f9f57401358b931d858f71b6764cf4d93960a
-凤凰资讯,https://live.catvod.com/live.php?id=phzx01&token=1769073932.8f47b8c2d62f05d970a85f04a7ea2a4bcf2a310ee2b69e1fe18aec06a95c40b1
-凤凰香港,https://live.catvod.com/live.php?id=fhhk01&token=1769073932.babf3ebae8ef601ba395b4d1c89cba1842dc1958a11afde88dba37d14216f218
 
 测试频道,#genre#
 来源：广元论坛https://0839bbs.cn/tv/tv.m3u
@@ -2828,7 +2819,7 @@ Medium Girls,http://live.mycamtv.com/medium.m3u8
 1本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 1本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
 
-其他频道2_169169,#genre#
+其他频道_169169,#genre#
 巨茹,http://krevonix.com/20240520/DN1ccCOX/index.m3u8
 双仁,http://t26.cdn2020.com/video/m3u8/2022/01/19/56a11163/index.m3u8
 jufe-131,http://t33.cdn2020.com/video/m3u8/2025/09/09/25fc50e8/index.m3u8

@@ -1,11 +1,11 @@
 更新时间,#genre#
-2026年4月13日17点25分,https://
+2026年4月13日17点26分,https://
 CCTV1,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
 CCTV2,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV2
 CCTV3,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV3
 CCTV4,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV4
 CCTV5,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV5
-CCTV5+,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV5P
+CCTV5+,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV5p
 CCTV6,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV6
 CCTV7,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV7
 CCTV8,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV8

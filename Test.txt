@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月10日18点15分,https://
+2026年4月13日11点15分,https://
 福建IPTV,#genre#
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -1372,6 +1372,88 @@ CETV1,http://39.165.39.49:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authi
 河南电视剧频,http://39.165.39.49:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=0&authid=0 $移动平顶山新华区
 河南新闻频道,http://39.165.39.49:85/tsfile/live/1112_1.m3u8?key=txiptv&playlive=0&authid=0 $移动平顶山新华区
 河南公共频道,http://39.165.39.49:85/tsfile/live/1114_1.m3u8?key=txiptv&playlive=0&authid=0 $移动平顶山新华区
+
+CCTV1,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8 $移动辽宁阜新
+CCTV1,http://39.152.103.17:8089/tsfile/live/1074_1.m3u8 $移动辽宁阜新
+CCTV2,http://39.152.103.17:8089/tsfile/live/1001_1.m3u8 $移动辽宁阜新
+CCTV3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8 $移动辽宁阜新
+CCTV4,http://39.152.103.17:8089/tsfile/live/1003_1.m3u8 $移动辽宁阜新
+CCTV4欧洲,http://39.152.103.17:8089/tsfile/live/1056_1.m3u8 $移动辽宁阜新
+CCTV4美洲,http://39.152.103.17:8089/tsfile/live/1057_1.m3u8 $移动辽宁阜新
+CCTV5,http://39.152.103.17:8089/tsfile/live/1004_1.m3u8 $移动辽宁阜新
+CCTV5+,http://39.152.103.17:8089/tsfile/live/1090_1.m3u8 $移动辽宁阜新
+CCTV6,http://39.152.103.17:8089/tsfile/live/1005_1.m3u8 $移动辽宁阜新
+CCTV7,http://39.152.103.17:8089/tsfile/live/1006_1.m3u8 $移动辽宁阜新
+CCTV8,http://39.152.103.17:8089/tsfile/live/1007_1.m3u8 $移动辽宁阜新
+CCTV9,http://39.152.103.17:8089/tsfile/live/1008_1.m3u8 $移动辽宁阜新
+CCTV10,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8 $移动辽宁阜新
+CCTV11,http://39.152.103.17:8089/tsfile/live/1010_1.m3u8 $移动辽宁阜新
+CCTV12,http://39.152.103.17:8089/tsfile/live/1011_1.m3u8 $移动辽宁阜新
+CCTV13,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8 $移动辽宁阜新
+CCTV14,http://39.152.103.17:8089/tsfile/live/1013_1.m3u8 $移动辽宁阜新
+CCTV15,http://39.152.103.17:8089/tsfile/live/1014_1.m3u8 $移动辽宁阜新
+CCTV16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8 $移动辽宁阜新
+CCTV16(4K),http://39.152.103.17:8089/tsfile/live/1073_1.m3u8 $移动辽宁阜新
+CCTV17,http://39.152.103.17:8089/tsfile/live/1016_1.m3u8 $移动辽宁阜新
+CETV1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8 $移动辽宁阜新
+CETV4,http://39.152.103.17:8089/tsfile/live/1092_1.m3u8 $移动辽宁阜新
+CCTV电视指南,http://39.152.103.17:8089/tsfile/live/1058_1.m3u8 $移动辽宁阜新
+CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8 $移动辽宁阜新
+CCTV高尔夫网球,http://39.152.103.17:8089/tsfile/live/1109_1.m3u8 $移动辽宁阜新
+CGTN纪实,http://39.152.103.17:8089/tsfile/live/1104_1.m3u8 $移动辽宁阜新
+CGTN西语,http://39.152.103.17:8089/tsfile/live/1106_1.m3u8 $移动辽宁阜新
+CGTN法语,http://39.152.103.17:8089/tsfile/live/1108_1.m3u8 $移动辽宁阜新
+CGTN俄语,http://39.152.103.17:8089/tsfile/live/1105_1.m3u8 $移动辽宁阜新
+CGTN阿语,http://39.152.103.17:8089/tsfile/live/1107_1.m3u8 $移动辽宁阜新
+CGTN英语,http://39.152.103.17:8089/tsfile/live/1103_1.m3u8 $移动辽宁阜新
+CHC影迷电影,http://39.152.103.17:8089/tsfile/live/1098_1.m3u8 $移动辽宁阜新
+CHC动作电影,http://39.152.103.17:8089/tsfile/live/1045_1.m3u8 $移动辽宁阜新
+CHC家庭影院,http://39.152.103.17:8089/tsfile/live/1095_1.m3u8 $移动辽宁阜新
+北京卫视,http://39.152.103.17:8089/tsfile/live/1034_1.m3u8 $移动辽宁阜新
+东方卫视,http://39.152.103.17:8089/tsfile/live/1036_1.m3u8 $移动辽宁阜新
+天津卫视,http://39.152.103.17:8089/tsfile/live/1035_1.m3u8 $移动辽宁阜新
+重庆卫视,http://39.152.103.17:8089/tsfile/live/1048_1.m3u8 $移动辽宁阜新
+河南卫视,http://39.152.103.17:8089/tsfile/live/1080_1.m3u8 $移动辽宁阜新
+江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8 $移动辽宁阜新
+浙江卫视,http://39.152.103.17:8089/tsfile/live/1037_1.m3u8 $移动辽宁阜新
+湖南卫视,http://39.152.103.17:8089/tsfile/live/1040_1.m3u8 $移动辽宁阜新
+东南卫视,http://39.152.103.17:8089/tsfile/live/1081_1.m3u8 $移动辽宁阜新
+广东卫视,http://39.152.103.17:8089/tsfile/live/1042_1.m3u8 $移动辽宁阜新
+深圳卫视,http://39.152.103.17:8089/tsfile/live/1049_1.m3u8 $移动辽宁阜新
+海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8 $移动辽宁阜新
+湖北卫视,http://39.152.103.17:8089/tsfile/live/1043_1.m3u8 $移动辽宁阜新
+安徽卫视,http://39.152.103.17:8089/tsfile/live/1039_1.m3u8 $移动辽宁阜新
+山东卫视,http://39.152.103.17:8089/tsfile/live/1018_1.m3u8 $移动辽宁阜新
+河北卫视,http://39.152.103.17:8089/tsfile/live/1079_1.m3u8 $移动辽宁阜新
+江西卫视,http://39.152.103.17:8089/tsfile/live/1078_1.m3u8 $移动辽宁阜新
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8 $移动辽宁阜新
+云南卫视,http://39.152.103.17:8089/tsfile/live/1083_1.m3u8 $移动辽宁阜新
+贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8 $移动辽宁阜新
+宁夏卫视,http://39.152.103.17:8089/tsfile/live/1086_1.m3u8 $移动辽宁阜新
+广西卫视,http://39.152.103.17:8089/tsfile/live/1077_1.m3u8 $移动辽宁阜新
+辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8 $移动辽宁阜新
+吉林卫视,http://39.152.103.17:8089/tsfile/live/1047_1.m3u8 $移动辽宁阜新
+黑龙江卫视,http://39.152.103.17:8089/tsfile/live/1055_1.m3u8 $移动辽宁阜新
+新疆卫视,http://39.152.103.17:8089/tsfile/live/1087_1.m3u8 $移动辽宁阜新
+兵团卫视,http://39.152.103.17:8089/tsfile/live/1094_1.m3u8 $移动辽宁阜新
+纪实科教,http://39.152.103.17:8089/tsfile/live/1053_1.m3u8 $移动辽宁阜新
+金鹰纪实,http://39.152.103.17:8089/tsfile/live/1052_1.m3u8 $移动辽宁阜新
+卡酷少儿,http://39.152.103.17:8089/tsfile/live/1020_1.m3u8 $移动辽宁阜新
+金鹰卡通,http://39.152.103.17:8089/tsfile/live/1051_1.m3u8 $移动辽宁阜新
+多彩文体4K,http://39.152.103.17:8089/tsfile/live/1069_1.m3u8 $移动辽宁阜新
+CCTV1SD,http://39.152.103.17:8089/tsfile/live/1075_1.m3u8 $移动辽宁阜新
+青海卫视SD,http://39.152.103.17:8089/tsfile/live/1082_1.m3u8 $移动辽宁阜新
+甘肃卫视SD,http://39.152.103.17:8089/tsfile/live/1088_1.m3u8 $移动辽宁阜新
+厦门卫视SD,http://39.152.103.17:8089/tsfile/live/1089_1.m3u8 $移动辽宁阜新
+山西卫视SD,http://39.152.103.17:8089/tsfile/live/1076_1.m3u8 $移动辽宁阜新
+陕西卫视SD,http://39.152.103.17:8089/tsfile/live/1084_1.m3u8 $移动辽宁阜新
+内蒙古卫视SD,http://39.152.103.17:8089/tsfile/live/1085_1.m3u8 $移动辽宁阜新
+三沙卫视SD,http://39.152.103.17:8089/tsfile/live/1019_1.m3u8 $移动辽宁阜新
+农林卫视SD,http://39.152.103.17:8089/tsfile/live/1111_1.m3u8 $移动辽宁阜新
+山东教育SD,http://39.152.103.17:8089/tsfile/live/1093_1.m3u8 $移动辽宁阜新
+嘉佳卡通SD,http://39.152.103.17:8089/tsfile/live/1091_1.m3u8 $移动辽宁阜新
+优漫卡通SD,http://39.152.103.17:8089/tsfile/live/1097_1.m3u8 $移动辽宁阜新
+新动漫SD,http://39.152.103.17:8089/tsfile/live/1021_1.m3u8 $移动辽宁阜新
 
 CCTV1,http://120.198.86.186:9901/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0 $移动广东梅州
 CCTV2,http://120.198.86.186:9901/tsfile/live/1021_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0 $移动广东梅州

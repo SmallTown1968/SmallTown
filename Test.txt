@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月13日17点36分,https://
+2026年4月14日7点36分,https://
 福建IPTV,#genre#
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -2587,6 +2587,18 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 
 凤凰中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+凤凰中文,http://43.174.4.211:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://43.174.4.211:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://43.174.4.211:80/qctv.fengshows.cn/live/0701phk72.m3u8
+
+凤凰中文,http://43.174.4.208:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://43.174.4.208:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://43.174.4.208:80/qctv.fengshows.cn/live/0701phk72.m3u8
+
+凤凰中文,http://43.152.224.209:80/tvlive.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://43.152.224.209:80/tvlive.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://43.152.224.209:80/tvlive.fengshows.cn/live/0701phk72.m3u8
 
 来源：480P js源
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzw

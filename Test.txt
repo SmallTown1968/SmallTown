@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月14日11点36分,https://
+2026年4月14日17点36分,https://
 福建IPTV,#genre#
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -2669,6 +2669,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+
+凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
+凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
+凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 
 凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8

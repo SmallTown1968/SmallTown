@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月14日19点30分,https://
+2026年4月15日19点30分,https://
 运营商	Cogent美国加利福尼亚州洛杉矶
 美国加利福尼亚州洛杉矶,#genre#
 CCTV1综合,http://154.12.36.187:656/index.php?token=7777&id=cctv1
@@ -991,6 +991,84 @@ NewTV金牌综艺 4M1080,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/T
 5GO服饰内衣 4M1080,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226388/1.m3u8
 
 央卫频道,#genre#
+CCTV1,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8 $蜀小果线2380
+CCTV2,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8 $蜀小果线2380
+CCTV3,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8 $蜀小果线2380
+CCTV4,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8 $蜀小果线2380
+CCTV5,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8 $蜀小果线2380
+CCTV5+,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8 $蜀小果线2380
+CCTV6,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8 $蜀小果线2380
+CCTV7,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8 $蜀小果线2380
+CCTV8,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8 $蜀小果线2380
+CCTV9,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8 $蜀小果线2380
+CCTV10,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8 $蜀小果线2380
+CCTV11,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8 $蜀小果线2380
+CCTV12,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8 $蜀小果线2380
+CCTV13,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8 $蜀小果线2380
+CCTV14,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8 $蜀小果线2380
+CCTV15,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8 $蜀小果线2380
+CCTV16,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8 $蜀小果线2380
+CCTV16(4K),http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8 $蜀小果线2380
+CCTV17,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8 $蜀小果线2380
+CCTV4K,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8 $蜀小果线2380
+CETV1,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8 $蜀小果线2380
+CETV2,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-2_4000.m3u8 $蜀小果线2380
+CETV4,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000.m3u8 $蜀小果线2380
+中央新影老故事,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/lgs_2000.m3u8 $蜀小果线2380
+中央新影中学生,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/zxs_4000.m3u8 $蜀小果线2380
+CGTN英语,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CGTN_4000.m3u8 $蜀小果线2380
+CGTN西语,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/xbyy_2000.m3u8 $蜀小果线2380
+CGTN法语,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/fy_2000.m3u8 $蜀小果线2380
+CGTN俄语,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ey_2000.m3u8 $蜀小果线2380
+中国天气,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8 $蜀小果线2380
+凤凰中文,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8 $蜀小果线2380
+凤凰资讯,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8 $蜀小果线2380
+北京卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8 $蜀小果线2380
+东方卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8 $蜀小果线2380
+天津卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8 $蜀小果线2380
+重庆卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8 $蜀小果线2380
+黑龙江卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8 $蜀小果线2380
+吉林卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8 $蜀小果线2380
+辽宁卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8 $蜀小果线2380
+内蒙古卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8 $蜀小果线2380
+甘肃卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8 $蜀小果线2380
+青海卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/qhwsH264_2000.m3u8 $蜀小果线2380
+陕西卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8 $蜀小果线2380
+山西卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws42_4000.m3u8 $蜀小果线2380
+山东卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8 $蜀小果线2380
+安徽卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8 $蜀小果线2380
+河南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8 $蜀小果线2380
+湖北卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8 $蜀小果线2380
+湖南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8 $蜀小果线2380
+江西卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8 $蜀小果线2380
+江苏卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8 $蜀小果线2380
+浙江卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8 $蜀小果线2380
+东南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/dnwsfjwsH265_4000.m3u8 $蜀小果线2380
+广东卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8 $蜀小果线2380
+深圳卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8 $蜀小果线2380
+广西卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxws_4000.m3u8 $蜀小果线2380
+云南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8 $蜀小果线2380
+贵州卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8 $蜀小果线2380
+四川卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8 $蜀小果线2380
+康巴卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/kbwsH264_2000.m3u8 $蜀小果线2380
+新疆卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8 $蜀小果线2380
+兵团卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8 $蜀小果线2380
+西藏卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8 $蜀小果线2380
+海南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws_4000.m3u8 $蜀小果线2380
+金鹰纪实,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyjsHDH265_4000.m3u8 $蜀小果线2380
+纪实科教,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjjs_2000.m3u8 $蜀小果线2380
+山东教育,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdjy_4000.m3u8 $蜀小果线2380
+重温经典,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8 $蜀小果线2380
+CHC影迷电影,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8 $蜀小果线2380
+CHC动作电影,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8 $蜀小果线2380
+CHC家庭影院,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8 $蜀小果线2380
+峨嵋电影,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8 $蜀小果线2380
+峨眉电影4K,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8 $蜀小果线2380
+卡酷少儿,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8 $蜀小果线2380
+金鹰卡通,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8 $蜀小果线2380
+嘉佳卡通,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8 $蜀小果线2380
+动漫秀场,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8 $蜀小果线2380
+
 CCTV1,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8 $蜀小果
 CCTV2,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8 $蜀小果
 CCTV3,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-3H265_4000.m3u8 $蜀小果
@@ -1008,8 +1086,13 @@ CCTV13,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=
 CCTV14,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-14H265_4000.m3u8 $蜀小果
 CCTV15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-15-yyH265_4000.m3u8 $蜀小果
 CCTV16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16_4000.m3u8 $蜀小果
-CCTV16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8 $蜀小果
+CCTV16(4K),http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8 $蜀小果
 CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-17_4000.m3u8 $蜀小果
+
+中国天气,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/zgqx_4000.m3u8 $蜀小果
+凤凰中文,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8 $蜀小果
+凤凰资讯,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8 $蜀小果
+
 北京卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/bjwsH265_4000.m3u8 $蜀小果
 东方卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/dfwsH265_4000.m3u8 $蜀小果
 天津卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/tjwsH265_4000.m3u8 $蜀小果

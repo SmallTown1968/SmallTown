@@ -1,6 +1,6 @@
 更新时间,#genre#
-2026年4月15日19点30分,https://
-运营商	Cogent美国加利福尼亚州洛杉矶
+2026年4月15日18点30分,https://
+运营商Cogent美国加利福尼亚州洛杉矶
 美国加利福尼亚州洛杉矶,#genre#
 CCTV1综合,http://154.12.36.187:656/index.php?token=7777&id=cctv1
 CCTV2财经,http://154.12.36.187:656/index.php?token=7777&id=cctv2
@@ -1088,11 +1088,9 @@ CCTV15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=
 CCTV16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16_4000.m3u8 $蜀小果
 CCTV16(4K),http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8 $蜀小果
 CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-17_4000.m3u8 $蜀小果
-
 中国天气,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/zgqx_4000.m3u8 $蜀小果
 凤凰中文,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8 $蜀小果
 凤凰资讯,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8 $蜀小果
-
 北京卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/bjwsH265_4000.m3u8 $蜀小果
 东方卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/dfwsH265_4000.m3u8 $蜀小果
 天津卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/tjwsH265_4000.m3u8 $蜀小果
@@ -1128,6 +1126,57 @@ CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=
 CHC影迷电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8 $蜀小果
 CHC动作电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8 $蜀小果
 CHC家庭影院,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8 $蜀小果
+
+CCTV1,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV1 $影仓源
+CCTV2,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV2 $影仓源
+CCTV3,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV3 $影仓源
+CCTV4,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV4 $影仓源
+CCTV5,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV5 $影仓源
+CCTV5+,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV5p $影仓源
+CCTV6,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV6 $影仓源
+CCTV7,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV7 $影仓源
+CCTV8,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV8 $影仓源
+CCTV9,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV9 $影仓源
+CCTV10,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV10 $影仓源
+CCTV11,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV11 $影仓源
+CCTV12,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV12 $影仓源
+CCTV13,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV13 $影仓源
+CCTV14,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV14 $影仓源
+CCTV15,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV15 $影仓源
+CCTV16,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV16 $影仓源
+CCTV17,http://223.111.147.69:2003/jmb/jmb.php?id=CCTV17 $影仓源
+北京卫视,http://223.111.147.69:2003/jmb/jmb.php?id=北京卫视 $影仓源
+浙江卫视,http://223.111.147.69:2003/jmb/jmb.php?id=浙江卫视 $影仓源
+湖南卫视,http://223.111.147.69:2003/jmb/jmb.php?id=湖南卫视 $影仓源
+江苏卫视,http://223.111.147.69:2003/jmb/jmb.php?id=江苏卫视 $影仓源
+东方卫视,http://223.111.147.69:2003/jmb/jmb.php?id=东方卫视 $影仓源
+安徽卫视,http://223.111.147.69:2003/jmb/jmb.php?id=安徽卫视 $影仓源
+天津卫视,http://223.111.147.69:2003/jmb/jmb.php?id=天津卫视 $影仓源
+山东卫视,http://223.111.147.69:2003/jmb/jmb.php?id=山东卫视 $影仓源
+河北卫视,http://223.111.147.69:2003/jmb/jmb.php?id=河北卫视 $影仓源
+广东卫视,http://223.111.147.69:2003/jmb/jmb.php?id=广东卫视 $影仓源
+深圳卫视,http://223.111.147.69:2003/jmb/jmb.php?id=深圳卫视 $影仓源
+重庆卫视,http://223.111.147.69:2003/jmb/jmb.php?id=重庆卫视 $影仓源
+黑龙江卫视,http://223.111.147.69:2003/jmb/jmb.php?id=黑龙江卫视 $影仓源
+辽宁卫视,http://223.111.147.69:2003/jmb/jmb.php?id=辽宁卫视 $影仓源
+吉林卫视,http://223.111.147.69:2003/jmb/jmb.php?id=吉林卫视 $影仓源
+东南卫视,http://223.111.147.69:2003/jmb/jmb.php?id=东南卫视 $影仓源
+陕西卫视,http://223.111.147.69:2003/jmb/jmb.php?id=陕西卫视 $影仓源
+海南卫视,http://223.111.147.69:2003/jmb/jmb.php?id=海南卫视 $影仓源
+湖北卫视,http://223.111.147.69:2003/jmb/jmb.php?id=湖北卫视 $影仓源
+山西卫视,http://223.111.147.69:2003/jmb/jmb.php?id=山西卫视 $影仓源
+四川卫视,http://223.111.147.69:2003/jmb/jmb.php?id=四川卫视 $影仓源
+江西卫视,http://223.111.147.69:2003/jmb/jmb.php?id=江西卫视 $影仓源
+河南卫视,http://223.111.147.69:2003/jmb/jmb.php?id=河南卫视 $影仓源
+广西卫视,http://223.111.147.69:2003/jmb/jmb.php?id=广西卫视 $影仓源
+云南卫视,http://223.111.147.69:2003/jmb/jmb.php?id=云南卫视 $影仓源
+贵州卫视,http://223.111.147.69:2003/jmb/jmb.php?id=贵州卫视 $影仓源
+青海卫视,http://223.111.147.69:2003/jmb/jmb.php?id=青海卫视 $影仓源
+宁夏卫视,http://223.111.147.69:2003/jmb/jmb.php?id=宁夏卫视 $影仓源
+甘肃卫视,http://223.111.147.69:2003/jmb/jmb.php?id=甘肃卫视 $影仓源
+新疆卫视,http://223.111.147.69:2003/jmb/jmb.php?id=新疆卫视 $影仓源
+西藏卫视,http://223.111.147.69:2003/jmb/jmb.php?id=西藏卫视 $影仓源
+内蒙古卫视,http://223.111.147.69:2003/jmb/jmb.php?id=内蒙古卫视 $影仓源
 
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009 $美国加利福尼亚州洛杉矶

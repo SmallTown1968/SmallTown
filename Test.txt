@@ -1,5 +1,6 @@
 更新时间,#genre#
-2026年4月15日18点30分,https://
+2026年4月16日18点30分,https://
+1,http://cs.junyu2017.de5.net/iptv/iptv.php?token=87782cb9
 运营商Cogent美国加利福尼亚州洛杉矶
 美国加利福尼亚州洛杉矶,#genre#
 CCTV1综合,http://154.12.36.187:656/index.php?token=7777&id=cctv1

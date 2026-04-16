@@ -23,12 +23,12 @@ CCTV16奥林匹克,http://154.12.36.187:656/index.php?token=7777&id=cctv16
 CCTV17农业农村,http://154.12.36.187:656/index.php?token=7777&id=cctv17
 CCTV4欧洲,http://154.12.36.187:656/index.php?token=7777&id=cctv4oz
 CCTV4美洲,http://154.12.36.187:656/index.php?token=7777&id=cctv4mz
-CGTN外语记录,http://154.12.36.187:656/index.php?token=7777&id=cgtnwyjl
-CGTN阿拉伯语,http://154.12.36.187:656/index.php?token=7777&id=cgtnalby
-CGTN西班牙语,http://154.12.36.187:656/index.php?token=7777&id=cgtnxbyy
+CGTN记录,http://154.12.36.187:656/index.php?token=7777&id=cgtnwyjl
+CGTN英语,http://154.12.36.187:656/index.php?token=7777&id=cgtn
+CGTN阿语,http://154.12.36.187:656/index.php?token=7777&id=cgtnalby
+CGTN西语,http://154.12.36.187:656/index.php?token=7777&id=cgtnxbyy
 CGTN法语,http://154.12.36.187:656/index.php?token=7777&id=cgtnfy
 CGTN俄语,http://154.12.36.187:656/index.php?token=7777&id=cgtney
-CGTN,http://154.12.36.187:656/index.php?token=7777&id=cgtn
 CETV1,http://154.12.36.187:656/index.php?token=7777&id=cetv1
 CETV2,http://154.12.36.187:656/index.php?token=7777&id=cetv2
 CETV4,http://154.12.36.187:656/index.php?token=7777&id=cetv4

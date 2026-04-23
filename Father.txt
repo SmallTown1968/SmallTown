@@ -1,5 +1,5 @@
 个人精选,#genre#
-2026年4月20日更新
+2026年4月23日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -30,6 +30,8 @@
 三沙卫视,https://srs.ssws.tv:443/video/SSTV/index.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
+中国天气,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/zgqx_4000.m3u8 $蜀小果
+中国天气,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8 $蜀小果线2380
 中国天气,http://hls.netlive.ggff.net/hls/zgtq.m3u8
 中国天气,http://tv.0839bbs.cn/tv2/chinatq2.php?id=chinatq
 中国天气,http://112.92.129.96:9898/hls/95/index.m3u8

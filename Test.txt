@@ -2490,6 +2490,12 @@ CCTV15,http://123.12.186.7:9901/tsfile/live/1014_1.m3u8?key=txiptv $联通周口
 云南卫视,http://123.12.186.7:9901/tsfile/live/1043_1.m3u8?key=txiptv $联通周口郸城
 青海卫视,http://123.12.186.7:9901/tsfile/live/1037_1.m3u8?key=txiptv $联通周口郸城
 西藏卫视,http://123.12.186.7:9901/tsfile/live/1041_1.m3u8?key=txiptv $联通周口郸城
+河南新闻频道,http://123.12.186.7:9901/tsfile/live/1049_1.m3u8?key=txiptv $联通周口郸城
+河南公共频道,http://123.12.186.7:9901/tsfile/live/1053_1.m3u8?key=txiptv $联通周口郸城
+河南都市频道,http://123.12.186.7:9901/tsfile/live/1045_1.m3u8?key=txiptv $联通周口郸城
+河南法制频道,http://123.12.186.7:9901/tsfile/live/1046_1.m3u8?key=txiptv $联通周口郸城
+河南梨园频道,http://123.12.186.7:9901/tsfile/live/1048_1.m3u8?key=txiptv $联通周口郸城
+河南电视剧频道,http://123.12.186.7:9901/tsfile/live/1047_1.m3u8?key=txiptv $联通周口郸城
 
 CCTV1,http://182.112.255.26:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
 CCTV2,http://182.112.255.26:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
@@ -2537,11 +2543,11 @@ CCTV15,http://182.112.255.26:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&
 新疆卫视,http://182.112.255.26:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
 云南卫视,http://182.112.255.26:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
 重庆卫视,http://182.112.255.26:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
+河南新闻频道,http://182.112.255.26:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
 河南都市频道,http://182.112.255.26:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
 河南法制频道,http://182.112.255.26:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
-河南电视剧频道,http://182.112.255.26:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
 河南梨园频道,http://182.112.255.26:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
-河南新闻频道,http://182.112.255.26:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
+河南电视剧频道,http://182.112.255.26:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0 $联通周口市
 
 CCTV1,http://61.163.181.78:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 $联通周口西华
 CCTV2,http://61.163.181.78:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0 $联通周口西华

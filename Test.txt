@@ -1249,6 +1249,15 @@ CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testp
 中国天气,http://38.75.136.137:98/gslb/dsdqpub/zgqxhd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
 中国天气,http://tv.0839bbs.cn/tv2/chinatq2.php?id=chinatq
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws $华为云上海
+河南新闻频道,http://1.94.31.214/php/hntv.php?id=hnxw $华为云上海
+河南公共频道,http://1.94.31.214/php/hntv.php?id=hngg $华为云上海
+河南都市频道,http://1.94.31.214/php/hntv.php?id=hnds $华为云上海
+河南民生频道,http://1.94.31.214/php/hntv.php?id=hnms $华为云上海
+河南法治频道,http://1.94.31.214/php/hntv.php?id=hmfz $华为云上海
+河南电视剧频道,http://1.94.31.214/php/hntv.php?id=hndsj $华为云上海
+河南乡村频道,http://1.94.31.214/php/hntv.php?id=hnxc $华为云上海
+河南国际频道,http://1.94.31.214/php/hntv.php?id=hngj $华为云上海
+河南梨园频道,http://1.94.31.214/php/hntv.php?id=hnly $华为云上海
 
 CCTV1,http://154.219.125.138:5050/ysp?id=2024078201&pid=600001859&q=fhd $美国加利福尼亚州洛杉矶
 CCTV2,http://154.219.125.138:5050/ysp?id=2024075401&pid=600001800&q=fhd $美国加利福尼亚州洛杉矶

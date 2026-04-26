@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月25日19点30分,https://
+2026年4月26日19点30分,https://
 运营商Cogent美国加利福尼亚州洛杉矶
 美国加利福尼亚州洛杉矶,#genre#
 CCTV1综合,http://154.12.36.187:656/index.php?token=7777&id=cctv1
@@ -2673,6 +2673,7 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+香港卫视,http://[2400:9380:a003:ff00:0:1:ca37:247]/www.hkstv.tv/webcast/livestream/mutfysrq/playlist.m3u8?hls_ctx=w294628p
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8

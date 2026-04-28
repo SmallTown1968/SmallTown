@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年4月26日19点30分,https://
+2026年4月28日18点30分,https://
 运营商Cogent美国加利福尼亚州洛杉矶
 美国加利福尼亚州洛杉矶,#genre#
 CCTV1综合,http://154.12.36.187:656/index.php?token=7777&id=cctv1
@@ -1073,6 +1073,17 @@ CHC影迷电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31
 CHC动作电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8 $蜀小果
 CHC家庭影院,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8 $蜀小果
 
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws $华为云上海
+河南新闻频道,http://1.94.31.214/php/hntv.php?id=hnxw $华为云上海
+河南公共频道,http://1.94.31.214/php/hntv.php?id=hngg $华为云上海
+河南都市频道,http://1.94.31.214/php/hntv.php?id=hnds $华为云上海
+河南民生频道,http://1.94.31.214/php/hntv.php?id=hnms $华为云上海
+河南法治频道,http://1.94.31.214/php/hntv.php?id=hmfz $华为云上海
+河南电视剧频道,http://1.94.31.214/php/hntv.php?id=hndsj $华为云上海
+河南乡村频道,http://1.94.31.214/php/hntv.php?id=hnxc $华为云上海
+河南国际频道,http://1.94.31.214/php/hntv.php?id=hngj $华为云上海
+河南梨园频道,http://1.94.31.214/php/hntv.php?id=hnly $华为云上海
+
 CCTV1,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8 $蜀小果线2380
 CCTV2,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8 $蜀小果线2380
 CCTV3,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8 $蜀小果线2380
@@ -1249,16 +1260,6 @@ CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testp
 中国天气,http://38.75.136.137:98/gslb/dsdqpub/zgqxhd.m3u8?auth=testpub $美国加利福尼亚州洛杉矶
 
 中国天气,http://tv.0839bbs.cn/tv2/chinatq2.php?id=chinatq
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws $华为云上海
-河南新闻频道,http://1.94.31.214/php/hntv.php?id=hnxw $华为云上海
-河南公共频道,http://1.94.31.214/php/hntv.php?id=hngg $华为云上海
-河南都市频道,http://1.94.31.214/php/hntv.php?id=hnds $华为云上海
-河南民生频道,http://1.94.31.214/php/hntv.php?id=hnms $华为云上海
-河南法治频道,http://1.94.31.214/php/hntv.php?id=hmfz $华为云上海
-河南电视剧频道,http://1.94.31.214/php/hntv.php?id=hndsj $华为云上海
-河南乡村频道,http://1.94.31.214/php/hntv.php?id=hnxc $华为云上海
-河南国际频道,http://1.94.31.214/php/hntv.php?id=hngj $华为云上海
-河南梨园频道,http://1.94.31.214/php/hntv.php?id=hnly $华为云上海
 
 CCTV1,http://154.219.125.138:5050/ysp?id=2024078201&pid=600001859&q=fhd $美国加利福尼亚州洛杉矶
 CCTV2,http://154.219.125.138:5050/ysp?id=2024075401&pid=600001800&q=fhd $美国加利福尼亚州洛杉矶
@@ -2677,6 +2678,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
+凤凰中文,https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+凤凰资讯,https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+凤凰香港,https://tvb.go-iptv.ggff.net/stream/tvb/null-1/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 
 凤凰中文,http://play-a.quklive.com/live/aaafhzw.flv
 凤凰资讯,http://play-a.quklive.com/live/aaafhzx.flv

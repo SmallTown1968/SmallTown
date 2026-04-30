@@ -1,3 +1,168 @@
+CCTV1,http://69.30.246.194/live/cctv1.m3u8 $美国密苏里州堪萨斯城
+CCTV2,http://69.30.246.194/live/cctv2hd.m3u8 $美国密苏里州堪萨斯城
+CCTV3,http://69.30.246.194/live/cctv3.m3u8 $美国密苏里州堪萨斯城
+CCTV4,http://69.30.246.194/live/cctv4.m3u8 $美国密苏里州堪萨斯城
+CCTV5,http://69.30.246.194/live/cctv5.m3u8 $美国密苏里州堪萨斯城
+CCTV5+,http://69.30.246.194/live/cctv5p.m3u8 $美国密苏里州堪萨斯城
+CCTV6,http://69.30.246.194/live/cctv6.m3u8 $美国密苏里州堪萨斯城
+CCTV7,http://69.30.246.194/live/cctv7.m3u8 $美国密苏里州堪萨斯城
+CCTV8,http://69.30.246.194/live/cctv8.m3u8 $美国密苏里州堪萨斯城
+CCTV9,http://69.30.246.194/live/cctv9.m3u8 $美国密苏里州堪萨斯城
+CCTV10,http://69.30.246.194/live/cctv10.m3u8 $美国密苏里州堪萨斯城
+CCTV11,http://69.30.246.194/live/cctv11.m3u8 $美国密苏里州堪萨斯城
+CCTV12,http://69.30.246.194/live/cctv12.m3u8 $美国密苏里州堪萨斯城
+CCTV13,http://69.30.246.194/live/cctv13.m3u8 $美国密苏里州堪萨斯城
+CCTV14,http://69.30.246.194/live/cctv14.m3u8 $美国密苏里州堪萨斯城
+CCTV15,http://69.30.246.194/live/cctv15.m3u8 $美国密苏里州堪萨斯城
+CCTV16,http://69.30.246.194/live/cctv16.m3u8 $美国密苏里州堪萨斯城
+CCTV17,http://69.30.246.194/live/cctv17.m3u8 $美国密苏里州堪萨斯城
+东方卫视,http://69.30.246.194/live/dfws.m3u8 $美国密苏里州堪萨斯城
+江苏卫视,http://69.30.246.194/live/jsws.m3u8 $美国密苏里州堪萨斯城
+浙江卫视,http://69.30.246.194/live/zjws.m3u8 $美国密苏里州堪萨斯城
+湖南卫视,http://69.30.246.194/live/hnws.m3u8 $美国密苏里州堪萨斯城
+重温经典,http://69.30.246.194/live/cwjd.m3u8 $美国密苏里州堪萨斯城
+
+CCTV1,http://154.219.125.138:5050/ysp?id=2024078201&pid=600001859&q=fhd $美国加利福尼亚州洛杉矶
+CCTV2,http://154.219.125.138:5050/ysp?id=2024075401&pid=600001800&q=fhd $美国加利福尼亚州洛杉矶
+CCTV3,http://154.219.125.138:5050/ysp?id=2024068501&pid=600001801&q=fhd $美国加利福尼亚州洛杉矶
+CCTV4,http://154.219.125.138:5050/ysp?id=2029797101&pid=600001814&q=fhd $美国加利福尼亚州洛杉矶
+CCTV5,http://154.219.125.138:5050/ysp?id=2024078401&pid=600001818&q=fhd $美国加利福尼亚州洛杉矶
+CCTV5+,http://154.219.125.138:5050/ysp?id=2024078001&pid=600001817&q=fhd $美国加利福尼亚州洛杉矶
+CCTV6,http://154.219.125.138:5050/ysp?id=2013693901&pid=600108442&q=fhd $美国加利福尼亚州洛杉矶
+CCTV7,http://154.219.125.138:5050/ysp?id=2024072001&pid=600004092&q=fhd $美国加利福尼亚州洛杉矶
+CCTV8,http://154.219.125.138:5050/ysp?id=2029793001&pid=600001803&q=fhd $美国加利福尼亚州洛杉矶
+CCTV9,http://154.219.125.138:5050/ysp?id=2024078601&pid=600004078&q=fhd $美国加利福尼亚州洛杉矶
+CCTV10,http://154.219.125.138:5050/ysp?id=2024078701&pid=600001805&q=fhd $美国加利福尼亚州洛杉矶
+CCTV11,http://154.219.125.138:5050/ysp?id=2027248701&pid=600001806&q=fhd $美国加利福尼亚州洛杉矶
+CCTV12,http://154.219.125.138:5050/ysp?id=2027248801&pid=600001807&q=fhd $美国加利福尼亚州洛杉矶
+CCTV13,http://154.219.125.138:5050/ysp?id=2029797201&pid=600001811&q=fhd $美国加利福尼亚州洛杉矶
+CCTV14,http://154.219.125.138:5050/ysp?id=2027248901&pid=600001809&q=fhd $美国加利福尼亚州洛杉矶
+CCTV15,http://154.219.125.138:5050/ysp?id=2027249001&pid=600001815&q=fhd $美国加利福尼亚州洛杉矶
+CCTV16,http://154.219.125.138:5050/ysp?id=2027249101&pid=600098637&q=fhd $美国加利福尼亚州洛杉矶
+CCTV16(4K),http://154.219.125.138:5050/ysp?id=2027249301&pid=600099502&q=fhd $美国加利福尼亚州洛杉矶
+CCTV17,http://154.219.125.138:5050/ysp?id=2027249401&pid=600001810&q=fhd $美国加利福尼亚州洛杉矶
+CCTV4K,http://154.219.125.138:5050/ysp?id=2029810301&pid=600002264&q=fhd $美国加利福尼亚州洛杉矶
+CCTV8K,http://154.219.125.138:5050/ysp?id=2026774101&pid=600156816&q=fhd $美国加利福尼亚州洛杉矶
+CETV1,http://154.219.125.138:5050/ysp?id=2022823801&pid=600171827&q=fhd $美国加利福尼亚州洛杉矶
+CGTN英语,http://154.219.125.138:5050/ysp?id=2024181701&pid=600014550&q=fhd $美国加利福尼亚州洛杉矶
+CGTN法语,http://154.219.125.138:5050/ysp?id=2024181801&pid=600084704&q=fhd $美国加利福尼亚州洛杉矶
+CGTN俄语,http://154.219.125.138:5050/ysp?id=2024181901&pid=600084758&q=fhd $美国加利福尼亚州洛杉矶
+CGTN阿语,http://154.219.125.138:5050/ysp?id=2024182001&pid=600084782&q=fhd $美国加利福尼亚州洛杉矶
+CGTN西语,http://154.219.125.138:5050/ysp?id=2024182101&pid=600084744&q=fhd $美国加利福尼亚州洛杉矶
+CGTN纪录,http://154.219.125.138:5050/ysp?id=2024182301&pid=600084781&q=fhd $美国加利福尼亚州洛杉矶
+CCTV风云剧场,http://154.219.125.138:5050/ysp?id=2025637103&pid=600099658&q=fhd $美国加利福尼亚州洛杉矶
+CCTV第一剧场,http://154.219.125.138:5050/ysp?id=2026874203&pid=600099655&q=fhd $美国加利福尼亚州洛杉矶
+CCTV怀旧剧场,http://154.219.125.138:5050/ysp?id=2026874303&pid=600099620&q=fhd $美国加利福尼亚州洛杉矶
+北京卫视,http://154.219.125.138:5050/ysp?id=2024052703&pid=600002309&q=fhd $美国加利福尼亚州洛杉矶
+东方卫视,http://154.219.125.138:5050/ysp?id=2024054503&pid=600002483&q=fhd $美国加利福尼亚州洛杉矶
+天津卫视,http://154.219.125.138:5050/ysp?id=2019927003&pid=600152137&q=fhd $美国加利福尼亚州洛杉矶
+重庆卫视,http://154.219.125.138:5050/ysp?id=2024061103&pid=600002531&q=fhd $美国加利福尼亚州洛杉矶
+河南卫视,http://154.219.125.138:5050/ysp?id=2029797303&pid=600002525&q=fhd $美国加利福尼亚州洛杉矶
+江苏卫视,http://154.219.125.138:5050/ysp?id=2024171103&pid=600002521&q=fhd $美国加利福尼亚州洛杉矶
+浙江卫视,http://154.219.125.138:5050/ysp?id=2024054703&pid=600002520&q=fhd $美国加利福尼亚州洛杉矶
+湖南卫视,http://154.219.125.138:5050/ysp?id=2024054803&pid=600002475&q=fhd $美国加利福尼亚州洛杉矶
+湖北卫视,http://154.219.125.138:5050/ysp?id=2024171203&pid=600002508&q=fhd $美国加利福尼亚州洛杉矶
+广东卫视,http://154.219.125.138:5050/ysp?id=2024060903&pid=600002485&q=fhd $美国加利福尼亚州洛杉矶
+广西卫视,http://154.219.125.138:5050/ysp?id=2024060703&pid=600002509&q=fhd $美国加利福尼亚州洛杉矶
+黑龙江卫视,http://154.219.125.138:5050/ysp?id=2029797003&pid=600002498&q=fhd $美国加利福尼亚州洛杉矶
+海南卫视,http://154.219.125.138:5050/ysp?id=2024055603&pid=600002506&q=fhd $美国加利福尼亚州洛杉矶
+深圳卫视,http://154.219.125.138:5050/ysp?id=2024061303&pid=600002481&q=fhd $美国加利福尼亚州洛杉矶
+四川卫视,http://154.219.125.138:5050/ysp?id=2024061403&pid=600002516&q=fhd $美国加利福尼亚州洛杉矶
+东南卫视,http://154.219.125.138:5050/ysp?id=2024061503&pid=600002484&q=fhd $美国加利福尼亚州洛杉矶
+贵州卫视,http://154.219.125.138:5050/ysp?id=2024061603&pid=600002490&q=fhd $美国加利福尼亚州洛杉矶
+江西卫视,http://154.219.125.138:5050/ysp?id=2024061703&pid=600002503&q=fhd $美国加利福尼亚州洛杉矶
+辽宁卫视,http://154.219.125.138:5050/ysp?id=2024171303&pid=600002505&q=fhd $美国加利福尼亚州洛杉矶
+安徽卫视,http://154.219.125.138:5050/ysp?id=2024171403&pid=600002532&q=fhd $美国加利福尼亚州洛杉矶
+河北卫视,http://154.219.125.138:5050/ysp?id=2024171503&pid=600002493&q=fhd $美国加利福尼亚州洛杉矶
+山东卫视,http://154.219.125.138:5050/ysp?id=2029787903&pid=600002513&q=fhd $美国加利福尼亚州洛杉矶
+吉林卫视,http://154.219.125.138:5050/ysp?id=2025561503&pid=600190405&q=fhd $美国加利福尼亚州洛杉矶
+陕西卫视,http://154.219.125.138:5050/ysp?id=2029795103&pid=600190400&q=fhd $美国加利福尼亚州洛杉矶
+内蒙古卫视,http://154.219.125.138:5050/ysp?id=2025561203&pid=600190401&q=fhd $美国加利福尼亚州洛杉矶
+甘肃卫视,http://154.219.125.138:5050/ysp?id=2025561703&pid=600190408&q=fhd $美国加利福尼亚州洛杉矶
+宁夏卫视,http://154.219.125.138:5050/ysp?id=2025608503&pid=600190737&q=fhd $美国加利福尼亚州洛杉矶
+山西卫视,http://154.219.125.138:5050/ysp?id=2025560803&pid=600190407&q=fhd $美国加利福尼亚州洛杉矶
+云南卫视,http://154.219.125.138:5050/ysp?id=2025561303&pid=600190402&q=fhd $美国加利福尼亚州洛杉矶
+青海卫视,http://154.219.125.138:5050/ysp?id=2025559103&pid=600190406&q=fhd $美国加利福尼亚州洛杉矶
+西藏卫视,http://154.219.125.138:5050/ysp?id=2025558003&pid=600190403&q=fhd $美国加利福尼亚州洛杉矶
+新疆卫视,http://154.219.125.138:5050/ysp?id=2019927403&pid=600152138&q=fhd $美国加利福尼亚州洛杉矶
+
+运营商Cogent美国加利福尼亚州洛杉矶
+美国加利福尼亚州洛杉矶,#genre#
+CCTV1综合,http://154.12.36.187:656/index.php?token=7777&id=cctv1
+CCTV2财经,http://154.12.36.187:656/index.php?token=7777&id=cctv2
+CCTV3综艺,http://154.12.36.187:656/index.php?token=7777&id=cctv3
+CCTV4中文国际,http://154.12.36.187:656/index.php?token=7777&id=cctv4
+CCTV5体育,http://154.12.36.187:656/index.php?token=7777&id=cctv5
+CCTV5+体育赛事,http://154.12.36.187:656/index.php?token=7777&id=cctv5p
+CCTV6电影,http://154.12.36.187:656/index.php?token=7777&id=cctv6
+CCTV7国防军事,http://154.12.36.187:656/index.php?token=7777&id=cctv7
+CCTV8电视剧,http://154.12.36.187:656/index.php?token=7777&id=cctv8
+CCTV9纪录,http://154.12.36.187:656/index.php?token=7777&id=cctv9
+CCTV10科教,http://154.12.36.187:656/index.php?token=7777&id=cctv10
+CCTV11戏曲,http://154.12.36.187:656/index.php?token=7777&id=cctv11
+CCTV12社会与法,http://154.12.36.187:656/index.php?token=7777&id=cctv12
+CCTV13新闻,http://154.12.36.187:656/index.php?token=7777&id=cctv13
+CCTV14少儿,http://154.12.36.187:656/index.php?token=7777&id=cctv14
+CCTV15音乐,http://154.12.36.187:656/index.php?token=7777&id=cctv15
+CCTV16奥林匹克,http://154.12.36.187:656/index.php?token=7777&id=cctv16
+CCTV17农业农村,http://154.12.36.187:656/index.php?token=7777&id=cctv17
+CCTV4欧洲,http://154.12.36.187:656/index.php?token=7777&id=cctv4oz
+CCTV4美洲,http://154.12.36.187:656/index.php?token=7777&id=cctv4mz
+CGTN记录,http://154.12.36.187:656/index.php?token=7777&id=cgtnwyjl
+CGTN英语,http://154.12.36.187:656/index.php?token=7777&id=cgtn
+CGTN阿语,http://154.12.36.187:656/index.php?token=7777&id=cgtnalby
+CGTN西语,http://154.12.36.187:656/index.php?token=7777&id=cgtnxbyy
+CGTN法语,http://154.12.36.187:656/index.php?token=7777&id=cgtnfy
+CGTN俄语,http://154.12.36.187:656/index.php?token=7777&id=cgtney
+CETV1,http://154.12.36.187:656/index.php?token=7777&id=cetv1
+CETV2,http://154.12.36.187:656/index.php?token=7777&id=cetv2
+CETV4,http://154.12.36.187:656/index.php?token=7777&id=cetv4
+北京卫视,http://154.12.36.187:656/index.php?token=7777&id=bjws
+东方卫视,http://154.12.36.187:656/index.php?token=7777&id=dfws
+天津卫视,http://154.12.36.187:656/index.php?token=7777&id=tjws
+重庆卫视,http://154.12.36.187:656/index.php?token=7777&id=cqws
+河南卫视,http://154.12.36.187:656/index.php?token=7777&id=henws
+江苏卫视,http://154.12.36.187:656/index.php?token=7777&id=jsws
+浙江卫视,http://154.12.36.187:656/index.php?token=7777&id=zjws
+湖南卫视,http://154.12.36.187:656/index.php?token=7777&id=hunws
+东南卫视,http://154.12.36.187:656/index.php?token=7777&id=dnws
+广东卫视,http://154.12.36.187:656/index.php?token=7777&id=gdws
+深圳卫视,http://154.12.36.187:656/index.php?token=7777&id=szws
+海南卫视,http://154.12.36.187:656/index.php?token=7777&id=hainws
+三沙卫视,http://154.12.36.187:656/index.php?token=7777&id=ssws
+海峡卫视,http://154.12.36.187:656/index.php?token=7777&id=hxws
+大湾区卫视,http://154.12.36.187:656/index.php?token=7777&id=dwqws
+安徽卫视,http://154.12.36.187:656/index.php?token=7777&id=ahws
+山东卫视,http://154.12.36.187:656/index.php?token=7777&id=sdws
+江西卫视,http://154.12.36.187:656/index.php?token=7777&id=jxws
+湖北卫视,http://154.12.36.187:656/index.php?token=7777&id=hubws
+青海卫视,http://154.12.36.187:656/index.php?token=7777&id=qhws
+河北卫视,http://154.12.36.187:656/index.php?token=7777&id=hebws
+辽宁卫视,http://154.12.36.187:656/index.php?token=7777&id=lnws
+吉林卫视,http://154.12.36.187:656/index.php?token=7777&id=jlws
+黑龙江卫视,http://154.12.36.187:656/index.php?token=7777&id=hljws
+云南卫视,http://154.12.36.187:656/index.php?token=7777&id=ynws
+山西卫视,http://154.12.36.187:656/index.php?token=7777&id=sxws
+陕西卫视,http://154.12.36.187:656/index.php?token=7777&id=shanxws
+内蒙古卫视,http://154.12.36.187:656/index.php?token=7777&id=nmgws
+甘肃卫视,http://154.12.36.187:656/index.php?token=7777&id=gsws
+广西卫视,http://154.12.36.187:656/index.php?token=7777&id=gxws
+四川卫视,http://154.12.36.187:656/index.php?token=7777&id=scws
+贵州卫视,http://154.12.36.187:656/index.php?token=7777&id=gzws
+宁夏卫视,http://154.12.36.187:656/index.php?token=7777&id=nxws
+西藏卫视,http://154.12.36.187:656/index.php?token=7777&id=xzws
+新疆卫视,http://154.12.36.187:656/index.php?token=7777&id=xjws
+兵团卫视,http://154.12.36.187:656/index.php?token=7777&id=btws
+康巴卫视,http://154.12.36.187:656/index.php?token=7777&id=kbws
+延边卫视,http://154.12.36.187:656/index.php?token=7777&id=ybws
+安多卫视,http://154.12.36.187:656/index.php?token=7777&id=qhadws
+金鹰纪实,http://154.12.36.187:656/index.php?token=7777&id=jyjs
+金鹰卡通,http://154.12.36.187:656/index.php?token=7777&id=jykt
+嘉佳卡通,http://154.12.36.187:656/index.php?token=7777&id=jjkt
+优漫卡通,http://154.12.36.187:656/index.php?token=7777&id=ymkt
+江苏教育,http://154.12.36.187:656/index.php?token=7777&id=jsjy
+山东教育,http://154.12.36.187:656/index.php?token=7777&id=sdjy
+
 类型：河南漯河组播 河南联通 | 节目数量：262
 CCTV1,http://123.10.79.172:40000/rtp/225.1.4.73:1102 $联通漯河组播
 CCTV1,http://123.10.79.172:40000/rtp/225.1.4.231:1277 $联通漯河组播

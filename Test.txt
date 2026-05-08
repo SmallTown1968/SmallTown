@@ -767,6 +767,20 @@ CCTV14,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u
 CCTV15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8 $黑龙江移动
 CCTV16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8 $黑龙江移动
 CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8 $黑龙江移动
+CETV1,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001020/index.m3u8?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&streamkey=06Au6xOXDlDEab661Jj4JZtB5rtbWJNHTgnSAVTvFlBNzzUBYjIEDgT9mS4Z4uWlLecUluW7TiiSPKV9p8qg7uORC8NHkZGp2wYI0D2H51xbeR6S&token=1776221422-a453c0c847327165-0-68e4509e1d03b7b6d7c3b8c927e72a7a
+CETV4,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001348/index.m3u8?streamid=37d60172a2bbb0d41f072d29213e6264&streamkey=06Au6xOXDlDEaapIVa7cpJhfzHs3AaqeIMjrUSQi1ZhQNbtlQYu45U2p26oN78H5M54F7fWWjiWa5JbgizqfzftqDt06P5Nj3CWuFMU3yFOgiX5n&token=1776221467-8fa99b3b879bacd8-0-b09602326b577119089417591328a91d
+CETV早期教育,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001680/index.m3u8?streamid=2c224135515a11c735f7351c17434a62&streamkey=070kmnWlSO6tVzLyh1sXZ20iCOCRLXoHmCsz0IqkkXJJD0eYMb2A5kwULwbki6Baf4Z2bJfsbp07kt5WoqgWvFeVzbkW96tGU7nFRu0brwnn5lybIRJA&token=1776221300-cf453e64c67843de-0-4539fce56dec116202db007052b0029c
+CCTV风云足球,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001590/index.m3u8?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&streamkey=0WsC3jqv5pZMcVlxFBNnufmiOCXFZigfn61ogjSwht3bqXevILtdE9S00t1S31TUcNtpNMycyrjLcmhMwenwuh8FAxcPIPYTEQUX1MDXgmTdP03V9WzCfa1iP&token=1775754113-ea7ee6d53b99caad-0-c93511c176fc0c319dc73b7c39050be7
+CCTV高尔夫·网球,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001630/index.m3u8?streamid=451d321c7d5df14c154d41bfc36818ba&streamkey=092SzM8qh4GNZmlKrvbt7mLZrzFoKIOqJdHt2nxkKtoF5ZUsM4NzxcyxIp5WijxjSYyXXwQDNngGki637GlXWDse1Uzt8LfJEkILVW7BrgEPyPuWVKaDDpkTovJ2&token=1775754157-c2543fc8a8d8012d-0-9fc91cf1ced6693d27f53ad1922fbda8
+CCTV央视文化精品,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001670/index.m3u8?streamid=618d33181dba2b51e9d3752d73d737b8&streamkey=0BeWwyHBmiCHyS40J1tisoH3ivjrXhzz03oQbO5uiXsRKSS8kvCliHls9zj3gCGKqzJGZJSNE6Evbwmw4OinJFa3A7rvlVNctyhssTQDHow2JgnP7kv4mVoKgkDCCSyt8M3n&token=1775754194-77abd02e1989ddc1-0-d8b4892968a6f3343a776beca71cbdc8
+CCTV风云音乐,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001660/index.m3u8?streamid=be37d16b874e7ba11dd383d7ecd75752&streamkey=02BjlnRKVk4w1Oyqq9aXRB4YtWxqlybIfl2lS5mkFVN5iNWAFYdKIFbyaEPKZTNBgIoU9bQc4m8PrS8Pw3iTRKs635HzsGgAANSe4AgbCngHqxM1kM6le1OCEWm&token=1775754243-94f06a5cf0b92094-0-743c505a12a44d0e7fd5d08f14b11504
+CCTV第一剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001621/index.m3u8?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&streamkey=07xclP9QQ7A17NHSunxvhUhDmEAgCJHPSWwcmXXGtD5B1ctgr4sNGjOLgDUiqhY3hbKKrXCg3V0Mv4oFIdXvsvsAV0LnOhkY1hZzilPs1GDH833k0xqsPako&token=1775754265-e70414852ba80d73-0-504af0de169af5289009509fea184863
+CCTV怀旧剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001640/index.m3u8?streamid=7e5d1abdddde08f588234f3f640f75ff&streamkey=092SzM8qh4GNZm8Sly0j0xG8Sg3yHIQW1svsz2WNbj7O78R6ErBo1ngfNZaXyLnHcB0EzcN18Jgg3T7PGY4Z4bPJb3uh7m1yZZAwSv5g1hznMWXe2xIsEOmyaW5R&token=1775754296-fcd63ac210d4c1d1-0-41aa2d5111a454de23251c36585cb18c
+CCTV风云剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001650/index.m3u8?streamid=31e7b5b7032d25dd215a4069cdee1a48&streamkey=092SzM8qh4GNZmZA3rm8J5tyW0EBV9e1AcX3sOzPl60Tq40QwOQfr22hYT4Oi6v014YyjkURGvT8w8zB2Bg7NMOzBw6DeNLMEQIayEUyn5osgQLPrBIXv36KIO42&token=1775754322-08f47393d1a6d3c0-0-3f3c56613652db4d2f081625481d962a
+CCTV世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
+CCTV兵器科技,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001610/index.m3u8?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&streamkey=01vY5fRxC8VyKflowXIjpDe18KG4zb4IJYt7IRjkmP139PykAFJm2e4f2ggI7qaYyYDdV2jg7DGq8J4XWj9dVR3dpcOhYSRLSKkLA4lKNSIEwluGcrMvak9&token=1775754372-8861cea21b137ebe-0-f503dcc0151e7ea385857ea5cfa73aa0
+CCTV女性时尚,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001571/index.m3u8?streamid=15732e48a35953bb064f0ffb4197035c&streamkey=092SzM8qh4GNZnGRAOz6y3nvNrssZJcflnNDbtwifQsVSBFB4hpwpDInl50YKu2zt1eb26JJwNN5CopCgczz7WZR3dtJlHFGA3m8Sgjvc2xB9twEzATcT54y15wY&token=1775754397-43927d95ab17a1ae-0-d7fc3f2a8df09c74d345181b73c6c670
+CCTV央视台球,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001600/index.m3u8?streamid=04540cf3fa4df50b6e2fd9166c021d4b&streamkey=02BjlnRKVk4w1Ojwl0Q41u7qasJwePv45M3Tx7aAax93Zq5QEnEH7qLpHsyWobOiWCvunmJFhnRmIfEOv4rl3BaZDf4HVH0GjcLnULEFcC6BRgqtB3rX8Ah1RRq&token=1775754426-3ba023cd7fae153a-0-83a101ff80611422cb2ee97dc79dde3f
 北京卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8 $黑龙江移动
 天津卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8 $黑龙江移动
 东方卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8 $黑龙江移动
@@ -800,6 +814,9 @@ CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u
 兵团卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8 $黑龙江移动
 西藏卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8 $黑龙江移动
 青海卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8 $黑龙江移动
+五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+1905电影网(国内),http://129.211.14.102:25000/1905.php?t=1&id=LIVEOYY31H24H48NE&token=www.9kds.com
+1905电影网(国外),http://129.211.14.102:25000/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&token=www.9kds.com
 
 CCTV1,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8 $蜀小果
 CCTV2,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8 $蜀小果
@@ -1203,45 +1220,6 @@ CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8 $美国密苏里州堪萨斯城
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8 $美国密苏里州堪萨斯城
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8 $美国密苏里州堪萨斯城
 (国)大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8 $美国密苏里州堪萨斯城
-
-CCTV1,http://119.123.176.65:8086/hls/2/index.m3u8
-CCTV2,http://119.123.176.65:8086/hls/3/index.m3u8
-CCTV3,http://119.123.176.65:8086/hls/4/index.m3u8
-CCTV4,http://119.123.176.65:8086/hls/5/index.m3u8
-CCTV5,http://119.123.176.65:8086/hls/6/index.m3u8
-CCTV5+,http://119.123.176.65:8086/hls/252/index.m3u8
-CCTV6,http://119.123.176.65:8086/hls/7/index.m3u8
-CCTV7,http://119.123.176.65:8086/hls/8/index.m3u8
-CCTV8,http://119.123.176.65:8086/hls/9/index.m3u8
-CCTV9,http://119.123.176.65:8086/hls/10/index.m3u8
-CCTV10,http://119.123.176.65:8086/hls/11/index.m3u8
-CCTV11,http://119.123.176.65:8086/hls/12/index.m3u8
-CCTV12,http://119.123.176.65:8086/hls/13/index.m3u8
-CCTV13,http://119.123.176.65:8086/hls/14/index.m3u8
-CCTV14,http://119.123.176.65:8086/hls/15/index.m3u8
-CCTV15,http://119.123.176.65:8086/hls/16/index.m3u8
-CCTV16,http://119.123.176.65:8086/hls/17/index.m3u8
-广东卫视,http://119.123.176.65:8086/hls/44/index.m3u8
-广西卫视,http://119.123.176.65:8086/hls/48/index.m3u8
-海南卫视,http://119.123.176.65:8086/hls/50/index.m3u8
-河南卫视,http://119.123.176.65:8086/hls/52/index.m3u8
-湖北卫视,http://119.123.176.65:8086/hls/54/index.m3u8
-湖南卫视,http://119.123.176.65:8086/hls/55/index.m3u8
-江苏卫视,http://119.123.176.65:8086/hls/59/index.m3u8
-深圳卫视,http://119.123.176.65:8086/hls/79/index.m3u8
-四川卫视,http://119.123.176.65:8086/hls/82/index.m3u8
-重庆卫视,http://119.123.176.65:8086/hls/100/index.m3u8
-浙江卫视,http://119.123.176.65:8086/hls/101/index.m3u8
-东方卫视,http://119.123.176.65:8086/hls/129/index.m3u8
-北京卫视,http://119.123.176.65:8086/hls/131/index.m3u8
-江西卫视,http://119.123.176.65:8086/hls/132/index.m3u8
-山东卫视,http://119.123.176.65:8086/hls/133/index.m3u8
-安徽卫视,http://119.123.176.65:8086/hls/137/index.m3u8
-东南卫视,http://119.123.176.65:8086/hls/161/index.m3u8
-天津卫视,http://119.123.176.65:8086/hls/140/index.m3u8
-贵州卫视,http://119.123.176.65:8086/hls/143/index.m3u8
-河北卫视,http://119.123.176.65:8086/hls/144/index.m3u8
-辽宁卫视,http://119.123.176.65:8086/hls/251/index.m3u8
 
 CCTV1,http://223.95.198.3:8000/hls/1/index.m3u8 $移动浙江宁波余姚
 CCTV2,http://223.95.198.3:8000/hls/2/index.m3u8 $移动浙江宁波余姚

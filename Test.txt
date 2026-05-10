@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年5月8日17点30分,https://
+2026年5月11日17点30分,https://
 福建IPTV,#genre#
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -2315,6 +2315,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
+凤凰中文,http://bili-pull.cloudvdn.com/live/fhwszwtgtIX0Wu3j9Vvw9ox5QAjoueKMev0n4.flv
+凤凰资讯,http://bili-pull.cloudvdn.com/live/fhwszxtgtIX0Wu3j9Vvw9ox5QAjoueKMev0n4.flv
+凤凰香港,http://bili-pull.cloudvdn.com/live/fhwsxgtgtIX0Wu3j9Vvw9ox5QAjoueKMev0n4.flv
 
 下面频道多点几次
 凤凰中文,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkgBhqPU05spvygdOQVMR-49HfUHqoz3BWysXpY3IcoxaskiJ6HCxNUFEGBHN7J9cHwJfR5qJYrfvRgFxEFVGK3M4e6U8zBBcXQ62XaSa7kUQZiYq5vbmVseM-xEImPe5pGROKnFK232_zwhQVcDCWqJ8GlcYI2uYcWREAj3tlSyt6pugIwt_wjsXByc9jMtMyw.m3u8?u=1756878715

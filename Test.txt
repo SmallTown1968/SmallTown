@@ -2120,24 +2120,24 @@ CCTV17,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&a
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-1.m3u8 $t.freetv.fun
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8 $t.freetv.fun
 
-CCTV1,http://zmgd.zyrnet.com:8888/hls/97/index.m3u8
-CCTV1,http://zmgd.zyrnet.com:8888/hls/132/index.m3u8
-CCTV4,http://zmgd.zyrnet.com:8888/hls/77/index.m3u8
-CCTV5,http://zmgd.zyrnet.com:8888/hls/81/index.m3u8
-CCTV5+,http://zmgd.zyrnet.com:8888/hls/130/index.m3u8
-CCTV7,http://zmgd.zyrnet.com:8888/hls/111/index.m3u8
-CCTV16,http://zmgd.zyrnet.com:8888/hls/119/index.m3u8
-CCTV4K,http://zmgd.zyrnet.com:8888/hls/91/index.m3u8
-北京卫视,http://zmgd.zyrnet.com:8888/hls/79/index.m3u8
-东方卫视,http://zmgd.zyrnet.com:8888/hls/124/index.m3u8
-黑龙江卫视,http://zmgd.zyrnet.com:8888/hls/125/index.m3u8
-梨园频道,http://zmgd.zyrnet.com:8888/hls/113/index.m3u8
-法治天地,http://zmgd.zyrnet.com:8888/hls/131/index.m3u8
-都市剧场,http://zmgd.zyrnet.com:8888/hls/122/index.m3u8
-重温经典,http://zmgd.zyrnet.com:8888/hls/29/index.m3u8
-CHC家庭影院,http://zmgd.zyrnet.com:8888/hls/128/index.m3u8
-CHC影迷电影,http://zmgd.zyrnet.com:8888/hls/127/index.m3u8
-CHC动作电影,http://zmgd.zyrnet.com:8888/hls/126/index.m3u8
+CCTV1,http://zmgd.zyrnet.com:8888/hls/97/index.m3u8 $移动郑州
+CCTV1,http://zmgd.zyrnet.com:8888/hls/132/index.m3u8 $移动郑州
+CCTV4,http://zmgd.zyrnet.com:8888/hls/77/index.m3u8 $移动郑州
+CCTV5,http://zmgd.zyrnet.com:8888/hls/81/index.m3u8 $移动郑州
+CCTV5+,http://zmgd.zyrnet.com:8888/hls/130/index.m3u8 $移动郑州
+CCTV7,http://zmgd.zyrnet.com:8888/hls/111/index.m3u8 $移动郑州
+CCTV16,http://zmgd.zyrnet.com:8888/hls/119/index.m3u8 $移动郑州
+CCTV4K,http://zmgd.zyrnet.com:8888/hls/91/index.m3u8 $移动郑州
+北京卫视,http://zmgd.zyrnet.com:8888/hls/79/index.m3u8 $移动郑州
+东方卫视,http://zmgd.zyrnet.com:8888/hls/124/index.m3u8 $移动郑州
+黑龙江卫视,http://zmgd.zyrnet.com:8888/hls/125/index.m3u8 $移动郑州
+梨园频道,http://zmgd.zyrnet.com:8888/hls/113/index.m3u8 $移动郑州
+法治天地,http://zmgd.zyrnet.com:8888/hls/131/index.m3u8 $移动郑州
+都市剧场,http://zmgd.zyrnet.com:8888/hls/122/index.m3u8 $移动郑州
+重温经典,http://zmgd.zyrnet.com:8888/hls/29/index.m3u8 $移动郑州
+CHC家庭影院,http://zmgd.zyrnet.com:8888/hls/128/index.m3u8 $移动郑州
+CHC影迷电影,http://zmgd.zyrnet.com:8888/hls/127/index.m3u8 $移动郑州
+CHC动作电影,http://zmgd.zyrnet.com:8888/hls/126/index.m3u8 $移动郑州
 
 咪咕央卫,#genre#
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
@@ -2474,11 +2474,11 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰中文,https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
 凤凰资讯,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
 
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8? $1920x1080
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8? $8M1920x1080
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8? $移动郑州
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8? $移动郑州
 
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8 $1024x576
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8 $1024x576
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8 $移动郑州
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8 $移动郑州
 
 凤凰中文,http://lzcancer.cn:4055/udp/239.94.2.51:5140? $1920x1080
 凤凰中文,http://nas.yzs10000.com:17777/udp/239.94.2.51:5140? $1920x1080

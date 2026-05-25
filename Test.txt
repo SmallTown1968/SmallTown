@@ -2360,6 +2360,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 
+凤凰中文,http://183.239.108.37:1698/hls/96/index.m3u8? $移动广东汕头
+凤凰资讯,http://183.239.108.37:1698/hls/95/index.m3u8? $移动广东汕头
+凤凰香港,http://183.239.108.37:1698/hls/97/index.m3u8? $移动广东汕头
+
 凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
 凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
 凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
@@ -2377,8 +2381,8 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8? $移动郑州
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8? $移动郑州
 
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8 $移动郑州
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8 $移动郑州
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8? $移动郑州
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8? $移动郑州
 
 凤凰中文,http://lzcancer.cn:4055/udp/239.94.2.51:5140? $1920x1080
 凤凰中文,http://nas.yzs10000.com:17777/udp/239.94.2.51:5140? $1920x1080

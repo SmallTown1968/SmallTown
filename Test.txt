@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年6月15日17点30分,https://
+2026年6月17日17点30分,https://
 移动广东汕头,#genre#
 广东体育,http://183.239.108.37:1698/hls/12/index.m3u8
 CCTV12,http://183.239.108.37:1698/hls/29/index.m3u8
@@ -1692,6 +1692,39 @@ CETV1,http://39.165.39.49:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authi
 河南新闻频道,http://39.165.39.49:85/tsfile/live/1112_1.m3u8?key=txiptv&playlive=0&authid=0 $移动平顶山新华区
 河南公共频道,http://39.165.39.49:85/tsfile/live/1114_1.m3u8?key=txiptv&playlive=0&authid=0 $移动平顶山新华区
 
+CCTV1,http://222.89.96.36:8001/hls/1/index.m3u8 $电信河南开封
+CCTV2,http://222.89.96.36:8001/hls/2/index.m3u8 $电信河南开封
+CCTV3,http://222.89.96.36:8001/hls/3/index.m3u8 $电信河南开封
+CCTV4,http://222.89.96.36:8001/hls/4/index.m3u8 $电信河南开封
+CCTV5,http://222.89.96.36:8001/hls/5/index.m3u8 $电信河南开封
+CCTV6,http://222.89.96.36:8001/hls/6/index.m3u8 $电信河南开封
+CCTV7,http://222.89.96.36:8001/hls/7/index.m3u8 $电信河南开封
+CCTV8,http://222.89.96.36:8001/hls/8/index.m3u8 $电信河南开封
+CCTV9,http://222.89.96.36:8001/hls/9/index.m3u8 $电信河南开封
+CCTV10,http://222.89.96.36:8001/hls/10/index.m3u8 $电信河南开封
+CCTV11,http://222.89.96.36:8001/hls/11/index.m3u8 $电信河南开封
+CCTV12,http://222.89.96.36:8001/hls/12/index.m3u8 $电信河南开封
+CCTV13,http://222.89.96.36:8001/hls/13/index.m3u8 $电信河南开封
+CCTV14,http://222.89.96.36:8001/hls/14/index.m3u8 $电信河南开封
+CCTV15,http://222.89.96.36:8001/hls/15/index.m3u8 $电信河南开封
+河南卫视,http://222.89.96.36:8001/hls/16/index.m3u8 $电信河南开封
+河南都市频道,http://222.89.96.36:8001/hls/17/index.m3u8 $电信河南开封
+河南民生频道,http://222.89.96.36:8001/hls/18/index.m3u8 $电信河南开封
+河南法治频道,http://222.89.96.36:8001/hls/19/index.m3u8 $电信河南开封
+河南电视剧频道,http://222.89.96.36:8001/hls/20/index.m3u8 $电信河南开封
+河南新闻频道,http://222.89.96.36:8001/hls/21/index.m3u8 $电信河南开封
+浙江卫视,http://222.89.96.36:8001/hls/22/index.m3u8 $电信河南开封
+东方卫视,http://222.89.96.36:8001/hls/23/index.m3u8 $电信河南开封
+江苏卫视,http://222.89.96.36:8001/hls/24/index.m3u8 $电信河南开封
+北京卫视,http://222.89.96.36:8001/hls/25/index.m3u8 $电信河南开封
+广东卫视,http://222.89.96.36:8001/hls/26/index.m3u8 $电信河南开封
+黑龙江卫视,http://222.89.96.36:8001/hls/27/index.m3u8 $电信河南开封
+山东卫视,http://222.89.96.36:8001/hls/28/index.m3u8 $电信河南开封
+安徽卫视,http://222.89.96.36:8001/hls/29/index.m3u8 $电信河南开封
+辽宁卫视,http://222.89.96.36:8001/hls/30/index.m3u8 $电信河南开封
+陕西卫视,http://222.89.96.36:8001/hls/31/index.m3u8 $电信河南开封
+贵州卫视,http://222.89.96.36:8001/hls/32/index.m3u8 $电信河南开封
+
 CCTV1,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8 $移动辽宁阜新
 CCTV1,http://39.152.103.17:8089/tsfile/live/1074_1.m3u8 $移动辽宁阜新
 CCTV2,http://39.152.103.17:8089/tsfile/live/1001_1.m3u8 $移动辽宁阜新
@@ -2235,7 +2268,7 @@ CCTV15,http://123.12.186.7:9901/tsfile/live/1014_1.m3u8?key=txiptv $联通周口
 河南新闻频道,http://123.12.186.7:9901/tsfile/live/1049_1.m3u8?key=txiptv $联通周口郸城
 河南公共频道,http://123.12.186.7:9901/tsfile/live/1053_1.m3u8?key=txiptv $联通周口郸城
 河南都市频道,http://123.12.186.7:9901/tsfile/live/1045_1.m3u8?key=txiptv $联通周口郸城
-河南法制频道,http://123.12.186.7:9901/tsfile/live/1046_1.m3u8?key=txiptv $联通周口郸城
+河南法治频道,http://123.12.186.7:9901/tsfile/live/1046_1.m3u8?key=txiptv $联通周口郸城
 河南梨园频道,http://123.12.186.7:9901/tsfile/live/1048_1.m3u8?key=txiptv $联通周口郸城
 河南电视剧频道,http://123.12.186.7:9901/tsfile/live/1047_1.m3u8?key=txiptv $联通周口郸城
 

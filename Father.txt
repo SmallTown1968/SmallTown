@@ -44,10 +44,6 @@
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
 
-凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhhk
@@ -128,6 +124,7 @@ CCTV14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
+CCTV16,http://b.xiongnas.top:8888/rtp/239.3.1.184:8001
 CCTV16,https://60.191.56.186:8888/hls/16/index.m3u8
 CCTV16,http://tv.netlive.ggff.net/cctv16
 CCTV16,https://t.freetv.fun/live/cctv16-2.m3u8

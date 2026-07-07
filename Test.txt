@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年6月29日17点30分,https://
+2026年7月7日17点30分,https://
 世界杯,#genre#
 2026世界杯,http://82.156.243.185:33389/fwc.m3u
 
@@ -2771,56 +2771,12 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 港台卫视,#genre#
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-香港卫视,http://[2400:9380:a003:ff00:0:1:ca37:247]/www.hkstv.tv/webcast/livestream/mutfysrq/playlist.m3u8?hls_ctx=w294628p
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
-环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-
-凤凰中文,http://o11.163189.xyz/stream/live/fhzw/
-凤凰资讯,http://o11.163189.xyz/stream/live/fhzx/
-凤凰香港,http://o11.163189.xyz/stream/live/fhhk/
-
-凤凰中文,http://bili-pull.cloudvdn.com/live/fhwszwtgtIX0Wu3j9Vvw9ox5QAjoueKMev0n4.flv
-凤凰资讯,http://bili-pull.cloudvdn.com/live/fhwszxtgtIX0Wu3j9Vvw9ox5QAjoueKMev0n4.flv
-凤凰香港,http://bili-pull.cloudvdn.com/live/fhwsxgtgtIX0Wu3j9Vvw9ox5QAjoueKMev0n4.flv
-
-下面频道多点几次
-凤凰中文,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkgBhqPU05spvygdOQVMR-49HfUHqoz3BWysXpY3IcoxaskiJ6HCxNUFEGBHN7J9cHwJfR5qJYrfvRgFxEFVGK3M4e6U8zBBcXQ62XaSa7kUQZiYq5vbmVseM-xEImPe5pGROKnFK232_zwhQVcDCWqJ8GlcYI2uYcWREAj3tlSyt6pugIwt_wjsXByc9jMtMyw.m3u8?u=1756878715
-凤凰资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUknI2Qgu2H4THar3t2qm5CfJDW3oVsOfc-rbdZFzD2Lybr1EdctHM-qT90R9UPodL2nKzV7EyOABx0QR2dts6OWSHtsa0zWi7JZHPykhh2gL-1HTjlyHCq6MZDtf1gui0jRYCedTismGdA915iCIozcMoT5gl1u-RHNMhb_AyfsUllhm3olGmi0Hmey4uCeMycw.m3u8?u=1756878715
-凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715
-
-凤凰中文,https://cdn6.163189.xyz:443/163189/fhzw
-凤凰资讯,https://cdn6.163189.xyz:443/163189/fhzx
-凤凰香港,https://cdn6.163189.xyz:443/163189/fhhk
-
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-
 凤凰中文,http://183.239.108.37:1698/hls/96/index.m3u8? $移动广东汕头
 凤凰资讯,http://183.239.108.37:1698/hls/95/index.m3u8? $移动广东汕头
 凤凰香港,http://183.239.108.37:1698/hls/97/index.m3u8? $移动广东汕头
 
-凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
-凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
-凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
-
-凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-
 凤凰中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-凤凰中文,https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
-凤凰资讯,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8? $移动郑州
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8? $移动郑州
@@ -2829,53 +2785,15 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8? $移动郑州
 
 凤凰中文,http://lzcancer.cn:4055/udp/239.94.2.51:5140? $1920x1080
-凤凰中文,http://nas.yzs10000.com:17777/udp/239.94.2.51:5140? $1920x1080
-凤凰中文,http://yulang132.cn:58888/udp/239.94.2.51:5140? $1920x1080
 凤凰中文,http://cdhome.haobaitele.com:8800/udp/239.94.2.51:5140? $1920x1080
 
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 
-凤凰中文,http://43.152.224.209:80/tvlive.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://43.152.224.209:80/tvlive.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://43.152.224.209:80/tvlive.fengshows.cn/live/0701phk72.m3u8
-
-凤凰中文,http://120.238.5.44:1698/hls/86/index.m3u8? $8M1920x1080
-凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8? $8M1920x1080
-凤凰香港,http://120.238.5.44:1698/hls/87/index.m3u8? $8M1920x1080
-
 凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
-
-凤凰中文,http://122.246.12.140:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://122.246.12.140:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://122.246.12.140:80/qctv.fengshows.cn/live/0701phk72.m3u8
-
-凤凰中文,http://43.174.4.211:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://43.174.4.211:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://43.174.4.211:80/qctv.fengshows.cn/live/0701phk72.m3u8
-
-凤凰中文,http://43.174.4.208:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://43.174.4.208:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://43.174.4.208:80/qctv.fengshows.cn/live/0701phk72.m3u8
-
-凤凰中文,https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-凤凰资讯,https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-凤凰香港,https://tvb.go-iptv.ggff.net/stream/tvb/null-1/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-
-凤凰中文,http://play-a.quklive.com/live/aaafhzw.flv
-凤凰资讯,http://play-a.quklive.com/live/aaafhzx.flv
-凤凰香港,http://play-a.quklive.com/live/aaafhxg.flv
-
-来源：480P js源
-凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzw
-凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzx
-凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhhk
-凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
-凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
-凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk
 
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰中文,http://ccav.zone.id/php/fh.php?id=2
@@ -2886,36 +2804,25 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
 凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhhk
 
-来源：
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
-来源：
-凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-
 来源：冰茶TV订阅源https://show.188766.xyz/
-
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 来源：720P 凤凰秀
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码
 凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码
 
-凤凰中文,https://test.tvbjack.de5.net/proxy/b27f23f12104eeaf
-凤凰资讯,https://test.tvbjack.de5.net/proxy/87d2cd4e4b944f78
-凤凰香港,https://test.tvbjack.de5.net/proxy/ea5f9b5f693cc12c
+来源：480P js源
+凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzw
+凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzx
+凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhhk
+凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
+凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
+凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk
 
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://[2400:9380:a003:ff00:0:1:ca37:247]/www.hkstv.tv/webcast/livestream/mutfysrq/playlist.m3u8?hls_ctx=w294628p
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 测试频道,#genre#
 来源：广元论坛https://0839bbs.cn/tv/tv.m3u

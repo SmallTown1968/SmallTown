@@ -2773,6 +2773,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 港台卫视,#genre#
+凤凰中文,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhzw $乡村电视
+凤凰资讯,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhzx $乡村电视
+凤凰香港,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhhk $乡村电视
+
 凤凰中文,http://183.239.108.37:1698/hls/96/index.m3u8? $移动广东汕头
 凤凰资讯,http://183.239.108.37:1698/hls/95/index.m3u8? $移动广东汕头
 凤凰香港,http://183.239.108.37:1698/hls/97/index.m3u8? $移动广东汕头

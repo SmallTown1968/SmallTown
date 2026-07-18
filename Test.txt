@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年7月15日17点30分,https://
+2026年7月18日17点30分,https://
 世界杯,#genre#
 2026世界杯,http://82.156.243.185:33389/fwc.m3u
 
@@ -1135,6 +1135,7 @@ CHC家庭影院,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31
 河南梨园频道,http://1.94.31.214/php/hntv.php?id=hnly $华为云上海
 
 CCTV5,http://38.76.193.51:5006/token2.php?token=f5aaf50ba98397ad9417c49cfff67d $乡村电视
+CCTV5+,http://38.76.193.51:5006/ysp/dl.php?channel=cctv5p $乡村电视
 
 CCTV1,http://198.204.228.26/live/cctv1hd.m3u8 $美国密苏里州堪萨斯城
 CCTV2,http://198.204.228.26/live/cctv2hd.m3u8 $美国密苏里州堪萨斯城

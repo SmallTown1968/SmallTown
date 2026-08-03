@@ -2778,6 +2778,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰资讯,http://r.jdshipin.com/0Rp07 $长效源
 凤凰香港,http://r.jdshipin.com/yDoTN $长效源
 
+凤凰中文,https://cdn6.cc.cd/163189/fhzw $泛播
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx $泛播
+凤凰香港,https://cdn6.cc.cd/163189/fhhk $泛播
+
 凤凰中文,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhzw $乡村电视
 凤凰资讯,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhzx $乡村电视
 凤凰香港,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhhk $乡村电视

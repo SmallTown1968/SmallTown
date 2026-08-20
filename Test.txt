@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年8月10日17点30分,https://
+2026年8月21日17点30分,https://
 移动广东汕头,#genre#
 广东体育,http://183.239.108.37:1698/hls/12/index.m3u8
 CCTV12,http://183.239.108.37:1698/hls/29/index.m3u8
@@ -2771,9 +2771,13 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 港台卫视,#genre#
-凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 $电信甘肃兰州
-凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 $电信甘肃兰州
-凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 $电信甘肃兰州
+凤凰中文,http://c.123.rr.kg/163189/fhzw $泛播
+凤凰资讯,http://c.123.rr.kg/163189/fhzx $泛播
+凤凰香港,http://c.123.rr.kg/163189/fhhk $泛播
+
+凤凰中文,https://cdn.qd.je/163189/fhzw $泛播
+凤凰资讯,https://cdn.qd.je/163189/fhzx $泛播
+凤凰香港,https://cdn.qd.je/163189/fhhk $泛播
 
 凤凰中文,http://r.jdshipin.com/cCCzW $长效源
 凤凰资讯,http://r.jdshipin.com/0Rp07 $长效源
@@ -2786,6 +2790,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰中文,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhzw $乡村电视
 凤凰资讯,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhzx $乡村电视
 凤凰香港,http://110.42.50.24:929/%E5%87%A4%E5%87%B0/fhx.php?id=fhhk $乡村电视
+
+凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 $电信甘肃兰州
+凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 $电信甘肃兰州
+凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 $电信甘肃兰州
 
 凤凰中文,http://183.239.108.37:1698/hls/96/index.m3u8? $移动广东汕头
 凤凰资讯,http://183.239.108.37:1698/hls/95/index.m3u8? $移动广东汕头

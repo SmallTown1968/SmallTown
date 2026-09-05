@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年9月1日17点30分,https://
+2026年9月5日17点30分,https://
 移动广东汕头,#genre#
 广东体育,http://183.239.108.37:1698/hls/12/index.m3u8
 CCTV12,http://183.239.108.37:1698/hls/29/index.m3u8
@@ -1128,6 +1128,7 @@ CHC家庭影院,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31
 
 CCTV5,http://38.76.193.51:5006/token2.php?token=f5aaf50ba98397ad9417c49cfff67d $乡村电视
 CCTV5+,http://38.76.193.51:5006/ysp/dl.php?channel=cctv5p $乡村电视
+CCTV13,http://cfss.cc/cdn/dy/cctv_video.flv $抖音小央视频
 
 CCTV1,http://198.204.228.26/live/cctv1hd.m3u8 $美国密苏里州堪萨斯城
 CCTV2,http://198.204.228.26/live/cctv2hd.m3u8 $美国密苏里州堪萨斯城
@@ -2473,7 +2474,87 @@ CHC家庭影院,http://zmgd.zyrnet.com:8888/hls/128/index.m3u8 $移动郑州
 CHC影迷电影,http://zmgd.zyrnet.com:8888/hls/127/index.m3u8 $移动郑州
 CHC动作电影,http://zmgd.zyrnet.com:8888/hls/126/index.m3u8 $移动郑州
 
-咪咕央卫,#genre#
+央卫咪咕,#genre#
+CCTV1,http://go.bkpcp.top/mg/cctv1
+CCTV2,http://go.bkpcp.top/mg/cctv2
+CCTV3,http://go.bkpcp.top/mg/cctv3
+CCTV4,http://go.bkpcp.top/mg/cctv4
+CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
+CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
+CCTV5,http://go.bkpcp.top/mg/cctv5
+CCTV5+,http://go.bkpcp.top/mg/cctv5p
+CCTV6,http://go.bkpcp.top/mg/cctv6
+CCTV7,http://go.bkpcp.top/mg/cctv7
+CCTV8,http://go.bkpcp.top/mg/cctv8
+CCTV9,http://go.bkpcp.top/mg/cctv9
+CCTV10,http://go.bkpcp.top/mg/cctv10
+CCTV11,http://go.bkpcp.top/mg/cctv11
+CCTV12,http://go.bkpcp.top/mg/cctv12
+CCTV13,http://go.bkpcp.top/mg/cctv13
+CCTV14,http://go.bkpcp.top/mg/cctv14
+CCTV15,http://go.bkpcp.top/mg/cctv15
+CCTV16,http://go.bkpcp.top/mg/cctv16
+CCTV17,http://go.bkpcp.top/mg/cctv17
+CETV1,http://go.bkpcp.top/mg/cetv1
+CETV2,http://go.bkpcp.top/mg/cetv2
+CETV4,http://go.bkpcp.top/mg/cetv4
+重温经典,http://go.bkpcp.top/mg/cwjd
+劲爆体育,http://go.bkpcp.top/mg/jbty
+咪咕体育,http://go.bkpcp.top/mg/mgty
+看东方,http://go.bkpcp.top/mg/xjs
+北京卫视4K,http://go.bkpcp.top/mg/bjws
+东方卫视4K,http://go.bkpcp.top/mg/dfws
+浙江卫视4K,http://go.bkpcp.top/mg/zjws 
+山东卫视4K,http://go.bkpcp.top/mg/sdws
+湖南卫视4K,http://go.bkpcp.top/mg/hunws
+江苏卫视4K,http://go.bkpcp.top/mg/jsws 
+广东卫视,http://go.bkpcp.top/mg/gdws 
+深圳卫视,http://go.bkpcp.top/mg/szws 
+河南卫视,http://go.bkpcp.top/mg/hnws
+江西卫视,http://go.bkpcp.top/mg/jxws 
+湖北卫视,http://go.bkpcp.top/mg/hubws 
+海南卫视,http://go.bkpcp.top/mg/hinws
+陕西卫视,http://go.bkpcp.top/mg/sxws 
+兵团卫视,http://go.bkpcp.top/mg/btws 
+黑龙江卫视,http://go.bkpcp.top/mg/hljws 
+安徽卫视,http://go.bkpcp.top/mg/ahws
+天津卫视,http://go.bkpcp.top/mg/tjws
+辽宁卫视,http://go.bkpcp.top/mg/lnws
+河北卫视,http://go.bkpcp.top/mg/hbws
+重庆卫视,http://go.bkpcp.top/mg/cqws
+贵州卫视,http://go.bkpcp.top/mg/gzws
+吉林卫视,http://go.bkpcp.top/mg/jlws
+四川卫视,http://go.bkpcp.top/mg/scws
+广西卫视,http://go.bkpcp.top/mg/gxws
+山西卫视,http://go.bkpcp.top/mg/sxiws
+云南卫视,http://go.bkpcp.top/mg/ynws
+甘肃卫视,http://go.bkpcp.top/mg/gsws
+宁夏卫视,http://go.bkpcp.top/mg/nxws
+青海卫视,http://go.bkpcp.top/mg/qhws
+新疆卫视,http://go.bkpcp.top/mg/xjws
+西藏卫视,http://go.bkpcp.top/mg/xzws
+内蒙古卫视,http://go.bkpcp.top/mg/nmgws
+东南卫视,http://go.bkpcp.top/mg/dnws
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+CHC动作电影,http://go.bkpcp.top/mg/dzyy
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+嘉佳卡通,http://go.bkpcp.top/mg/jjkt
+卡酷少儿,http://go.bkpcp.top/mg/kkse
+广东少儿,http://go.bkpcp.top/mg/gdse
+金鹰卡通,http://go.bkpcp.top/mg/jykt
+南方影视,http://go.bkpcp.top/mg/nfys
+财富天下,http://go.bkpcp.top/mg/cftx
+经典动画,http://go.bkpcp.top/mg/dhjh
+广东影视,http://go.bkpcp.top/mg/gdys
+凤凰中文,http://go.bkpcp.top/mg/fhzw
+凤凰资讯,http://go.bkpcp.top/mg/fhzx
+凤凰香港,http://go.bkpcp.top/mg/fhhk
+Now新闻台,http://go.bkpcp.top/mg/now
+TVB Plus,http://go.bkpcp.top/mg/tvb
+澳视澳门,http://go.bkpcp.top/mg/aomen
+翡翠台,http://go.bkpcp.top/mg/翡翠台
+
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
@@ -2648,86 +2729,6 @@ TVB Plus,http://m.061899.xyz/mg/tvb
 澳视澳门,http://m.061899.xyz/mg/aomen
 翡翠台,http://m.061899.xyz/mg/翡翠台
 
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV3,http://go.bkpcp.top/mg/cctv3
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
-CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV13,http://go.bkpcp.top/mg/cctv13
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17
-CETV1,http://go.bkpcp.top/mg/cetv1
-CETV2,http://go.bkpcp.top/mg/cetv2
-CETV4,http://go.bkpcp.top/mg/cetv4
-重温经典,http://go.bkpcp.top/mg/cwjd
-劲爆体育,http://go.bkpcp.top/mg/jbty
-咪咕体育,http://go.bkpcp.top/mg/mgty
-看东方,http://go.bkpcp.top/mg/xjs
-北京卫视4K,http://go.bkpcp.top/mg/bjws
-东方卫视4K,http://go.bkpcp.top/mg/dfws
-浙江卫视4K,http://go.bkpcp.top/mg/zjws 
-山东卫视4K,http://go.bkpcp.top/mg/sdws
-湖南卫视4K,http://go.bkpcp.top/mg/hunws
-江苏卫视4K,http://go.bkpcp.top/mg/jsws 
-广东卫视,http://go.bkpcp.top/mg/gdws 
-深圳卫视,http://go.bkpcp.top/mg/szws 
-河南卫视,http://go.bkpcp.top/mg/hnws
-江西卫视,http://go.bkpcp.top/mg/jxws 
-湖北卫视,http://go.bkpcp.top/mg/hubws 
-海南卫视,http://go.bkpcp.top/mg/hinws
-陕西卫视,http://go.bkpcp.top/mg/sxws 
-兵团卫视,http://go.bkpcp.top/mg/btws 
-黑龙江卫视,http://go.bkpcp.top/mg/hljws 
-安徽卫视,http://go.bkpcp.top/mg/ahws
-天津卫视,http://go.bkpcp.top/mg/tjws
-辽宁卫视,http://go.bkpcp.top/mg/lnws
-河北卫视,http://go.bkpcp.top/mg/hbws
-重庆卫视,http://go.bkpcp.top/mg/cqws
-贵州卫视,http://go.bkpcp.top/mg/gzws
-吉林卫视,http://go.bkpcp.top/mg/jlws
-四川卫视,http://go.bkpcp.top/mg/scws
-广西卫视,http://go.bkpcp.top/mg/gxws
-山西卫视,http://go.bkpcp.top/mg/sxiws
-云南卫视,http://go.bkpcp.top/mg/ynws
-甘肃卫视,http://go.bkpcp.top/mg/gsws
-宁夏卫视,http://go.bkpcp.top/mg/nxws
-青海卫视,http://go.bkpcp.top/mg/qhws
-新疆卫视,http://go.bkpcp.top/mg/xjws
-西藏卫视,http://go.bkpcp.top/mg/xzws
-内蒙古卫视,http://go.bkpcp.top/mg/nmgws
-东南卫视,http://go.bkpcp.top/mg/dnws
-大湾区卫视,http://go.bkpcp.top/mg/dwqws
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
-CHC动作电影,http://go.bkpcp.top/mg/dzyy
-CHC影迷电影,http://go.bkpcp.top/mg/ymdy
-嘉佳卡通,http://go.bkpcp.top/mg/jjkt
-卡酷少儿,http://go.bkpcp.top/mg/kkse
-广东少儿,http://go.bkpcp.top/mg/gdse
-金鹰卡通,http://go.bkpcp.top/mg/jykt
-南方影视,http://go.bkpcp.top/mg/nfys
-财富天下,http://go.bkpcp.top/mg/cftx
-经典动画,http://go.bkpcp.top/mg/dhjh
-广东影视,http://go.bkpcp.top/mg/gdys
-凤凰中文,http://go.bkpcp.top/mg/fhzw
-凤凰资讯,http://go.bkpcp.top/mg/fhzx
-凤凰香港,http://go.bkpcp.top/mg/fhhk
-Now新闻台,http://go.bkpcp.top/mg/now
-TVB Plus,http://go.bkpcp.top/mg/tvb
-澳视澳门,http://go.bkpcp.top/mg/aomen
-翡翠台,http://go.bkpcp.top/mg/翡翠台
-
 4K超高清,#genre#
 河南卫视4K,http://lysj.aylzline.top:8899/rtp/225.1.2.237:11530
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
@@ -2807,9 +2808,9 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰中文,http://lzcancer.cn:4055/udp/239.94.2.51:5140? $1920x1080
 凤凰中文,http://cdhome.haobaitele.com:8800/udp/239.94.2.51:5140? $1920x1080
 
-凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8 $电信武汉
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8 $电信武汉
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8 $电信武汉
 
 凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -2843,6 +2844,9 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 香港卫视,http://[2400:9380:a003:ff00:0:1:ca37:247]/www.hkstv.tv/webcast/livestream/mutfysrq/playlist.m3u8?hls_ctx=w294628p
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
+中视HD,http://211.72.174.95:8113/0.ts
+公视,http://211.72.174.95:8116/0.ts
 
 测试频道,#genre#
 来源：广元论坛https://0839bbs.cn/tv/tv.m3u

@@ -2771,8 +2771,8 @@ TVB Plus,http://m.061899.xyz/mg/tvb
 凤凰资讯,http://sttv.lian3388.fun:3000/fengshows-info.flv
 凤凰香港,http://sttv.lian3388.fun:3000/fengshows-hongkong.flv
 
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8 $移动郑州
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8 $移动郑州
 
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文 $Pdtv
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯 $Pdtv

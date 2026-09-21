@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年9月18日17点30分,https://
+2026年9月21日17点30分,https://
 移动广东汕头,#genre#
 广东体育,http://183.239.108.37:1698/hls/12/index.m3u8
 CCTV12,http://183.239.108.37:1698/hls/29/index.m3u8
@@ -2767,6 +2767,10 @@ TVB Plus,http://m.061899.xyz/mg/tvb
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 港台卫视,#genre#
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+
 凤凰中文,http://sttv.lian3388.fun:3000/fengshows-chinese.flv
 凤凰资讯,http://sttv.lian3388.fun:3000/fengshows-info.flv
 凤凰香港,http://sttv.lian3388.fun:3000/fengshows-hongkong.flv

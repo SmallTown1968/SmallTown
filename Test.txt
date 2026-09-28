@@ -1074,6 +1074,109 @@ CCTV17,http://47.242.63.189:2100/zhao1234.php?id=14&s=8 $乡村电视
 青海卫视,http://47.242.63.189:2100/zhao1234.php?id=51&s=8 $乡村电视
 宁夏卫视,http://47.242.63.189:2100/zhao1234.php?id=52&s=8 $乡村电视
 
+CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd $美国密苏里州堪萨斯城
+CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd $美国密苏里州堪萨斯城
+CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd $美国密苏里州堪萨斯城
+CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd $美国密苏里州堪萨斯城
+CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd $美国密苏里州堪萨斯城
+CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p $美国密苏里州堪萨斯城
+CCTV6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd $美国密苏里州堪萨斯城
+CCTV7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd $美国密苏里州堪萨斯城
+CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd $美国密苏里州堪萨斯城
+CCTV9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd $美国密苏里州堪萨斯城
+CCTV10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd $美国密苏里州堪萨斯城
+CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd $美国密苏里州堪萨斯城
+CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd $美国密苏里州堪萨斯城
+CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd $美国密苏里州堪萨斯城
+CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd $美国密苏里州堪萨斯城
+CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd $美国密苏里州堪萨斯城
+CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd $美国密苏里州堪萨斯城
+CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd $美国密苏里州堪萨斯城
+CCTV4K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k $美国密苏里州堪萨斯城
+CCTV8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k $美国密苏里州堪萨斯城
+CETV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1 $美国密苏里州堪萨斯城
+CETV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv2 $美国密苏里州堪萨斯城
+CETV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3 $美国密苏里州堪萨斯城
+CETV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4 $美国密苏里州堪萨斯城
+CCTV电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn $美国密苏里州堪萨斯城
+CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc $美国密苏里州堪萨斯城
+CCTV风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc $美国密苏里州堪萨斯城
+CCTV怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc $美国密苏里州堪萨斯城
+CCTV风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq $美国密苏里州堪萨斯城
+CCTV风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy $美国密苏里州堪萨斯城
+CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl $美国密苏里州堪萨斯城
+CCTV兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bqkj $美国密苏里州堪萨斯城
+CCTV女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss $美国密苏里州堪萨斯城
+CCTV卫生健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk $美国密苏里州堪萨斯城
+CCTV央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq $美国密苏里州堪萨斯城
+CCTV高尔夫·网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq $美国密苏里州堪萨斯城
+CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp $美国密苏里州堪萨斯城
+中央新影-老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs $美国密苏里州堪萨斯城
+中央新影-发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl $美国密苏里州堪萨斯城
+河南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd $美国密苏里州堪萨斯城
+北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd $美国密苏里州堪萨斯城
+湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd $美国密苏里州堪萨斯城
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd $美国密苏里州堪萨斯城
+浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd $美国密苏里州堪萨斯城
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd $美国密苏里州堪萨斯城
+重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd $美国密苏里州堪萨斯城
+东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd $美国密苏里州堪萨斯城
+贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd $美国密苏里州堪萨斯城
+江西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd $美国密苏里州堪萨斯城
+广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd $美国密苏里州堪萨斯城
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd $美国密苏里州堪萨斯城
+辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd $美国密苏里州堪萨斯城
+安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd $美国密苏里州堪萨斯城
+河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd $美国密苏里州堪萨斯城
+山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd $美国密苏里州堪萨斯城
+天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd $美国密苏里州堪萨斯城
+吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd $美国密苏里州堪萨斯城
+陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd $美国密苏里州堪萨斯城
+甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd $美国密苏里州堪萨斯城
+宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws $美国密苏里州堪萨斯城
+内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws $美国密苏里州堪萨斯城
+云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd $美国密苏里州堪萨斯城
+山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd $美国密苏里州堪萨斯城
+青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws $美国密苏里州堪萨斯城
+西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws $美国密苏里州堪萨斯城
+新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws $美国密苏里州堪萨斯城
+广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd $美国密苏里州堪萨斯城
+深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd $美国密苏里州堪萨斯城
+海南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hinwshd $美国密苏里州堪萨斯城
+四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd $美国密苏里州堪萨斯城
+兵团卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btws $美国密苏里州堪萨斯城
+三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws $美国密苏里州堪萨斯城
+黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd $美国密苏里州堪萨斯城
+大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws $美国密苏里州堪萨斯城
+卡酷少儿,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btvkk $美国密苏里州堪萨斯城
+广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj $美国密苏里州堪萨斯城
+广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty $美国密苏里州堪萨斯城
+广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw $美国密苏里州堪萨斯城
+广西影视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxys $美国密苏里州堪萨斯城
+广西综艺旅游,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxzy $美国密苏里州堪萨斯城
+广西都市,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxds $美国密苏里州堪萨斯城
+广西新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxxw $美国密苏里州堪萨斯城
+广西国际,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxgj $美国密苏里州堪萨斯城
+湖北综合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbzh $美国密苏里州堪萨斯城
+湖北经视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbjs $美国密苏里州堪萨斯城
+湖北影视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbys $美国密苏里州堪萨斯城
+湖北教育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbjy $美国密苏里州堪萨斯城
+湖北垄上,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbls $美国密苏里州堪萨斯城
+湖北生活,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbty $美国密苏里州堪萨斯城
+湖南娱乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnyl $美国密苏里州堪萨斯城
+湖南教育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnjy $美国密苏里州堪萨斯城
+吉林都市,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlds $美国密苏里州堪萨斯城
+吉林综艺文化,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlfz $美国密苏里州堪萨斯城
+吉林生活,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlsh $美国密苏里州堪萨斯城
+新疆汉语影视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjtv6 $美国密苏里州堪萨斯城
+新疆汉语体育健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjtv7 $美国密苏里州堪萨斯城
+江西少儿家庭,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxtv6 $美国密苏里州堪萨斯城
+江西新闻频道,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxtv7 $美国密苏里州堪萨斯城
+成龙电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl $美国密苏里州堪萨斯城
+周润发电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzrf $美国密苏里州堪萨斯城
+周星驰电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzxc $美国密苏里州堪萨斯城
+林正英影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lblzy $美国密苏里州堪萨斯城
+
 CCTV1,http://198.204.228.26/live/cctv1hd.m3u8 $美国密苏里州堪萨斯城
 CCTV2,http://198.204.228.26/live/cctv2hd.m3u8 $美国密苏里州堪萨斯城
 CCTV3,http://198.204.228.26/live/cctv3hd.m3u8 $美国密苏里州堪萨斯城
@@ -1415,36 +1518,6 @@ CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8 $美国密苏里州�
 周润发电影,http://107.150.60.122/live/lbzrf.m3u8 $美国密苏里州堪萨斯城
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8 $美国密苏里州堪萨斯城
 林正英影院,http://107.150.60.122/live/lblzy.m3u8 $美国密苏里州堪萨斯城
-
-CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd $美国密苏里州堪萨斯城
-CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd $美国密苏里州堪萨斯城
-CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd $美国密苏里州堪萨斯城
-CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd $美国密苏里州堪萨斯城
-CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd $美国密苏里州堪萨斯城
-CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p $美国密苏里州堪萨斯城
-CCTV6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd $美国密苏里州堪萨斯城
-CCTV7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd $美国密苏里州堪萨斯城
-CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd $美国密苏里州堪萨斯城
-CCTV9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd $美国密苏里州堪萨斯城
-CCTV10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd $美国密苏里州堪萨斯城
-CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd $美国密苏里州堪萨斯城
-CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd $美国密苏里州堪萨斯城
-CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd $美国密苏里州堪萨斯城
-CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd $美国密苏里州堪萨斯城
-CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd $美国密苏里州堪萨斯城
-CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd $美国密苏里州堪萨斯城
-CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd $美国密苏里州堪萨斯城
-湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd $美国密苏里州堪萨斯城
-东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd $美国密苏里州堪萨斯城
-浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd $美国密苏里州堪萨斯城
-江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd $美国密苏里州堪萨斯城
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd $美国密苏里州堪萨斯城
-甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd $美国密苏里州堪萨斯城
-吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd $美国密苏里州堪萨斯城
-云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd $美国密苏里州堪萨斯城
-广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd $美国密苏里州堪萨斯城
-深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd $美国密苏里州堪萨斯城
-宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss $美国密苏里州堪萨斯城
 
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8 $美国密苏里州堪萨斯城
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8 $美国密苏里州堪萨斯城
@@ -2024,60 +2097,6 @@ CHC家庭影院,http://112.92.129.96:9898/hls/118/index.m3u8 $联通广东梅州
 梅州综合,http://112.92.129.96:9898/hls/105/index.m3u8 $联通广东梅州
 澳视澳门,http://112.92.129.96:9898/hls/135/index.m3u8 $联通广东梅州
 
-CCTV1,http://114.241.111.4:85/tsfile/live/1/1001_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV2,http://114.241.111.4:85/tsfile/live/2/1002_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV3,http://114.241.111.4:85/tsfile/live/3/1003_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV4,http://114.241.111.4:85/tsfile/live/4/1004_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV5,http://114.241.111.4:85/tsfile/live/5/1005_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV5+,http://114.241.111.4:85/tsfile/live/23/1023_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV6,http://114.241.111.4:85/tsfile/live/6/1006_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV7,http://114.241.111.4:85/tsfile/live/7/1007_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV8,http://114.241.111.4:85/tsfile/live/8/1008_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV9,http://114.241.111.4:85/tsfile/live/9/1009_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV10,http://114.241.111.4:85/tsfile/live/10/1010_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV11,http://114.241.111.4:85/tsfile/live/11/1011_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV12,http://114.241.111.4:85/tsfile/live/12/1012_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV13,http://114.241.111.4:85/tsfile/live/13/1013_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV14,http://114.241.111.4:85/tsfile/live/14/1014_1.m3u8?key=txiptv $联通北京大兴区酒店
-CCTV15,http://114.241.111.4:85/tsfile/live/15/1015_1.m3u8?key=txiptv $联通北京大兴区酒店
-北京卫视,http://114.241.111.4:85/tsfile/live/16/1016_1.m3u8?key=txiptv $联通北京大兴区酒店
-东方卫视,http://114.241.111.4:85/tsfile/live/41/1041_1.m3u8?key=txiptv $联通北京大兴区酒店
-天津卫视,http://114.241.111.4:85/tsfile/live/30/1030_1.m3u8?key=txiptv $联通北京大兴区酒店
-重庆卫视,http://114.241.111.4:85/tsfile/live/42/1042_1.m3u8?key=txiptv $联通北京大兴区酒店
-河南卫视,http://114.241.111.4:85/tsfile/live/34/1034_1.m3u8?key=txiptv $联通北京大兴区酒店
-江苏卫视,http://114.241.111.4:85/tsfile/live/28/1028_1.m3u8?key=txiptv $联通北京大兴区酒店
-江苏卫视,http://114.241.111.4:85/tsfile/live/32/1032_1.m3u8?key=txiptv $联通北京大兴区酒店
-浙江卫视,http://114.241.111.4:85/tsfile/live/27/1027_1.m3u8?key=txiptv $联通北京大兴区酒店
-湖南卫视,http://114.241.111.4:85/tsfile/live/26/1026_1.m3u8?key=txiptv $联通北京大兴区酒店
-安徽卫视,http://114.241.111.4:85/tsfile/live/29/1029_1.m3u8?key=txiptv $联通北京大兴区酒店
-辽宁卫视,http://114.241.111.4:85/tsfile/live/31/1031_1.m3u8?key=txiptv $联通北京大兴区酒店
-吉林卫视,http://114.241.111.4:85/tsfile/live/47/1047_1.m3u8?key=txiptv $联通北京大兴区酒店
-黑龙江卫视,http://114.241.111.4:85/tsfile/live/35/1035_1.m3u8?key=txiptv $联通北京大兴区酒店
-云南卫视,http://114.241.111.4:85/tsfile/live/33/1033_1.m3u8?key=txiptv $联通北京大兴区酒店
-四川卫视,http://114.241.111.4:85/tsfile/live/36/1036_1.m3u8?key=txiptv $联通北京大兴区酒店
-江西卫视,http://114.241.111.4:85/tsfile/live/37/1037_1.m3u8?key=txiptv $联通北京大兴区酒店
-贵州卫视,http://114.241.111.4:85/tsfile/live/38/1038_1.m3u8?key=txiptv $联通北京大兴区酒店
-湖北卫视,http://114.241.111.4:85/tsfile/live/40/1040_1.m3u8?key=txiptv $联通北京大兴区酒店
-河北卫视,http://114.241.111.4:85/tsfile/live/44/1044_1.m3u8?key=txiptv $联通北京大兴区酒店
-东南卫视,http://114.241.111.4:85/tsfile/live/43/1043_1.m3u8?key=txiptv $联通北京大兴区酒店
-广东卫视,http://114.241.111.4:85/tsfile/live/45/1045_1.m3u8?key=txiptv $联通北京大兴区酒店
-深圳卫视,http://114.241.111.4:85/tsfile/live/39/1039_1.m3u8?key=txiptv $联通北京大兴区酒店
-广西卫视,http://114.241.111.4:85/tsfile/live/46/1046_1.m3u8?key=txiptv $联通北京大兴区酒店
-陕西卫视,http://114.241.111.4:85/tsfile/live/48/1048_1.m3u8?key=txiptv $联通北京大兴区酒店
-山西卫视,http://114.241.111.4:85/tsfile/live/49/1049_1.m3u8?key=txiptv $联通北京大兴区酒店
-青海卫视,http://114.241.111.4:85/tsfile/live/51/1051_1.m3u8?key=txiptv $联通北京大兴区酒店
-宁夏卫视,http://114.241.111.4:85/tsfile/live/52/1052_1.m3u8?key=txiptv $联通北京大兴区酒店
-西藏卫视,http://114.241.111.4:85/tsfile/live/53/1053_1.m3u8?key=txiptv $联通北京大兴区酒店
-内蒙古卫视,http://114.241.111.4:85/tsfile/live/50/1050_1.m3u8?key=txiptv $联通北京大兴区酒店
-纪实科教,http://114.241.111.4:85/tsfile/live/18/1018_1.m3u8?key=txiptv $联通北京大兴区酒店
-北京文艺,http://114.241.111.4:85/tsfile/live/17/1017_1.m3u8?key=txiptv $联通北京大兴区酒店
-北京影视,http://114.241.111.4:85/tsfile/live/19/1019_1.m3u8?key=txiptv $联通北京大兴区酒店
-北京财经,http://114.241.111.4:85/tsfile/live/20/1020_1.m3u8?key=txiptv $联通北京大兴区酒店
-北京生活,http://114.241.111.4:85/tsfile/live/22/1022_1.m3u8?key=txiptv $联通北京大兴区酒店
-北京新闻,http://114.241.111.4:85/tsfile/live/24/1024_1.m3u8?key=txiptv $联通北京大兴区酒店
-北京体育,http://114.241.111.4:85/tsfile/live/25/1025_1.m3u8?key=txiptv $联通北京大兴区酒店
-北京IPTV-4K,http://114.241.111.4:85/tsfile/live/21/1021_1.m3u8?key=txiptv $联通北京大兴区酒店
-
 北京海淀联通http://hxq.xo.je//files/123456/222.txt
 CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.0.86:5146 $联通北京海淀
 CCTV1,http://pr.19760929.xyz:9688/rtp/239.77.0.119:5146 $联通北京海淀
@@ -2301,59 +2320,6 @@ CCTV央视文化精品,http://pr.19760929.xyz:9688/rtp/239.253.43.27:5146 $联�
 央视网相声小品,http://pr.19760929.xyz:9688/rtp/239.77.1.84:5146 $联通北京海淀
 四画面,http://pr.19760929.xyz:9688/rtp/239.77.1.107:5146 $联通北京海淀
 
-CCTV1,http://123.12.186.7:9901/tsfile/live/1000_1.m3u8?key=txiptv $联通周口郸城
-CCTV2,http://123.12.186.7:9901/tsfile/live/1001_1.m3u8?key=txiptv $联通周口郸城
-CCTV3,http://123.12.186.7:9901/tsfile/live/1002_1.m3u8?key=txiptv $联通周口郸城
-CCTV4,http://123.12.186.7:9901/tsfile/live/1003_1.m3u8?key=txiptv $联通周口郸城
-CCTV5,http://123.12.186.7:9901/tsfile/live/1004_1.m3u8?key=txiptv $联通周口郸城
-CCTV6,http://123.12.186.7:9901/tsfile/live/1005_1.m3u8?key=txiptv $联通周口郸城
-CCTV7,http://123.12.186.7:9901/tsfile/live/1006_1.m3u8?key=txiptv $联通周口郸城
-CCTV8,http://123.12.186.7:9901/tsfile/live/1007_1.m3u8?key=txiptv $联通周口郸城
-CCTV9,http://123.12.186.7:9901/tsfile/live/1008_1.m3u8?key=txiptv $联通周口郸城
-CCTV10,http://123.12.186.7:9901/tsfile/live/1009_1.m3u8?key=txiptv $联通周口郸城
-CCTV11,http://123.12.186.7:9901/tsfile/live/1010_1.m3u8?key=txiptv $联通周口郸城
-CCTV12,http://123.12.186.7:9901/tsfile/live/1011_1.m3u8?key=txiptv $联通周口郸城
-CCTV13,http://123.12.186.7:9901/tsfile/live/1012_1.m3u8?key=txiptv $联通周口郸城
-CCTV14,http://123.12.186.7:9901/tsfile/live/1013_1.m3u8?key=txiptv $联通周口郸城
-CCTV15,http://123.12.186.7:9901/tsfile/live/1014_1.m3u8?key=txiptv $联通周口郸城
-湖南卫视,http://123.12.186.7:9901/tsfile/live/1018_1.m3u8?key=txiptv $联通周口郸城
-江苏卫视,http://123.12.186.7:9901/tsfile/live/1017_1.m3u8?key=txiptv $联通周口郸城
-北京卫视,http://123.12.186.7:9901/tsfile/live/1019_1.m3u8?key=txiptv $联通周口郸城
-东方卫视,http://123.12.186.7:9901/tsfile/live/1016_1.m3u8?key=txiptv $联通周口郸城
-安徽卫视,http://123.12.186.7:9901/tsfile/live/1022_1.m3u8?key=txiptv $联通周口郸城
-广东卫视,http://123.12.186.7:9901/tsfile/live/1020_1.m3u8?key=txiptv $联通周口郸城
-深圳卫视,http://123.12.186.7:9901/tsfile/live/1021_1.m3u8?key=txiptv $联通周口郸城
-辽宁卫视,http://123.12.186.7:9901/tsfile/live/1034_1.m3u8?key=txiptv $联通周口郸城
-海南卫视,http://123.12.186.7:9901/tsfile/live/1028_1.m3u8?key=txiptv $联通周口郸城
-山东卫视,http://123.12.186.7:9901/tsfile/live/1023_1.m3u8?key=txiptv $联通周口郸城
-天津卫视,http://123.12.186.7:9901/tsfile/live/1040_1.m3u8?key=txiptv $联通周口郸城
-重庆卫视,http://123.12.186.7:9901/tsfile/live/1044_1.m3u8?key=txiptv $联通周口郸城
-东南卫视,http://123.12.186.7:9901/tsfile/live/1024_1.m3u8?key=txiptv $联通周口郸城
-甘肃卫视,http://123.12.186.7:9901/tsfile/live/1025_1.m3u8?key=txiptv $联通周口郸城
-广西卫视,http://123.12.186.7:9901/tsfile/live/1026_1.m3u8?key=txiptv $联通周口郸城
-贵州卫视,http://123.12.186.7:9901/tsfile/live/1027_1.m3u8?key=txiptv $联通周口郸城
-河北卫视,http://123.12.186.7:9901/tsfile/live/1029_1.m3u8?key=txiptv $联通周口郸城
-黑龙江卫视,http://123.12.186.7:9901/tsfile/live/1030_1.m3u8?key=txiptv $联通周口郸城
-河南卫视,http://123.12.186.7:9901/tsfile/live/1015_1.m3u8?key=txiptv $联通周口郸城
-湖北卫视,http://123.12.186.7:9901/tsfile/live/1031_1.m3u8?key=txiptv $联通周口郸城
-江西卫视,http://123.12.186.7:9901/tsfile/live/1033_1.m3u8?key=txiptv $联通周口郸城
-吉林卫视,http://123.12.186.7:9901/tsfile/live/1032_1.m3u8?key=txiptv $联通周口郸城
-内蒙古卫视,http://123.12.186.7:9901/tsfile/live/1035_1.m3u8?key=txiptv $联通周口郸城
-宁夏卫视,http://123.12.186.7:9901/tsfile/live/1036_1.m3u8?key=txiptv $联通周口郸城
-山西卫视,http://123.12.186.7:9901/tsfile/live/1038_1.m3u8?key=txiptv $联通周口郸城
-陕西卫视,http://123.12.186.7:9901/tsfile/live/1039_1.m3u8?key=txiptv $联通周口郸城
-四川卫视,http://123.12.186.7:9901/tsfile/live/1050_1.m3u8?key=txiptv $联通周口郸城
-新疆卫视,http://123.12.186.7:9901/tsfile/live/1042_1.m3u8?key=txiptv $联通周口郸城
-云南卫视,http://123.12.186.7:9901/tsfile/live/1043_1.m3u8?key=txiptv $联通周口郸城
-青海卫视,http://123.12.186.7:9901/tsfile/live/1037_1.m3u8?key=txiptv $联通周口郸城
-西藏卫视,http://123.12.186.7:9901/tsfile/live/1041_1.m3u8?key=txiptv $联通周口郸城
-河南新闻频道,http://123.12.186.7:9901/tsfile/live/1049_1.m3u8?key=txiptv $联通周口郸城
-河南公共频道,http://123.12.186.7:9901/tsfile/live/1053_1.m3u8?key=txiptv $联通周口郸城
-河南都市频道,http://123.12.186.7:9901/tsfile/live/1045_1.m3u8?key=txiptv $联通周口郸城
-河南法治频道,http://123.12.186.7:9901/tsfile/live/1046_1.m3u8?key=txiptv $联通周口郸城
-河南梨园频道,http://123.12.186.7:9901/tsfile/live/1048_1.m3u8?key=txiptv $联通周口郸城
-河南电视剧频道,http://123.12.186.7:9901/tsfile/live/1047_1.m3u8?key=txiptv $联通周口郸城
-
 CCTV1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0 $联通广西
 CCTV2,http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0 $联通广西
 CCTV3,http://221.7.175.154:8445/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0 $联通广西
@@ -2419,86 +2385,6 @@ CHC影迷电影,http://zmgd.zyrnet.com:8888/hls/127/index.m3u8 $移动郑州
 CHC动作电影,http://zmgd.zyrnet.com:8888/hls/126/index.m3u8 $移动郑州
 
 央卫咪咕,#genre#
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV3,http://go.bkpcp.top/mg/cctv3
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
-CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV13,http://go.bkpcp.top/mg/cctv13
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17
-CETV1,http://go.bkpcp.top/mg/cetv1
-CETV2,http://go.bkpcp.top/mg/cetv2
-CETV4,http://go.bkpcp.top/mg/cetv4
-重温经典,http://go.bkpcp.top/mg/cwjd
-劲爆体育,http://go.bkpcp.top/mg/jbty
-咪咕体育,http://go.bkpcp.top/mg/mgty
-看东方,http://go.bkpcp.top/mg/xjs
-北京卫视4K,http://go.bkpcp.top/mg/bjws
-东方卫视4K,http://go.bkpcp.top/mg/dfws
-浙江卫视4K,http://go.bkpcp.top/mg/zjws 
-山东卫视4K,http://go.bkpcp.top/mg/sdws
-湖南卫视4K,http://go.bkpcp.top/mg/hunws
-江苏卫视4K,http://go.bkpcp.top/mg/jsws 
-广东卫视,http://go.bkpcp.top/mg/gdws 
-深圳卫视,http://go.bkpcp.top/mg/szws 
-河南卫视,http://go.bkpcp.top/mg/hnws
-江西卫视,http://go.bkpcp.top/mg/jxws 
-湖北卫视,http://go.bkpcp.top/mg/hubws 
-海南卫视,http://go.bkpcp.top/mg/hinws
-陕西卫视,http://go.bkpcp.top/mg/sxws 
-兵团卫视,http://go.bkpcp.top/mg/btws 
-黑龙江卫视,http://go.bkpcp.top/mg/hljws 
-安徽卫视,http://go.bkpcp.top/mg/ahws
-天津卫视,http://go.bkpcp.top/mg/tjws
-辽宁卫视,http://go.bkpcp.top/mg/lnws
-河北卫视,http://go.bkpcp.top/mg/hbws
-重庆卫视,http://go.bkpcp.top/mg/cqws
-贵州卫视,http://go.bkpcp.top/mg/gzws
-吉林卫视,http://go.bkpcp.top/mg/jlws
-四川卫视,http://go.bkpcp.top/mg/scws
-广西卫视,http://go.bkpcp.top/mg/gxws
-山西卫视,http://go.bkpcp.top/mg/sxiws
-云南卫视,http://go.bkpcp.top/mg/ynws
-甘肃卫视,http://go.bkpcp.top/mg/gsws
-宁夏卫视,http://go.bkpcp.top/mg/nxws
-青海卫视,http://go.bkpcp.top/mg/qhws
-新疆卫视,http://go.bkpcp.top/mg/xjws
-西藏卫视,http://go.bkpcp.top/mg/xzws
-内蒙古卫视,http://go.bkpcp.top/mg/nmgws
-东南卫视,http://go.bkpcp.top/mg/dnws
-大湾区卫视,http://go.bkpcp.top/mg/dwqws
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
-CHC动作电影,http://go.bkpcp.top/mg/dzyy
-CHC影迷电影,http://go.bkpcp.top/mg/ymdy
-嘉佳卡通,http://go.bkpcp.top/mg/jjkt
-卡酷少儿,http://go.bkpcp.top/mg/kkse
-广东少儿,http://go.bkpcp.top/mg/gdse
-金鹰卡通,http://go.bkpcp.top/mg/jykt
-南方影视,http://go.bkpcp.top/mg/nfys
-财富天下,http://go.bkpcp.top/mg/cftx
-经典动画,http://go.bkpcp.top/mg/dhjh
-广东影视,http://go.bkpcp.top/mg/gdys
-凤凰中文,http://go.bkpcp.top/mg/fhzw
-凤凰资讯,http://go.bkpcp.top/mg/fhzx
-凤凰香港,http://go.bkpcp.top/mg/fhhk
-Now新闻台,http://go.bkpcp.top/mg/now
-TVB Plus,http://go.bkpcp.top/mg/tvb
-澳视澳门,http://go.bkpcp.top/mg/aomen
-翡翠台,http://go.bkpcp.top/mg/翡翠台
-
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
@@ -2673,6 +2559,86 @@ TVB Plus,http://m.061899.xyz/mg/tvb
 澳视澳门,http://m.061899.xyz/mg/aomen
 翡翠台,http://m.061899.xyz/mg/翡翠台
 
+CCTV1,http://go.bkpcp.top/mg/cctv1
+CCTV2,http://go.bkpcp.top/mg/cctv2
+CCTV3,http://go.bkpcp.top/mg/cctv3
+CCTV4,http://go.bkpcp.top/mg/cctv4
+CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
+CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
+CCTV5,http://go.bkpcp.top/mg/cctv5
+CCTV5+,http://go.bkpcp.top/mg/cctv5p
+CCTV6,http://go.bkpcp.top/mg/cctv6
+CCTV7,http://go.bkpcp.top/mg/cctv7
+CCTV8,http://go.bkpcp.top/mg/cctv8
+CCTV9,http://go.bkpcp.top/mg/cctv9
+CCTV10,http://go.bkpcp.top/mg/cctv10
+CCTV11,http://go.bkpcp.top/mg/cctv11
+CCTV12,http://go.bkpcp.top/mg/cctv12
+CCTV13,http://go.bkpcp.top/mg/cctv13
+CCTV14,http://go.bkpcp.top/mg/cctv14
+CCTV15,http://go.bkpcp.top/mg/cctv15
+CCTV16,http://go.bkpcp.top/mg/cctv16
+CCTV17,http://go.bkpcp.top/mg/cctv17
+CETV1,http://go.bkpcp.top/mg/cetv1
+CETV2,http://go.bkpcp.top/mg/cetv2
+CETV4,http://go.bkpcp.top/mg/cetv4
+重温经典,http://go.bkpcp.top/mg/cwjd
+劲爆体育,http://go.bkpcp.top/mg/jbty
+咪咕体育,http://go.bkpcp.top/mg/mgty
+看东方,http://go.bkpcp.top/mg/xjs
+北京卫视4K,http://go.bkpcp.top/mg/bjws
+东方卫视4K,http://go.bkpcp.top/mg/dfws
+浙江卫视4K,http://go.bkpcp.top/mg/zjws 
+山东卫视4K,http://go.bkpcp.top/mg/sdws
+湖南卫视4K,http://go.bkpcp.top/mg/hunws
+江苏卫视4K,http://go.bkpcp.top/mg/jsws 
+广东卫视,http://go.bkpcp.top/mg/gdws 
+深圳卫视,http://go.bkpcp.top/mg/szws 
+河南卫视,http://go.bkpcp.top/mg/hnws
+江西卫视,http://go.bkpcp.top/mg/jxws 
+湖北卫视,http://go.bkpcp.top/mg/hubws 
+海南卫视,http://go.bkpcp.top/mg/hinws
+陕西卫视,http://go.bkpcp.top/mg/sxws 
+兵团卫视,http://go.bkpcp.top/mg/btws 
+黑龙江卫视,http://go.bkpcp.top/mg/hljws 
+安徽卫视,http://go.bkpcp.top/mg/ahws
+天津卫视,http://go.bkpcp.top/mg/tjws
+辽宁卫视,http://go.bkpcp.top/mg/lnws
+河北卫视,http://go.bkpcp.top/mg/hbws
+重庆卫视,http://go.bkpcp.top/mg/cqws
+贵州卫视,http://go.bkpcp.top/mg/gzws
+吉林卫视,http://go.bkpcp.top/mg/jlws
+四川卫视,http://go.bkpcp.top/mg/scws
+广西卫视,http://go.bkpcp.top/mg/gxws
+山西卫视,http://go.bkpcp.top/mg/sxiws
+云南卫视,http://go.bkpcp.top/mg/ynws
+甘肃卫视,http://go.bkpcp.top/mg/gsws
+宁夏卫视,http://go.bkpcp.top/mg/nxws
+青海卫视,http://go.bkpcp.top/mg/qhws
+新疆卫视,http://go.bkpcp.top/mg/xjws
+西藏卫视,http://go.bkpcp.top/mg/xzws
+内蒙古卫视,http://go.bkpcp.top/mg/nmgws
+东南卫视,http://go.bkpcp.top/mg/dnws
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+CHC动作电影,http://go.bkpcp.top/mg/dzyy
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+嘉佳卡通,http://go.bkpcp.top/mg/jjkt
+卡酷少儿,http://go.bkpcp.top/mg/kkse
+广东少儿,http://go.bkpcp.top/mg/gdse
+金鹰卡通,http://go.bkpcp.top/mg/jykt
+南方影视,http://go.bkpcp.top/mg/nfys
+财富天下,http://go.bkpcp.top/mg/cftx
+经典动画,http://go.bkpcp.top/mg/dhjh
+广东影视,http://go.bkpcp.top/mg/gdys
+凤凰中文,http://go.bkpcp.top/mg/fhzw
+凤凰资讯,http://go.bkpcp.top/mg/fhzx
+凤凰香港,http://go.bkpcp.top/mg/fhhk
+Now新闻台,http://go.bkpcp.top/mg/now
+TVB Plus,http://go.bkpcp.top/mg/tvb
+澳视澳门,http://go.bkpcp.top/mg/aomen
+翡翠台,http://go.bkpcp.top/mg/翡翠台
+
 4K超高清,#genre#
 河南卫视4K,http://lysj.aylzline.top:8899/rtp/225.1.2.237:11530
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
@@ -2697,9 +2663,10 @@ TVB Plus,http://m.061899.xyz/mg/tvb
 山东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140
 山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8 
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4K,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-苏州4K,http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 苏州4K,http://tylive.kan0512.com/norecord/csztv4k_fhd.m3u8
+苏州4K,http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 苏州4K,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u8
 南国都市4K,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4 
 南国都市4K,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de

@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年10月3日17点30分,https://
+2026年10月4日17点30分,https://
 联通广东梅州,#genre#
 CCTV1,http://112.92.129.96:9898/hls/18/index.m3u8 $联通广东梅州
 CCTV2,http://112.92.129.96:9898/hls/19/index.m3u8 $联通广东梅州
@@ -2648,13 +2648,18 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰资讯,http://47.242.63.189:2100/zhao1234.php?id=2&s=1 $乡村电视
 凤凰香港,http://47.242.63.189:2100/zhao1234.php?id=3&s=1 $乡村电视
 
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8
-凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
-凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.m3u8 $泰国曼谷腾讯云
+凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8 $泰国曼谷腾讯云
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8 $泰国曼谷腾讯云
 
-凤凰中文,http://sttv.lian3388.fun:3000/fengshows-chinese.flv
-凤凰资讯,http://sttv.lian3388.fun:3000/fengshows-info.flv
-凤凰香港,http://sttv.lian3388.fun:3000/fengshows-hongkong.flv
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8 $美国密苏里州堪萨斯城
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8 $美国密苏里州堪萨斯城
+凤凰香港,http://173.208.234.146/live/fhxg.m3u8 $美国密苏里州堪萨斯城
+
+
+凤凰中文,http://sttv.lian3388.fun:3000/fengshows-chinese.flv $广州腾讯云
+凤凰资讯,http://sttv.lian3388.fun:3000/fengshows-info.flv $广州腾讯云
+凤凰香港,http://sttv.lian3388.fun:3000/fengshows-hongkong.flv $广州腾讯云
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8 $移动郑州
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8 $移动郑州
@@ -2704,13 +2709,13 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8 $电信武汉
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8 $电信武汉
 
-凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8 $联通山东青岛
+凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8 $联通山东青岛
+凤凰香港,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8 $联通山东青岛
 
-凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
-凤凰中文,http://ccav.zone.id/php/fh.php?id=2
-凤凰香港,http://ccav.zone.id/php/fh.php?id=3
+凤凰资讯,http://ccav.zone.id/php/fh.php?id=1 $韩国江原道480P
+凤凰中文,http://ccav.zone.id/php/fh.php?id=2 $韩国江原道480P
+凤凰香港,http://ccav.zone.id/php/fh.php?id=3 $韩国江原道480P
 
 来源：720P js源
 凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzw $720P js

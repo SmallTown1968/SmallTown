@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年10月4日17点30分,https://
+2026年10月7日17点30分,https://
 联通广东梅州,#genre#
 CCTV1,http://112.92.129.96:9898/hls/18/index.m3u8 $联通广东梅州
 CCTV2,http://112.92.129.96:9898/hls/19/index.m3u8 $联通广东梅州
@@ -1067,6 +1067,8 @@ CCTV央视台球,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch000000909900
 河南梨园频道,http://1.94.31.214/php/hntv.php?id=hnly $华为云上海
 
 CCTV13,http://cfss.cc/cdn/dy/cctv_video.flv $抖音小央视频
+
+CCTV1,http://149.88.74.169:89/cctv/cntv.php?id=1 $乡村电视
 
 CCTV1,http://47.242.63.189:2100/zhao1234.php?id=15&s=8 $乡村电视
 CCTV2,http://47.242.63.189:2100/zhao1234.php?id=16&s=8 $乡村电视

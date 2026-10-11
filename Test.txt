@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年10月9日17点30分,https://
+2026年10月11日17点30分,https://
 联通广东梅州,#genre#
 CCTV1,http://112.92.129.96:9898/hls/18/index.m3u8 $联通广东梅州
 CCTV2,http://112.92.129.96:9898/hls/19/index.m3u8 $联通广东梅州
@@ -2608,6 +2608,16 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 翡翠台,http://go.bkpcp.top/mg/翡翠台
 
 4K超高清,#genre#
+江苏卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.61:8000
+北京卫视4K,http://xurishangcheng.top:10888/udp/239.49.0.42:8000
+浙江卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.63:8000
+广东卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.24:8000
+深圳卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.27:8000
+四川卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.65:8000
+湖南卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.67:8000
+东方卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.69:8000
+山东卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.71:8000
+
 河南卫视4K,http://lysj.aylzline.top:8899/rtp/225.1.2.237:11530
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8

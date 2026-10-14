@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年10月11日17点30分,https://
+2026年10月14日17点30分,https://
 北京IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-2 财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?

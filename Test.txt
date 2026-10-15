@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年10月14日17点30分,https://
+2026年10月15日17点30分,https://
 北京IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-2 财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
@@ -2676,6 +2676,10 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 港台卫视,#genre#
+凤凰中文,http://183.239.248.218:8181/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0 $移动广东湛江
+凤凰资讯,http://183.239.248.218:8181/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0 $移动广东湛江
+凤凰香港,http://183.239.248.218:8181/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0 $移动广东湛江
+
 凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8 $移动郑州
 凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8 $移动郑州
 

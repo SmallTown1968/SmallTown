@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年10月28日17点30分,https://
+2026年10月29日17点30分,https://
 电信广东深圳,#genre#
 CCTV1,http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://113.90.154.189:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1429,8 +1429,10 @@ CCTV13,http://192.151.150.154/live/cctv13hd.m3u8 $美国密苏里州堪萨斯城
 CCTV14,http://192.151.150.154/live/cctv14hd.m3u8 $美国密苏里州堪萨斯城
 CCTV15,http://192.151.150.154/live/cctv15hd.m3u8 $美国密苏里州堪萨斯城
 CCTV16,http://192.151.150.154/live/cctv16hd.m3u8 $美国密苏里州堪萨斯城
+CCTV16-4k,http://192.151.150.154/live/cctv164k.m3u8 $美国密苏里州堪萨斯城
 CCTV17,http://192.151.150.154/live/cctv17hd.m3u8 $美国密苏里州堪萨斯城
 CCTV4K,http://192.151.150.154/live/cctv4k.m3u8 $美国密苏里州堪萨斯城
+CCTV4K,http://192.151.150.154/live/cctv4ka.m3u8 $美国密苏里州堪萨斯城
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8 $美国密苏里州堪萨斯城
 CETV1,http://192.151.150.154/live/cetv1.m3u8 $美国密苏里州堪萨斯城
 CETV2,http://192.151.150.154/live/cetv2.m3u8 $美国密苏里州堪萨斯城
@@ -2633,6 +2635,17 @@ TVB Plus,http://go.bkpcp.top/mg/tvb
 翡翠台,http://go.bkpcp.top/mg/翡翠台
 
 4K超高清,#genre#
+CCTV4K,http://192.187.124.34:81/live/cctv4ka.m3u8 $美国密苏里州堪萨斯城
+CCTV16-4K,http://192.187.124.34:81/live/cctv164k.m3u8 $美国密苏里州堪萨斯城
+湖南卫视4K,http://192.187.124.34:81/live/hnws4k.m3u8 $美国密苏里州堪萨斯城
+深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8 $美国密苏里州堪萨斯城
+江苏卫视4K,http://192.187.124.34:81/live/jsws4k.m3u8 $美国密苏里州堪萨斯城
+浙江卫视4K,http://192.187.124.34:81/live/zjws4k.m3u8 $美国密苏里州堪萨斯城
+四川卫视4K,http://192.187.124.34:81/live/scws4k.m3u8 $美国密苏里州堪萨斯城
+山东卫视4K,http://192.187.124.34:81/live/sdws4k.m3u8 $美国密苏里州堪萨斯城
+东方卫视4K,http://192.187.124.34:81/live/dfws4k.m3u8 $美国密苏里州堪萨斯城
+广东卫视4K,http://192.187.124.34:81/live/gdws4k.m3u8 $美国密苏里州堪萨斯城
+
 江苏卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.61:8000
 北京卫视4K,http://xurishangcheng.top:10888/udp/239.49.0.42:8000
 浙江卫视4K,http://xurishangcheng.top:10888/udp/239.49.1.63:8000

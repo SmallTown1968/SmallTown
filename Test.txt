@@ -5,8 +5,8 @@ CCTV-1综合,https://a8.061899.xyz/mg/cctv1
 CCTV-2财经,https://a8.061899.xyz/mg/cctv2
 CCTV-3综艺,https://a8.061899.xyz/mg/cctv3
 CCTV-4中文国际,https://a8.061899.xyz/mg/cctv4
-CCTV-4美洲,https://a8.061899.xyz/mg/cctv4m
-CCTV-4欧洲,https://a8.061899.xyz/mg/cctv4o
+CCTV-4中文国际美洲,https://a8.061899.xyz/mg/cctv4m
+CCTV-4中文国际欧洲,https://a8.061899.xyz/mg/cctv4o
 CCTV-5体育,https://a8.061899.xyz/mg/cctv5
 CCTV-5+体育赛事,https://a8.061899.xyz/mg/cctv5p
 CCTV-6电影,https://a8.061899.xyz/mg/cctv6

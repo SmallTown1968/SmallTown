@@ -7,8 +7,8 @@ CCTV-3综艺,https://a8.061899.xyz/mg/cctv3
 CCTV-4中文国际,https://a8.061899.xyz/mg/cctv4
 CCTV-4美洲,https://a8.061899.xyz/mg/cctv4m
 CCTV-4欧洲,https://a8.061899.xyz/mg/cctv4o
-CCTV-5体 育,https://a8.061899.xyz/mg/cctv5
-CCTV-5+体 育赛事,https://a8.061899.xyz/mg/cctv5p
+CCTV-5体育,https://a8.061899.xyz/mg/cctv5
+CCTV-5+体育赛事,https://a8.061899.xyz/mg/cctv5p
 CCTV-6电影,https://a8.061899.xyz/mg/cctv6
 CCTV-7国防军事,https://a8.061899.xyz/mg/cctv7
 CCTV-8电视剧,https://a8.061899.xyz/mg/cctv8
@@ -19,33 +19,31 @@ CCTV-12社会与法,https://a8.061899.xyz/mg/cctv12
 CCTV-13新闻,https://a8.061899.xyz/mg/cctv13
 CCTV-14少儿,https://a8.061899.xyz/mg/cctv14
 CCTV-15音乐,https://a8.061899.xyz/mg/cctv15
-CCTV-16奥运,https://a8.061899.xyz/mg/cctv16
+CCTV-16奥林匹克,https://a8.061899.xyz/mg/cctv16
 CCTV-17农业农村,https://a8.061899.xyz/mg/cctv17
-CHC影迷电影,https://a8.061899.xyz/mg/ymdy
 CCTV发现之旅,https://a8.061899.xyz/mg/fxzl
 CCTV中学生,https://a8.061899.xyz/mg/zxs
 CCTV老故事,https://a8.061899.xyz/mg/lgs
-CETV 1 中国教育,https://a8.061899.xyz/mg/cetv1
-CETV 2 中国教育,https://a8.061899.xyz/mg/cetv2
-CETV 4 中国教育,https://a8.061899.xyz/mg/cetv4
-广东珠江,https://a8.061899.xyz/mg/gdzj
-浙江卫视,https://a8.061899.xyz/mg/zjws
-广东卫视,https://a8.061899.xyz/mg/gdws
-江苏卫视,https://a8.061899.xyz/mg/jsws
+CETV1,https://a8.061899.xyz/mg/cetv1
+CETV2,https://a8.061899.xyz/mg/cetv2
+CETV4,https://a8.061899.xyz/mg/cetv4
+CHC影迷电影,https://a8.061899.xyz/mg/ymdy
+北京卫视,https://a8.061899.xyz/mg/bjws
 东方卫视,https://a8.061899.xyz/mg/dfws
+天津卫视,https://a8.061899.xyz/mg/tjws
+重庆卫视,https://a8.061899.xyz/mg/cqws
+河南卫视,https://a8.061899.xyz/mg/hnws
+湖南卫视,https://a8.061899.xyz/mg/hunws
+江苏卫视,https://a8.061899.xyz/mg/jsws
+浙江卫视,https://a8.061899.xyz/mg/zjws
+东南卫视,https://a8.061899.xyz/mg/dnws
+广东卫视,https://a8.061899.xyz/mg/gdws
 陕西卫视,https://a8.061899.xyz/mg/sxws
 江西卫视,https://a8.061899.xyz/mg/jxws
 湖北卫视,https://a8.061899.xyz/mg/hubws
 吉林卫视,https://a8.061899.xyz/mg/jlws
 青海卫视,https://a8.061899.xyz/mg/qhws
-河南卫视,https://a8.061899.xyz/mg/hnws
-东南卫视,https://a8.061899.xyz/mg/dnws
-大湾区卫视,https://a8.061899.xyz/mg/dwqws
 海南卫视,https://a8.061899.xyz/mg/hinws
-湖南卫视,https://a8.061899.xyz/mg/hunws
-北京卫视,https://a8.061899.xyz/mg/bjws
-天津卫视,https://a8.061899.xyz/mg/tjws
-重庆卫视,https://a8.061899.xyz/mg/cqws
 黑龙江卫视,https://a8.061899.xyz/mg/hljws
 辽宁卫视,https://a8.061899.xyz/mg/lnws
 内蒙古卫视,https://a8.061899.xyz/mg/nmgws
@@ -61,10 +59,12 @@ CETV 4 中国教育,https://a8.061899.xyz/mg/cetv4
 四川卫视,https://a8.061899.xyz/mg/scws
 新疆卫视,https://a8.061899.xyz/mg/xjws
 西藏卫视,https://a8.061899.xyz/mg/xzws
+兵团卫视,https://a8.061899.xyz/mg/btws
 重温经典,https://a8.061899.xyz/mg/cwjd
 广东影视,https://a8.061899.xyz/mg/gdys
-兵团卫视,https://a8.061899.xyz/mg/btws
-上海五星体 育,https://a8.061899.xyz/mg/wxty
+广东珠江,https://a8.061899.xyz/mg/gdzj
+大湾区卫视,https://a8.061899.xyz/mg/dwqws
+上海五星体育,https://a8.061899.xyz/mg/wxty
 上海新闻综合,https://a8.061899.xyz/mg/shxw
 上海东方影视,https://a8.061899.xyz/mg/shys
 上海第一财经,https://a8.061899.xyz/mg/dycj

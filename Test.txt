@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年11月3日17点00分,https://
+2026年11月2日17点00分,https://
 播放器能播,#genre#
 CCTV-1综合,https://a8.061899.xyz/mg/cctv1
 CCTV-2财经,https://a8.061899.xyz/mg/cctv2
@@ -29,7 +29,7 @@ CETV2,https://a8.061899.xyz/mg/cetv2
 CETV4,https://a8.061899.xyz/mg/cetv4
 CHC影迷电影,https://a8.061899.xyz/mg/ymdy
 CHC家庭影院,https://a8.061899.xyz/mg/jtyy
-CHC动作电影,https://a8.061899.xyz/mg/dzdy
+CHC动作电影,https://a8.061899.xyz/mg/dzyy
 北京卫视,https://a8.061899.xyz/mg/bjws
 东方卫视,https://a8.061899.xyz/mg/dfws
 天津卫视,https://a8.061899.xyz/mg/tjws

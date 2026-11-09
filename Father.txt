@@ -1,5 +1,5 @@
 个人精选,#genre#
-2026年11月8日更新
+2026年11月9日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -23,13 +23,15 @@
 平顶山城市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226388/index.m3u8
 平顶山城市频道,http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d
 平顶山城市频道,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8?wsSecret=124659e7a7c900597eb893cd1cb2cafa&wsTime=1711012552
+舞阳县新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226902/index.m3u8?icpid=88888888&servicetype=1
 舞阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+沁阳综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
 沁阳综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227239/index.m3u8
-河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
+河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
 三沙卫视,https://srs.ssws.tv:443/video/SSTV/index.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
@@ -45,9 +47,9 @@
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
 
-凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码 $720P 凤凰秀
-凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码 $720P 凤凰秀
-凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码 $720P 凤凰秀
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码 $720P凤凰秀
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码 $720P凤凰秀
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码 $720P凤凰秀
 
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.m3u8 $泰国曼谷腾讯云
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8 $泰国曼谷腾讯云
@@ -146,7 +148,6 @@ CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
-
 CCTV兵器科技,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227485/index.m3u8
 CCTV风云足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
 CCTV第一剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227498/index.m3u8
@@ -162,5 +163,5 @@ CCTV央视文化精品,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221
 CHC家庭影院,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
 CHC动作电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
 CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
-
+北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
 北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8

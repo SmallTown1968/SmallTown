@@ -1,5 +1,5 @@
 个人精选,#genre#
-2026年11月9日更新
+2026年11月18日更新
 舞钢市新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢市新闻综合,http://live.dxhmt.cn:9080/13937510433/1fd30c3556cd401089d087167a7879fe.m3u8
@@ -47,21 +47,16 @@
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
 
+凤凰中文,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140 $浙江联通
+凤凰资讯,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140 $浙江联通
+
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8 $电信武汉
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8 $电信武汉
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8 $电信武汉
+
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码 $720P凤凰秀
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码 $720P凤凰秀
 凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码 $720P凤凰秀
-
-凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.m3u8 $泰国曼谷腾讯云
-凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8 $泰国曼谷腾讯云
-凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8 $泰国曼谷腾讯云
-
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8 $美国密苏里州堪萨斯城
-凤凰资讯,http://173.208.234.146/live/fhzx.m3u8 $美国密苏里州堪萨斯城
-凤凰香港,http://173.208.234.146/live/fhxg.m3u8 $美国密苏里州堪萨斯城
-
-凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzw $480P js
-凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhzx $480P js
-凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/fenghuangxiu.js?id=fhhk $480P js
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?_=1738761957201

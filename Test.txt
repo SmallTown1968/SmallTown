@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026年11月8日17点00分,https://
+2026年11月19日17点00分,https://
 河南移动,#genre#
 CCTV1,https://10694.kstore.space/k-web/ku9/py/live/ku9/p.py?ip=http://183.204.3.142:17981&u=http://39.134.234.13:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 CCTV2,https://10694.kstore.space/k-web/ku9/py/live/ku9/p.py?ip=http://183.204.3.142:17981&u=http://39.134.234.8:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?fmt=ts2hls
@@ -3489,6 +3489,10 @@ CCTV16-4K,http://192.187.124.34:81/live/cctv164k.m3u8 $美国密苏里州堪萨�
 来源：https://show.188766.xyz/，生成通用订阅链接https://bc.188766.xyz/?ip=，下载，改名m3u，转txt
 
 港台卫视,#genre#
+凤凰中文,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476959.m3u8 $泛播
+凤凰资讯,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476958.m3u8 $泛播
+凤凰香港,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476960.m3u8 $泛播
+
 凤凰中文,http://hzzzz530.com:4022/rtp/239.69.2.20:11274 $湖北电信
 凤凰资讯,http://hzzzz530.com:4022/rtp/239.69.2.19:11268 $湖北电信
 凤凰中文,http://www.3872327.top:1225/rtp/239.69.2.20:11274 $湖北电信

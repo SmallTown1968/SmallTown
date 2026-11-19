@@ -1,4 +1,4 @@
-2026年10月27日更新
+2026年11月19日更新
 直播源整理：https://jianhancloud.cn/888666/%E7%9B%B4%E6%92%AD%E6%95%B4%E7%90%86.html
 直播源互转换：https://jianhancloud.cn/888666/txtm3u.html
 TXT互转m3u ：https://jianhancloud.cn/888666/txtm3.html
@@ -1102,6 +1102,10 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 卫视频道V4,#genre#
+凤凰中文,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476959.m3u8 $泛播
+凤凰资讯,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476958.m3u8 $泛播
+凤凰香港,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476960.m3u8 $泛播
+
 凤凰中文,http://t.061899.xyz/tl/fhx.php?id=fhzw $720P
 凤凰资讯,http://t.061899.xyz/tl/fhx.php?id=fhzx $720P
 凤凰香港,http://t.061899.xyz/tl/fhx.php?id=fhhk $720P
